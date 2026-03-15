@@ -1,0 +1,40 @@
+{
+  "release_id": "REL-YYYYMMDD-HHMMSS",
+  "created_at": "",
+  "schema_version": "1.0.0",
+  "status": "building",
+  "exporters": [],
+  "description": "发布说明",
+  "knowledge_layers": {
+    "l1": {
+      "count": 0,
+      "path": "l1/"
+    },
+    "l2": {
+      "count": 0,
+      "path": "l2/"
+    },
+    "l3": {
+      "count": 0,
+      "path": "l3/"
+    },
+    "l4": {
+      "count": 0,
+      "path": "l4/"
+    }
+  },
+  "consumers": {
+    "v2": {
+      "path": "consumers/v2/",
+      "ready": false
+    },
+    "xiakedao": {
+      "path": "consumers/xiakedao/",
+      "ready": false
+    }
+  },
+  "lineage": {
+    "source_release": null,
+    "migration_batch": null
+  }
+}
