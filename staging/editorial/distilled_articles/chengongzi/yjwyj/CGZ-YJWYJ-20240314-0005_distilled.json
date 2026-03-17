@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YJWYJ-20240314-0005",
+  "normalized_title": "全球首个「PD-1 vs PD-1」 头对头研究完整数据公布！为何mOS相差巨大？",
+  "one_paragraph_essence": "作者 | 辰公子 审核 | 涟濯 来源 | 医界望远镜 截止2024年3月12日，在中国获批上市的PD-1抑制剂已达10款之多。 众多PD-1抑制剂为广大肿瘤患者提供了丰富的免疫治疗选择。同时，也有很多PD-1抑制剂在同类型的癌种里进行了各自的探索，对这些患者来说，不同PD-1抑制剂之间的比较是非常重要的。但遗憾的是，目前仍未有PD-1抑制剂之间头对头比较的大型临床研究结果公布。 2020年，广东省人民医院吴一龙教授团队启动II期临床试验CTONG1901研究，这是全球首个「PD-1 vs PD-1」的头对头研究，旨在比较信迪利单抗和帕博利珠单抗一线治疗NSCLC的疗效与安全性。 2022 ",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 | 涟濯\n来源 | 医界望远镜",
+    "supporting_points": [
+      "截止2024年3月12日，在中国获批上市的PD-1抑制剂已达10款之多。\n众多PD-1抑制剂为广大肿瘤患者提供了丰富的免疫治疗选择。同时，也有很多PD-1抑制剂在同类型的癌种里进行了各自的探索，对这些...",
+      "CTONG1901是一项前瞻性、开放标签、II期随机对照临床试验（NCT04252365）[1]。\n根据PD-L1 表达评分进行分组，PD-L1高表达（TPS≥50%）的患者，采用单药治疗方案，分别给..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "50%",
+        "50%",
+        "mOS差？\n\n两个阶段共 80"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "若信迪利单抗组的客观缓解率（ORR）达到预设标准（40%），则继续进入第二阶段并进一步扩大样本量。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "信迪利单抗组的 ORR 为 57.1%，帕博利珠单抗为 33.3%，该研究进入第二阶段。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在信迪利单抗治疗的所有患者中，若达到至少15例患者确认的完全缓解（CR）或部分缓解（PR），或者信迪利单抗组（单药和联合治疗组合并，即A组+C组）的确认ORR达到44.1%以上，则视为达到主要终点。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n研究结果\n如何理解近50%的mOS差？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nDCR方面，A 组vs B组 = 84.6% vs 100%；C组vs D组 = 86.4% vs 86.4%；A+C组 vs B+D组 = 85.7% vs 91.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240314-0005.json",
+    "original_url": "https://mp.weixin.qq.com/s/r8A1EPPOJ4sPakq7ckdgaQ",
+    "publish_time": "2024-03-14",
+    "distilled_at": "2026-03-17T10:47:59.170587"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "article_id": "CGZ-YJWYJ-20241006-0036",
+  "normalized_title": "司美格鲁肽要拿「诺贝尔奖」了吗？明天下午，直击诺奖开奖时刻……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 诺贝尔奖很少是科学家们获得的第一个奖，一般都是在功成名就、荣誉等身后，才获得诺奖加冕。 在过去百年时间里，科学的学科发展枝繁叶茂，原本设立的三门自然科学相关的诺奖已经衍生出了几十甚至上百种亚学科，并诞生出无数改变人类命运的成果，导致诺奖的悬念逐年增加。 因此，每年的十月，围绕诺奖展开的话题都能引得无数行业内外的关注。 北京时间10月7日17:30，今年的首个诺奖就将揭晓，首个登场的依旧是诺贝尔生理或医学奖。 相信我们的读者大部分都没有获得过诺奖，也不大会去现场，所以今年医界望远镜特别开设直播，直击开奖时刻。看看已有的临床成果能否成功获得诺奖",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "诺贝尔奖很少是科学家们获得的第一个奖，一般都是在功成名就、荣誉等身后，才获得诺奖加冕。\n在过去百年时间里，科学的学科发展枝繁叶茂，原本设立的三门自然科学相关的诺奖已经衍生出了几十甚至上百种亚学科，并诞...",
+      "与往年相比，今年的诺贝尔生理或医学奖格外引人瞩目，这与GLP-1的加持分不开。在过去几年里，GLP-1领域的代表药物司美格鲁肽、替尔泊肽以及即将上市的玛仕度肽彻底点燃了寂静已久的慢病代谢领域。\nGLP..."
+    ],
+    "conclusion_hook": "可以说，GLP-1几乎锁定了诺贝尔生理或医学奖。\n但，应该不是今年。\n\n诺奖的门道\n\n除了GLP-1之外，AI预测蛋白质折叠、华人科学家陈志坚教授参与发现的cGAS-STING信号通路、治愈白血病的C"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便在成药之后，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241006-0036.json",
+    "original_url": "https://mp.weixin.qq.com/s/cQSOMlV4SOlYuNW9ybP1Sw",
+    "publish_time": "2024-10-06",
+    "distilled_at": "2026-03-17T10:47:59.831492"
+  }
+}

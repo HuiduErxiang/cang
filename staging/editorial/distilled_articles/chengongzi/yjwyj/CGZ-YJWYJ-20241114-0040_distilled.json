@@ -1,0 +1,106 @@
+{
+  "article_id": "CGZ-YJWYJ-20241114-0040",
+  "normalized_title": "6亿慢病患者，等待一个国产巨头……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 在恩朗苏拜单抗获批上市后，国内已有PD-1/L1单抗药物的数量突破20大关。 同一个组靶点，20款创新药，多么不可思议。 纵观医药发展史，鲜有能容纳如此多竞争者的赛道，而这样的赛道与中国创新药产业起步的时间窗口重合，更是百年难遇。这促成了中国Biotech百花齐放的时代奇景，但同时，也导致创新药企们聚集在了肿瘤领域。 站在更长的时间维度看，抗肿瘤药搅动风云是近十余年的主旋律，而在此之前的几十年里，心血管代谢这样的慢病才是主流赛道。 于是我们看到了一个诡异的现象：拥有全球第二大在研新药数量和全球最大慢病患者数量的中国，竟没有原研的降脂、抗凝、",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "在恩朗苏拜单抗获批上市后，国内已有PD-1/L1单抗药物的数量突破20大关。\n同一个组靶点，20款创新药，多么不可思议。\n纵观医药发展史，鲜有能容纳如此多竞争者的赛道，而这样的赛道与中国创新药产业起步...",
+      "如果要在21世纪找一个心血管领域极具潜力的革命性靶点， PCSK9一定首当其冲。\n人类与血脂的对抗已经持续了一个多世纪，早在1910年胆固醇与冠心病之间联系便被揭开，45年后，低密度脂蛋白（LDL）被..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "6%",
+        "50%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是全球创新药市场上的竞争如此激烈，诺和诺德与礼来两大糖尿病巨头的领先也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n他汀类药物的出现带来了心血管疾病管理的革命，但由于“6%原则”的存在，血脂降幅存在边际效应，LDL-C降幅很难突破50%，无法逆转动脉粥样硬化斑块。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n人血浆中65%-70%的LDL-C依赖肝脏表面的LDL受体（LDL-R）清除，PCSK9会与LDL-R结合并诱发其降解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n研究结果显示，杂合子家族性高胆固醇血症（HeFH）患者接受托莱西治疗12周后，与安慰剂相比，LDL-C水平较基线变化−57.4%至&nbsp;−61.9%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而在2024 ESAD上，玛仕度肽16mg剂量的I期临床结果公布，20周可减重达到21%，相较同类产品有显著优势。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "GLORY-1研究中，在基线肝脏脂肪含量（LFC）≥10%的患者接受玛仕度肽6 mg治疗48周后，LFC较基线平均降幅达80.2%，实现了 “燃脂护肝”。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241114-0040.json",
+    "original_url": "https://mp.weixin.qq.com/s/i4avMF4S5KUmGC3Jkp2gyQ",
+    "publish_time": "2024-11-14",
+    "distilled_at": "2026-03-17T10:47:59.928526"
+  }
+}

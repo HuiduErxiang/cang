@@ -1,0 +1,89 @@
+{
+  "article_id": "CGZ-YSD-20220815-0039",
+  "normalized_title": "Seagen终审败诉，默沙东恐成赢家？",
+  "one_paragraph_essence": "正文共：2292字 2图 预计阅读时间： 9分钟 对于第一三共和阿斯利康来说，过去的一周是在太顺了。 重磅ADC药物Enhertu（即：DS-8201）不仅在6天里连续获批两个适应症，连沉积已久的，和Seagen的侵权案都得到了判决——有利判决。 案件的原告、被告Seagen和第一三共分别在8月12日、13日发布了公告，公布了仲裁结果。 Seagen发布内容比较简单，只是提了一下第一三共胜诉的结果，并表示“尽管对仲裁结果感到失望，但他们仍会继续努力，通过4款商业化产品和正在开发的有前景的产品推动增长，持续为癌症患者做新药、做好药。” 第一三共的内容稍多一些，介绍了诉讼的来龙去脉，说明了仲...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：2292字&nbsp;2图\n预计阅读时间：&nbsp;9分钟",
+    "supporting_points": [
+      "重磅ADC药物Enhertu（即：DS-8201）不仅在6天里连续获批两个适应症，连沉积已久的，和Seagen的侵权案都得到了判决——有利判决。\n案件的原告、被告Seagen和第一三共分别在8月12日..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "69亿美元",
+        "400亿美元",
+        "69亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "我们知道，那一年里Enhertu强势崛起，第一三共还与阿斯利康就Enhertu签订了69亿美元的授权协议，3月签署的协议，11月就被Seagen告了。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220815-0039.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247962016&idx=1&sn=be013d2322bd94b6b41762a54242ff32&chksm=ecb87546dbcffc50232d3796c75fbca74fa90a50ac334b9f34c9a31bb52eaff89f14d92d27a0#rd",
+    "publish_time": "2022-08-15",
+    "distilled_at": "2026-03-17T10:56:04.437699"
+  }
+}

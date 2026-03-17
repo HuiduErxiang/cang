@@ -1,0 +1,116 @@
+{
+  "article_id": "CGZ-YSD-20210815-0014",
+  "normalized_title": "张文宏为什么要被炮轰？“共存”、“清零”一回事，从70年前的著作看“抗疫战争”",
+  "one_paragraph_essence": "论专业，张文宏无疑是中国最了解新冠病毒的人之一； 论贡献，作为防疫政策制定者之一，参与主持上海防疫以来，面对巨大的境外输入压力，上海从没封过城，也没有做过全城核酸，最大程度上保障了防疫与经济生活的平衡统一； 论实力，外松内紧、流调清晰，做到了“瓷器店里打老鼠”的精准防控； 论个性，“党员先上”、“不能欺负老实人”、“把病毒闷死”等金句频出，极大鼓舞了人民群众的士气。 这样一个德智体美劳全面发展的“抗疫模范先锋”，居然仅仅因为说了一句“与病毒共存”就被炮轰，掀起滔天巨浪，值得让人深思。 在这里不对当事人做过多评论，张文宏与高强的观点都是言之有物，客观积极的，应当批判的是那些断章取义，不懂装...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "论专业，张文宏无疑是中国最了解新冠病毒的人之一；\n论贡献，作为防疫政策制定者之一，参与主持上海防疫以来，面对巨大的境外输入压力，上海从没封过城，也没有做过全城核酸，最大程度上保障了防疫与经济生活的平衡统一；\n论实力，外松内紧、流调清晰，做到了“瓷器店里打老鼠”的精准防控；\n论个性，“党员先上”、“不能欺负老实人”、“把病毒闷死”等金句频出，极大鼓舞了人民群众的士气。\n这样一个德智体美劳全面发展的“",
+    "supporting_points": [
+      "《论持久战》是我国的伟大领袖在延安窑洞里，呕心沥血花了九天九夜著成的传世名作，而后被用来描述这场抗疫战争。无数人说过抗疫是场持久战，但其中有多少人真正读过，理解这部著作呢？\n虽然时过境迁，“抗日战争”..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "60%",
+        "26%",
+        "25亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 5,
+      "examples": [
+        "好比",
+        "好比",
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "截止2021年2月底，俱乐部成员协商确认的政府预购约占所有疫苗的60%，澳大利亚、加拿大、欧盟、日本、韩国、英国和美国总共订购了约43亿剂疫苗，比其总人数的三倍还多！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "这不是危言耸听，辉瑞疫苗涨价26%，莫德纳疫苗涨价10%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此外还有最近刷屏的以色列新冠特效药EXO-CD24，5天内90%重症患者治愈出院，也有望成为重磅药物。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "发布III期临床完成入组消息后，单日股价暴涨38.89%；\n\n此外还有国药集团最近发现的单克隆抗体，针对德尔塔毒株效果非常明显，有成为重磅的潜力。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210815-0014.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247752613&idx=1&sn=fc52e3412f964ded85558162e99ff07d&chksm=ecbca343dbcb2a55149a8f49b3544742cbcea82708b746b78662b914e9f087bfe1866c48f483#rd",
+    "publish_time": "2021-08-15",
+    "distilled_at": "2026-03-17T10:56:04.249993"
+  }
+}

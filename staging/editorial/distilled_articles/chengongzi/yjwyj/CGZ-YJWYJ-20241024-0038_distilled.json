@@ -1,0 +1,86 @@
+{
+  "article_id": "CGZ-YJWYJ-20241024-0038",
+  "normalized_title": "胃来加“免”——免疫时代，怎样理解胃癌治疗「以免疫为核心」的联合策略？",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 寻找一种有望治愈肿瘤的手段，始终是医学领域的终极探索目标之一。 过去几十年里，尽管医学发展速度飞快，化疗在胃癌治疗中的基石作用始终难以撼动。而无论化疗方案如何更迭，晚期胃癌患者一线化疗的中位总生存期（mOS）却始终难以突破1年[1]。 2010年ToGA研究将胃癌带入靶向时代，给HER阳性胃癌患者带来了显著获益[2]，后线治疗也有抗VEGF药物取得突破性成果[3]，但面对更广泛的一线患者，还要等免疫疗法来破局。 免疫疗法使胃癌治疗迈进了新的阶段。ORIENT-16研究[4]里，信迪利单抗联合化疗创造了中国PD-L1 CPS≥5患者19.2个",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "寻找一种有望治愈肿瘤的手段，始终是医学领域的终极探索目标之一。\n过去几十年里，尽管医学发展速度飞快，化疗在胃癌治疗中的基石作用始终难以撼动。而无论化疗方案如何更迭，晚期胃癌患者一线化疗的中位总生存期（...",
+      "与其他抗肿瘤疗法的本质区别是，免疫疗法并不直接杀伤肿瘤细胞，而是主要通过激活或增强患者自身的免疫系统来识别和攻击肿瘤细胞。\n这样的机制优势让免疫疗法上限极高。\n机体本身就具有完善精密的免疫调节和免疫监..."
+    ],
+    "conclusion_hook": "可以说，靶免联合突破的不仅是免疫疗法的边界，也提升了靶向治疗的上限。\n\n突破边界\n靶免联合的深入探索\n\n免疫系统是最复杂的人类系统之一，PD-1/PD-L1通路的发现让我们看到了其中的一角，但远非全貌"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "50%",
+        "37.6%",
+        "mOS）却始终难以突破1"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业客观"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n对于PD-L1 CPS≥5的患者，与单独化疗组相比，信迪利单抗联合化疗组显著延长患者的mOS近50%，从12.9个月提升到了19.2个月，2年生存率达到了37.6%，3年OS率也达到了26.0%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而无论化疗方案如何更迭，晚期胃癌患者一线化疗的中位总生存期（mOS）却始终难以突破1年[1]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "ORIENT-16研究[4]里，信迪利单抗联合化疗创造了中国PD-L1 CPS≥5患者19.2个月的mOS纪录，带来了巨大的惊喜。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而对于总人群，信迪利单抗联合化疗组也显著延长了患者的mOS近3个月（15.2个月 vs 12.3个月，HR 0.68），无论PD-L1表达情况，信迪利单抗联合化疗都能给患者带来获益。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241024-0038.json",
+    "original_url": "https://mp.weixin.qq.com/s/v6JOrGZLGO-BH4t7bH4LOg",
+    "publish_time": "2024-10-24",
+    "distilled_at": "2026-03-17T10:47:59.916773"
+  }
+}

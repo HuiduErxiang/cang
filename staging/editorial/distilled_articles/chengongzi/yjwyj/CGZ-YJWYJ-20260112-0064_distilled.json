@@ -1,0 +1,81 @@
+{
+  "article_id": "CGZ-YJWYJ-20260112-0064",
+  "normalized_title": "2026 ASCO GI 上的硬菜：中位PFS近2年！晚期胃癌一线的「王炸组合」来了？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 2026年1月8日，2026年ASCO GI大会正式召开，在开年奉上年度首批胃癌领域重磅研究。 其中II期研究ILUSTRO给出了令人期待已久的CLDN18.2高表达人群“靶免化”三联方案的重要数据。 佐妥昔单抗获批后，一方面给相当一部分既往缺乏有效治疗策略的患者提供了靶向治疗的方案，但另一方面，也对临床诊疗提出了更高的要求。 HER2、CPS、CLDN18.2三大生物标志物的表达关系盘根错节、互有重合，在很多情况下，治疗方案的选择比原来更难抉择。指南对于CLDN18.2合并PD-L1高表达患者的治疗也并未做出明确推荐。 ILUSTRO研究给虽然只是I",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2026年1月8日，2026年ASCO GI大会正式召开，在开年奉上年度首批胃癌领域重磅研究。\n其中II期研究ILUSTRO给出了令人期待已久的CLDN18.2高表达人群“靶免化”三联方案的重要数据。...",
+      "ILUSTRO 研究为一项开放标签、多中心 Ⅱ 期临床试验，采用分阶段队列设计，以系统验证&nbsp;“佐妥昔单抗（Z）+纳武利尤单抗（O）+mFOLFOX6”&nbsp;方案的安全性与疗效。\n研究分..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "75%",
+        "50%",
+        "mPFS最高近2"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n亚组分析依据 CLDN18.2 表达丰度（高表达：≥75% 肿瘤细胞阳性；中表达：50%~74% 肿瘤细胞阳性）及 PD-L1 综合阳性评分（CPS，≥1 vs <1）进行分层。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20260112-0064.json",
+    "original_url": "https://mp.weixin.qq.com/s/vxRrt7T34WBQ5YupsY0UUQ",
+    "publish_time": "2026-01-12",
+    "distilled_at": "2026-03-17T10:48:00.969204"
+  }
+}

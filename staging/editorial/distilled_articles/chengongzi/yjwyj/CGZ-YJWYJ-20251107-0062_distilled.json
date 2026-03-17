@@ -1,0 +1,81 @@
+{
+  "article_id": "CGZ-YJWYJ-20251107-0062",
+  "normalized_title": "诺华核药重磅获批！如何理解肿瘤治疗的 「核」时代？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 “抗体偶联药物（ADC），闪开点，放射配体疗法（RLT）才是新宠。”&nbsp; Nature biotechnology上一篇2024年发表的专题文章在开篇这样写道。 虽有些戏谑，但不可否认的是，经过多年发展，以RLT为代表的新一代肿瘤核治疗已经在肿瘤治疗的版图里占据了一席之地。 诺华在前列腺癌领域的RLT药物Pluvicto上市第3年的销售额便就已达到14亿美元。 如今，Pluvicto终于落地中国。 11月5日，诺华宣布，Pluvicto（中文商品名：派威妥®，镥[177Lu]特昔维匹肽注射液）两项前列腺癌适应症同时获NMPA批准，分别用于治疗既",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "“抗体偶联药物（ADC），闪开点，放射配体疗法（RLT）才是新宠。”&nbsp;\nNature biotechnology上一篇2024年发表的专题文章在开篇这样写道。\n虽有些戏谑，但不可否认的是，经...",
+      "这两项适应症分别于2022年3月和2025年3月获FDA批准上市，在中国同时获批，意味着中国与国际在RLT应用上已经抹平了时差。\n因此，是时候深入理解RLT给肿瘤治疗格局带来的潜在变革了。"
+    ],
+    "conclusion_hook": "可以说，RLT治疗逻辑的改变，突破了既往放射性核素治疗肿瘤的局限性，让“核”在更广泛的肿瘤治疗场景下有了可实现的治疗逻辑，迈向了更广阔的天地。\n这个时候我们会发现，RLT跟ADC其实非常像，ADC是“"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "为何在发生前列腺癌领域？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "90%",
+        "50%",
+        "mOS近50"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "作为前列腺癌的特异性靶点，PSMA在 90% 以上的mCRPC患者肿瘤细胞中高表达，而在正常组织中低表达甚至不表达。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20251107-0062.json",
+    "original_url": "https://mp.weixin.qq.com/s/fLzG-c49WP2yvbVoSf289g",
+    "publish_time": "2025-11-07",
+    "distilled_at": "2026-03-17T10:48:00.910178"
+  }
+}

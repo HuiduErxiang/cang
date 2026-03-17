@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-17T00:30:35.207617",
+  "exception_count": 1,
+  "exceptions": [
+    {
+      "source_index": 21,
+      "title": "特斯拉的AI野心：向人类预警，给硅基带路",
+      "reason": "Empty content",
+      "original_data": {
+        "title": "特斯拉的AI野心：向人类预警，给硅基带路",
+        "date": "2023-03-19",
+        "url": "https://mp.weixin.qq.com/s/pbErh_ZclMOVC82XvWBBqg",
+        "author": "戴老板/何律衡",
+        "content": "",
+        "content_len": 0,
+        "error": "('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', No"
+      }
+    }
+  ]
+}

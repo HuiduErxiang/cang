@@ -1,0 +1,53 @@
+{
+  "product_id": "lecanemab",
+  "product_name": "仑卡奈单抗",
+  "product_name_en": "Lecanemab",
+  "therapeutic_area": "阿尔茨海默病",
+  "indication": "早期阿尔茨海默病",
+  "mechanism_of_action": "Anti-beta-amyloid monoclonal antibody",
+  "approval_status": "已上市",
+  "approval_date": "待补充",
+  "manufacturer": "卫材/渤健",
+  "clinical_trials": [
+    "Clarity AD",
+    "LEC中国真实世界研究"
+  ],
+  "efficacy_data": {
+    "primary_endpoint": "待补充",
+    "secondary_endpoints": "待补充",
+    "subgroup_analysis": "待补充"
+  },
+  "safety_data": {
+    "common_adverse_events": "待补充",
+    "serious_adverse_events": "待补充",
+    "special_considerations": "待补充"
+  },
+  "biomarkers": {
+    "csf_biomarkers": "待补充",
+    "pet_biomarkers": "待补充",
+    "other_biomarkers": "待补充"
+  },
+  "dosing_information": "待补充",
+  "administration_route": "静脉输注",
+  "sources": [
+    {
+      "study_id": "clarity_ad",
+      "study_name": "Clarity AD",
+      "source_files": [
+        "Clarity AD原始.pdf",
+        "Clarity AD全析解读.pdf",
+        "Clarity AD研究附表.pdf"
+      ]
+    },
+    {
+      "study_id": "lecanemab_realworld_cn",
+      "study_name": "LEC中国真实世界研究",
+      "source_files": [
+        "仑卡奈单抗真实世界研究摘要.pdf",
+        "仑卡奈单抗真实世界研究数据图表.pdf"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "last_updated": "2026-03-16"
+}

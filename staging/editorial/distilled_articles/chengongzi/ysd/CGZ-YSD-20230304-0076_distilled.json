@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YSD-20230304-0076",
+  "normalized_title": "华人科学家发现有望「治愈」阿尔茨海默病的靶点！临床效果令人震撼......",
+  "one_paragraph_essence": "正文共：4691字 4图 预计阅读时间：12分钟 来源：药时代 作者：药时代团队辰公子 2018年1月26日，《国际分子科学杂志》上发表了一篇长达59页的文章，详细介绍了一种叫做Galectin-3（Gal-3，半乳糖凝集素3）的蛋白质，这是一个“存在感”很强的分子，可以调节多种细胞间的相互作用、炎症反应，参与了细胞的生长、增殖、分化等。 这篇文章重点介绍了它所参与的疾病，按照首字母排列，从A到Z一共40种，以至于文章的标题都是《Galectin-3: One Molecule for an Alphabet of Diseases, from A to Z》[1]（Galectin-3...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "华人科学家发现有望「治愈」阿尔茨海默病的靶点！临床效果令人震撼......",
+    "supporting_points": [
+      "随后，孙博士介绍了Truebinding管线内靶向Gal-3的单克隆抗体TB006用于治疗轻度至重度阿尔茨海默病患者的1b/2期临床试验结果。结果令人震惊，TB006可以轻松溶解这些致病的Gal-3蛋..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "25.4%",
+        "9.7%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "然而在接受TB006输液治疗后，还没等离开医院，他就叫出了妻子的名字，并给女儿打了一个电话。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230304-0076.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248105029&idx=1&sn=249cea622e13eed89d7f6602952eb473&chksm=ecba04a3dbcd8db55f4aa04b4dac318e9c85815ba2805227a1f53271d969ee2fd441df279a9f#rd",
+    "publish_time": "2023-03-04",
+    "distilled_at": "2026-03-17T10:56:04.834510"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YSD-20220926-0047",
+  "normalized_title": "肿瘤药全部扑街！FDA两天开了4场专家咨询委员会，竟然只有一款「粪便疗法」通过了...",
+  "one_paragraph_essence": "PI3K，卒；口服TKI，卒；PDC，卒...... 不知道是不是为了提升工作效率，FDA把这些有各种严重缺陷的肿瘤药，堆在一块开了一个肿瘤药物专家咨询委员会（ODAC），议程横跨9月22-23日两天，果然，三款肿瘤药的投票结果都不甚理想。 同期，在9月22日，FDA还召开了一个疫苗和相关生物制品专家委员会（VRBPAC），讨论一款基于微生物群的活体生物治疗药物RBX2660，具体来说，这是一款由健康人体中收集的粪便加工而成的灌肠剂，也可以称之为“粪便移植疗法”，用来治疗复发性艰难梭菌感染。 这款“粪便疗法”获得了专家咨询委员会的高票支持。 换句话说，4款新药同时站上FDA专家咨询委员会...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "PI3K，卒；口服TKI，卒；PDC，卒......\n不知道是不是为了提升工作效率，FDA把这些有各种严重缺陷的肿瘤药，堆在一块开了一个肿瘤药物专家咨询委员会（ODAC），议程横跨9月22-23日两天，果然，三款肿瘤药的投票结果都不甚理想。\n同期，在9月22日，FDA还召开了一个疫苗和相关生物制品专家委员会（VRBPAC），讨论一款基于微生物群的活体生物治疗药物RBX2660，具体来说，这是一款由",
+    "supporting_points": [
+      "换句话说，4款新药同时站上FDA专家咨询委员会，结果那些热门靶点、机制相对成熟的抗肿瘤药全部扑街，只有一款以“shit”为名的活体生物疗法获得了专家的高票支持。\n某种程度上，这也是新药研发里“低垂果实..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "这是行业成熟的标志吗？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 3,
+      "examples": [
+        "27.8%",
+        "70%",
+        "ORR 为27"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n疗效数据上：ORR 为27.8%，DCR 为70%， DOR 为5.1个月，中位PFS为5.5个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "安全性方面：87%的患者发生治疗中断，11例因不良事件永久停药，13例发生治疗相关严重不良事件。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果非常惊人，15名对K药没有响应的黑色素瘤患者，竟有6名出现了肿瘤缩小或长期获益，对40%的病人显示出了治疗效果。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220926-0047.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247991426&idx=1&sn=dbdd48eac5f9b66caa42553a61573c40&chksm=ecb8f864dbcf71721a92692a05f7733364e1c94f8d9d7661516c56e44b3e56fcb15f2b724b69#rd",
+    "publish_time": "2022-09-26",
+    "distilled_at": "2026-03-17T10:56:04.494192"
+  }
+}

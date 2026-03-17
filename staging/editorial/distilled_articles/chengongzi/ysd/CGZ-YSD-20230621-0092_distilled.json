@@ -1,0 +1,96 @@
+{
+  "article_id": "CGZ-YSD-20230621-0092",
+  "normalized_title": "1名患者死亡！吉利德超40亿美元引进的BCMA CAR-T被FDA叫停...",
+  "one_paragraph_essence": "正文共：2897字 7图 预计阅读时间：8分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | pixabay 2022年12月9日，吉利德旗下Kite公司与Arcellx达成协议，以2.25亿美元首付款、最高39亿美元里程碑，总交易金额41.25亿美元的代价，获得了与其共同开发BCMA CAR-T产品CART-ddBCMA的资格。 对于一款仍在进行2期临床试验的产品，这样的价格不算低，吉利德愿意接受这份合同，是因为该产品的早期数据非常“炸裂”，有望成为西达基奥仑赛最强竞争对手。 可令人意想不到的是，关键2期临床研究iMMagine-1被FDA叫停，因为一名患者突遭死亡。 ...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：2897字&nbsp; 7图\n预计阅读时间：8分钟",
+    "supporting_points": [
+      "2022年12月9日，吉利德旗下Kite公司与Arcellx达成协议，以2.25亿美元首付款、最高39亿美元里程碑，总交易金额41.25亿美元的代价，获得了与其共同开发BCMA CAR-T产品CART..."
+    ],
+    "conclusion_hook": "这意味着，CART-ddBCMA在早期试验里选择了更难治的患者，并取得了更好的治疗数据。\n这种迎难而上的态度，不仅把自己的自信展现了出来，也传递给了旁观者们。\n2022年2月14日，Arcellx在纳"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "100%",
+        "100%",
+        "ORR的BCMA CAR-T\n\nBCMA是治疗多发性骨髓瘤的靶点，是多发性骨髓瘤细胞系上最具选择性表达的受体，因此BCMA CAR-T针对的适应症基本都集中在多发性骨髓瘤（MM）上。\n多发性骨髓瘤是个很麻烦的病，大部分肿瘤好歹还有治愈的可能和路径，而多发性骨髓瘤则在定义上就是不可治愈的恶性血液瘤，复发率和多线复发率高，容易产生耐药，每次复发都比之前更难治。\n所以每一种治疗多发性骨髓瘤的新药都有重要意义，CAR-T尤甚，因为这种疗法直接就是奔着最末线治疗去的，且有着惊人的疗效。\n截止目前，全球范围内上市的BCMA CAR-T依然只有两款：传奇/强生的西达基奥仑赛和BMS/蓝鸟的Abecma。\n西达基奥仑赛比Abecma上市晚，但各项数据上也都更强，是中国创新药出海的典范，销售额增长迅速。\n而Arcellx的CART-ddBCMA在早期临床上丝毫不逊色西达基奥仑赛，甚至还以100"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便技术上有优势，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n而Arcellx的CART-ddBCMA在早期临床上丝毫不逊色西达基奥仑赛，甚至还以100%的ORR率略胜一筹。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "CARTITUDE-1试验里三重耐药和五重耐药患者的比例分别为88%和42%，而CART-ddBCMA则把这两类患者的比例提到了100%和68%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230621-0092.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248155827&idx=1&sn=cfbb08d39b367ee73c7c5fef96111415&chksm=ef457a55d832f34353bdaa51b0fd21bd9dfc6de2669b1faddb06e973a776967f47fca603fc79#rd",
+    "publish_time": "2023-06-21",
+    "distilled_at": "2026-03-17T10:56:04.987541"
+  }
+}

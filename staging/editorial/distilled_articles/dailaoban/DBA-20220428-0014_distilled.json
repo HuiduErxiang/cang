@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20220428-0014",
+  "normalized_title": "我无比怀念2019年",
+  "one_paragraph_essence": "文章以2019年风调雨顺国泰民安的回忆开场，讲述这个普通年份如何成为后疫情时代人们怀念的黄金时代。作者以历史纵深视角，盘点2019年电影票房、旅游人次、出境游、消费升级等繁荣数据，揭示繁荣不只是一种物质丰裕度，更是一种基于确定性预期的生活方式。文章以纳兰性德的当时只道是寻常作结，道尽时代转折的感慨。",
+  "topic": "社会观察",
+  "subtopic": "2019年繁荣记忆与时代转折",
+  "audience": "关注社会变迁、时代记忆、消费趋势的读者",
+  "narrative_frame": {
+    "frame_type": "nostalgic_reflection_narrative",
+    "key_elements": ["年份回忆开场", "繁荣数据盘点", "生活方式揭示", "时代感慨"]
+  },
+  "argument_skeleton": {
+    "main_claim": "2019年是繁荣的巅峰，繁荣不只是一种物质丰裕度，更是一种基于确定性预期的生活方式",
+    "supporting_points": [
+      "2019年全国17.27亿人次走进电影院，总票房643亿创历史新高",
+      "国内旅游60亿人次，出境游1.55亿人次",
+      "中国人买了2577万辆汽车和3.89亿部手机，均是历史峰值",
+      "至今未能恢复的是基于确定性预期的生活方式"
+    ],
+    "conclusion_hook": "我们有多无奈这个充满口罩、健康码和足不出户的今天，就有多怀念那个说走就走和人潮汹涌的昨天"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "year_recall_opening",
+      "example": "2019年早已远去，但我在疯狂地怀念它。这是很普通的一年...这一年风调雨顺，粮食产了13277亿斤，人口添了1465万，GDP增加了6.1个百分点",
+      "effect": "以年份回忆开场，建立怀念基调"
+    },
+    {
+      "device_type": "poetic_conclusion",
+      "example": "纳兰性德在400年前写过：当时只道是寻常",
+      "effect": "以诗词升华时代感慨"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["year_data", "industry_stats", "poetry"],
+    "integration_style": "年份回顾+数据盘点+诗意升华"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["nostalgic", "reflective", "poetic"],
+    "syntax_patterns": ["年份回忆开场句式", "诗意升华句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]早已远去，但我在疯狂地怀念它。这是很普通的一年...这一年风调雨顺",
+      "context": "年份怀念叙事开场",
+      "reusability_score": 3
+    },
+    {
+      "fragment": "我们有多无奈这个[X]，就有多怀念那个[Y]",
+      "context": "今昔对比感慨",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220428-0014.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

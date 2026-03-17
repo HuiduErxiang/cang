@@ -1,0 +1,82 @@
+{
+  "article_id": "CGZ-YJWYJ-20240801-0025",
+  "normalized_title": "阿尔茨海默病曙光！51%极早期患者认知功能逆转，Clarity AD研究3年随访数据出炉……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 2024年7月30日，阿尔茨海默病协会国际大会（AAIC）火热召开，作为近年来最成功的阿尔茨海默病（AD）治疗药物之一，仑卡奈单抗3年治疗的长期数据也在大会上进行了展示。 卫材官网也同步披露了展示材料，结果显示，59%的极早期患者持续3年认知功能不衰退，51%的极早期患者认知功能有改善。 最新！3年治疗数据公布 数据来自两项研究，分别是Clarity AD和Study 201。 Clarity AD是仑卡奈单抗III期研究，纳入1795名早期AD患者，1:1接受仑卡奈单抗或安慰剂治疗，主要终点是18个月时临床痴呆评定量表总分（CDR-S",
+  "category": "医界望远镜",
+  "topic": "阿尔茨海默",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年7月30日，阿尔茨海默病协会国际大会（AAIC）火热召开，作为近年来最成功的阿尔茨海默病（AD）治疗药物之一，仑卡奈单抗3年治疗的长期数据也在大会上进行了展示。\n卫材官网也同步披露了展示材料...",
+      "数据来自两项研究，分别是Clarity AD和Study 201。\nClarity AD是仑卡奈单抗III期研究，纳入1795名早期AD患者，1:1接受仑卡奈单抗或安慰剂治疗，主要终点是18个月时临床..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "59%",
+        "51%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n卫材官网也同步披露了展示材料，结果显示，59%的极早期患者持续3年认知功能不衰退，51%的极早期患者认知功能有改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此前18个月时两组CDR-SB评分较基线的平均增加1.21和1.66分，仑卡奈单抗的获益为0.45 分（P = 0.00005），显著延缓疾病进展27%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此前研究结果显示，对该类患者，仑卡奈单抗治疗18月后认知功能无下降的比例达到76%，且有60%的患者出现了认知功能的改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此次36个随访数据出炉，依然有高达59%的患者认知功能未出现下降，有51%的患者认知功能存在改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240801-0025.json",
+    "original_url": "https://mp.weixin.qq.com/s/76I9N3eoofW7ksFPAFWgAQ",
+    "publish_time": "2024-08-01",
+    "distilled_at": "2026-03-17T10:47:59.725129"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20201026-0004",
+  "normalized_title": "景林是怎么炼成的？",
+  "one_paragraph_essence": "文章以2018年10月上海虹桥站一群年轻人背着背包奔赴内陆城市调研拼多多的场景开场，讲述景林资产如何通过基本面研究取得持续成功。作者以实地调研的细节特写揭示景林「一切围绕基本面研究展开」的投资方法论，通过对高云程等核心人物的访谈，呈现这家管理规模超千亿私募基金的底层代码。",
+  "topic": "投资机构",
+  "subtopic": "景林资产投资方法论与基本面研究",
+  "audience": "关注投资、资产管理、私募基金的读者",
+  "narrative_frame": {
+    "frame_type": "institutional_case_study",
+    "key_elements": ["场景特写开场", "调研细节铺陈", "方法论提炼", "人物访谈印证"]
+  },
+  "argument_skeleton": {
+    "main_claim": "基本面研究是景林的核心竞争力，是一切投资行为的动机源头",
+    "supporting_points": [
+      "景林组织调研团队跑遍15个城市访谈拼多多用户，基于认知突破重仓下注",
+      "旗舰产品16年年化回报超24%，规模超千亿仍未触及管理天花板",
+      "投研人员拥有心照不宣的默契：一切围绕基本面研究展开",
+      "投资理念从营销文案传递到净值曲线需要可执行的体系"
+    ],
+    "conclusion_hook": "抄大师们的作业、画出一张圣杯的图纸不难，难的是一凿一锤，用自己的体系把它给打磨出来"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "scene_opening",
+      "example": "2018年10月，上海虹桥站飘着些细雨，一群年轻人背着沉重的背包，互相目送对方踏上了离沪的火车。",
+      "effect": "以具体场景和氛围建立画面感"
+    },
+    {
+      "device_type": "detail_accumulation",
+      "example": "每到一个城市，他们就会找一个当地的酒店住下，并马上开始访谈提前联系好的拼多多用户，半个小时一位。",
+      "effect": "用细节堆叠建立专业感和真实感"
+    },
+    {
+      "device_type": "insider_quotation",
+      "example": "有人曾这样感慨：「每个职业投资人都在寻找『圣杯』，但是抄大师们的作业、画出一张圣杯的图纸不难，难的是一凿一锤，用自己的体系把它给打磨出来。」",
+      "effect": "用行业人士的感慨表达核心观点"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["field_research_detail", "performance_data", "interview_quotation"],
+    "integration_style": "调研细节+业绩数据+访谈引用"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["investigative", "professional", "insider"],
+    "syntax_patterns": ["场景特写句式", "细节堆叠句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{年份}年{月份}，{地点}，一群{身份}背着沉重的背包，互相目送对方踏上了{目的地}。",
+      "context": "场景特写开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "每到一个{单位}，他们就会{行动}，并马上开始{任务}，{细节描述}。",
+      "context": "调研细节铺陈",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "有人曾这样感慨：「{观点}，但是{对比}不难，难的是{真正难点}。」",
+      "context": "行业感慨引用",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20201026-0004.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

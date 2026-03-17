@@ -1,0 +1,87 @@
+{
+  "article_id": "CGZ-YSD-20230627-0093",
+  "normalized_title": "打败了降糖这个BOSS后，礼来Tirzepatide的「中国人群」数据还有哪些隐藏彩蛋？",
+  "one_paragraph_essence": "正文共：4724字 6图 预计阅读时间：13分钟 作者 | 辰公子 文章来源 | 药时代公众号 GLP-1的较量又升级了。 这种“躺在床上就能减肥”的降糖药，不仅牵动了普罗大众的心，也吸引了诸多药企入局，让GLP-1赛道顿时风起云涌。不过严格来说，“GLP-1类药物”的说法并不精确，随着GLP-1/GIP双靶点甚至GLP/GIP/GCGR三靶点药物不断进展，药物种类的细分也从研发端走到了临床。 在去年发布的2022版《ADA/EASD：2型糖尿病高血糖管理共识》中，新增了一类新的降糖药物类别GIP/GLP-1双受体激动剂，介绍里指名道姓地表示，说的就是首个且目前唯一获得全球批准的 GIP...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "大众读者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：4724字&nbsp; 6图\n预计阅读时间：13分钟",
+    "supporting_points": [
+      "GLP-1的较量又升级了。\n这种“躺在床上就能减肥”的降糖药，不仅牵动了普罗大众的心，也吸引了诸多药企入局，让GLP-1赛道顿时风起云涌。不过严格来说，“GLP-1类药物”的说法并不精确，随着GLP-..."
+    ],
+    "conclusion_hook": "可以说相辅相成。\nGLP-1全称胰高血糖素样肽-1，是一种肠促激素，在高血糖和正常血糖下可以抑制胰高血糖素分泌，2型糖尿病的患者GLP-1的效应显著降低，使用GLP-1受体激动剂可以部分恢复其功能。\n"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "83.4%",
+        "83.2%",
+        "520亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n结果显示，相较于司美格鲁肽，Tirzepatide 的 HbA1c 降幅和达标率更高，最高可降低 HbA1c2.46%，司美格鲁肽 1 mg 为 1.86%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "Tirzepatide 的减重效果也更优，最高减重达13.1%，司美格鲁肽 1 mg 为6.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n《ADA/EASD:2型糖尿病高血糖管理共识(2022)》[4]指出，体重降低5%-10%可改善代谢状况，降低10%-15%或以上可改善疾病，实现2型糖尿病缓解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "体重每降低5%-15%，可改善心血管疾病危险因素——降低糖化血红蛋白、降低血压、提高高密度脂蛋白胆固醇。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230627-0093.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248158502&idx=1&sn=6dbe0707b7196ccaa8a2f6cdaea4db40&chksm=ef4575c0d832fcd6b6798663f820210790d35598b3491a6d67d7d34649096474c99b7b4b24ae#rd",
+    "publish_time": "2023-06-27",
+    "distilled_at": "2026-03-17T10:56:04.999235"
+  }
+}

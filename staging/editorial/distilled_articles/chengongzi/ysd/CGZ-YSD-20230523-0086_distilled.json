@@ -1,0 +1,109 @@
+{
+  "article_id": "CGZ-YSD-20230523-0086",
+  "normalized_title": "68周减重17.4%！「口服」司美格鲁肽减肥试验3期结果出炉，又要颠覆赛道了？",
+  "one_paragraph_essence": "中国好BD，在这里相聚！药时代学苑「第3期」创新药BD高阶研讨会欢迎您 正文共：1907字 预计阅读时间：5分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | 网络 口服司美格鲁肽，正宗的用于肥胖人群的临床试验结果出来了。 2023年5月22日，诺和诺德公布了3a期临床试验OASIS 1的主要结果。OASIS 1共纳入667例患有肥胖/超重并伴有至少一种合并症的成年人，分成两个组：口服司美格鲁肽50mg剂量组和安慰剂组。 结果显示，在治疗68周后，口服司美格鲁肽组患者减重15.1%，安慰剂组为2.4%。同时，口服司美格鲁肽组有84.9%的患者体重减轻超过了5%，而安慰剂组...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国好BD，在这里相聚！药时代学苑「第3期」创新药BD高阶研讨会欢迎您",
+    "supporting_points": [
+      "口服司美格鲁肽，正宗的用于肥胖人群的临床试验结果出来了。\n2023年5月22日，诺和诺德公布了3a期临床试验OASIS 1的主要结果。OASIS 1共纳入667例患有肥胖/超重并伴有至少一种合并症的成..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么差距这么大？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "15.1%",
+        "2.4%",
+        "520亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n结果显示，在治疗68周后，口服司美格鲁肽组患者减重15.1%，安慰剂组为2.4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "同时，口服司美格鲁肽组有84.9%的患者体重减轻超过了5%，而安慰剂组仅为25.8%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "与安慰剂的对照会从15.1% vs 2.4%变成17.4% vs 1.8%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n换句话说，在理想条件下，口服司美格鲁肽的减重数据为：68周减重17.4%，大约18.3kg。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n单看这个数据，在减重领域似乎并不突出，不过如果回头看两个月前披露的另一项临床试验里，口服司美格鲁肽50mg剂量组“52周减重9.54%”这个数据，可能会感到一丝震惊。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230523-0086.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248143729&idx=1&sn=25548b06ce0245718e8c2fb0b0735689&chksm=ecbaab97dbcd22810adcf9455e3295376302342ebe7300f657632dcb3fd62fe60976a3424511#rd",
+    "publish_time": "2023-05-23",
+    "distilled_at": "2026-03-17T10:56:04.917420"
+  }
+}

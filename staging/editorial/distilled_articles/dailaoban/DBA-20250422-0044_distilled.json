@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20250422-0044",
+  "normalized_title": "中国面板，走上牌桌的二十年",
+  "one_paragraph_essence": "文章以三星通过参观东芝工厂获取技术的历史轶事开场，讲述中国面板产业从仰人鼻息到自主建设、从引进技术到收购韩企资产的二十年拉力赛。作者以TCL华星从t1工厂到收购LGD广州工厂t11工厂为主线，揭示中国面板产业如何完成从技术引进到产业主导的跃迁。",
+  "topic": "制造业",
+  "subtopic": "中国面板产业崛起",
+  "audience": "关注中国制造、半导体显示、产业政策的读者",
+  "narrative_frame": {
+    "frame_type": "industry_rise_narrative",
+    "key_elements": ["历史轶事开场", "产业差距揭示", "追赶历程", "阶段性成果"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国面板产业用二十年时间，从技术引进到自主建设，完成了从仰人鼻息到产业主导的跃迁",
+    "supporting_points": [
+      "2007年显示器件占彩电成本从40%上升到80%",
+      "2010年华星t1工厂破土动工",
+      "2020年中国成为LCD面板最大生产国",
+      "2025年收购LGD广州工厂意味着韩国彻底退出LCD产业"
+    ],
+    "conclusion_hook": "从t1工厂到t11工厂的路程不到100公里，但只有置身事内的人们，才能理解这100公里承载的分量和意义"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_anecdote_opening",
+      "example": "1986年底的一天，位于韩国水原市的三星电子生产总部迎来了一位身份敏感的客人：东芝半导体事业部部长川西刚",
+      "effect": "以戏剧性历史轶事开场，增强故事性"
+    },
+    {
+      "device_type": "spatial_metaphor",
+      "example": "从t1工厂到t11工厂的路程不到100公里，驾车沿广深沿江高速，只需要不到一个半小时的车程。但只有置身事内的人们，才能理解这100公里承载的分量和意义",
+      "effect": "以空间距离象征产业距离，制造张力"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_anecdote", "data", "quote"],
+    "integration_style": "故事驱动+数据支撑+情感升华"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "narrative-driven", "respectful"],
+    "syntax_patterns": ["历史轶事开场句式", "空间隐喻句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]的一天，位于[地点]的[公司]迎来了一位身份敏感的客人：[名字]",
+      "context": "戏剧性历史场景开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "从[X]到[Y]的路程不到[N]，但只有置身事内的人们，才能理解这[N]承载的分量和意义",
+      "context": "以物理距离象征历史分量",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250422-0044.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

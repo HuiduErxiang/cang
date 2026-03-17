@@ -1,0 +1,130 @@
+{
+  "article_id": "CGZ-YSD-20220420-0021",
+  "normalized_title": "昨晚，AZ/第一三共发布公告。DS-8201「肺癌适应症」也快获批了，抗HER2的ADC们要考虑下一步该怎么走了...",
+  "one_paragraph_essence": "虽然已经有了心理预期，但当这一天即将到来时，仍然会感觉有些激动，同时心情还有些复杂。 昨天晚上7点，阿斯利康和第一三共共同发布公告称，双方合作研发的ADC药物Enhertu——也就是DS-8201（中文名：德喜曲妥珠单抗）的补充生物制剂许可申请（sBLA）获FDA受理，用于治疗具有HER2突变的、不可切除或转移性非小细胞肺癌（NSCLC）患者，并被授予优先审评资格，最快将于今年第三季度获批。 抗HER2的ADC药物，终于向新治疗领域又迈进了一步。 抗HER2 ADC的尴尬处境 据统计，目前全球共计14款上市ADC药物，其中靶向HER2的仅为三款，都是我们耳熟能详的产品： 罗氏制药——Ka...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "虽然已经有了心理预期，但当这一天即将到来时，仍然会感觉有些激动，同时心情还有些复杂。\n昨天晚上7点，阿斯利康和第一三共共同发布公告称，双方合作研发的ADC药物Enhertu——也就是DS-8201（中文名：德喜曲妥珠单抗）的补充生物制剂许可申请（sBLA）获FDA受理，用于治疗具有HER2突变的、不可切除或转移性非小细胞肺癌（NSCLC）患者，并被授予优先审评资格，最快将于今年第三季度获批。",
+    "supporting_points": [
+      "据统计，目前全球共计14款上市ADC药物，其中靶向HER2的仅为三款，都是我们耳熟能详的产品：\n罗氏制药——Kadcyla（即T-DM1）\n荣昌生物——维迪西妥单抗"
+    ],
+    "conclusion_hook": "这意味着，在抗体与药物的偶联方式上，DS-8201做到了更加均匀，每个抗体都是装满弹药的“特种兵”，其他的ADC与之一对比，就好像是民兵游击队一样。\n如此多迭代升级的部件，让DS-8201在临床效果上"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 9,
+      "examples": [
+        "54.9%",
+        "92.3%",
+        "mOS）为 17"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "即便是在乳腺癌这个适应症上，T-DM1的me too产品也很难有竞争力，在各大厂家纷纷瞄着T-DM1的时候，另一个巨无霸DS-8201已经冉冉升起。T-DM1现在也",
+        "即便是在载药数量相当的情况下，Dxd也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n尽管HER2阳性的患者在非鳞状 NSCLC 人群中占比中只有 2-4%，但这类人群此前的治疗方法几乎是空白。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "中位无进展生存期（mPFS）为 8.2 个月，中位总生存期（mOS）为 17.8 个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "只有荣昌生物在胃癌及尿路上皮癌上有所突破，并以此获得了26亿美元的授权交易收益，还有额外的销售额分成，成为了赢家。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "重磅ADC药物DS-8201，获NMPA受理，AZ为它花了69亿美元！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "「口服」mRNA疫苗、与CAR-T联用治疗「实体瘤」...\n5.25亿美元收购，辉瑞挑的「RSV赛道」是个啥？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220420-0021.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247912727&idx=1&sn=92f3fdc95268c7fd029e4bfa7c841657&chksm=ecb935f1dbcebce7309a4a4834ffea133181f569b5b1232613fe3691621524acfa3cd69c32df#rd",
+    "publish_time": "2022-04-20",
+    "distilled_at": "2026-03-17T10:56:04.303377"
+  }
+}

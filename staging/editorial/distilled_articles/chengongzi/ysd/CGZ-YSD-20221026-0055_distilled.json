@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YSD-20221026-0055",
+  "normalized_title": "阿斯利康IL-5α单抗三期临床失败，挺诡异的...",
+  "one_paragraph_essence": "前FDA检查官 Live Oak Quality Assurance 创始人兼总裁Peter Baker 先生：诚邀您出席2022第三届中国新药CMC高峰论坛！ 几个东北人围坐在锅前，等待着掀开锅盖后，猪肉炖粉条的香气溢满房间。他们在刚刚煮沸了一锅水，并把猪肉、粉条和白菜放了进去。然而半小时后，当他们把锅盖掀开，里面的猪肉和粉条已经软糯可口，但白菜却还是生的。 这种事情很诡异，但当类似的事情发生在新药的临床试验里，人们却不得不思考其中的原因，阿斯利康的研发人员就碰到了这种事情。 昨天夜里，阿斯利康公布了一项三期临床试验的结果，他们的一款重磅产品Fasenra（benralizumab，中...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "前FDA检查官 Live Oak Quality Assurance 创始人兼总裁Peter Baker 先生：诚邀您出席2022第三届中国新药CMC高峰论坛！",
+    "supporting_points": [
+      "几个东北人围坐在锅前，等待着掀开锅盖后，猪肉炖粉条的香气溢满房间。他们在刚刚煮沸了一锅水，并把猪肉、粉条和白菜放了进去。然而半小时后，当他们把锅盖掀开，里面的猪肉和粉条已经软糯可口，但白菜却还是生的。..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "然而，"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 1,
+      "examples": [
+        "71%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "然而半小时后，当他们把锅盖掀开，里面的猪肉和粉条已经软糯可口，但白菜却还是生的。",
+      "context": "对比转折",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而，在嗜酸性粒细胞被干掉之后，患者吞咽困难的症状还是没有没有改善。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221026-0055.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248023828&idx=1&sn=c1e7a5fc65d643333cefe1ef99d49783&chksm=ecbb47f2dbcccee45fb7e41d7de1f36421e1af7cdfae0eb21f6e90e1c14cb66acb42fa5b26fc#rd",
+    "publish_time": "2022-10-26",
+    "distilled_at": "2026-03-17T10:56:04.554776"
+  }
+}

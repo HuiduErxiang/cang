@@ -1,0 +1,179 @@
+{
+  "schema_name": "intake_record",
+  "schema_version": "1.0",
+  "created_at": "2026-03-16",
+  "description": "IntakeRecord 数据结构规范 - 进货记录的完整定义",
+  
+  "IntakeRecord": {
+    "description": "进货记录 - 资料进入知识仓的第一层记录",
+    "fields": {
+      "intake_id": {
+        "type": "string",
+        "pattern": "INT-{YYYYMMDD}-{序号}",
+        "example": "INT-20260316-0001",
+        "required": true,
+        "description": "进货记录唯一标识"
+      },
+      "status": {
+        "type": "enum",
+        "values": ["pending_review", "reviewing", "reviewed", "dispatched", "rejected", "duplicate"],
+        "required": true,
+        "description": "进货记录状态"
+      },
+      "deposited_at": {
+        "type": "string",
+        "format": "ISO8601",
+        "required": true,
+        "description": "投递时间戳"
+      },
+      "deposited_by": {
+        "type": "string",
+        "required": true,
+        "description": "投递者标识"
+      },
+      "deposit_method": {
+        "type": "enum",
+        "values": ["drop", "upload", "import"],
+        "required": true,
+        "description": "投递方式"
+      },
+      "original_filename": {
+        "type": "string",
+        "required": true,
+        "description": "原始文件名"
+      },
+      "original_path": {
+        "type": "string",
+        "required": false,
+        "description": "原始来源路径（如果有）"
+      },
+      "file_size_bytes": {
+        "type": "number",
+        "required": true,
+        "description": "文件大小（字节）"
+      },
+      "content_hash": {
+        "type": "string",
+        "pattern": "sha256-truncated-16",
+        "required": true,
+        "description": "内容哈希（SHA-256 前 16 位）"
+      },
+      "mime_type": {
+        "type": "string",
+        "required": true,
+        "description": "MIME 类型"
+      },
+      "inbox_path": {
+        "type": "string",
+        "required": true,
+        "description": "在 inbox 中的存储路径"
+      },
+      "metadata": {
+        "type": "object",
+        "required": false,
+        "description": "投递时携带的元数据"
+      },
+      "inventory_result": {
+        "type": "object",
+        "required": false,
+        "description": "盘点结果"
+      },
+      "classification_result": {
+        "type": "object",
+        "required": false,
+        "description": "分类结果"
+      },
+      "source_key": {
+        "type": "string",
+        "required": false,
+        "description": "关联的来源记录标识"
+      },
+      "batch_id": {
+        "type": "string",
+        "required": false,
+        "description": "所属批次标识"
+      }
+    }
+  },
+  
+  "InventoryResult": {
+    "description": "盘点结果 - 盘点阶段产出的文件信息",
+    "fields": {
+      "source_key": {
+        "type": "string",
+        "pattern": "SRC-{YYYYMMDD}-{序号}",
+        "required": true,
+        "description": "来源记录唯一标识"
+      },
+      "content_hash": {
+        "type": "string",
+        "required": true,
+        "description": "内容哈希"
+      },
+      "is_duplicate": {
+        "type": "boolean",
+        "required": true,
+        "description": "是否为重复文件"
+      },
+      "duplicate_of": {
+        "type": "string",
+        "required": false,
+        "description": "如果重复，指向原始文件的 intake_id"
+      },
+      "file_format": {
+        "type": "string",
+        "required": true,
+        "description": "文件格式"
+      },
+      "mime_type": {
+        "type": "string",
+        "required": true,
+        "description": "MIME 类型"
+      },
+      "page_count": {
+        "type": "number",
+        "required": false,
+        "description": "页数（适用于 PDF 等文档）"
+      },
+      "has_ocr": {
+        "type": "boolean",
+        "required": false,
+        "description": "是否包含 OCR 文本"
+      }
+    }
+  },
+  
+  "ClassificationResult": {
+    "description": "分类结果 - 分仓决策信息",
+    "fields": {
+      "target_warehouse": {
+        "type": "string",
+        "required": true,
+        "description": "目标仓库路径"
+      },
+      "source_channel": {
+        "type": "enum",
+        "values": ["USER_UPLOAD", "BATCH_IMPORT", "SYSTEM_DROP", "MEDICAL_DATABASE", "PARTNER_SHARED", "WEB_CRAWLED", "EDITORIAL", "EXPERT_INPUT", "MEETING_NOTES", "V2_HISTORICAL", "LEGACY_IMPORT", "ORPHAN"],
+        "required": true,
+        "description": "来源渠道"
+      },
+      "confidence": {
+        "type": "number",
+        "min": 0,
+        "max": 1,
+        "required": true,
+        "description": "分类置信度"
+      },
+      "classification_reason": {
+        "type": "string",
+        "required": true,
+        "description": "分类决策原因"
+      },
+      "priority_level": {
+        "type": "number",
+        "required": true,
+        "description": "匹配的优先级（1-5）"
+      }
+    }
+  }
+}

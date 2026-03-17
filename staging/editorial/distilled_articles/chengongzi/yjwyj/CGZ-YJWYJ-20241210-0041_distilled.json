@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YJWYJ-20241210-0041",
+  "normalized_title": "EGFR突变被重新定义后，伏美替尼成为了TKI中的那个「唯一」",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 过去二十年间，晚期EGFR突变非小细胞肺癌（NSCLC）的治疗理念经历了数次演变，成为肿瘤精准治疗时代发展的缩影。 从化疗到靶向治疗的迭代、从突变到二次突变的应对……&nbsp;随着三代EGFR-TKI陆续问世，越来越多的EGFR突变亚型的患者得到有效治疗，EGFR 靶点的探索之路几乎指导了其他所有靶向药物探索路径。 但“道高一尺、魔高一丈”，迄今已有超过200种EGFR突变亚型被发现[1]，“区区”十余款已上市的EGFR-TKI，如何能应对这么多突变亚型？ 2021年，MD安德森癌症中心摆脱外显子的限制，基于结构功能将激酶区EGFR突变分成四大类[2",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "过去二十年间，晚期EGFR突变非小细胞肺癌（NSCLC）的治疗理念经历了数次演变，成为肿瘤精准治疗时代发展的缩影。\n从化疗到靶向治疗的迭代、从突变到二次突变的应对……&nbsp;随着三代EGFR-TK...",
+      "要理解伏美替尼的优势，首先要从药物分子层面来理解伏美替尼的结构。\n伏美替尼的结构基于对奥希替尼的改造，将奥希替尼甲氧基苯上的甲基替换为三氟乙氧基，相邻苯环替换为氮杂苯环，形成独特的“三氟乙氧基吡啶”结..."
+    ],
+    "conclusion_hook": "可以说，在大部分EGFR突变NSCLC的治疗场景下，伏美替尼都已展现出了充分的优势，不仅全线覆盖，且疗效、安全性全面领先。\n不过在这些常见突变类型里，伏美替尼的优势依然停留在“量变”阶段。而其分子结构"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "50%",
+        "35%",
+        "mPFS超过20"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "好比",
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "要知道，肺癌是肿瘤脑转移的第一大原发病灶，超过50%EGFR突变的NSCLC患者会在疾病进展的过程中发生脑转移。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "研究纳入的CNS转移患者以及L858R突变患者比例分别为35%和49%，均为同类研究最高，患者基线预后更差。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nFURLONG 研究中，伏美替尼在中位暴露时间比吉非替尼高出50%，达到18.3个月，但≥3级TRAEs的发生率仅为11%、停药率仅为3%，领先其他三代TKI一个身位。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "二线治疗T790M突变的安全性数据与一线治疗类似，≥3级TRAE发生率仅 8%-11%，各项≥3级TRAE不超过1.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n高选择优势\n克服难治突变EGFR ex20ins\n\nEGFR 20外显子插入突变（ex20ins）是最经典的罕见难治突变，约占所有EGFR突变NSCLC的2%~5%[8]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241210-0041.json",
+    "original_url": "https://mp.weixin.qq.com/s/GvgONN3CpFZ-0zgoBo1wKg",
+    "publish_time": "2024-12-10",
+    "distilled_at": "2026-03-17T10:48:00.028697"
+  }
+}

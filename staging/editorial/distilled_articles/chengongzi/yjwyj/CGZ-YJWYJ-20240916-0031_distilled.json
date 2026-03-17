@@ -1,0 +1,66 @@
+{
+  "article_id": "CGZ-YJWYJ-20240916-0031",
+  "normalized_title": "INTP | 可乐组合成了！mRECIST标准评估的ORR高达71.3%，超过一半患者完全缓解……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 设计 |&nbsp;几页 来源 | 医界望远镜 今年ESMO上肝癌领域重磅频出，LEAP-012研究就是其中之一。作为全球首个TACE+TKi+免疫检查点抑制剂一线治疗肝癌的大型III期临床研究，LEAP-012研究自2020年注册启动，历时四年，终于取得惊艳的结果。mRECIST标准评估的ORR高达71.3%！是肝癌治疗的里程碑胜利。 摘要号：LBA3 LEAP-012的「研格」分析 版权/免责声明： 本文内容仅用于医疗行业信息传播、知识分享，我们会对发表的内容进行溯源、求证，力求专业、可靠，但不对内容的准确性做出承诺；不提供任何医疗、商业、投资建议，欢",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n设计 |&nbsp;几页\n来源 | 医界望远镜",
+    "supporting_points": [
+      "今年ESMO上肝癌领域重磅频出，LEAP-012研究就是其中之一。作为全球首个TACE+TKi+免疫检查点抑制剂一线治疗肝癌的大型III期临床研究，LEAP-012研究自2020年注册启动，历时四年，..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "71.3%",
+        "ORR高达71"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "mRECIST标准评估的ORR高达71.3%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240916-0031.json",
+    "original_url": "https://mp.weixin.qq.com/s/9Zg1R7Zg2juhAv0iYQ_CQg",
+    "publish_time": "2024-09-16",
+    "distilled_at": "2026-03-17T10:47:59.809485"
+  }
+}

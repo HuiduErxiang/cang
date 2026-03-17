@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20241110-0040",
+  "normalized_title": "内卷和停滞：中国电商原地踏步的五年",
+  "one_paragraph_essence": "文章以阿里支付30亿和解金了结集体诉讼开场，讲述中国电商行业在反垄断震荡后的五年变迁。作者以历史纵深视角，分析电商格局从集中到分散的底层逻辑，揭示基础设施公用化如何消解老玩家的先发优势。文章指出价格战重燃、商家利润薄如纸片、消费者投诉愈演愈烈的亚健康生态，最终归结于内卷。",
+  "topic": "互联网电商",
+  "subtopic": "中国电商格局演变与内卷困境",
+  "audience": "关注电商行业、互联网竞争、商业模式的读者",
+  "narrative_frame": {
+    "frame_type": "industry_analysis_with_structural_insight",
+    "key_elements": ["事件开场", "格局变化分析", "底层逻辑揭示", "困境总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国电商格局从集中到分散，根源来自基础设施的公用化，导致内卷和原地踏步的五年",
+    "supporting_points": [
+      "阿里+京东市占率从80%下滑到约64%",
+      "拼多多和抖音GMV从数千亿涨到接近6万亿",
+      "物流、支付、中小商家生态等基础设施公用化",
+      "价格战重燃、商家利润薄、消费者投诉多"
+    ],
+    "conclusion_hook": "在很多从业者的眼里：过去5年，是中国电商行业原地踏步的5年"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "settlement_opening",
+      "example": "自2020年开始中国电商行业围绕反垄断所激起的一系列震荡，终于在五年之后画上了休止符",
+      "effect": "以重大事件收尾开场，建立时代感"
+    },
+    {
+      "device_type": "structural_insight",
+      "example": "成熟电商基础设施的公用化，也意味着老玩家难以对新玩家建立起足够高的壁垒",
+      "effect": "揭示格局变化的底层逻辑"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["data", "event", "structural_analysis"],
+    "integration_style": "事件驱动+数据分析+结构洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "structural", "critical"],
+    "syntax_patterns": ["事件收尾开场句式", "结构洞察句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "自[年份]开始[行业]围绕[X]所激起的一系列震荡，终于在[N]年之后画上了休止符",
+      "context": "时代性事件收尾开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "[X]的公用化，也意味着[Y]难以对[Z]建立起足够高的壁垒",
+      "context": "基础设施效应分析",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241110-0040.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "article_id": "CGZ-YSD-20221209-0064",
+  "normalized_title": "历史上，总金额达到50亿美元的「非并购」BD交易只有9起！其中4个发生在今年...",
+  "one_paragraph_essence": "药时代创新药BD高阶研讨会火热报名中！ 药时代投融资高阶研讨会火热报名中！ 创新药领域向来不缺大型BD交易，总金额超过1亿美元一点也不稀奇，超过10亿美元也有不少，不过，如果总交易金额达到50亿美元，还是非兼并购型的交易，那就需要一些天时地利人和了。 首先，买方要有实力。50亿美元的总金额甚至超过了一些中型biotech的公司市值，即便是首付款，没点家底也拿不出来，资金上的限制使得这些交易的买方多数都是大型的药企，有充沛的现金流。 其次，产品要够分量。如果一个产品不够就得多个产品打包，有时候还得搭上技术平台和股权，这种层面的交易就不单单是看产品，而是相当于对公司进行投资。不过既然如此，那...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "药时代创新药BD高阶研讨会火热报名中！",
+    "supporting_points": [
+      "创新药领域向来不缺大型BD交易，总金额超过1亿美元一点也不稀奇，超过10亿美元也有不少，不过，如果总交易金额达到50亿美元，还是非兼并购型的交易，那就需要一些天时地利人和了。\n首先，买方要有实力。50...",
+      "TOP 1：Lynparza（中文商品名：利普卓）\n日期：2017年7月27日\n总交易金额：85亿美元\n首付款：16亿美元\n买方：默沙东\n卖方：阿斯利康"
+    ],
+    "conclusion_hook": "可以说，吉利德除了在丙肝系列药物的交易里下注成功，后续的交易大型交易都显得有点任性。\nTOP.9\n\nTOP 9：依沃西单抗（AK112，PD-1/VEGF双特异性抗体）\n日期：2022年12月6日\n总"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "44.4%",
+        "77.8%",
+        "1亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 3,
+      "examples": [
+        "尽管与Exscientia合作的总价更高，但从单价上来看，天演药业只需要开发4个抗体药物，每个药物超6亿美元的价格还是",
+        "即便是首付款，没点家底也",
+        "即便是跨国巨头，如果公司经营不善，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "其中有44.4%的交易，合作双方都是的跨国制药巨头；买方里，77.8%是TOP10跨国药企，88.9%是TOP20的跨国药企；55.5%是单产品交易。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n创新药领域向来不缺大型BD交易，总金额超过1亿美元一点也不稀奇，超过10亿美元也有不少，不过，如果总交易金额达到50亿美元，还是非兼并购型的交易，那就需要一些天时地利人和了。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "50亿美元的总金额甚至超过了一些中型biotech的公司市值，即便是首付款，没点家底也拿不出来，资金上的限制使得这些交易的买方多数都是大型的药企，有充沛的现金流。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "因此，多数我们现在看到的，能值50亿美元交易额的产品，都是以并购的形式被买方拿下，代表案例包括但不限于：K药、O药、修美乐、Trodelvy。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n据药时代不完全统计，从2000年至今，总金额超过50亿美元的超大型「非并购」BD交易只有9起。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221209-0064.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248062349&idx=1&sn=23209aaf58f4decfade2b3d34fb32ba7&chksm=ecbbed6bdbcc647d46715118b517f968f391d946435429bef7a4c2d8f229c730f8949305168f#rd",
+    "publish_time": "2022-12-09",
+    "distilled_at": "2026-03-17T10:56:04.626793"
+  }
+}

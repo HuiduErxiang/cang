@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20211219-0011",
+  "normalized_title": "远川年底大会，要从徐翔听路演开始聊起……",
+  "one_paragraph_essence": "文章以2014年底徐翔听路演的故事开场，引出投资的「二元模型」：一种是「人」（市场参与者），一种是「物」（资产标的）。作者通过徐翔为什么需要听路演的设问，揭示即使是依赖交易的投机者也需要对「物」有真实了解，最终阐述远川「信息底座+思维底座」的内容基础设施定位，引出「远宇宙大会」的活动介绍。",
+  "topic": "产品介绍",
+  "subtopic": "投资认知框架与远川产品定位",
+  "audience": "关注投资、内容产品的读者",
+  "narrative_frame": {
+    "frame_type": "framework_pitch",
+    "key_elements": ["故事开场", "模型提炼", "产品定位", "活动引出"]
+  },
+  "argument_skeleton": {
+    "main_claim": "投资是「人」与「物」的二元关系，远川致力于建设「信息底座」和「思维底座」",
+    "supporting_points": [
+      "徐翔作为擅长快进快出的野蛮人，也需要花时间听路演了解基本面",
+      "投资场景下只有两种变量：「人」是市场参与者，「物」是资产标的",
+      "同样的基本面信息，投资人的理解往往大相径庭",
+      "远川的使命是「消除投资信息的不对称」"
+    ],
+    "conclusion_hook": "「信息底座」和「思维底座」，就是我们希望构建的投资内容基础设施"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "anecdote_opening",
+      "example": "2014年年底，我跟一位卖方首席夜宵，他吐槽道：「昨天收盘我去一家公募路演，基金经理听了3分钟就开始玩手机；今天收盘我去泽熙，徐翔自己过来听...」",
+      "effect": "以行业轶事开场，制造反差和悬念"
+    },
+    {
+      "device_type": "binary_framework",
+      "example": "投资这个无比复杂的世界，其实就是一个简单的「二元模型」：一种是「人」，一种是「物」。",
+      "effect": "用二元框架简化复杂世界"
+    },
+    {
+      "device_type": "literary_allusion",
+      "example": "鲁迅曾经这样评价《红楼梦》：「经学家看见易，道学家看见淫，才子看见缠绵，革命家看到排满，流言家看见宫闱秘事……」资产价格其实也是一样。",
+      "effect": "用文学典故类比资产价格的多义性"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["industry_anecdote", "conceptual_framework", "literary_allusion"],
+    "integration_style": "行业轶事+概念框架+文学典故"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["framework_oriented", "insider", "conceptual"],
+    "syntax_patterns": ["轶事开场句式", "二元框架句式", "文学典故句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{场景}，我跟一位{身份}夜宵，他吐槽道：「{反差故事}」",
+      "context": "行业轶事开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "{领域}这个无比复杂的世界，其实就是一个简单的「二元模型」：一种是「{变量A}」，一种是「{变量B}」。",
+      "context": "二元框架提炼",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "{名人}曾经这样评价{作品}：「{名言}」{应用场景}其实也是一样。",
+      "context": "文学典故类比",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20211219-0011.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

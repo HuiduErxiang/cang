@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20220325-0020",
+  "normalized_title": "行业寒冬？这3家biotech，1天融资「超过15亿」！有了好数据，啥寒冬都不怕...",
+  "one_paragraph_essence": "过去的24小时里，有3家上市biotech公司增派股份，筹集资金： Argenx以每股300美元的价格，增发了约150万股，同时每股273.1欧元的价格，出售78万股，最后融资金额约为7亿美元； Apellis以每股47美元的价格，增发了约750万股，融资金额约3.5亿美元； Ascendis则打算发行5亿美元的可转换优先债券（convertible senior note）。 总金额达到了超过了15亿美元！ 虽然现在的资本市场不同以往，但在这三家公司身上，完全没感受到即将迎来的 “行业寒冬”，究其原因，主要还是做出成绩了。 积极的临床数据 Argenx 3月22日，Argenx公布了其...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "过去的24小时里，有3家上市biotech公司增派股份，筹集资金：",
+    "supporting_points": [
+      "Argenx以每股300美元的价格，增发了约150万股，同时每股273.1欧元的价格，出售78万股，最后融资金额约为7亿美元；\nApellis以每股47美元的价格，增发了约750万股，融资金额约3.5...",
+      "总金额达到了超过了15亿美元！\n虽然现在的资本市场不同以往，但在这三家公司身上，完全没感受到即将迎来的&nbsp;“行业寒冬”，究其原因，主要还是做出成绩了。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "78.7%",
+        "4.8%",
+        "7亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n结果显示，78.7%的TransCon PTH治疗患者达到了主要终点，而对照组患者这一数值为4.8%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n再鼎医药早在2021年就与Argenx达成了战略合作，获得了efgartigimod在大中华区的开发和商业化权利，交易金额高达1.75亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2020年Soliris的销售额高达40.64亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此次Ascendis筹资5亿美元，也是为了该药物的上市和商业化做准备。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "重磅ADC药物DS-8201，获NMPA受理，AZ为它花了69亿美元！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220325-0020.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247900387&idx=1&sn=57b9d2d0fdf4b6e4c2eb043c2f5f7d09&chksm=ecb96405dbceed139eef175cefe0dfce4f32d8b9c41898e2bf1f7cde9bbe87a9c021b5f2f1f3#rd",
+    "publish_time": "2022-03-25",
+    "distilled_at": "2026-03-17T10:56:04.294821"
+  }
+}

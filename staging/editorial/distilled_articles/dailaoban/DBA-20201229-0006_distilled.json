@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20201229-0006",
+  "normalized_title": "起承转合：解码高瓴消费的千亿版图",
+  "one_paragraph_essence": "文章以「一位当代青年的消费日常」开场，勾勒高瓴在消费赛道的庞然存在。作者以「起承转合」为叙事框架，剖析高瓴如何从二级市场起步，通过对京东、蓝月亮、良品铺子等案例的复盘，揭示其「不拘泥于阶段、不计较价格、喜欢中台赋能」的独特打法，最终回答「这些道理人人都懂，仅凭它们就能解释高瓴的成功吗」的核心问题。",
+  "topic": "投资机构",
+  "subtopic": "高瓴消费投资方法论与千亿版图解析",
+  "audience": "关注投资、消费行业、商业模式的读者",
+  "narrative_frame": {
+    "frame_type": "investment_methodology",
+    "key_elements": ["生活场景开场", "案例矩阵铺陈", "方法论提炼", "核心问题回答"]
+  },
+  "argument_skeleton": {
+    "main_claim": "高瓴的成功来自于它对「投资」这门生意的重新设计，而非简单的长期主义或价值投资理念",
+    "supporting_points": [
+      "高瓴在消费赛道押注近1000亿，打造了众多国民级品牌的Portfolio",
+      "成立前5年所有投资几乎只集中在二级市场，这是张磊的主动选择",
+      "不拘泥于阶段、不计较价格、喜欢中台赋能、甚至躬身入局",
+      "高瓴在寻找护城河的同时，也在给自己打造护城河"
+    ],
+    "conclusion_hook": "如果把高瓴只当成一家传统投资公司，这些迷惑都可理解。但它身上的一切未知，恰巧都来自于它对「投资」这门生意的重新设计"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "daily_scene_opening",
+      "example": "每天醒来后，TA可能先刷会儿微信，再用滴滴打车上班，中午用美团叫外卖，下午吃一包良品铺子，晚上跟朋友去海底捞...",
+      "effect": "以日常生活场景建立代入感，揭示高瓴的无处不在"
+    },
+    {
+      "device_type": "counterintuitive_question",
+      "example": "这些道理你懂，我懂，人人都懂，仅凭它们就能解释高瓴的成功吗？",
+      "effect": "用反直觉问题打破读者的思维惯性"
+    },
+    {
+      "device_type": "meta_definition",
+      "example": "如果把高瓴只当成一家传统投资公司，这些迷惑都可理解。但它身上的一切未知，恰巧都来自于它对「投资」这门生意的重新设计。",
+      "effect": "从表象深入本质，给出重新定义"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["portfolio_case", "investment_timeline", "methodology_distillation"],
+    "integration_style": "案例铺陈+时间线+方法论提炼"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "meta_level", "insider"],
+    "syntax_patterns": ["生活场景句式", "反直觉问题句式", "元定义句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "每天醒来后，TA可能先{动作A}，再{动作B}，中午{动作C}，下午{动作D}，晚上{动作E}...",
+      "context": "生活场景铺陈开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "这些道理你懂，我懂，人人都懂，仅凭它们就能解释{主体}的成功吗？",
+      "context": "反直觉问题",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "如果把{主体}只当成{传统定义}，这些迷惑都可理解。但它身上的一切未知，恰巧都来自于它对「{本质}」的重新设计。",
+      "context": "元定义揭示",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20201229-0006.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

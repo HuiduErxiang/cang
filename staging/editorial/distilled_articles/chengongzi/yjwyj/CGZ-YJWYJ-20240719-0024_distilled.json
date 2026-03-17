@@ -1,0 +1,79 @@
+{
+  "article_id": "CGZ-YJWYJ-20240719-0024",
+  "normalized_title": "不良反应真能预测免疫疗法效果？Lancet子刊发表研究，近2.7万名患者回顾分析给出答案……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 2020年末，英国康沃尔皇家医院血液科接诊了一名病情复杂的患者。他有多年的IgA肾病史，三年前曾接受肾移植但最终失败，肾衰竭让他长期靠透析维持生命。雪上加霜的是，他罹患了霍奇金淋巴瘤，且已经多处转移。 而这次他入院的原因是——感染了新冠病毒。深感绝望的他在医院接受了11天的支持护理后返回了家中，期间未接受过任何皮质类固醇或免疫化疗，也未接受抗肿瘤治疗。不过这次，命运的回旋镖击中了他。4个月后复查，他的淋巴瘤竟然奇迹般的缓解了。 他的病例随后被发表在了《英国血液学杂志》上[1]，研究者推测新冠病毒激发了他的免疫系统。在过渡激活的状态下，免疫细",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2020年末，英国康沃尔皇家医院血液科接诊了一名病情复杂的患者。他有多年的IgA肾病史，三年前曾接受肾移植但最终失败，肾衰竭让他长期靠透析维持生命。雪上加霜的是，他罹患了霍奇金淋巴瘤，且已经多处转移。..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "37.7%",
+        "30.5%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n研究结果\n\n发生率\n在MGBD队列中，3284（37.7%）名患者发生了irAEs；TriNetX队列中，5538（30.5%）名患者发生了irAEs。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n其中，最常见的是内分泌和皮肤相关的irAE，两个队列的分别有1196（36%）和2069（37%）名患者发生内分泌相关事件，787（24%）和1399（25%）名患者发生皮肤相关的irAE。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "例如，在817名内分泌irAEs与其他器官系统共现的患者中，有33%的患者同时也出现了皮肤irAEs，33%的患者出现了胃肠道irAEs，31%的患者出现了肌肉骨骼irAEs。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240719-0024.json",
+    "original_url": "https://mp.weixin.qq.com/s/4WSEaiKp29z5pMahMzwZXQ",
+    "publish_time": "2024-07-19",
+    "distilled_at": "2026-03-17T10:47:59.721378"
+  }
+}

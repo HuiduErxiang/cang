@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YJWYJ-20250206-0050",
+  "normalized_title": "胃癌全人群获益被重新定义后，卡度尼利单抗成了免疫疗法中的唯一……",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 2018年，CSCO胃癌诊疗指南做出了颇为大胆的调整。 这是CSCO胃癌诊疗指南的第二次发布。彼时，国内尚无免疫疗法获批，指南却直接在晚期三线治疗中推荐了PD-1单抗[1]，成为首批将PD-1单抗纳入推荐方案的指南之一。看上去极为开放的修订，背后反映的是晚期胃癌治疗方案的匮乏。 一线治疗方案几乎全是化疗，后线治疗推荐中的“临床研究”更是刺眼 黎明前的黑暗持续了3年。随着4款PD-1单抗陆续在国内获批晚期胃癌一线适应症，晚期胃癌治疗进入了免疫时代。无需进行PD-L1检测即可使用让 “全人群获益”成为PD-1单抗带给胃癌领域的最大福音。 可好景不长，20",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2018年，CSCO胃癌诊疗指南做出了颇为大胆的调整。\n这是CSCO胃癌诊疗指南的第二次发布。彼时，国内尚无免疫疗法获批，指南却直接在晚期三线治疗中推荐了PD-1单抗[1]，成为首批将PD-1单抗纳入...",
+      "黎明前的黑暗持续了3年。随着4款PD-1单抗陆续在国内获批晚期胃癌一线适应症，晚期胃癌治疗进入了免疫时代。无需进行PD-L1检测即可使用让 “全人群获益”成为PD-1单抗带给胃癌领域的最大福音。\n可好..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "22.95%",
+        "49.84%",
+        "mOS达到了20"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n安全性方面，卡度尼利单抗联合化疗的≥3级TRAEs的发生率仅比单独化疗（53.6%）增加了12.3%，减毒增效不含糊。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果显示，三联治疗组的ORR为48%，DCR高达96%，mPFS接近7个月，是目前胃癌二线治疗里最长的mPFS。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "结果显示，ITT人群的pCR率达到了21.1%，相比KEYNOTE-585提升近10%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在II期临床COMPASSION-04研究[6]中，卡度尼利单抗联合化疗一线治疗PD-L1 CPS≥5的患者，mOS达到了20.32个月，刷新了PD-1单抗在该类患者中的最高生存数据。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在III期临床COMPASSION-15研究[7]的中期分析中，对于PD-L1 CPS≥5的患者，截止随访18.69个月时间时，mOS尚未达到（对照组：10.6个月，HR 0.56）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250206-0050.json",
+    "original_url": "https://mp.weixin.qq.com/s/8DKegL61GcH3IBjWMlx5xw",
+    "publish_time": "2025-02-06",
+    "distilled_at": "2026-03-17T10:48:00.550879"
+  }
+}

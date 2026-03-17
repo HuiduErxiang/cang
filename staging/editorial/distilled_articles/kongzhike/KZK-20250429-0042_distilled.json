@@ -1,0 +1,47 @@
+{
+  "article_id": "KZK-20250429-0042",
+  "normalized_title": "2025年一季度海外药企进展更新：罗氏ROG",
+  "one_paragraph_essence": "虎落平阳的肿瘤一哥罗氏，医药板块的业绩在去年上半年一波起色后，又陷于环比停滞，因而市值也就只能在$250b左右徘徊不前。",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": []
+  },
+  "argument_skeleton": {
+    "main_claim": "虎落平阳的肿瘤一哥罗氏，医药板块的业绩在去年上半年一波起色后，又陷于环比停滞，因而市值也就只能在$250b左右徘徊不前。",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20250429-0042.json",
+    "original_url": "https://mp.weixin.qq.com/s/zgYYma5VctyQIc-untMg4g",
+    "publish_time": "2025-04-29",
+    "distilled_at": "2026-03-17T10:17:04.091238"
+  }
+}

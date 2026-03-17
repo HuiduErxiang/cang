@@ -1,0 +1,125 @@
+{
+  "article_id": "CGZ-YSD-20221116-0060",
+  "normalized_title": "产品疗效太好也会引发股价大跌？小公司经不起折腾了...",
+  "one_paragraph_essence": "点击图片 ， 预约今晚7点半直播！ 正文共： 2657字 1图 预计阅读时间： 7分钟 Sellas Life Sciences，一家跟中国药企关系密切的美国biotech公司。其管线里拥有两款产品：一款是从劲方医药引进的CDK9小分子抑制剂；另一款First-in-Class的产品——靶向WT1蛋白的多肽癌症疫苗Galinpepimut-S（GPS）则在两年前被授权给了思路迪医药，由思路迪在大中华区进行开发，中方代号为3D189。 2022年11月14日，Sellas公布了GPS针对急性髓性白血病（AML）患者三期临床试验（REGAL研究）的重要更新。消息公布之后，股价当日大跌45%，...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "点击图片",
+    "supporting_points": [
+      "正文共：&nbsp;2657字 1图\n预计阅读时间：&nbsp;7分钟\nSellas Life Sciences，一家跟中国药企关系密切的美国biotech公司。其管线里拥有两款产品：一款是从劲方医药..."
+    ],
+    "conclusion_hook": "可以说效果还不错，因而在开篇提到的REGAL研究里，GPS有望获得超预期的疗效，被寄予厚望。\n然而对于财务状况不甚理想的Sellas来说，超出预期太多的疗效，反而有可能会成为一剂猛药，让“虚不受补”的"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "然而"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "不得不说"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "45%",
+        "12%",
+        "mOS）为18"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "不得不说，美国医疗产业，在产、学合作及成果转化上确实非常先进。",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "消息公布之后，股价当日大跌45%，次日继续下跌12%，两天的累计跌幅超过50%，Sellas市值则直接跌破5000万美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "试验结果显示，患者的中位OS（mOS）为18.4个月，而此前单用PD-1治疗类似患者的mOS数据为13.8个月，延长4.6个月；中位无进展生存期（mPFS）为12周，单用PD-1为8周，延长50%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "临床数据一路向好，股价也大涨，但还是要裁员...\n股价仅剩峰值的2%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "当初总金额2亿美元买来的GPS，效果越好自然是收益越大。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221116-0060.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248042515&idx=1&sn=d83f718be6e1f8e0afa5d4298d74487a&chksm=ecbb30f5dbccb9e3e29cada38aba53e5f6c0a0b3df74a321b673613e0dc2782cfd5be16f102a#rd",
+    "publish_time": "2022-11-16",
+    "distilled_at": "2026-03-17T10:56:04.592785"
+  }
+}

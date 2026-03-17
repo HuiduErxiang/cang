@@ -1,0 +1,19 @@
+{
+  "article_id": "KZK-20240711-0029",
+  "title": "【药海听涛】是你太疯癫，还是我看不穿：礼来32亿美元收购Morphic之惑",
+  "publish_time": "2024-07-11",
+  "url": "https://mp.weixin.qq.com/s/vq2I5SMdJI0hvTBY9799mA",
+  "author": "空之客",
+  "content": "7月8日，礼来公告以32亿美元现金收购Morphic，显然这是一家只有一款处在临床二期的小分子α4β7抑制剂的单产品公司，而礼来在这个管线投下重注，着实让笔者有些困惑。从去年礼来出手收购DICE，以及今年以来多笔针对自免领域的资产收购，多少都有点没太看懂，忍了两天并没有找到能解惑的说法（其实是主业占满了带宽），还是自己动手来扒一下是不是有我没看明白的地方。\n\nhttps://investor.lilly.com/news-releases/news-release-details/lilly-acquire-morphic-improve-outcomes-patients-inflammatory\n\nhttps://investor.morphictx.com/static-files/afb4fcff-9676-4496-97d8-54c73ecfe163\n\n首先我们可以将MORF-057目前在代号为EMERALD-1的Phase2a临床研究中展现出的核心数据，与目前各溃疡性结肠炎药物进行简单粗暴的纸面对比。限于EMERALD-1试验主要披露的是单臂诱导期的数据，因而对安慰剂修正结果以及维持期都暂时无法对比。\n在诱导期的临床缓解率（Clinical Remmision）方面，MORF-057的26%只能说出于中游水平，并无什么特别过人之初（需说明此处Vedolizumab的有效性数据为6周、后文有维持期数据的详细分析）。\n\n在诱导期的临床响应率（Clinical Response）方面，MORF-057的46%更是基本处于现有药物的最低水平。\n\nMORF-057的安全性倒确实是不错，TEAE发生率非常低且没有SAE。\n\n接下来我们详细审视一下MORF-057的数据，特别是与已经被充分验证的α4β7单抗Vedolizumab（VDZ）之间的对比，来脑补未来可能的竞争空间。\n据Morphic早年披露，MORF-057是一款活性高且选择性强的α4β7抑制剂，不过单纯从数字上看，似乎也并没有比VDZ选择性高到哪里去，总给人一种从一开始就只定位成VDZ的“口服平替”的感觉。\n\nhttps://investor.morphictx.com/static-files/5da0ac37-756f-4b45-aca7-9a59cf1cd2ab\n具体的MORF-057这个2a期临床，样本量只有区区35例，而且有点奇葩的是每日两次100mg的剂量，既然要作为“口服平替”图个依从性、但却是口服UC药物中为数不多的BID给药频次（好像也就还有上古的Tofacitinib），更吊诡的是后面又在2b期临床中去探索QD剂量（后文详述），令人不禁想问“早干嘛去了”。\n\n在主要临床重点RHI（Robarts Histopathology Index）上，虽然有显著降低，但就连Morphic自己的态度都好像坦然承认了干不过VDZ（这里写“strong”真不知道是什么心态）。\n\n接下来就是重头的基于Mayo评分的临床缓解率和临床响应率，如前所述MORF-057的整体表现并不如意，在12周的诱导期治疗中这两项比率分别是25.7%和45.7%，与之相比VDZ在与Adalimumab头对头的VARSITY试验中16周后这两项比率分别是26.6%和67.1%，MORF-057几乎被全面压制。\n\nhttps://www.nejm.org/doi/suppl/10.1056/NEJMoa1905725/suppl_file/nejmoa1905725_appendix.pdf\nMORF-057对于基线病情较重的患者普遍疗效较差，包括经过TNF-α治疗的、基线使用激素、Mayo内镜评分（MES）为3等亚组，尤其是TNF经治的患者居然完全没有临床缓解就有点夸张了（以及这里写“consistent”也不知道是什么心态）；与之相比，VDZ可没有这么显著的亚组差异。\n\n就这临床结果，当初去年9月在UEG上发布的时候，市场已经用身体给出了相当诚实的反应，连跌三天市值从25亿垮到了10亿（有趣的是礼来收购价恰恰跟这波下跌之前水平相当）。\n\n再下一步是MORF-057的后续临床方案，也槽点颇多。\n一方面是上文提到的迷之剂量探索，2a期只做了100mg BID，然后到2b期铺开了增加200mg BID和QD两个组，而且公司在电话会上公然说“it's possible that those two will be very similar outcomes, despite the fact that the second is double the dose, double the Cmax, double the AUC, etc”，我就很迷惑那你还做个什么劲。\n\n另一方面是上文也提到在TNF经治和MES=3等亚组的药效不佳，然而在2b期公司依然坚持要入组不低于30%的TNF经治和MES=3患者，就突出一个头铁是么……\n\n最后非要给礼来这笔收购挽尊找个合理性的话，只能说礼来已经拥有相当强大的自免管线阵容，特别是手握IL23p19单抗Mirikizumab和小分子IL17抑制剂DC-806，都有可能与MORF-057形成联用协同作用，或者至少也可以充分利用礼来的研发和商业化能力。\n看礼来给出的这个收购金额，对MORF-057的峰值销售额预期怎么也得在$1.0-1.5b量级，以目前它与VDZ之间的对比，从后者超过$5b的销售额里面抢走20-30%份额，即使对礼来而言好像也并非易事。\n\n好吧实在编不下去了，必须承认是在下才疏学浅，实在没看明白礼来这一波收购操作的意图，以及近期很多其他自免资产交易的意图……",
+  "content_length": 2362,
+  "provenance": {
+    "source_file": "fulltext_kongzhike.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\空之客\\source_json\\fulltext_kongzhike.json",
+    "source_index": 28,
+    "original_title": "【药海听涛】是你太疯癫，还是我看不穿：礼来32亿美元收购Morphic之惑",
+    "original_url": "https://mp.weixin.qq.com/s/vq2I5SMdJI0hvTBY9799mA",
+    "author_name": "空之客",
+    "source_account": "空之客",
+    "extracted_at": "2026-03-17T00:30:35.313638"
+  }
+}

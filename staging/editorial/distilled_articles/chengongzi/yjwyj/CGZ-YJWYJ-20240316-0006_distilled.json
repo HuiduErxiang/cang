@@ -1,0 +1,52 @@
+{
+  "article_id": "CGZ-YJWYJ-20240316-0006",
+  "normalized_title": "Dato-Dxd（Trop2 ADC ）在华申报上市",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 2024年3月16日，CDE网站显示，第一三共/阿斯利康作开发的Trop2 ADC药物Dato-DXd在华申报上市。 申报适应症暂未公开，根据全球注册进展及临床研究进度，推测方向有两个。 如果是基于TROPION-Lung01的研究结果，则适应症为既往全身治疗后局部晚期或转移性非鳞状非小细胞肺癌 (NSCLC) 患者。该适应症上个月已获FDA受理，预计审批日期在2024年第四季度，第三方报道显示审批时间在2024年12月20日。如果获得批准，Dato-DXd将成为全球首个肺癌领域的TROP2 ADC药物。 如果是基于TROPION-Breast01",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年3月16日，CDE网站显示，第一三共/阿斯利康作开发的Trop2 ADC药物Dato-DXd在华申报上市。",
+      "申报适应症暂未公开，根据全球注册进展及临床研究进度，推测方向有两个。\n如果是基于TROPION-Lung01的研究结果，则适应症为既往全身治疗后局部晚期或转移性非鳞状非小细胞肺癌 (NSCLC) 患者...",
+      "如果是基于TROPION-Breast01的研究结果，则适应症为既往在不可切除或转移性疾病阶段接受过系统治疗HR+/HRE2阴性乳腺癌患者，第一三共2天前在日本递交了该适应症的上市申请。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240316-0006.json",
+    "original_url": "https://mp.weixin.qq.com/s/vsyedOzyVR2I64Qb_zMGxA",
+    "publish_time": "2024-03-16",
+    "distilled_at": "2026-03-17T10:47:59.173305"
+  }
+}

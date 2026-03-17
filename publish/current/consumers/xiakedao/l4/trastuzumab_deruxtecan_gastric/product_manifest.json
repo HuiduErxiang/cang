@@ -1,0 +1,16 @@
+{
+  "$schema": "../../manifests/schemas/l4_product_evidence_schema.json",
+  "product_id": "trastuzumab_deruxtecan_gastric",
+  "product_name": "德曲妥珠单抗 (胃癌)",
+  "therapeutic_area": "胃癌",
+  "indication": "HER2阳性胃癌",
+  "clinical_trials": [
+    "DESTINY-Gastric01",
+    "DESTINY-Gastric02",
+    "DESTINY-Gastric06"
+  ],
+  "efficacy_data": {},
+  "safety_data": {},
+  "biomarkers": [],
+  "sources": []
+}

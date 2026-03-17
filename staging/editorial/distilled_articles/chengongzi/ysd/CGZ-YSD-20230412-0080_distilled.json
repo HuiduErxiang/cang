@@ -1,0 +1,102 @@
+{
+  "article_id": "CGZ-YSD-20230412-0080",
+  "normalized_title": "10个月前「输给安慰剂」，公司决定放弃该适应症，10个月后最新数据出炉，竟然「起死回生」了",
+  "one_paragraph_essence": "临床试验一直不顺利怎么办？ 首先得找自己的原因，看看试验执行和设计当中有没有什么问题，接着，认真对待随后的每一项试验，无论是正在进行的、还没出结果的试验，还是已经失败了、但还在维持治疗的试验。 只要立项没毛病，药物分子够好，失败了的适应症也能「起死回生」。 真的，不吹牛，IMU-838就是个活生生的例子。 10个月前，广大群众眼睁睁地看着这药在溃疡性结肠炎（UC）适应症上迎接惨败，从安慰剂到最高剂量一共4个组，疗效画出了一条完美的波浪线。所属药企Immunic AG直接表示，除非有人愿意合作开发，不然这个适应症就永远不做了。 结果过了10个月，维持治疗组的试验出炉，它又站起来了。CEO当...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "临床试验一直不顺利怎么办？\n首先得找自己的原因，看看试验执行和设计当中有没有什么问题，接着，认真对待随后的每一项试验，无论是正在进行的、还没出结果的试验，还是已经失败了、但还在维持治疗的试验。\n只要立项没毛病，药物分子够好，失败了的适应症也能「起死回生」。\n真的，不吹牛，IMU-838就是个活生生的例子。\n10个月前，广大群众眼睁睁地看着这药在溃疡性结肠炎（UC）适应症上迎接惨败，从安慰剂到最高剂",
+    "supporting_points": [
+      "IMU-838是一款口服的小分子二氢硼酸脱氢酶（DHODH）抑制剂。\nDHODH则是一种生成嘧啶核苷酸的关键限速酶，而嘧啶核苷酸又是RNA、DNA、糖蛋白等生物大分子合成的关键原材料。人体内，嘧啶核苷..."
+    ],
+    "conclusion_hook": "可见的，作为临床常用药，如果联用的效果比单用差，一定会导致应用范围受到极大限制。\n\n同时，由于试验周期过长，分层又太多，导致样本量一再减小，到50周的数据出炉的时候，可供分析的数据已经变得跟一期临床差"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "怎么办？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "11.4%",
+        "14.7%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n30mg剂量组的临床缓解率达到了惊人的61.5%，为了更直观的展示这个治疗效果，Immunic还把其他主流UC治疗药物的疗效数据拉了出来做个对比。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230412-0080.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248121359&idx=1&sn=986bc9bad53189bd9fb2ddb66d51f7d5&chksm=ecbac4e9dbcd4dffc8f8fad172f5158017bd37cbd1824e3ff5c5439c92cb2eecfbe47b4a7a88#rd",
+    "publish_time": "2023-04-12",
+    "distilled_at": "2026-03-17T10:56:04.877563"
+  }
+}

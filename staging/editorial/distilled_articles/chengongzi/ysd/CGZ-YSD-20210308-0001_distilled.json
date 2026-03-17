@@ -1,0 +1,83 @@
+{
+  "article_id": "CGZ-YSD-20210308-0001",
+  "normalized_title": "为千百万患者提供新药解决方案——专访著名华人女性科学家徐连红博士",
+  "one_paragraph_essence": " 药时代编者按 今天是3月8日，我们心目中的女神节！首先，药时代敬祝致力于新药事业的广大女神们节日快乐！值此温暖、温馨时刻，我们特别对一位业内著名的女性科学家进行了专访，她就是腾盛博药的徐连红博士！ 腾盛博药被业界称作是拥有航母级高管团队的国际生物研发企业，2018年成立时就拿到了2.6亿美金的投资，至今以15款在线新药、其中近一半为自主研发的优异成绩备受关注。徐连红博士是初创高管团队中的一员，担任高级副总裁和药物化学研发部的负责人。 对于一位药物化学家来说，一生能发现一个成为临床前候选的化合物已经是里程碑式的成就。能有发明进入临床直至药物上市并取得巨大商业成功，更是极为难得。而徐博士是...",
+  "category": "药时代",
+  "topic": "人物专访",
+  "subtopic": "行业领袖",
+  "audience": "医药从业者、投资者",
+  "narrative_frame": {
+    "frame_type": "interview_profile",
+    "key_elements": [
+      "人物专访",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "&nbsp;",
+    "supporting_points": [
+      "今天是3月8日，我们心目中的女神节！首先，药时代敬祝致力于新药事业的广大女神们节日快乐！值此温暖、温馨时刻，我们特别对一位业内著名的女性科学家进行了专访，她就是腾盛博药的徐连红博士！\n腾盛博药被业界称...",
+      "为配合本期特别策划的时间安排，与徐博士的视频采访约在了北京时间周一早上10:30，这是她所在旧金山的周日晚上6:30。当天早上，我们在国内设置的视频链接登陆不上，这时准时上线的徐博士了解情况后不慌不忙..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "怎么做？一个最佳的临床是怎样的？",
+        "怎么做？一个最佳的临床是怎样的？"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210308-0001.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247613666&idx=1&sn=cd60fd944e94dab39f2c4a799a0c2e67&chksm=ecb28404dbc50d124613f98539be90b156ea179b3764f439cee48b90058b723d1f17288230f0#rd",
+    "publish_time": "2021-03-08",
+    "distilled_at": "2026-03-17T10:56:04.150582"
+  }
+}

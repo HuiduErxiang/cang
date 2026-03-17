@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20220526-0017",
+  "normalized_title": "当一个程序员去做HR，造轮子是首要任务",
+  "one_paragraph_essence": "文章以谢欣从程序员转行字节跳动HR的故事开场，讲述字节如何用工具思维重塑人力资源管理。作者以历史纵深视角，剖析字节从300人到十万人的组织管理挑战，揭示效率工程团队如何通过飞书等产品解决发现人才、发展人才、激励人才的难题。文章展示了一家技术公司如何用产品思维做组织管理。",
+  "topic": "企业组织管理",
+  "subtopic": "字节跳动HR产品化与组织效率",
+  "audience": "关注企业管理、HR、组织效率的读者",
+  "narrative_frame": {
+    "frame_type": "corporate_transformation_narrative",
+    "key_elements": ["跨界故事开场", "组织挑战剖析", "工具思维揭示", "产品化路径"]
+  },
+  "argument_skeleton": {
+    "main_claim": "字节跳动用产品思维做组织管理，通过飞书等工具解决规模扩张带来的管理效率问题",
+    "supporting_points": [
+      "2014年字节只有300人，管理层花70%时间招人",
+      "2017年用20台Excel模板电脑统计近5000名员工绩效",
+      "效率工程团队成立时间早于抖音在内的所有产品部门",
+      "发现人才、发展人才、激励人才是核心任务"
+    ],
+    "conclusion_hook": "不单单是做HR，还要做HR产品"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "career_shift_opening",
+      "example": "谢欣去老同事张一鸣的新公司报道时，后者给了他一个HR的岗位。他毕业于北京大学计算机系，先后在微软、百度、酷讯等公司做过产品经理，乃至CTO",
+      "effect": "以职业转型故事开场，建立人物纵深感"
+    },
+    {
+      "device_type": "scale_problem_reveal",
+      "example": "2017年春天，公司需要为近5000名员工统计绩效，制定调薪方案...动用了20台保存了Excel模板的电脑",
+      "effect": "以规模问题揭示管理挑战"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["career_story", "scale_data", "product_evolution"],
+    "integration_style": "故事驱动+规模问题+产品路径"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["narrative", "organizational", "product-focused"],
+    "syntax_patterns": ["职业转型开场句式", "规模问题揭示句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[人物]去老同事[创始人]的新公司报道时，后者给了他一个[X]的岗位。他毕业于[学校]，先后在[公司]做过[Y]",
+      "context": "职业转型故事开场",
+      "reusability_score": 3
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220526-0017.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

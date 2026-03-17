@@ -1,0 +1,85 @@
+{
+  "article_id": "CGZ-YJWYJ-20240813-0027",
+  "normalized_title": "重磅！T-DXd胃癌适应症获批，HER2克星来了……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 2024年8月13日，德曲妥珠单抗（T-DXd，商品名：优赫得）获得NMPA批准，单药治疗既往接受过两种或两种以上治疗方案的局部晚期或转移性HER2 阳性成人胃或胃食管结合部腺癌患者。 这是T-DXd在国内获批的第三项适应症、首个胃癌领域的适应症。 T-DXd的胃癌适应症已经于2021年1月获得美国食品药品监督管理局（FDA）批准，适应症为既往曲妥珠单抗经治的HER2阳性胃癌患者。 此次，NMPA批准的则是≥3线适应症，这意味着未来T-DXd还有提线的空间。 HER2 克星 胃癌和乳腺癌在肿瘤生物学上有很大差异，即便同为HER2过表达",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年8月13日，德曲妥珠单抗（T-DXd，商品名：优赫得）获得NMPA批准，单药治疗既往接受过两种或两种以上治疗方案的局部晚期或转移性HER2 阳性成人胃或胃食管结合部腺癌患者。\n这是T-DXd...",
+      "T-DXd的胃癌适应症已经于2021年1月获得美国食品药品监督管理局（FDA）批准，适应症为既往曲妥珠单抗经治的HER2阳性胃癌患者。\n此次，NMPA批准的则是≥3线适应症，这意味着未来T-DXd还有..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "51.3%",
+        "14.3%",
+        "mOS高于化疗组近50"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便同为HER2过表达，二者的肿瘤状态也也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "结果显示，HER2阳性患者中，经ICR确认的ORR为28.8%，疾病控制率（DCR）为79.5%；中位OS和PFS分别达到11.1个月和5.7个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n安全性方面，仅有3人(3.2%)发生了间质性肺病（ILD），其中2例1级，1例2级。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240813-0027.json",
+    "original_url": "https://mp.weixin.qq.com/s/VzlBwjSZ6CO-TdDr2t1lLA",
+    "publish_time": "2024-08-13",
+    "distilled_at": "2026-03-17T10:47:59.734998"
+  }
+}

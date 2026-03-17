@@ -1,0 +1,117 @@
+{
+  "article_id": "CGZ-YSD-20230107-0067",
+  "normalized_title": "瑕不掩瑜，Lecanemab获FDA批准上市！人类发起了对抗阿尔茨海默病的「诺曼底登陆」",
+  "one_paragraph_essence": "正文共： 3206字 2图 预计阅读时间： 9分钟 尽管已经拥有十余款上市药物、数十款在研产品，适应症涵盖了中枢神经系统疾病、血液瘤、罕见病和自身免疫性疾病等诸多疾病，但Biogen公司的官网主页还是将阿尔茨海默病放在了封面，在经历了近两年的动荡后，Biogen依然选择把未来压在这个药物研发史上最大的“黑洞”领域之一上。 2021年6月7日，由Biogen/卫材联合开发的抗阿尔茨海默病药物Aduhelm获FDA批准上市，作为首个可能改变阿尔茨海默病进程的药物，本以为Aduhelm能向着千亿美元市场大踏步挺近，没想到却引发了几乎可以称得上制药史上最大的争论。 纵然FDA有千般理由也难抵FD...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;3206字 2图\n预计阅读时间：&nbsp;9分钟",
+    "supporting_points": [
+      "尽管已经拥有十余款上市药物、数十款在研产品，适应症涵盖了中枢神经系统疾病、血液瘤、罕见病和自身免疫性疾病等诸多疾病，但Biogen公司的官网主页还是将阿尔茨海默病放在了封面，在经历了近两年的动荡后，B...",
+      "经历了578天的坚守后，Biogen/卫材再度给阿尔茨海默病领域带来了一款药物，如果抛开饱受争议的Aduhelm不谈，这应该是近二十多年来该领域最大的突破。"
+    ],
+    "conclusion_hook": "可以说是目前最强药物。有Aduhelm获批在前，FDA似乎没有不批Donanemab的理由。\nAduhelm、Lecanemab、Donanemab这“Aβ三巨头”是在这条路上走的最远的药物，而且已经"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "37.9%",
+        "1.6%",
+        "90亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "在经过6个月的治疗后Donanemab和Aduhelm组患者达到淀粉样蛋白斑块完全清除的比例分别为37.9%和1.6%，淀粉样蛋白斑块水平分别比基线水平降低了65.2%和17%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n不过RBC的分析师团队给了该药超过90亿美元的年销售额峰值的预估。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n推荐阅读\n\n顶级大牛的魅力，初创公司就获1.3亿美元融资，还有潜在20亿美元的交易\n这些「抗新冠药物」今年上半年可能在华获批！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230107-0067.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248081743&idx=1&sn=714e2882228e91c5cc8f063c2d3e2062&chksm=ecba59a9dbcdd0bf11ca58262282265bcf6312fbdbf8edb8813922100c70ab3c8b02d387cd19#rd",
+    "publish_time": "2023-01-07",
+    "distilled_at": "2026-03-17T10:56:04.645469"
+  }
+}

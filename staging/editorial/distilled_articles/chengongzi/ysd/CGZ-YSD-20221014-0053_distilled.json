@@ -1,0 +1,110 @@
+{
+  "article_id": "CGZ-YSD-20221014-0053",
+  "normalized_title": "股价单日暴跌近80%！唯一进临床的管线三期试验失败，原因竟是安慰剂效果太好...",
+  "one_paragraph_essence": "今天下午3点！欣赏重磅直播！ 正文共： 2747字 10图 预计阅读时间： 7分钟 如何让一家新药研发公司在一夜之间崩溃？Relmada Therapeutics给了人们标准答案——只做一款产品，并让它在早期就成为明星，随后在三期临床阶段，以最出人意料的方式迎接失败。 2022年10月13日，Relmada Therapeutics公布了其用于治疗重度抑郁症（MDD）的创新药物REL-1017的三期临床——RELIANCE III研究（REL-1017-303）的试验结果，统计结果表明，REL-1017单药治疗抑郁症未能达到「抑郁症症状评分改善」的主要终点。 受此消息影响，公司股价单日暴...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "今天下午3点！欣赏重磅直播！",
+    "supporting_points": [
+      "正文共：&nbsp;2747字&nbsp;10图\n预计阅读时间：&nbsp;7分钟\n如何让一家新药研发公司在一夜之间崩溃？Relmada Therapeutics给了人们标准答案——只做一款产品，并让...",
+      "2022年10月13日，Relmada Therapeutics公布了其用于治疗重度抑郁症（MDD）的创新药物REL-1017的三期临床——RELIANCE III研究（REL-1017-303）的试..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "80%",
+        "20%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n受此消息影响，公司股价单日暴跌近80%，堪称“踝斩”，更为关键的是，由于Relmada只专注于这一款药物的研发，此次失败的原因又过于“意想不到”，导致人们几乎看不到“翻盘点”。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在临床上，两代药物仍然难以满足需求，大约20%到30%的抑郁症患者在经过至少两次不同的抗抑郁药治疗后仍然没有疗效，二代抗议抑郁药奇特的治疗周期又引发了新一轮研发热潮。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n股价当日大涨134%，与如今的跌幅形成了鲜明对比。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2000年之前，安慰剂平均减少了29.8％（±12.6）的患者症状，而2000年后的方案则为36.2％（±6.6），安慰剂效应显著增加了6.4%（r=0.46, p<0.001）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在安慰剂效应显著增加6.4%的同时，抗抑郁药物的治疗效果也从2000年前的40.6％（±13.7）增加到2000年以后的46.6％（±7.0），增加了6.0%（r=0.37, p<0.001）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221014-0053.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248011652&idx=1&sn=c95d75d27cf86af0ab06b5634a82e5a7&chksm=ecb8b762dbcf3e74c0a43c0df674e220da23c6250fdb47371866da20811817a2976500fd3ed2#rd",
+    "publish_time": "2022-10-14",
+    "distilled_at": "2026-03-17T10:56:04.541801"
+  }
+}

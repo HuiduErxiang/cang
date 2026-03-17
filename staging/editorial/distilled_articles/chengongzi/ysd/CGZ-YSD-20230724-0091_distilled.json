@@ -1,0 +1,108 @@
+{
+  "article_id": "CGZ-YSD-20230724-0091",
+  "normalized_title": "吉利德这CD47的疗效，咋说没就没了呢...",
+  "one_paragraph_essence": "欢迎观看，直播有奖！ 正文共：2700字 4图 预计阅读时间：8分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | 小品《心病》 随着研究的逐渐深入，CD47药物开发的大厦即将落成，美丽而晴朗的天空上，仅剩两朵乌云笼罩，一朵是“血液毒性”，一朵是“疗效不佳”。 不幸的是，4天前，乌云还只有一朵...... 2023年7月21日，吉利德宣布终止CD47单抗莫洛利单抗（Magrolimab）联合阿扎胞苷治疗高风险MDS的3期临床ENHANCE 研究，原因是疗效不佳。 CD47单抗严格来说也算是免疫检查点抑制剂，曾被业内寄予厚望，希望能找到PD-1之后的下一个巨大增长点，而莫洛...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "欢迎观看，直播有奖！",
+    "supporting_points": [
+      "随着研究的逐渐深入，CD47药物开发的大厦即将落成，美丽而晴朗的天空上，仅剩两朵乌云笼罩，一朵是“血液毒性”，一朵是“疗效不佳”。\n不幸的是，4天前，乌云还只有一朵......"
+    ],
+    "conclusion_hook": "可以说是应有尽有。\n国内的信达、康方等biotech在这条思路上走在了比较靠前的位置。\n在ENHANCE研究终止之后，业内对CD47的看法可能会出现一个比较大的转变，安全性恐怕不再是卖点，反而可能会成"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是，"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么就没了呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 3,
+      "examples": [
+        "92%",
+        "50%",
+        "ORR达到了92"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "虽然能适用的癌种更多，但是",
+        "即便大家都是CD47单抗，但每个CD47单抗之间的“性格”也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n在莫洛利单抗联用阿扎胞苷的1b期临床试验里，一线治疗MDS的ORR达到了92%（22/24），CR也达到了50%（12/24)。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230724-0091.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248177984&idx=1&sn=1973a5df628aa68b80f0c7f63c443705&chksm=ef4521a6d832a8b014cfb4e2ebf95dbb2d13d56699ab95e16c89cf74013eb648c433a880a84d#rd",
+    "publish_time": "2023-07-24",
+    "distilled_at": "2026-03-17T10:56:04.981895"
+  }
+}

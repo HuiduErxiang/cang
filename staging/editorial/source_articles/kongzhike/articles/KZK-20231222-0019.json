@@ -1,0 +1,19 @@
+{
+  "article_id": "KZK-20231222-0019",
+  "title": "【药海听涛】安慰剂杀疯了：Efgartigimod临床迭遭败绩",
+  "publish_time": "2023-12-22",
+  "url": "https://mp.weixin.qq.com/s/JE91RAzidg3C3a5gy_ewag",
+  "author": "空之客",
+  "content": "作为近年来全球医药领域崛起速度最快的企业之一，argenx的成长道路可谓顺风顺水，实现了股价6年30倍以上增幅的壮举，这一切都建立在旗下FcRn拮抗剂Efgartigimod的巨大成功之上，这个自免领域又一款潜在的“pipeline in a product”，此前在重症肌无力和慢性炎性脱髓鞘性多发性神经根神经病等适应症上一路高歌猛进，上市两年以内就跨过了年销售额10亿美元大关。\n\nhttps://www.argenx.com/sites/default/files/event-attachment/argenx_3Q_2023_FInancial_Results_and_Business_Update_Presentation.pdf\n\n然而最近一个月，Efgartigimod在免疫性血小板减少症（ITP）和天疱疮（Pemphigus Vulgaris and Foliaceus）两大适应症上接连失利，而且十分吊诡的是未能达到临床终点的主要原因都是安慰剂组的药效大幅高于预期，argenx对于这种奇景显然也十分挠头，只能暂时归咎于自免疾病生物学机制的复杂性，因而还有赖更多的研究。\n\n首先是11月28日公布的ADVANCE SC试验结果，原计划是开展两项静脉注射剂型的注册临床，后来决定采取皮下注射剂型，前一个ADVANCE IV试验结果积极，而本试验就是后者，两个试验的试验设计和患者基线基本一致。\n本试验共入组了207名难治ITP患者、其中75%接受过3种以上疗法，按照2:1分配到用药组和安慰剂组，且两个组都允许背景标准疗法。\n\nhttps://www.argenx.com/sites/default/files/event-attachment/ADVANCE-SC_Topline_11-2_call.pdf\n主要临床终点是在19-24周内维持稳定的血小板计数的患者比例，结果用药组反而不及安慰剂组；与之前的ADVANCE-IV试验相比，用药组响应率下降了不说（从21.8%降到13.7%），安慰剂组则直接超神（从5.0%蹦到16.2%）。此外，多个次要终点也都没有达到显著性。\n\nhttps://www.argenx.com/sites/default/files/event-attachment/ARGX_ASH_ADVANCE_IV_Presentation_12.11.22.pdf\n为了找出这离谱的安慰剂效应的来源，argenx管理层也是挖空了心思，然而目前还未能定论。首先是基本排除了从静脉到皮下的剂型转换的影响，证据是在诸如gMG和CIDP等其他适应症的研究中，这两个剂型降低IgG的效果都基本一致；患者的疾病诊断时间啊和已接受治疗情况，虽然可能有一定影响，但前后两个试验基线相近、且绝大部分患者都已是重度难治，不太至于出现这么大差别；管理层目前提出唯一有点靠谱的解释是地域变量问题，在ADVANCE-IV试验中不同地域的响应率情况差异较大，而ADVANCE-SC试验则入组范围更广，可能引入了更多不可控的噪音。\n\n电话会议中，管理层说道：“We saw a smaller treatment effect in the second study, which we can't fully rationalize but does align with the high intrinsic friability that is often seen with refractory patients. We also saw a&nbsp;significantly higher placebo response, much higher than the first study and historic trials. We use the primary endpoint that is meant to knock placebo down close to 0, but simply did not happen.&nbsp;We are learning that ITP is a very complex disease to study and to treat, but both successes and setbacks contribute to our deeper understanding of FcRn biology. We have been fortunate to have 4 out of 4 wins in proof-of-concept studies and 4 out of 4 in Phase III, but we know that will not always be linear when it comes to building an exceptional drug like VYVGART.”\n\n然后是12月20日公布的ADDRESS试验结果，该试验共入组了190例PV患者和32例PF患者，按照2:1分配到用药组和安慰剂组、两个组都伴随使用皮质激素标准疗法。\n主要终点是在30周内在最低皮质激素剂量下能稳定达到完全缓解（CRmin）的PV患者比例，次要终点包括达到CRmin的全人群患者比例、累积皮质激素剂量、疾病控制和完全缓解的时间等。然而，结果是主要和次要终点全都没达到。\n\nhttps://www.argenx.com/sites/default/files/event-attachment/argenx_ADDRESS_TLR_FINAL_Dec20.pdf\n这个试验中，用药组发挥相对正常，Efgartigimod降低IgG幅度约为75%；然而皮质激素却也神奇的做到将DSG-1/3等自身抗体降低了60-70%，而文献中的水平大约在10%，这令研究者非常惊讶，因为本试验中皮质激素的起始剂量低至指南推荐剂量的1/3~1/2。\n\n这种结果直接让argenx破了大防，果断决定对天疱疮适应症弃坑。在电话会议上，管理层说道：“This is basically revealing an unknown effect of the active in the control arm, a suboptimal dose of steroids on autoantibody levels. That's a problem we run into in this study, which we should be able to avoid in each and any of the future studies. I think pemphigus, there's no room for improvement left.”\n\n接连遭遇重创后，Efgartigimod可能一下子要失去$bn以上量级的潜在商业化价值，无怪乎市值从高点一下子缩水了快40%。\n\n由此只能感叹pipeline in a product，故事虽好、终非易事，特别是面对机制研究尚不充分的自身免疫疾病，又横跨多个不同组织器官，出现这种被安慰剂组摁在地上摩擦的奇葩剧情，既在意料之外、也在情理之中。",
+  "content_length": 3015,
+  "provenance": {
+    "source_file": "fulltext_kongzhike.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\空之客\\source_json\\fulltext_kongzhike.json",
+    "source_index": 18,
+    "original_title": "【药海听涛】安慰剂杀疯了：Efgartigimod临床迭遭败绩",
+    "original_url": "https://mp.weixin.qq.com/s/JE91RAzidg3C3a5gy_ewag",
+    "author_name": "空之客",
+    "source_account": "空之客",
+    "extracted_at": "2026-03-17T00:30:35.310681"
+  }
+}

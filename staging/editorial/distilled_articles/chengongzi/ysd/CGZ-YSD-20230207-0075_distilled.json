@@ -1,0 +1,110 @@
+{
+  "article_id": "CGZ-YSD-20230207-0075",
+  "normalized_title": "研究了20多年的CNS领域重磅新药，3期临床失败，去年才在日本获批上市...",
+  "one_paragraph_essence": "正文共： 3500字 12图 预计阅读时间： 9分钟 最近迷上了看临床试验报告，有一个体会——每一个看似“意料之外”的临床失败，仔细分析都是能看出点原因的。可以说，成功的试验大多相似，失败的试验则各有各的缺陷。 2023年2月6日，瑞士biotech公司Idorsia宣布，其ETA（内皮素A受体）拮抗剂clazosentan（克拉生坦）一项3期临床试验（REACT研究）未达到主要终点，并表示，公司将全面分析疗效和安全性数据，找到这一“意想不到的结果”发生的原因。 REACT研究旨在分析克拉生坦在「预防动脉瘤性蛛网膜下腔出血（aSAH）患者因迟发性脑缺血（DCI）导致的临床恶化」方面的的安...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;3500字&nbsp;12图\n预计阅读时间：&nbsp;9分钟\n最近迷上了看临床试验报告，有一个体会——每一个看似“意料之外”的临床失败，仔细分析都是能看出点原因的。可以说，成功的试验大多相似，失败的试验则各有各的缺陷。",
+    "supporting_points": [
+      "2023年2月6日，瑞士biotech公司Idorsia宣布，其ETA（内皮素A受体）拮抗剂clazosentan（克拉生坦）一项3期临床试验（REACT研究）未达到主要终点，并表示，公司将全面分析疗..."
+    ],
+    "conclusion_hook": "可以说，成功的试验大多相似，失败的试验则各有各的缺陷。\n\n2023年2月6日，瑞士biotech公司Idorsia宣布，其ETA（内皮素A受体）拮抗剂clazosentan（克拉生坦）一项3期临床试验"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "同源不同命"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么做到的？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "80%",
+        "40%",
+        "10亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "知名投资银行Jefferies的分析师在报告中表示，产品在日本获批上市给了欧美投资者巨大信心，根据其建立的模型，REACT研究的成功率高达80%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n动脉瘤性蛛网膜下腔出血（aSAH）：\n是指颅内动脉瘤破裂引起弥漫性蛛网膜下腔出血，是一种极具破坏性的脑血管事件，病死率可达约40%至50%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "试验结果：安慰剂组：66%，1mg组：43%，5mg组：39%，15mg:23%，克拉生坦降低痉挛发生率效果显著，且呈剂量相关性。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "试验结果显示，5mg剂量组发生终点率为21%，安慰剂组为25%，没做出显著性差异来。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n血管缠绕组（下图A）里事件发生率分别为：安慰剂组28.8%，10mg组：13.6%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230207-0075.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248095782&idx=1&sn=9b37061bccb6cc77f1816bfd5e9cde3a&chksm=ecba60c0dbcde9d60a500370a1d8bf8da945ac3684f8e44a6c86ae6ca31369841196181b3572#rd",
+    "publish_time": "2023-02-07",
+    "distilled_at": "2026-03-17T10:56:04.796350"
+  }
+}

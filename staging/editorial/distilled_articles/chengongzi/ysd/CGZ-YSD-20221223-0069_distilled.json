@@ -1,0 +1,108 @@
+{
+  "article_id": "CGZ-YSD-20221223-0069",
+  "normalized_title": "无论怎么看，94.75亿美元的BD交易都是里程碑式的",
+  "one_paragraph_essence": "点击欣赏推介会全程——优秀BD是怎样炼成的？ 请点击文【阅读原文】报名！ 火了一年的ADC，在临近年末的时候上演了又一轮疯狂。 昨天下午，默沙东与科伦博泰签下总金额最高可达94.75亿美元的引进合同，引进了后者7款临床前ADC药物，首付款1.75亿美元，平均每款产品2500万美元。 无论怎么看，这笔交易都是里程碑式的。 从出海的角度看，科伦再次刷新了License out的总交易额上限，把前不久刚登上“王座”的康方挤了下去，当然，从单产品的交易额来说，康方50亿美元的交易依然在全球范围内屈指可数。 从ADC赛道的角度，这笔交易很有意思。由于7款产品是临床前，不免让人想到4个多月前，GSK...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "点击欣赏推介会全程——优秀BD是怎样炼成的？",
+    "supporting_points": [
+      "请点击文【阅读原文】报名！\n火了一年的ADC，在临近年末的时候上演了又一轮疯狂。\n昨天下午，默沙东与科伦博泰签下总金额最高可达94.75亿美元的引进合同，引进了后者7款临床前ADC药物，首付款1.75...",
+      "无论怎么看，这笔交易都是里程碑式的。\n从出海的角度看，科伦再次刷新了License out的总交易额上限，把前不久刚登上“王座”的康方挤了下去，当然，从单产品的交易额来说，康方50亿美元的交易依然在全..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "75亿美元",
+        "75亿美元",
+        "75亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n昨天下午，默沙东与科伦博泰签下总金额最高可达94.75亿美元的引进合同，引进了后者7款临床前ADC药物，首付款1.75亿美元，平均每款产品2500万美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n从出海的角度看，科伦再次刷新了License out的总交易额上限，把前不久刚登上“王座”的康方挤了下去，当然，从单产品的交易额来说，康方50亿美元的交易依然在全球范围内屈指可数。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "由于7款产品是临床前，不免让人想到4个多月前，GSK以14.6亿美元总金额买下Mersana一款临床前ADC药物的交易。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "除了这7款临床前产品，今年默沙东还买了科伦博泰2款ADC药物，总交易金额接近120亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "多年的技术积累，终于在今年集中展现，PD-1销售额超出预期、双抗挺进世界前列、头对头大战K药、50亿美元交易位列历史前10。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221223-0069.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248075636&idx=1&sn=653df9523a11e3716a1e3ce3dffdef03&chksm=ecbbb192dbcc3884d58ad20fc283f4030e1fe2426573f3243059946f2083d3ffc9656d123933#rd",
+    "publish_time": "2022-12-23",
+    "distilled_at": "2026-03-17T10:56:04.653835"
+  }
+}

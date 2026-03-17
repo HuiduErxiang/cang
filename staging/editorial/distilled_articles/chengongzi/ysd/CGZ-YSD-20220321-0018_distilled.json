@@ -1,0 +1,102 @@
+{
+  "article_id": "CGZ-YSD-20220321-0018",
+  "normalized_title": "刚刚！重磅ADC药物DS-8201，获NMPA受理，AZ为它花了69亿美元！",
+  "one_paragraph_essence": "2022年3月21日，第一三共的新药Trastuzumab Deruxtecan的上市申请获得NMPA受理。 这个名字大家可能不熟悉，它还有另一个响当当的名字：DS-8201——新一代靶向HER2的ADC药物。 ADC又名抗体偶联药物，可以简单理解为生物药领域的复方制剂，由抗体+化疗药物通过特殊的方式联结在一起，形成1+1>2的效果，对肿瘤细胞造成巨大杀伤。 在此之前，最有名的ADC药物当属罗氏研发的靶向HER2 的产品T-DM1（恩美曲妥珠单抗，中文商品名：赫塞莱），是罗氏另一款重磅药物赫赛汀的ADC版。 在罗氏代号为KATHERINE的大型3期临床试验中，T-DM1成功让HER2阳性...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2022年3月21日，第一三共的新药Trastuzumab Deruxtecan的上市申请获得NMPA受理。",
+    "supporting_points": [
+      "这个名字大家可能不熟悉，它还有另一个响当当的名字：DS-8201——新一代靶向HER2的ADC药物。\nADC又名抗体偶联药物，可以简单理解为生物药领域的复方制剂，由抗体+化疗药物通过特殊的方式联结在一..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "50%",
+        "75.8%",
+        "78亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n在罗氏代号为KATHERINE的大型3期临床试验中，T-DM1成功让HER2阳性的乳腺癌患者复发或死亡风险下降了50%，效果炸裂！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在对手的穷追之下，罗氏选择“断尾求生”，趁着DS-8201还未在中国上市，就已经宣布降价52%，想要在DS-8201到来之前，尽可能多的占领国内市场，为后面即将到来的惨烈竞争多争取一些优势。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n推荐阅读\n\n面对DS-8201的压力，罗氏选择将T-DM1降价52%，HER2 ADC即将迎来大混战\n双抗ADC药物的进展及隐患！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n因此，一经上市便成为了重磅药物，销售额逐年攀升，2021年卖出了21.78亿美元，是ADC领域的头牌！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n2019年03月28日，阿斯利康宣布第一三共达成协议，在全球范围内合作开发DS-8201，首付款13.5亿美元，里程碑金55.5亿美元，总金额高达69亿美元！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220321-0018.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247898547&idx=1&sn=5bd29590bf27cc511586c3a97a9dde6e&chksm=ecb96d55dbcee443e850aa423751074723488aa1aff16c3a06f8eb00781553aa8308b023537c#rd",
+    "publish_time": "2022-03-21",
+    "distilled_at": "2026-03-17T10:56:04.283005"
+  }
+}

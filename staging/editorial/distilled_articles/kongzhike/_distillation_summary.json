@@ -1,0 +1,33 @@
+{
+  "distilled_at": "2026-03-17T10:17:04.101307",
+  "total_articles": 42,
+  "rhetoric_frequency": {
+    "consensus_teardown": 6,
+    "dimensional_reduction": 4,
+    "source_tracing": 23,
+    "metaphor": 12,
+    "self_deprecation": 3
+  },
+  "topic_distribution": {
+    "医药投资": 14,
+    "医药政策": 26,
+    "宏观经济": 2
+  },
+  "metaphor_usage": {
+    "武侠隐喻 - 太祖长拳": 1,
+    "武侠隐喻 - 聚贤庄": 1,
+    "武侠隐喻 - BGM": 1,
+    "武侠隐喻 - 六脉神剑": 3,
+    "武侠隐喻 - 乔峰": 2,
+    "武侠隐喻 - 段誉": 2,
+    "武侠隐喻 - 降龙十八掌": 1,
+    "武侠隐喻 - 打狗棒法": 1
+  },
+  "key_articles": [
+    "KZK-20230307-0001",
+    "KZK-20230123-0002",
+    "KZK-20230314-0003",
+    "KZK-20230327-0004",
+    "KZK-20230428-0005"
+  ]
+}

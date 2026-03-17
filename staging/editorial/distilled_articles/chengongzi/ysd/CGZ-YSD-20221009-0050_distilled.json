@@ -1,0 +1,91 @@
+{
+  "article_id": "CGZ-YSD-20221009-0050",
+  "normalized_title": "深度 | 出海策略全解析，每一款创新药都需要「量身定制」的临床试验！",
+  "one_paragraph_essence": "正文共： 5366字 5图 预计阅读时间： 16分钟 根据Pharmaprojects数据库，我们依照重点治疗领域对2022年各国药企在临床阶段新药项目进行分类后会发现，中国、美国、欧洲和日本最拥挤的赛道都是肿瘤领域，在该领域在研新药的占比均超过了30%，其中美国为42%，而中国则达到了惊人的58%。这也恰当地反应了中国药企扎堆开发当下热门抗肿瘤疗法的现状。 令人难忘的2022年已过大半，身处时代变革浪潮之中的我们，能愈发清晰地感觉到制药业的行业格局和世界环境的变化。中国创新药势力在过去几年迅速崛起，填补了国内的市场空缺，甚至“饱和式研发”带来的同质化新药过剩，导致了严重的内卷现象。 出...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;5366字&nbsp;5图\n预计阅读时间：&nbsp;16分钟",
+    "supporting_points": [
+      "根据Pharmaprojects数据库，我们依照重点治疗领域对2022年各国药企在临床阶段新药项目进行分类后会发现，中国、美国、欧洲和日本最拥挤的赛道都是肿瘤领域，在该领域在研新药的占比均超过了30%...",
+      "令人难忘的2022年已过大半，身处时代变革浪潮之中的我们，能愈发清晰地感觉到制药业的行业格局和世界环境的变化。中国创新药势力在过去几年迅速崛起，填补了国内的市场空缺，甚至“饱和式研发”带来的同质化新药..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而，"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "30%",
+        "42%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "然而，只凭一腔热血盲目出海并不可取，出海需谋划。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221009-0050.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247995632&idx=1&sn=c7ae4953e876c45bb921064e38e5574d&chksm=ecb8e816dbcf6100ceb2171caba4c698923f9914d0f148d57b479568436b5aa949e66fb94334#rd",
+    "publish_time": "2022-10-09",
+    "distilled_at": "2026-03-17T10:56:04.516075"
+  }
+}

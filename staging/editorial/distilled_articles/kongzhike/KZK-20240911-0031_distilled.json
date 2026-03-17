@@ -1,0 +1,57 @@
+{
+  "article_id": "KZK-20240911-0031",
+  "normalized_title": "从PFS到OS的崩坏：看Dato-DXd肺癌三期数据变迁",
+  "one_paragraph_essence": "9月9日，AZ在WCLC 2024年会上公布了TROP2 ADC治疗2L+ NSCLC的三期临床TROPION-Lung01试验的OS获益结果。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "9月9日，AZ在WCLC 2024年会上公布了TROP2 ADC治疗2L+ NSCLC的三期临床TROPION-Lung01试验的OS获益结果。",
+    "supporting_points": [],
+    "conclusion_hook": "最后完成都时刻不能放下风险防范意识吧。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 1,
+      "examples": [
+        "https://www.astrazeneca.com/content/dam/az/Investor_Relations/events/WCLC-2024-Investor-relations-event-Presentation.pdf"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240911-0031.json",
+    "original_url": "https://mp.weixin.qq.com/s/LtB9KJQ9dPLKtq1rkqHNjg",
+    "publish_time": "2024-09-11",
+    "distilled_at": "2026-03-17T10:17:04.078966"
+  }
+}

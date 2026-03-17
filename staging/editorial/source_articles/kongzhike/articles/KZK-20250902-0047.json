@@ -1,0 +1,19 @@
+{
+  "article_id": "KZK-20250902-0047",
+  "title": "【药海听涛】“今日无事”：Alnylam公布高血压药物的KARDIA-3试验结果",
+  "publish_time": "2025-09-02",
+  "url": "https://mp.weixin.qq.com/s/8cXNsKxYKtVsWbQA5MsBUw",
+  "author": "空之客",
+  "content": "去年Alnylam和Roche公布的Zilebesiran在KARDIA-2试验结果的时候，笔者就引用“天边的乌云”来形容（参见【药海听涛】晴空乌云：Alnylam公布高血压药物的KARDIA-2试验结果）。当时，对于KARDIA-3的态度也只是认为“既有启示、也难免引入挑战”，没想到一年后揭盖子的时候，KARDIA-3直接读出了未达到显著性的结果。\n\nhttps://alnylampharmaceuticalsinc.gcs-web.com/static-files/a763e465-b043-4df4-824b-ccbaa8326c73\n\n在这项二期临床中（NCT06272487），入组标准是有CVD病史或高危因素、使用2-4种降压药但仍无法有效控制血压的高血压患者。\n\n将eGFR≥45的3a期肾功能轻中度异常患者270例，纳入cohort A（本次披露范围），按照1:1:1分入Zilebesiran 300/600mg和安慰剂组；将eGFR 30-44的3b期肾功能中重度异常患者105例，纳入cohort B，按照1:1:1:1分入Zilebesiran 150/300/600mg和安慰剂组。这里的剂量设计已经体现出研究者对Zilebesiran联用其他降压药的安全性风险顾虑，特别是对肾功能中重度异常的患者更加谨慎，毕竟KARDIA-2的各个联用方案中Zilebesiran的剂量都是600mg。\n\n上次KARDIA-2在随机分组上就踩了肾功能基线不均匀的雷，这次KARDIA-3的基线更是一步一个坑的隐患：首先是既往CVD病史，300mg组和600mg组之间居然差出了快一倍；然后是接受过降压药数量，300mg组的用药线数也是肉眼可见偏高。这些与血压高度相关的基线出现显著失衡，给临床终点带来噪音应该是可以想见的，比如600mg组是不是因为用了更少的利尿剂或者钙通道阻滞剂而导致与AGT siRNA联用的效果更差了（毕竟A+C+D机制的降压效果更好）？\n\n主要临床终点是3个月后两个Zilebesiran剂量组与安慰剂对诊室SBP降低的幅度，600mg剂量组降幅-10.6mmHg、相比安慰剂降幅-3.3mmHg（-8.2, 1.6）、p=0.18，300mg剂量组降幅-12.3mmHg、相比安慰剂降幅-5.0mmHg（-9.9, -0.2）、p=0.04。首先直接结论就是总体结果未达到显著性，600mg组是完全崩坏，300mg组也只是勉强p值在0.05以内、置信区间没过0；其次，两个剂量组有效性与剂量倒挂，也挺要命；再次，在2-4种背景降压药基础上add-on Zilebesiran边际产生的降压幅度绝对值仅仅是3-5mmHg，这也显著低于KARDIA-2在1种背景降压药基础上add-on Zilebesiran的边际降压幅度7-19mmHg。\n\n另外，Zilebesiran的结果还完败给同样在ESC上公布的Baxdrostat（醛固酮合成酶CYP11B2抑制剂，AZ曾以$1.3b+0.5b从Cincor购得），后者在同样是针对使用2-3种降压药无法有效控制血压的患者的三期临床中，3个月边际降压幅度高达-8.7~-9.8mmHg、p<0.0001。\n\nhttps://www.astrazeneca.com/content/dam/az/Investor_Relations/events/ESC2025-Presentation-20250831.pdf\n次要终点里，6个月的诊室SBP降幅和3个月的24小时平均动态SBP降幅也都不显著，6个月的24小时平均动态SBP降幅表现稍好了一点，特别是夜间相比安慰剂的SBP降幅更大，有可能是心血管获益的来源。\n\n在有效性一片惨淡的结果中，总要挖地三尺刨出一些积极的亚组结果，于是发现基线使用利尿剂且SBP仍超过140的患者，两个剂量组与安慰剂相比3个月SBP降幅为-9.2mmHg和-7.0mmHg，不过有效性与剂量依然倒挂，只能说获益比总患者群体大一点。与利尿剂的协同效应也并不出乎意料，利尿剂使得患者血容量减少、进而上调RAAS系统，更有利于靶向AGT的Zilebesiran发挥作用。\n\n再来看安全性，Zilebesiran联用多种降压药确实普遍带来了不良反应增加，特别是低血压、高血钾和肾损伤都有明显增加，在600mg组中低血压发生率4.4%、血钾超过5.5mmol/L发生率8.8%、eGFR降低超过30%发生率8.8%，这与KARDIA-2中Zilebesiran 600mg联用奥美沙坦相比（考虑到两个RAAS通路抑制剂联用的肾损伤更受关注），这三个比例都明显更偏高（后者发生率分别为4.7%、6.7%、6.7%）。\n\n说实话，这次KARDIA-3二期临床“翻车”也并不算很意外，毕竟之前KARDIA-2里Zilebesiran与单药联用的边际药效已有隐忧。然而令人略费解的是Alnylam/Roche对这个试验结果的反应，好像就是“没什么反应”，整个电话会也没看到什么洗地的动作，对统计学不显著、基线不均衡、不良反应增加等等都没有做额外的挽尊，仿佛KARDIA-3是从胜利走向胜利的过场。\n最终，两家合作方共同“欣然”宣布，三期临床ZENITH试验将于2025年底启动，这将是一个11,000例的超大规模临床试验，临床终点将是心血管CVOT事件（采取该终点必要性的疑问已在前几篇中提过），剂量将采取300mg Q6M、基线要求必须使用利尿剂，这两条大概是KARDIA-3给ZENITH留下的最直接印记。\n\n如此淡然的态度，再加上周一美股的休市，让才疏学浅的笔者一时间不知道是不是自己对KARDIA-3结果的理解南辕北辙，颇让人回想起1789年7月14日某本著名日记里的那行字“今日无事”。\n\n往期Zilebesiran临床结果分析\n【药海听涛】狂飙：AGT siRNA二期临床降压效果惊艳\n【药海听涛】一鼓作气or步步为营：Zilebesiran二期临床再次达阵\n【药海听涛】晴空乌云：Alnylam公布高血压药物的KARDIA-2试验结果",
+  "content_length": 2523,
+  "provenance": {
+    "source_file": "fulltext_kongzhike.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\空之客\\source_json\\fulltext_kongzhike.json",
+    "source_index": 46,
+    "original_title": "【药海听涛】“今日无事”：Alnylam公布高血压药物的KARDIA-3试验结果",
+    "original_url": "https://mp.weixin.qq.com/s/8cXNsKxYKtVsWbQA5MsBUw",
+    "author_name": "空之客",
+    "source_account": "空之客",
+    "extracted_at": "2026-03-17T00:30:35.320980"
+  }
+}

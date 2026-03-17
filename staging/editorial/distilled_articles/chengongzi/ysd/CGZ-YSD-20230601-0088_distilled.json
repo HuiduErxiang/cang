@@ -1,0 +1,126 @@
+{
+  "article_id": "CGZ-YSD-20230601-0088",
+  "normalized_title": "不再死磕「肺癌」后，罗氏TIGIT活了，百济、默沙东、BMS各自找到出路，那么，Follower们该学谁了...",
+  "one_paragraph_essence": "正文共：6771字 14图 预计阅读时间：17分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | 电影《少林足球》 经历了漫长的2022年后，TIGIT领域呈现出了一种了“万物复苏”的迹象。 作为继PD-1后最有希望的免疫检查点之一，TIGIT本来有望掀起新一轮的免疫疗法热潮，但3家跨国药企一年内4个坏消息接踵而至，给这条赛道狠狠泼了一盆冷水。 不过仔细复盘后会发现，所有折戟的都是TIGIT在肺癌上的开发，而其他癌种的数据并未出炉，给TIGIT的复苏留下了希望。 在即将到来的ASCO上，罗氏重整旗鼓，将自家TIGIT产品tiragolumab在肝癌上的早期数据以摘要形式公...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：6771字 14图\n预计阅读时间：17分钟",
+    "supporting_points": [
+      "经历了漫长的2022年后，TIGIT领域呈现出了一种了“万物复苏”的迹象。\n作为继PD-1后最有希望的免疫检查点之一，TIGIT本来有望掀起新一轮的免疫疗法热潮，但3家跨国药企一年内4个坏消息接踵而至...",
+      "结果显示，tiragolumab+PD-L1+VEGF三药联用治疗组，相较于安慰剂+PD-L1+VEGF的对照组，在ORR上高了近4倍（42.5% vs 11.1%），PFS高了2.6倍（11.1个月..."
+    ],
+    "conclusion_hook": "可以说是另辟蹊径。免疫疗法在卵巢癌的效果一贯不好，患者的响应率较低。在试验面向的铂类耐药上皮性卵巢癌患者中，K药的响应率只有约8%。这可能也是三种免疫疗法联用能取得效果的原因。\n在2022 ESMO上"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 4,
+      "examples": [
+        "！",
+        "为何执着于肺癌？",
+        "怎么办呢？立项太多，成本负担不起，立项少了，万一选错了癌种呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 12,
+      "examples": [
+        "42.5%",
+        "11.1%",
+        "mOS高1"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管在PD-L1上扳回一城，开发出的T药（Tecentriq，阿替利珠单抗）在2022年销售额也超过了40亿美元，但相比K药（Keytruda，帕博利珠单抗）、O药（Opdiveo、纳武利尤单抗）“合砍”284亿美元的战绩，还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n其他专攻TIGIT的biotech也是与有荣焉，上周五股价纷纷大涨，iTeos涨了近30%、Arcus涨了近26%，充分反应了资本市场的极端与盲目。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在PD-L1高表达人群（TPS≥50%）里，ORR高了2.86倍（69% vs 24.1%），mPFS高了4.04倍（16.6个月 vs 4.1个有），mOS未达到。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在PD-L1中表达人群（TPS 1-49%）里，除了mPFS比对照组高了0.4个月外，mOS和ORR均不如对照组。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而在经治组[6]，vibostolimab单药治疗的ORR为7%，vibostolimab+K药联用的ORR却只有5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n39名患者经过28.1周随访后，总人群ORR达53.8%，PD-L1 TC ≥50%的高表达人群，ORR达到了惊人的71.4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230601-0088.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248147086&idx=1&sn=55a6fa02a2b1967b0baa781e06083e4c&chksm=ef455868d832d17ee936d2fa45ef039ec60c90c488753d0a2a7cc755edf99f39461f4c19fb77#rd",
+    "publish_time": "2023-06-01",
+    "distilled_at": "2026-03-17T10:56:04.960514"
+  }
+}

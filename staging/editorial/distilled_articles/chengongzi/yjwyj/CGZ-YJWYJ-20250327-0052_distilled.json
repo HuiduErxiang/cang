@@ -1,0 +1,69 @@
+{
+  "article_id": "CGZ-YJWYJ-20250327-0052",
+  "normalized_title": "能停用的Aβ抗体，真的是DMT治疗吗？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 随着仑卡奈单抗和Donanemab两款抗Aβ（β淀粉样蛋白）药物的陆续获批，阿尔茨海默病（AD）治疗正式进入疾病修饰治疗（DMT）时代。 与传统的胆碱能激动剂或NMDA受体拮抗剂不同，抗Aβ药物作用于Aβ级联反应。前者只能算是一种间接的补偿措施，以缓解患者认知障碍的症状，没有触及 AD 疾病的核心病理过程，不能改变疾病的自然进程。 而Aβ级联反应是AD 疾病的核心病理机制，在长期治疗过程中，抗Aβ药物可以持续地对疾病的病理过程进行修正，有望使大脑内的病理状态维持在一个相对稳定的水平。 目前已获批的两款抗Aβ药物在作用机制和使用方法上有很大的不同。 仑卡",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "随着仑卡奈单抗和Donanemab两款抗Aβ（β淀粉样蛋白）药物的陆续获批，阿尔茨海默病（AD）治疗正式进入疾病修饰治疗（DMT）时代。\n与传统的胆碱能激动剂或NMDA受体拮抗剂不同，抗Aβ药物作用于...",
+      "需要明确的是，目前我们尚无AD的根治性方法。无论采用何种治疗，依然无法阻止Aβ的持续产生，Aβ作为β-淀粉样前体蛋白（APP）被错误切割的产物，其源头涉及到了基因、衰老、炎症、应激等多种因素，目前的疗..."
+    ],
+    "conclusion_hook": "可见的水渍全部擦干，让屋子看上去健康了，但这些水是洇出来的，破坏房屋的结构的更多是在吊顶里的、墙壁内的、地板下的水；仑卡奈单抗深入了墙体内，清理掉了更多渗透其中的水渍。\n距离我们找到真正的裂缝、漏水点"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "就像"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便我们永远无法找到最源头的漏水点，但只要锲而不舍的找到并消灭更多水渍，持续抑制疾病的病理生理机制，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250327-0052.json",
+    "original_url": "https://mp.weixin.qq.com/s/SLpq1uu-G20TnK7v0O3SHg",
+    "publish_time": "2025-03-27",
+    "distilled_at": "2026-03-17T10:48:00.576885"
+  }
+}

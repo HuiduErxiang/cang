@@ -1,0 +1,94 @@
+{
+  "article_id": "CGZ-YSD-20230802-0096",
+  "normalized_title": "百济神州2023H1：产品收入66.96亿元，PD-1销售额18.36亿！",
+  "one_paragraph_essence": "正文共：828字 3 图 预计阅读时间：3分钟 作者 | 辰公子 文章来源 | 药时代公众号 2023年8月2日，百济神州发布2023上半年主要财务数据公告，总营收为72.5亿元，同比增长72.2%，而其中，更令人关注的百济神州产品收入达到了66.96亿元，同比增长82.2%，商业化成果喜人！ 同时，百济神州的亏损进一步减少，2023H1亏损综合缩减到了50.85亿元，与去年同期（64.3亿元）相比，少亏了14亿。 收入的增加主要来自泽布替尼和替雷利珠单抗两款产品的销售额增长。 其中，泽布替尼2023H1的全球销售额总计36.12亿元，与上年同期（15.14亿元）相比增长238.6%，美...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：828字 3 图\n预计阅读时间：3分钟",
+    "supporting_points": [
+      "2023年8月2日，百济神州发布2023上半年主要财务数据公告，总营收为72.5亿元，同比增长72.2%，而其中，更令人关注的百济神州产品收入达到了66.96亿元，同比增长82.2%，商业化成果喜人！...",
+      "收入的增加主要来自泽布替尼和替雷利珠单抗两款产品的销售额增长。\n其中，泽布替尼2023H1的全球销售额总计36.12亿元，与上年同期（15.14亿元）相比增长238.6%，美国市场销售额25.19亿元..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "72.2%",
+        "82.2%",
+        "235亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n替雷利珠单抗在中国的销售额继续飙升，2023H1达到18.36亿元，与上年同期（12.51亿元）相比，增长46.76%，市场渗透率进一步提升。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n泽布替尼2023Q2全球销售额为2.235亿美元，同比增长152.9%，主要增长动力源自于在美获批的适应症增加及市场份额的增加。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n替雷利珠单抗2023Q2的销售额为1.495亿美元，这个数字就比较夸张了，在竞争激烈的情况下，依旧完成了超过30%的环比增长以及42.5%的同比增长。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n73亿美元并购，刚宣布裁员节流的Biogen，就把手里的现金全花了......\n\nCM082故事连载之五 —— 新的眼底病临床试验获批\n\n点击阅读原文，与药时代一起快乐学习！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230802-0096.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248183600&idx=2&sn=112a0c1ab5cb45953f7436d8249f1de5&chksm=ef45d7d6d8325ec07c8a25d2069174f51efa2afe7820f1371b0be84dcafffdb8b966f0d6816b#rd",
+    "publish_time": "2023-08-02",
+    "distilled_at": "2026-03-17T10:56:05.013033"
+  }
+}

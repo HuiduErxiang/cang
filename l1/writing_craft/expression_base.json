@@ -6,13 +6,34 @@
     "version": "1.0"
   },
   "_meta": {
-    "version": "1.0",
+    "version": "1.1",
     "layer": "L1",
     "description": "Universal expression base — cross-industry transition phrases and forbidden expressions. Merged into every L2 audience profile at runtime via merge_expression_layers().",
     "distilled_from": "L4_product_knowledge/lecanemab/m6_expression_library.json",
     "distillation_date": "2026-03-01",
+    "last_updated": "2026-03-17",
     "distillation_rule": "Iron Law: 'Switch from medicine to beauty/auto/finance — does it still work? YES → L1'",
-    "merge_behavior": "universal_additions.transition_phrases are PREPENDED to each L2 profile's transition_phrases. universal_additions.forbidden_expressions are PREPENDED to each L2 profile's forbidden_expressions."
+    "merge_behavior": "universal_additions.transition_phrases are PREPENDED to each L2 profile's transition_phrases. universal_additions.forbidden_expressions are PREPENDED to each L2 profile's forbidden_expressions.",
+    "dailaoban_contributions": {
+      "new_phrases_count": 9,
+      "source_articles": ["DBA-20201229-0006", "DBA-20211214-0013", "DBA-20210525-0009", "DBA-20211128-0010", "DBA-20211219-0011", "DBA-20201011-0008", "DBA-20210211-0007", "DBA-20200913-0003"],
+      "checkpoint": "docs/checkpoints/作者语料重蒸馏_checkpoint_20260317.md"
+    },
+    "kongzhike_contributions": {
+      "new_phrases_count": 7,
+      "source_articles": ["KZK-20230123-0002", "KZK-20230307-0001", "KZK-20230809-0011", "KZK-20230314-0003"],
+      "checkpoint": "docs/checkpoints/作者语料重蒸馏_checkpoint_20260317.md",
+      "detail_checkpoint": "docs/checkpoints/空之客语料蒸馏_checkpoint_20260317.md"
+    },
+    "chengongzi_contributions": {
+      "new_phrases_count": 8,
+      "source_articles": ["CGZ-YJWYJ-20240309-0001", "CGZ-YJWYJ-20240407-0013", "CGZ-YSD-20230207-0075", "CGZ-YSD-20221209-0064"],
+      "sub_sources": {
+        "yjwyj": 63,
+        "ysd": 103
+      },
+      "checkpoint": "docs/checkpoints/作者语料重蒸馏_checkpoint_20260317.md"
+    }
   },
   "universal_additions": {
     "transition_phrases": [
@@ -41,7 +62,31 @@
       "最朴素的逻辑告诉我们",
       "然而，{主体}开始出现审美疲劳",
       "尘归尘，这次也不例外",
-      "经过前面烘托，请出今天的主角"
+      "经过前面烘托，请出今天的主角",
+      "这些道理你懂，我懂，人人都懂，仅凭它们就能解释{主体}的成功吗？",
+      "用{因素A}的α，叠加了{因素B}的β，这是{场景}的通用公式。",
+      "{行业}这个行业，赚的首先{因素}的钱。",
+      "投资的本质是对认知的变现。",
+      "让{抽象概念}不再停留在枯燥的数字上，而是如同{感官隐喻}一样扑面而来。",
+      "{领域}这个无比复杂的世界，其实就是一个简单的「二元模型」：一种是「{变量A}」，一种是「{变量B}」。",
+      "{行业}的{角色}站一排，{姓名}一定是最{特质}的那个。",
+      "{行业}为什么能{成就}？背后的秘密是{原因}。",
+      "当{公司}市值在{时间}突破{金额}时，当年经历{事件}的{群体}百感交集。",
+      "一个比较简单粗暴的比方是：",
+      "这种思路的问题，是仅从逻辑而无需专业判断就可以发现的：",
+      "至此唯有再次陈述以下我多次表达过的浅见：",
+      "真心关注也好，吃瓜看戏也罢，",
+      "恕在下孤陋，好像脑海里想不出来此前有过{主体}出现过这种{现象}。",
+      "毫无争议是今天{领域}最靓的仔：",
+      "有幸能围观{主体}的见招拆招，既是{群体A}的福音，亦是{群体B}的幸运。",
+      "真是风云突变…… (突发新闻开场)",
+      "可以说，成功的试验大多相似，失败的试验则各有各的缺陷。 (临床失败分析收束)",
+      "同源不同命， (对比转折)",
+      "与之形成鲜明对比， (对比引入)",
+      "打破空白，成为首个且唯一 (里程碑宣告)",
+      "看看XX的失败，究竟是'意料之外'，还是'情理之中'。 (研格评判式收束)",
+      "为了找到[问题]的原因，我还找到了[X]篇历史临床试验报告... (研格溯源式)",
+      "这也是我国XX领域首个获批上市的XX (里程碑式)"
     ],
     "forbidden_expressions": [
       "重磅",
@@ -53,8 +98,6 @@
       "完胜",
       "碾压",
       "吊打",
-      "王者",
-      "大家心里有数",
       "聊聊",
       "咱们",
       "可能吧",

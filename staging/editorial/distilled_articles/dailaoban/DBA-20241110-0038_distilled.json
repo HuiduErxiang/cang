@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20241110-0038",
+  "normalized_title": "杨浦的老和新：一个人民城市的伟大故事",
+  "one_paragraph_essence": "文章以习近平总书记2019年在杨浦首次提出人民城市理念开场，讲述杨浦区如何在五年中践行这一理念。作者以历史纵深视角，分析杨浦如何处理老的历史沉淀与新的创新活力，通过旧改项目、社区养老、青年创业等案例，展示一个老城区的城市治理实践。",
+  "topic": "城市治理",
+  "subtopic": "人民城市理念与老城区更新",
+  "audience": "关注城市治理、社区建设、上海发展的读者",
+  "narrative_frame": {
+    "frame_type": "urban_governance_narrative",
+    "key_elements": ["理念提出开场", "老与新并存分析", "实践案例展示", "经验总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "杨浦区在人民城市理念指引下，既处理好老的历史沉淀，又积极拥抱新的创新活力，走出独特的城市治理道路",
+    "supporting_points": [
+      "60岁及以上老年人口比例超过30%",
+      "高校在校生约10万，占全市约18%",
+      "凤南一村旧改创全市最大规模最快速度纪录",
+      "推出家庭医生、社区养老等服务模式"
+    ],
+    "conclusion_hook": "这是一片连接History和Young的土地"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "policy_opening",
+      "example": "五年前的2019年11月2日，习近平总书记在上海市杨浦区考察期间，首次提出了人民城市人民建、人民城市为人民的理念",
+      "effect": "以重大政策理念开场，建立政治高度"
+    },
+    {
+      "device_type": "contrast_structure",
+      "example": "杨浦不仅有老的历史沉淀，也有新的创新活力——这是一片连接History和Young的土地",
+      "effect": "以新旧对比构建叙事框架"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["policy_quote", "data", "case_study"],
+    "integration_style": "政策理念+数据支撑+案例展示"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["policy-oriented", "constructive", "narrative"],
+    "syntax_patterns": ["政策开场句式", "对比结构句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[地点]不仅有老的[X]，也有新的[Y]——这是一片连接History和Young的土地",
+      "context": "城市新旧并存总结",
+      "reusability_score": 3
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241110-0038.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

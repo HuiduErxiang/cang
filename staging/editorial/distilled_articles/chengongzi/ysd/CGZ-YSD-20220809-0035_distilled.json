@@ -1,0 +1,118 @@
+{
+  "article_id": "CGZ-YSD-20220809-0035",
+  "normalized_title": "54亿美金，买！歇了不到3个月的辉瑞，又开始溢价收购了...",
+  "one_paragraph_essence": "如果给药企里的“剁手党”排个顺位的话，辉瑞一定能进前三名，可能是“保三争一”。 2022年5月10日，辉瑞以116亿美元的总价格收购了生物科技公司Biohaven，获得了2款已上市产品和5款临床前药物，每股收购价高达148.5美元。 以Biohaven被收购前一天的收盘价83.14美元/股算的话，该笔收购的溢价程度高达78.6%。 正常来说，百亿美金的大交易需要消化一段时间，辉瑞也是如此，不过他们消化的时间有点短，只歇了不到三个月，就又开始买了。 2022年8月8日，辉瑞宣布，与全球血液治疗公司(Global Blood Therapeutics，GBT)达成最终协议，辉瑞将收购GBT。...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "如果给药企里的“剁手党”排个顺位的话，辉瑞一定能进前三名，可能是“保三争一”。\n2022年5月10日，辉瑞以116亿美元的总价格收购了生物科技公司Biohaven，获得了2款已上市产品和5款临床前药物，每股收购价高达148.5美元。\n以Biohaven被收购前一天的收盘价83.14美元/股算的话，该笔收购的溢价程度高达78.6%。\n正常来说，百亿美金的大交易需要消化一段时间，辉瑞也是如此，不过他们",
+    "supporting_points": [],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "78.6%",
+        "45%",
+        "116亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便以涨价后的市值算43.36亿算，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n以Biohaven被收购前一天的收盘价83.14美元/股算的话，该笔收购的溢价程度高达78.6%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n该情报透露之后GBT股价大涨45%，市值达到了30亿美元，而报道称收购的拟定价格在45-55亿美元之间。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n于是，继溢价收购Biohaven之后，我们又看到了辉瑞的再一次溢价收购，即便以涨价后的市值算43.36亿算，也溢价了20%以上。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2022年5月10日，辉瑞以116亿美元的总价格收购了生物科技公司Biohaven，获得了2款已上市产品和5款临床前药物，每股收购价高达148.5美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "根据交易条款，辉瑞将以每股68.5美元的现金收购GBT的所有流通股，总价值约为54亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220809-0035.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247960100&idx=1&sn=2a387941b9c133989294a41b7d0efcc2&chksm=ecb87ec2dbcff7d4dfef9040b33832aa6822c3f72ac93b549b14813476453d826a4bed56f411#rd",
+    "publish_time": "2022-08-09",
+    "distilled_at": "2026-03-17T10:56:04.409028"
+  }
+}

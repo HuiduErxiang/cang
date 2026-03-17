@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20241211-0041",
+  "normalized_title": "莱特希泽的信徒和遗产",
+  "one_paragraph_essence": "文章以莱特希泽在新一届特朗普内阁出局开场，深度剖析这位对华最强硬美国人的政治遗产。作者以历史纵深视角，追溯莱特希泽从里根时期到特朗普时期的贸易策略演变，揭示他如何彻底改变美国两党几十年来延续的自由贸易共识。文章指出莱特希泽虽未入阁，但其推动的贸易对抗共识已深深扎根于美国政治土壤。",
+  "topic": "国际政治",
+  "subtopic": "中美贸易博弈与人物分析",
+  "audience": "关注国际关系、中美贸易、美国政治的读者",
+  "narrative_frame": {
+    "frame_type": "political_figure_analysis_with_historical_context",
+    "key_elements": ["人物出局开场", "政治遗产分析", "历史脉络追溯", "未来影响预判"]
+  },
+  "argument_skeleton": {
+    "main_claim": "莱特希泽虽未入阁，但他推动的贸易对抗共识已在美国两党中扎根，他的影子将继续笼罩太平洋",
+    "supporting_points": [
+      "莱特希泽在上一届川普政府主导所有贸易和关税政策",
+      "彻底改变了两党几十年来延续的自由贸易共识",
+      "拜登政府基本上采纳了特朗普的贸易政策",
+      "继任者格里尔和商务部长都将延续其路线"
+    ],
+    "conclusion_hook": "跟基辛格一样，这是一个改变中美关系历史进程的人"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "political_drama_opening",
+      "example": "出乎所有人意料，中国制造最凶恶的敌人、上届川普政府的贸易沙皇莱特希泽，在新一届内阁任命中出局了",
+      "effect": "以政治意外开场，制造悬念"
+    },
+    {
+      "device_type": "historical_legacy_positioning",
+      "example": "跟基辛格一样，这是一个改变中美关系历史进程的人",
+      "effect": "以历史人物对标，定位影响力"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["political_event", "quote", "historical_context"],
+    "integration_style": "政治戏剧+人物分析+历史定位"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "political", "prophetic"],
+    "syntax_patterns": ["政治意外开场句式", "历史定位句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "出乎所有人意料，[人物]，在[事件]中出局了",
+      "context": "政治意外开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "跟[X]一样，这是一个改变[Y]历史进程的人",
+      "context": "历史级人物定位",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241211-0041.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

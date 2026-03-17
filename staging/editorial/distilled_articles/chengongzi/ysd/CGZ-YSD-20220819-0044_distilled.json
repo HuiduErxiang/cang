@@ -1,0 +1,83 @@
+{
+  "article_id": "CGZ-YSD-20220819-0044",
+  "normalized_title": "中国需要自己的Flagship，多玛医药能做到吗？——专访多玛医药首席运营官黄蕤博士",
+  "one_paragraph_essence": "每一个中国投资者都幻想着能在2006年以前，将贵州茅台加入自己的持仓股中，正如每一个医药投资机构都希望能在2010年参投Moderna Therapeutics的创立一样。 Moderna的成功有机遇、也有实力。 在2020年全球新冠疫情爆发后，Moderna凭借自身打造的mRNA疫苗研发平台，在25天里完成了疫苗的序列设计和生产，打造了全球首个进入临床I期的mRNA疫苗，一战成名！其股价更是一路飞涨，较2019年IPO时翻了近20倍，峰值时市值突破了万亿人民币——相当于1/3个腾讯。 从公司创立之时就参与投资的Flagship Pioneering赚得盆满钵满，公开数据显示，Flags...",
+  "category": "药时代",
+  "topic": "人物专访",
+  "subtopic": "行业领袖",
+  "audience": "医药从业者、投资者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "每一个中国投资者都幻想着能在2006年以前，将贵州茅台加入自己的持仓股中，正如每一个医药投资机构都希望能在2010年参投Moderna Therapeutics的创立一样。",
+    "supporting_points": [
+      "Moderna的成功有机遇、也有实力。\n在2020年全球新冠疫情爆发后，Moderna凭借自身打造的mRNA疫苗研发平台，在25天里完成了疫苗的序列设计和生产，打造了全球首个进入临床I期的mRNA疫苗..."
+    ],
+    "conclusion_hook": "可以说这还是一片蓝海。\n思道医药目前已经从百奥赛图引进3条处于临床前阶段的双抗ADC产品，拥有全部的知识产权和全球权益。\n\n现在做双抗ADC的企业很少，思道医药的双抗ADC更有自己独特的优势。\n不同于"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何成立？他们有何底气？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 1,
+      "examples": [
+        "95%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "基于Renlite®小鼠平台，结合KIH技术，正确组装率高于95%，极大降低了CMC工艺开发的难度。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220819-0044.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247965819&idx=1&sn=7580c18abab84ffbb2956c287fa4c497&chksm=ecb8649ddbcfed8b9673c572ea09637cc0679168b5e2e34687793b7706b6e6a4ab5222fa09d9#rd",
+    "publish_time": "2022-08-19",
+    "distilled_at": "2026-03-17T10:56:04.469087"
+  }
+}

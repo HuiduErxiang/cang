@@ -1,0 +1,99 @@
+{
+  "article_id": "CGZ-YJWYJ-20240909-0026",
+  "normalized_title": "mPFS接近翻倍！双抗优势尽显，默沙东高管预判恐怕要落空……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 审核 | 涟濯 来源 | 医界望远镜 2024年9月8日夜，WCLC大会进行到第二日，当天首场主席研讨会（Presidential Symposium）上，万众瞩目的HARMONi-2研究结果正式公布。 研究的试验组和对照组分别为PD-1/VEGF双抗依沃西单抗（AK-112）与帕博利珠单抗（K药），二者在PD-L1阳性晚期非小细胞肺癌（NSCLC）一线治疗直接对决。 3个月前，康方生物已经宣布，HARMONi-2研究达到无进展生存期（PFS）的主要终点。依沃西单抗成为全球首个且唯一在3期单药头对头临床研究中证明疗效显著优于K药的药物。 如何评估HARMONi",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n审核 | 涟濯\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年9月8日夜，WCLC大会进行到第二日，当天首场主席研讨会（Presidential Symposium）上，万众瞩目的HARMONi-2研究结果正式公布。\n研究的试验组和对照组分别为PD-1...",
+      "默沙东研究实验室首席医学官Eliav Barr博士曾公开表示，PD-1与VEGFi的联用在PFS上能取得积极结果已经得到多次证实，但总生存期（OS）则更难呈现。\n这番评论直接避开了HARMONi-2研..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "50%",
+        "1%",
+        "mOS结果为14"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便患者后线治疗的OS与LEAP-007相当，依沃西单抗 vs K药的mOS也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "另外研究还纳入了53(13.3%)例肝转移和72 (18.1%)例脑转移患者。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nLEAP-007中，“可乐组合”与K药相比，3-5及TRAE发生率为57.9% vs 24.4%，导致死亡的TRAE为5.2% vs 1.9%，导致停药的TRAE为29.1% vs 11.2%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而HARMONi-2研究中，依沃西单抗 vs K药≥3级的TRAE发生率为29.4% vs 15.6%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而在严重TRAE方面，依沃西单抗甚至表现更优，导致死亡TRAE为0.5% vs 1.0%，导致停药的TRAE为1.5%&nbsp;vs 3.0%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而在被认为抗VEGF不适用的鳞癌患者中，依沃西单抗的安全性甚至表现的更好，两组≥3级TRAEs为22.2% vs 18.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240909-0026.json",
+    "original_url": "https://mp.weixin.qq.com/s/29j9V6GR9SMN6QMtFy7cMw",
+    "publish_time": "2024-09-09",
+    "distilled_at": "2026-03-17T10:47:59.732524"
+  }
+}

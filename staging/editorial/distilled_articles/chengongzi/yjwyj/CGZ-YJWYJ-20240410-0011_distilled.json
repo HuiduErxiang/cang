@@ -1,0 +1,88 @@
+{
+  "article_id": "CGZ-YJWYJ-20240410-0011",
+  "normalized_title": "PD-L1阴性/低表达胃癌，遥遥领先的双抗……",
+  "one_paragraph_essence": "作者 | 辰公子 审核 | 涟濯&nbsp; 来源 | 医界望远镜 用游戏语言来说的话，双抗已经渐渐有“版本答案”那味儿了，尤其是在PD-L1阴性/低表达人群。 2024年4月8日凌晨，第115届美国癌症研究协会（AACR）召开的第三天，议程终于行进到了Clinical trial环节。 8项精选的临床试验在当天的临床试验全体大会上进行了口头报告，其中一项来自中国，是康方生物的PD-1/CTLA-4双抗卡度尼利单抗一线治疗晚期胃癌的III期临床试验COMPASSION-15研究的中期分析[1]，康方生物同步在官网发布了季加孚教授在会上报告的PPT文件[2]。 结果显示，中位随访18.69个月",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 | 涟濯&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "用游戏语言来说的话，双抗已经渐渐有“版本答案”那味儿了，尤其是在PD-L1阴性/低表达人群。\n2024年4月8日凌晨，第115届美国癌症研究协会（AACR）召开的第三天，议程终于行进到了Clinica...",
+      "如果仅看全人群数据，15个月的mOS在目前一线胃癌免疫疗法里不算亮眼，但其实这个数字意义不大，因为COMPASSION-15入组的人群基线特征不太一样。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "22.95%",
+        "49.84%",
+        "mOS）达到15"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业客观"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "研究显示[8]，我国胃癌患者PD-L1 CPS<5 人群占比 约50.8%，PD-L1＜1的人群占比约38%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n图1. OS数据，来源：参考文献2\n\n如果仅看全人群数据，15个月的mOS在目前一线胃癌免疫疗法里不算亮眼，但其实这个数字意义不大，因为COMPASSION-15入组的人群基线特征不太一样。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "CheckMate 649研究的设计里是有纳武利尤单抗联合伊匹木单抗治疗组的，结果这对儿PD-1+CTLA-4治疗组的mOS数据，结果连单独化疗都没打过[10]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240410-0011.json",
+    "original_url": "https://mp.weixin.qq.com/s/t1kq34QrYXWH_YyzM5N8xg",
+    "publish_time": "2024-04-10",
+    "distilled_at": "2026-03-17T10:47:59.383221"
+  }
+}

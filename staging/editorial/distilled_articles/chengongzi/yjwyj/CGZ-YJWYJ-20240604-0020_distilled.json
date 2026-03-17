@@ -1,0 +1,91 @@
+{
+  "article_id": "CGZ-YJWYJ-20240604-0020",
+  "normalized_title": "二线治疗mOS近13个月！全球首个胃癌「免疫治疗进展后」人群前瞻性研究，实现巨大突破……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 随着免疫疗法在胃癌领域的持续发力，晚期胃癌一线治疗的格局焕然一新。但随之而来的，却是一、二线循证“脱钩”的问题。 目前晚期胃癌二线的标准治疗方案是抗VEGFR-2单抗雷莫西尤单抗，2014年发表在Lancet上的RAINBOW研究[1]奠定了其在国际指南上稳固的二线地位，2017年中国桥接试验RAINBOW-&nbsp;Asia[2]启动，4年后结果发表，证实了中国人群的获益，次年3月，雷莫西尤单抗正式进入中国。 但细看时间线，却是正好卡在了免疫疗法席卷胃癌的前夜。 2014年，K、O问世，2021年8月，纳武利尤单抗在中国获批胃癌一线治疗",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "随着免疫疗法在胃癌领域的持续发力，晚期胃癌一线治疗的格局焕然一新。但随之而来的，却是一、二线循证“脱钩”的问题。\n目前晚期胃癌二线的标准治疗方案是抗VEGFR-2单抗雷莫西尤单抗，2014年发表在La...",
+      "美东时间6月3日上午，2024年ASCO大会在胃癌领域的首个口头摘要会议召开。\n北京大学肿瘤医院张小田教授登台，报告了胃癌领域全球首个针对“免疫+化疗经治”人群的前瞻性研究AK109-201的初步结果..."
+    ],
+    "conclusion_hook": "可以说，单从试验设计上，目前已上市的产品组合已经难以复刻。\n\n免疫疗法的最后一块拼图\n\nPD-1/L1耐药问题是免疫治疗时代的巨大挑战，PD-1+CTLA-4的双免方案是对抗免疫耐药的潜在方案，但实际"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "48%",
+        "39.3%",
+        "mOS达12"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "两组客观缓解率（ORR）为48% vs 39.3%，其中双抗治疗组有1例（4.0%）完全缓解（CR）；中位缓解持续时间（mDOR）为5.5个月 vs 4.2个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "12个月OS率为57.1% vs 26.1%，实现翻倍。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2024年ASCO大会，卡度尼利单抗（PD-1/CTLA-4双抗）来了……\n\nmOS达12.9个月，胃癌二线新高度！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n中位总生存期（mOS）方面，双抗带来了巨大的惊喜。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "目前胃癌二线抗血管生成疗法的最长mOS约为9.6个月，大分子抗血管生成疗法在中国人群的mOS不足9个月，但本项研究中双抗治疗组的mOS达到了惊人的12.9个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240604-0020.json",
+    "original_url": "https://mp.weixin.qq.com/s/dBA-dZ38BF1Zf7htjDPvPQ",
+    "publish_time": "2024-06-04",
+    "distilled_at": "2026-03-17T10:47:59.613914"
+  }
+}

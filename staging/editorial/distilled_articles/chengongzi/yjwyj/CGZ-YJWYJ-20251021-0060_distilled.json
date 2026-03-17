@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YJWYJ-20251021-0060",
+  "normalized_title": "COMPASSION-15最终OS分析：刷新历史记录的HR值，到底意味着什么？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 北京时间2025年10月18日下午，ESMO 2025大会上，北京大学肿瘤医院沈琳教授亲自登台，报告了全球首款PD-1/CTLA-4双特异性抗体——卡度尼利单抗一线治疗晚期HER2阴性胃癌的III期研究——COMPASSION-15研究最终生存（OS）分析结果[1]。 一年前的AACR大会上，COMPASSION-15研究中期分析数据已经引燃了整个胃癌领域，推动胃癌免疫进入“无阈值时代”，无论PD-L1表达状态一线全人群获益。 基于该研究，卡度尼利单抗已于2024年9月获NMPA批准“晚期一线全人群”适应症，并在2025版CSCO胃癌诊疗指南中被推荐",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "北京时间2025年10月18日下午，ESMO 2025大会上，北京大学肿瘤医院沈琳教授亲自登台，报告了全球首款PD-1/CTLA-4双特异性抗体——卡度尼利单抗一线治疗晚期HER2阴性胃癌的III期研...",
+      "一年前的AACR大会上，COMPASSION-15研究中期分析数据已经引燃了整个胃癌领域，推动胃癌免疫进入“无阈值时代”，无论PD-L1表达状态一线全人群获益。\n基于该研究，卡度尼利单抗已于2024年..."
+    ],
+    "conclusion_hook": "可以说，几乎在任何数据层面上，COMPASSION-15研究的最终OS分析都再次刷新了其在中期分析时给我们带来的惊喜。\n卡度尼利单抗，不仅实现了真正意义上的全人群获益，也在获益程度上遥遥领先。\n\n史上"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "22.95%",
+        "49.84%",
+        "mOS）达 13"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "HR值更是低至惊人的0.49（95% CI：0.36-0.65，P<0.001），降低死亡风险51%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n极低的HR值带来的是更显著的长期生存获益，试验组2年OS率达43.7%，而对照组仅为13.5%，2年OS率相对提高30.2%，翻了三倍！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "超过40%的患者接受卡度尼利单抗治疗可实现2年以上的生存，在同类研究中遥遥领先。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n更直观的数据是，对于CPS＜5的群体，试验组2年OS率翻倍（31.4% vs15.6%），实现了历史性的突破。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n对于PD-L1 CPS≥5人群，卡度尼利单抗联合XELOX方案显著延长mOS达 16.8 个月，对照组仅 10.8 个月，相对延长6个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20251021-0060.json",
+    "original_url": "https://mp.weixin.qq.com/s/HIQcJFfuaBFsC_5jBrpJrg",
+    "publish_time": "2025-10-21",
+    "distilled_at": "2026-03-17T10:48:00.808489"
+  }
+}

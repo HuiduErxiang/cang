@@ -1,0 +1,118 @@
+{
+  "article_id": "CGZ-YJWYJ-20251101-0061",
+  "normalized_title": "一波带走 KRAS 蛋白的戈来雷塞，竟然是这样设计出来的……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 RAS是首个被发现的人类原癌基因[1]，约30%的肿瘤携带RAS突变，如果算上RAS调控因子和信号通路的上下游突变，几乎覆盖所有肿瘤。KRAS是RAS基因的三种亚型之一，占所有RAS突变的85%[2]，是当之无愧的“癌症之王”基因。 过去40年里，无数科学家试图开发出靶向KRAS的药物。遗憾的是，传统的成药思路在KRAS抑制剂的开发上全部失效，攻克KRAS成为了制药界的“哥德巴赫猜想”。 在这样的背景下，于2021成功获批的Sotorasib无疑承载了极大的期待，而这份期待也最终失望于III期临床CodeBreaK 200，在2年后FDA ",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "RAS是首个被发现的人类原癌基因[1]，约30%的肿瘤携带RAS突变，如果算上RAS调控因子和信号通路的上下游突变，几乎覆盖所有肿瘤。KRAS是RAS基因的三种亚型之一，占所有RAS突变的85%[2]...",
+      "想理解戈来雷塞药物分子上的创造性突破，要先对现有KRAS 蛋白有充分的了解。\nKRAS最常见的突变为位点在第12号密码子，主要有三种突变亚型：G12C、G12D和G12V。G12C抑制剂之所以是最先取..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "30%",
+        "85%",
+        "mOS提高，那么在KRAS G12"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是如此高的剂量，在CodeBreaK 200研究[6]中Sotorasib的mPFS也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜\n\nRAS是首个被发现的人类原癌基因[1]，约30%的肿瘤携带RAS突变，如果算上RAS调控因子和信号通路的上下游突变，几乎覆盖所有肿瘤。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "KRAS是RAS基因的三种亚型之一，占所有RAS突变的85%[2]，是当之无愧的“癌症之王”基因。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "患者肝功能异常的整体发生率和≥3级发生率仅为为2.5%和1.7%， 在安全性上体现出更佳的状态。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n体外试验结果显示，使用戈来雷塞后2小时血药浓度即可达到峰值，P-Erk抑制率达到91%，这是KRAS的下游通路，证明有效抑制了KRAS G12C蛋白的活性。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "24小时后，血浆药物浓度已经低于检测下限，表明戈来雷塞基本全部代谢，而同时肿瘤药物浓度依然达到了45.9ng/g，P-Erk抑制率依然维持在79%的高度，证明肿瘤抑制活性不需要维持血药浓度。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20251101-0061.json",
+    "original_url": "https://mp.weixin.qq.com/s/HTVQ34JhdcrVWoFIo2rx-Q",
+    "publish_time": "2025-11-01",
+    "distilled_at": "2026-03-17T10:48:00.853052"
+  }
+}

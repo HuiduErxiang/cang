@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20220506-0025",
+  "normalized_title": "3D打印药物，一项改变制药工业生产力的技术",
+  "one_paragraph_essence": "科技创新对生产力和生产方式的改进是迅速的，也是根本性的，有时我们习惯了先进生产力带来的便利，甚至都已忘却他们的来历。 1876年，世界上第一部电话在美国诞生。17年后，亚历山大·贝尔创办了第一家电话公司，第一年的装机量是：230台。而现在固定电话在某些场景已经被淘汰，巅峰期的诺基亚曾一年卖出4.3亿部手机，通讯技术也经历了2G到5G的转变，从远程通话变成了远程视频。 1886年，公认的世界上第一辆汽车跑在了德国曼海姆的大道上。一百三十多年过去，现今的汽车已经变得科技十足，新能源车的厂家甚至用“跑起来的手机”这样的比喻来形容智能汽车。 从手机到汽车，从工业革命到能源革命。科技进步，技术创新...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "科技创新对生产力和生产方式的改进是迅速的，也是根本性的，有时我们习惯了先进生产力带来的便利，甚至都已忘却他们的来历。",
+    "supporting_points": [
+      "1876年，世界上第一部电话在美国诞生。17年后，亚历山大·贝尔创办了第一家电话公司，第一年的装机量是：230台。而现在固定电话在某些场景已经被淘汰，巅峰期的诺基亚曾一年卖出4.3亿部手机，通讯技术也...",
+      "3D打印技术——制药界“工业革命”\n三迭纪创始人、首席执行官成森平博士看待技术创新的态度是独特的，毕竟从“生产力”的角度解释制药工业进程的人还不多，这可能与三迭纪本身的属性有关。"
+    ],
+    "conclusion_hook": "不难看出：T20诞生之路的背后，是三迭纪在6年时间里，将技术从构想、开发到应用，将产品从立项、研发到落地，将赛道从无到有建立并试跑的阶段性成功。与新兴制药技术从开发到应用至少需要30年的长周期相比，三"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "50%",
+        "70%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "从原研产品的专利里可以看到，使用传统的渗透泵或固体分散等缓释技术来开发1次/天的制剂产品，其生物利用度只有速释剂的50%~70%，这样的数据也体现出缓释剂型开发的难度。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n专利方面，目前三迭纪在全球药物3D打印领域的专利布局占比超过20%，同时也是专利布局最完整，申请数量最多的公司，且已覆盖了中国、美国、欧洲、加拿大、澳大利亚、日本、韩国等主要医药市场国家。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220506-0025.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247918445&idx=1&sn=01108a99919483d8418f769e079b1c64&chksm=ecb9db8bdbce529d9389258f85fac130bb2d3504f98c3435e91fb32519b3c036717d759524fa#rd",
+    "publish_time": "2022-05-06",
+    "distilled_at": "2026-03-17T10:56:04.341877"
+  }
+}

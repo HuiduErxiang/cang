@@ -1,0 +1,64 @@
+{
+  "product_id": "furmonertinib",
+  "product_name": "伏美替尼",
+  "product_name_en": "Furmonertinib",
+  "therapeutic_area": "肺癌",
+  "indication": "EGFR突变非小细胞肺癌",
+  "drug_class": "EGFR酪氨酸激酶抑制剂",
+  "mechanism_of_action": "选择性抑制EGFR酪氨酸激酶活性，阻断EGFR信号通路，抑制肿瘤细胞增殖",
+  "approval_status": {
+    "china": "已批准",
+    "us": "未批准",
+    "eu": "未批准"
+  },
+  "clinical_trials": [
+    {
+      "trial_id": "FURLONG",
+      "trial_name": "FURLONG研究",
+      "phase": "III",
+      "indication": "EGFR突变阳性NSCLC一线治疗",
+      "primary_endpoint": "无进展生存期（PFS）",
+      "results": {
+        "pfs": "伏美替尼组显著优于吉非替尼组",
+        "os": "数据成熟中",
+        "or": "较高的客观缓解率"
+      }
+    }
+  ],
+  "efficacy_data": {
+    "pfs": {
+      "median": "11.2个月",
+      "hr": "0.75",
+      "ci": "0.62-0.91"
+    },
+    "or": {
+      "rate": "74.1%",
+      "duration": "9.7个月"
+    }
+  },
+  "safety_data": {
+    "adverse_events": "耐受性良好",
+    "serious_adverse_events": "少见",
+    "key_toxicities": [
+      "皮疹",
+      "腹泻",
+      "肝酶升高"
+    ]
+  },
+  "biomarkers": [
+    {
+      "biomarker_id": "EGFR",
+      "biomarker_name": "EGFR突变",
+      "association": "预测疗效",
+      "detection_method": "NGS"
+    }
+  ],
+  "dosage_form": "片剂",
+  "dosage_strength": "40mg",
+  "manufacturer": "上海艾力斯医药科技股份有限公司",
+  "sources": [
+    "FURLONG研究结果",
+    "中国国家药品监督管理局（NMPA）批准文件",
+    "产品说明书"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20250508-0047",
+  "normalized_title": "旧战场和大革命",
+  "one_paragraph_essence": "文章以微软鲍尔默时代困在旧战场的教训开场，引出战场定位能力对企业穿越周期的重要性。作者分析中国互联网巨头在旧战场与新战场之间的战略选择，以历史纵深叙事揭示战术勤奋与战略失误的辩证关系，为面临转型的企业提供战略启示。",
+  "topic": "企业战略",
+  "subtopic": "战场定位与企业转型",
+  "audience": "关注企业管理、战略转型、互联网行业的读者",
+  "narrative_frame": {
+    "frame_type": "case_study_with_strategic_insight",
+    "key_elements": ["历史案例引入", "概念提炼", "中国案例对比", "战略启示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "战场定位能力是企业最重要的战略能力，困在旧战场的资源消耗将决定企业能否穿越周期",
+    "supporting_points": [
+      "鲍尔默保住Win和Office但错失云计算和移动终端",
+      "微软市值在鲍尔默执政14年下跌40%",
+      "纳德拉押注云计算让微软市值从3000亿涨到3万亿",
+      "中国互联网巨头面临旧战场与新战场的选择"
+    ],
+    "conclusion_hook": "卷入旧战场，还是奔赴新战场？这个问题萦绕在中国大多数商业巨头掌舵者的脑子里"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_case_opening",
+      "example": "2000年，比尔·盖茨把皇座交给了同学史蒂夫·鲍尔默，拉开了微软失去的十年的黑暗序幕",
+      "effect": "以标志性历史案例建立论点框架"
+    },
+    {
+      "device_type": "definition_insight",
+      "example": "对一家企业来说，战场定位能力是所有战略能力里面最重要的一个",
+      "effect": "提炼核心概念，增强理论深度"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_case", "data", "quote"],
+    "integration_style": "案例驱动+数据支撑+理论提炼"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "strategic", "analytical"],
+    "syntax_patterns": ["历史开场句式", "定义提炼句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[X]年，[主语]把皇座交给了[名字]，拉开了[Y]的黑暗序幕",
+      "context": "历史转折点的戏剧性开场",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "战术勤奋和利润增长，掩盖了战略的巨大失误",
+      "context": "揭示企业常见陷阱",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250508-0047.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

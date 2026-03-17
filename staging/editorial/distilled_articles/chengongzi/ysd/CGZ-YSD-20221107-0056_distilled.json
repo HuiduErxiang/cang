@@ -1,0 +1,113 @@
+{
+  "article_id": "CGZ-YSD-20221107-0056",
+  "normalized_title": "股价仅剩峰值的2%！终止开发癌症免疫新疗法，陈列平也挡不住科学的规律...",
+  "one_paragraph_essence": "「谋划」未来，「实践」真知！ 「挑战」已至，「政策」先行！ ——第三届中国新药CMC高峰论坛精彩回顾！ 千人报名，观看量直逼10万+！一起欣赏中国制药江湖「冬天里的一把火」！ 科学的规律不容违反，即便是陈列平教授天纵之资，以当代全球肿瘤免疫治疗先驱者的身份，在自己最熟悉的肿瘤免疫领域开发新一代疗法，也难抵失败的命运。 2015年，陈列平教授创立了NextCure公司，利用特有的FIND-IOTM筛选平台，开发新一代肿瘤免疫疗法，以治疗PD-L1阴性肿瘤以及对免疫检查点反应不佳的肿瘤。 7年后，2022年11月3日，NextCure公布了三季度业绩报告，同时宣布终止开发其进展最快、已经进入...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "「谋划」未来，「实践」真知！\n「挑战」已至，「政策」先行！\n——第三届中国新药CMC高峰论坛精彩回顾！",
+    "supporting_points": [
+      "科学的规律不容违反，即便是陈列平教授天纵之资，以当代全球肿瘤免疫治疗先驱者的身份，在自己最熟悉的肿瘤免疫领域开发新一代疗法，也难抵失败的命运。\n2015年，陈列平教授创立了NextCure公司，利用特...",
+      "7年后，2022年11月3日，NextCure公布了三季度业绩报告，同时宣布终止开发其进展最快、已经进入临床二期阶段的产品NC318，这是一款靶向Siglec-15 (S15)通路的单克隆抗体，曾被认..."
+    ],
+    "conclusion_hook": "这意味着，那些对PD-1/L1免疫疗法不响应、PD-L1表达水平非常低的患者，恰恰是S15蛋白高表达的人群。\n与LAG-3这样需联用PD-1的免疫检查点蛋白不同，S15与PD-1/L1有明显的互补关系"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "21%",
+        "20%",
+        "21亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "即便是陈列平教授天纵之资，以当代全球肿瘤免疫治疗先驱者的身份，在自己最熟悉的肿瘤免疫领域开发新一代疗法，也",
+        "即便是投资门槛也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n在PD-1/L1通路带来卓越疗效的同时，其较低的响应率也受到了颇多重视，大部分癌种上不到20%的响应率无法满足人们的期望，诸多以提高PD-1响应率为目标的“新型免疫疗法”也受到追捧。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "其中一半的患者之前接受过至少3种疗法的系统治疗，在临床上属于难治的癌症患者，包括31位（63%）接受过以PD-1为主的免疫治疗的患者。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n7年的时间够让一个人接受从高中到大学的所有教育；可以让中国的GDP增长70%；能修建起一栋492米的高楼和一条地铁线路，但是对于基础医学的转化却远远不够。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "算上这次下跌，Nextcure的市值已经从巅峰时期的21亿美元跌至5400万美元，而公司现存资产还有整整1.69亿美元，足见资本的失望。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221107-0056.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248036640&idx=1&sn=be41894faea6938aef030ff77976ce0c&chksm=ecbb09c6dbcc80d0e7156bfa03ea6d60021c720c4c5c7fe480a0ff49bc2ed4e399577a5dcd46#rd",
+    "publish_time": "2022-11-07",
+    "distilled_at": "2026-03-17T10:56:04.564240"
+  }
+}

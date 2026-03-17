@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20250515-0048",
+  "normalized_title": "中美交锋2.1版本回顾——施压、节奏和排雷",
+  "one_paragraph_essence": "文章以游戏版本类比开场，将中美贸易交锋分为1.0和2.0大版本，复盘2025年4月至5月的2.1版本交锋。作者深度剖析特朗普极限施压策略的历史渊源和失败案例，分析中方从容应对背后的七年准备，揭示这场交锋中的施压艺术、节奏把控和排雷策略。",
+  "topic": "国际政治",
+  "subtopic": "中美贸易博弈策略分析",
+  "audience": "关注国际关系、贸易政策、博弈论的读者",
+  "narrative_frame": {
+    "frame_type": "strategic_analysis_with_historical_context",
+    "key_elements": ["版本类比开场", "策略溯源", "案例对比", "中方准备揭示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中方在2.1版本交锋中从容应对，源于七年脱钩准备和对美方策略的深度研究预判",
+    "supporting_points": [
+      "特朗普极限施压策略源自商业生涯的恐吓威胁打法",
+      "极限施压在伊朗、朝鲜、美墨边境均遭败绩",
+      "中国为脱钩级局面恶化准备了七年",
+      "针对美方决策团队的风格节奏底牌做了大量预判"
+    ],
+    "conclusion_hook": "中方的应对可圈可点，策略和手段都比1.0版本有了很大的从容感"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "gamification_metaphor",
+      "example": "特朗普第一任期的贸易战，可以称之为1.0大版本...特朗普复辟后，中美来到2.0大版本，首次交锋从4月2号全球宣战开始",
+      "effect": "以游戏版本类比复杂政治事件，增强可读性"
+    },
+    {
+      "device_type": "historical_case_analysis",
+      "example": "最早期的案例，可以追溯到特朗普在70年代操作的君悦酒店交易案",
+      "effect": "追溯策略渊源，揭示行为模式"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_case", "quote", "data"],
+    "integration_style": "历史案例+策略分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "strategic", "epic"],
+    "syntax_patterns": ["版本类比句式", "案例溯源句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "作为一名资深[X]玩家，我喜欢用游戏版本做类比：[事件Y]可以称之为1.0大版本，[事件Z]基本上是在做版本延续",
+      "context": "将复杂事件游戏化叙事",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250515-0048.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

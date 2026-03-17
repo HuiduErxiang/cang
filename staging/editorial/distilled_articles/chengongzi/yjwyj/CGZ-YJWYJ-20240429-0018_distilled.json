@@ -1,0 +1,85 @@
+{
+  "article_id": "CGZ-YJWYJ-20240429-0018",
+  "normalized_title": "初诊局晚期鼻咽癌正式进入免疫治疗时代！信迪利单抗纳入CSCO鼻咽癌诊疗指南唯一局晚期免疫治疗方案（IB类）推荐",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 4月26-27日，2024年中国临床肿瘤学会（CSCO）指南会召开，2024版CSCO指南正式问世，其中鼻咽癌指南的更新颇具亮点。 得益于免疫疗法的快速发展，新版指南扩大对免疫疗法的推荐。免疫治疗方案（诱导化疗+同期放化疗+信迪利单抗）被推荐用于治疗T1-T4、N2-N3以及T4N1的高危局晚期鼻咽癌（IB类证据）。 这是免疫疗法首次正式纳入鼻咽癌的局晚期的治疗推荐，表明免疫治疗与放化疗的结合已经基本成熟，鼻咽癌将进入全程免疫治疗时代。 该推荐基于CONTINUUM研究的优秀成果。CONTINUUM研究由中山大学肿瘤防治中心马骏教授牵头开",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "4月26-27日，2024年中国临床肿瘤学会（CSCO）指南会召开，2024版CSCO指南正式问世，其中鼻咽癌指南的更新颇具亮点。\n得益于免疫疗法的快速发展，新版指南扩大对免疫疗法的推荐。免疫治疗方案...",
+      "该推荐基于CONTINUUM研究的优秀成果。CONTINUUM研究由中山大学肿瘤防治中心马骏教授牵头开展，是全球首个PD-1单抗联合放化疗治疗局晚期鼻咽癌的III期临床试验，也是第一个得到EFS阳性结..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "94%",
+        "10%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n从2018年12月至2020年3月，共入组425例患者，经42个月中位随访后，94%患者随访时间超过3年，最后一位入组的患者随访时为35个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果显示，与对照组相比，信迪利单抗治疗组的3年EFS率显著提高10%（86.1% vs 76%，HR 0.59，p=0.019），发生复发转移和死亡的风险降低了41%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n在安全性方面，信迪利单抗组3~4级免疫相关不良反应的发生率仅为9.6%，包括皮疹、瘙痒和淀粉酶升高等。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "有70%的患者能够完成研究方案规定的12周期信迪利单抗治疗。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240429-0018.json",
+    "original_url": "https://mp.weixin.qq.com/s/KHVkk2o7f0lFV72Zr1I5_A",
+    "publish_time": "2024-04-29",
+    "distilled_at": "2026-03-17T10:47:59.567329"
+  }
+}

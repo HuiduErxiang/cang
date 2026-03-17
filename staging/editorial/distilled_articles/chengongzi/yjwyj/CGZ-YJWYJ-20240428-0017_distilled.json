@@ -1,0 +1,74 @@
+{
+  "article_id": "CGZ-YJWYJ-20240428-0017",
+  "normalized_title": "CSCO 胃癌指南更新！ T-DXd正式纳入推荐，HER2+胃癌格局迎来剧变",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 2024年4月26~27日，中国临床肿瘤学会(CSCO)指南会在济南盛大召开，2024版CSCO胃癌诊疗指南同步问世。 得益于近年来胃癌领域的快速发展，今年胃癌指南进行了较大更新。 一方面，免疫疗法继续扩大影响力。围术期新增dMMR和pMMR型胃癌的免疫治疗部分，吸纳了KEYNOTE-585、INFINITY研究等结果进行了相应推荐；基于KEYNOTE-811研究，帕博利珠单抗联合曲妥珠单抗纳入晚期HER2+胃癌一线治疗I级推荐； 另一方面，HER2+胃癌领域终于迎来史诗级ADC T-DXd，正式推荐其用于&nbsp;HER2 +晚期胃癌的",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年4月26~27日，中国临床肿瘤学会(CSCO)指南会在济南盛大召开，2024版CSCO胃癌诊疗指南同步问世。\n得益于近年来胃癌领域的快速发展，今年胃癌指南进行了较大更新。\n一方面，免疫疗法继...",
+      "作为近两年肿瘤领域最具影响力的新药之一，T-DXd大幅提高了抗HER2治疗的上限，分别在2020年9月及2021年1月获日本MHLW（三线及以上）和美国FDA批准（二线及以上）的HER2+胃癌适应症。..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "24.8%",
+        "51.3%",
+        "mOS）完胜对照组的11"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "结果显示，维迪西妥单抗治疗后患者ORR达24.8%，mPFS达4.1个月，mOS达7.9个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240428-0017.json",
+    "original_url": "https://mp.weixin.qq.com/s/BmuUVHfmYiAz712Qb1l31w",
+    "publish_time": "2024-04-28",
+    "distilled_at": "2026-03-17T10:47:59.565211"
+  }
+}

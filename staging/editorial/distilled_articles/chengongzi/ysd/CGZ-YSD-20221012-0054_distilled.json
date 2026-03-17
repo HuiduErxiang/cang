@@ -1,0 +1,108 @@
+{
+  "article_id": "CGZ-YSD-20221012-0054",
+  "normalized_title": "还有一周公布临床结果，CEO却「突然离职」了......这买卖还能干么？",
+  "one_paragraph_essence": "点击这里，欣赏重磅直播！ 2022年10月16日，为期4天的美国外科医师学会（ACS）临床大会将在美国西海岸的圣地亚哥隆重举办，自2019年疫情爆发以来，该会议已经连续两年于线上召开，今年将是重返线下的第一年。作为世界上最大的外科医生国际会议之一，全球很多顶尖外科医生都将汇聚于此。 不过对于大会的主办方来说，现在正是手忙脚乱的时候，本应在10月17日下午出席并汇报关键临床结果的Palisade Bio（PALI）公司不能到场，这给他们的会议议程带来了一个段长达一个半小时的缺口。 就在10月10日，临床结果公布的前一周，PALI的首席执行官（CEO）Thomas Hallam博士突然离职，...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "点击这里，欣赏重磅直播！",
+    "supporting_points": [
+      "2022年10月16日，为期4天的美国外科医师学会（ACS）临床大会将在美国西海岸的圣地亚哥隆重举办，自2019年疫情爆发以来，该会议已经连续两年于线上召开，今年将是重返线下的第一年。作为世界上最大的..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "80%",
+        "20%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管CEO在数据公布前“跑路”的行为让人十分焦虑，但Finley还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "真是9分钱压到英雄汉。",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "\n近三年的苦等让股东失去了耐心，股价自上市以来跌去了80%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n但是PALI的财务状况却极为堪忧，不到一个月前刚刚宣布了裁员20%的计划，以确保有足够的资金维持LB1148的开发工作。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221012-0054.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248005120&idx=1&sn=885e8f4f2598f8e0e45a147888672732&chksm=ecb88ee6dbcf07f0eb4490009fa29bdc7b22e68f9db126c50832b526219d70da9b3977370ce3#rd",
+    "publish_time": "2022-10-12",
+    "distilled_at": "2026-03-17T10:56:04.548275"
+  }
+}

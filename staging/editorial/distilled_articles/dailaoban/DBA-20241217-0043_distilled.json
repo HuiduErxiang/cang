@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20241217-0043",
+  "normalized_title": "蔚来十年：在残酷的世界里孤注一掷",
+  "one_paragraph_essence": "文章以2019年李斌最惨的人标签开场，讲述蔚来从死亡边缘到市值飙升的十年历程。作者以历史纵深视角，剖析蔚来如何通过技术自研、换电网络、高端品牌定位在新能源汽车赛道孤注一掷。文章揭示蔚来从服务标签到技术投资的战略转变，以及中国新势力在供应链垂直整合中的长期亏损根源。",
+  "topic": "新能源汽车",
+  "subtopic": "中国新势力企业战略",
+  "audience": "关注新能源汽车、企业战略、中国制造的读者",
+  "narrative_frame": {
+    "frame_type": "corporate_history_with_strategic_analysis",
+    "key_elements": ["危机开场", "历史分期", "技术战略拆解", "行业规律揭示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "蔚来用十年时间完成了从服务标签到技术公司的转型，在残酷的世界里孤注一掷",
+    "supporting_points": [
+      "2019年是蔚来的生死分界线",
+      "EP9以赛道圈速为技术能力校准",
+      "工程师团队超万人，在新势力中绝无仅有",
+      "从服务标签到技术投资的战略转变"
+    ],
+    "conclusion_hook": "汽车工业用百年时间建立的森严秩序里，还没有相信过王侯将相宁有种乎的故事"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "crisis_opening",
+      "example": "创始人李斌的出圈始于2019年最惨的人这顶大帽子，蔚来经历了一系列风波，几乎处于死亡边缘",
+      "effect": "以危机开场，制造戏剧张力"
+    },
+    {
+      "device_type": "period_division",
+      "example": "蔚来迄今的十年历史可以分成截然不同的两部分，2019年是一个清晰的分界线",
+      "effect": "清晰划分历史阶段，增强结构感"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["anecdote", "data", "quote"],
+    "integration_style": "危机叙事+技术拆解+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "narrative-driven", "analytical"],
+    "syntax_patterns": ["危机开场句式", "历史分期句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[主语]迄今的[时间]历史可以分成截然不同的两部分，[年份]是一个清晰的分界线",
+      "context": "历史分期叙事开场",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "[X]用[时间]建立的森严秩序里，还没有相信过[Y]的故事",
+      "context": "打破行业秩序的收尾",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241217-0043.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "article_id": "CGZ-YJWYJ-20240413-0014",
+  "normalized_title": "免疫疗法单独推荐！「HER2低表达」分类正式进入CSCO乳腺癌诊疗指南……",
+  "one_paragraph_essence": "作者 | 辰公子 审核 | 龙妈、涟濯&nbsp; 来源 | 医界望远镜 2024年4月12日，2024全国乳腺癌大会暨中国临床肿瘤学会乳腺癌（CSCO BC）年会正式在北京召开，2024版CSCO乳腺癌诊疗指南同步问世。 近年来，乳腺癌领域的治疗格局可以说发生了天翻地覆的变化，最大的变革来自两个方面：ADC和PD-1抑制剂。 最新版指南也紧跟前沿学术成果，在围术期治疗和晚期解救治疗两方面做出了相应更新，并做出了堪称近年来最大的指南调整：新增「HER2低表达」章节，充分认可了DESTINY-Breast04研究、TROPiCS-02研究成果中，新型ADC药物给该类患者带来的治疗获益。 在HE",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 | 龙妈、涟濯&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年4月12日，2024全国乳腺癌大会暨中国临床肿瘤学会乳腺癌（CSCO BC）年会正式在北京召开，2024版CSCO乳腺癌诊疗指南同步问世。\n近年来，乳腺癌领域的治疗格局可以说发生了天翻地覆的...",
+      "2023版指南中PD-1抑制剂已经纳入了TNBC的治疗推荐中，但无论是晚期解救治疗、新辅助治疗还是新辅助后的辅助治疗，PD-1均在II级推荐中，大部分是2A类证据，意味着对中国人群来说，PD-1抑制剂..."
+    ],
+    "conclusion_hook": "可以说发生了天翻地覆的变化，最大的变革来自两个方面：ADC和PD-1抑制剂。\n最新版指南也紧跟前沿学术成果，在围术期治疗和晚期解救治疗两方面做出了相应更新，并做出了堪称近年来最大的指南调整：新增「HE"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "35%",
+        "99.2%",
+        "mOS分别为 32"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n安全性方面，两组患者在治疗期间出现的不良事件（TEAE）（99.2% vs. 98.9%）、≥3级TEAE（56.4% vs. 54.3%）和致死性AE（0.6% vs. 3.4%）的发生率相似。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n进击的Trop-2 ADC\n\nTrop-2 ADC是近年来乳腺癌领域的另一股“新势力”，乳腺癌中Trop-2高度表达患者比例约为 78%，使其成为乳腺癌领域极具潜力的靶点，SG就此脱颖而出。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nOS方面，相对于安慰剂组，特瑞普利单抗有改善PD-L1 阳性人群 OS 的趋势，mOS分别为 32.8 个月和 19.5 个月（HR=0.62）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "值得一提的是，TORCHLIGHT研究OS的HR值甚至要优于KEYNOTE-355研究中，试验组对PD-L1 CPS≥10患者OS获益（HR=0.73）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240413-0014.json",
+    "original_url": "https://mp.weixin.qq.com/s/73kPL0f09VyDTgvcL8FPzA",
+    "publish_time": "2024-04-13",
+    "distilled_at": "2026-03-17T10:47:59.514371"
+  }
+}

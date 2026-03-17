@@ -1,0 +1,93 @@
+{
+  "article_id": "CGZ-YJWYJ-20241013-0035",
+  "normalized_title": "首个且唯一！舒沃替尼斩获全线治疗EGFR ex20ins中美突破性疗法「大满贯」",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 伟大的运动员具有时代的影响力，能让所有优秀的竞争对手黯然失色。他们的成就难以一以概之，于是便有了汇聚顶级荣誉的“大满贯”头衔为其加冕。 而在同样群星璀璨的创新药世界里，作为首个且唯一斩获EGFR exon20ins 非小细胞肺癌中美突破性疗法（BTD）“大满贯”的中国源头创新药物，舒沃替尼也正走向属于自己的“统治之路”。 BTD大满贯！ 中国成果填补20年临床空白 近日，迪哲医药自主研发的I类新药舒沃替尼获得CDE的突破性疗法认定（BTD），用于一线治疗EGFR 20号外显子插入（exon20ins）突变晚期非小细胞肺癌（NSCLC）患",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "伟大的运动员具有时代的影响力，能让所有优秀的竞争对手黯然失色。他们的成就难以一以概之，于是便有了汇聚顶级荣誉的“大满贯”头衔为其加冕。\n而在同样群星璀璨的创新药世界里，作为首个且唯一斩获EGFR ex...",
+      "近日，迪哲医药自主研发的I类新药舒沃替尼获得CDE的突破性疗法认定（BTD），用于一线治疗EGFR 20号外显子插入（exon20ins）突变晚期非小细胞肺癌（NSCLC）患者。\n这是舒沃替尼在肺癌领..."
+    ],
+    "conclusion_hook": "可以说，无论疗效还是安全性，无论是一线还是二线治疗，舒沃替尼都展现了“同类最佳”的潜质。这不仅为国内患者提供了优质的治疗选择，也为其走向全球市场打下了坚实的基础。\n\n加速全球布局，出海势不可挡\n\n透过"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "2%",
+        "4%",
+        "mOS不足20"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n舒沃替尼针对的EGFR exon20ins 是罕见难治靶点，约占NSCLC的2%～4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "真实世界数据分析显示，exon20ins NSCLC患者预后极差，化疗、免疫疗法或传统EGFR TKI的mPFS不足半年，mOS不足20个月，5年OS率仅为8%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n研究纳入既往含铂化疗治疗失败或不耐受 EGFR exon20ins NSCLC中国患者，结果显示，经过IRC评估确认的客观缓解率（cORR）达61%，90%以上患者经舒沃替尼单药治疗后靶病灶缩小。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在该研究中，舒沃替尼的疗效、安全性均展现出了与WU-KONG6研究结果的高度一致性，研究中还观察到3例患者（2.8%）达到完全缓解（CR），显示出了治疗的肿瘤缩小深度较高。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "同时值得一提的是，WU-KONG1B研究中非亚裔患者占比超过40%，其研究结果在全球范围内都将具有代表性。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241013-0035.json",
+    "original_url": "https://mp.weixin.qq.com/s/iWawg5N8MjWVk2hz_b_pqA",
+    "publish_time": "2024-10-13",
+    "distilled_at": "2026-03-17T10:47:59.824188"
+  }
+}

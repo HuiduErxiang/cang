@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20200920-0005",
+  "normalized_title": "观察者网是如何广受年轻人「心疼」的？",
+  "one_paragraph_essence": "文章以作者在咖啡馆等待观察者网编辑王骁的场景开场，讲述这家「广受年轻人心疼的时政网站」如何崛起。作者通过对观察者网总编辑金仲伟及核心团队的访谈，揭示其成功密码：非科班出身的理工科团队、活泼的编辑氛围、内部创新「长出来」的视频项目，以及「广受年轻人心疼」的社区定位。",
+  "topic": "媒体行业",
+  "subtopic": "观察者网崛起路径与新媒体运营模式",
+  "audience": "关注媒体、内容创业、年轻人文化的读者",
+  "narrative_frame": {
+    "frame_type": "media_case_study",
+    "key_elements": ["个人访谈开场", "人物对话", "组织解剖", "成功密码提炼"]
+  },
+  "argument_skeleton": {
+    "main_claim": "观察者网的成功源于非传统的团队构成和允许内部创新的组织文化",
+    "supporting_points": [
+      "观察者网科班出身的记者编辑很少，反而理工科较多",
+      "视频项目并非设计出来，而是通过内部创新「长出来的」",
+      "编辑部气氛活泼，总编基本不会干扰选题",
+      "B站584万年轻人是其坚定支持者，弹幕表达对他们的喜爱"
+    ],
+    "conclusion_hook": "这家成立不足10年的媒体，赢得新一代年轻人支持的方式，与其说是精心设计，不如说是顺势生长"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "interview_scene_opening",
+      "example": "上海八月热浪袭人，我在长宁区番禺路381弄一家很小资的咖啡馆里，等待一个叫王骁的人。",
+      "effect": "以访谈场景建立真实感和代入感"
+    },
+    {
+      "device_type": "dialogue_detail",
+      "example": "如果每期低于200万播放量，团队内部是需要开反思会的。作为一个B站最高播放量只有7万的人，我努力掩饰着嘴角的抽搐。",
+      "effect": "用具体数字和自嘲制造反差和幽默感"
+    },
+    {
+      "device_type": "counterintuitive_revelation",
+      "example": "这些在B站上动辄几百万播放量的视频项目并非设计出来的，而是通过内部创新「长出来的」。",
+      "effect": "揭示反常识的真相，打破读者预期"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["interview_quotation", "traffic_data", "organizational_detail"],
+    "integration_style": "访谈引用+数据佐证+组织细节"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["conversational", "investigative", "insider"],
+    "syntax_patterns": ["访谈场景句式", "对话细节句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{地点}{天气}，我在{具体地点}等待一个叫{姓名}的人。",
+      "context": "访谈场景开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "作为一个{自嘲身份}，我努力掩饰着嘴角的抽搐。",
+      "context": "自嘲式幽默",
+      "reusability_score": 3
+    },
+    {
+      "fragment": "这些{成就}并非设计出来的，而是通过{机制}「长出来的」。",
+      "context": "反直觉揭示",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20200920-0005.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

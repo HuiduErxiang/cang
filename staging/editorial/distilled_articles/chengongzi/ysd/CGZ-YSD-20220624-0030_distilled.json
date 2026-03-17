@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YSD-20220624-0030",
+  "normalized_title": "近2年，FDA撤销了17项「突破性疗法认定」。这张票，似乎没有想象中“值钱”",
+  "one_paragraph_essence": "今晚8点！药时代直播间特别活动↑↑↑ 众所周知，FDA有四项特殊审评制度：优先审评（Priority Review）、突破性疗法认定（Breakthrough Therapy）、加速批准（Accelerated Approval）、快速通道（Fast Track）。 其中，突破性疗法认定最为“年轻”，2012年才创立，而其余三项分别在1988年和1992年就已设立。 这四项资格被认为是创新药获FDA批准上市的“金手指”，在每年FDA批准的药物中，拥有其中一项或多项认证的产品占据着相当的比例。但如果我们反向统计，看看获得资格认证的产品最终的结果，会发现其也并非“免死金牌”。 我们熟悉的，最...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "今晚8点！药时代直播间特别活动↑↑↑",
+    "supporting_points": [
+      "众所周知，FDA有四项特殊审评制度：优先审评（Priority Review）、突破性疗法认定（Breakthrough Therapy）、加速批准（Accelerated Approval）、快速通...",
+      "其中，突破性疗法认定最为“年轻”，2012年才创立，而其余三项分别在1988年和1992年就已设立。\n这四项资格被认为是创新药获FDA批准上市的“金手指”，在每年FDA批准的药物中，拥有其中一项或多项...",
+      "我们熟悉的，最近的案例莫过于和黄医药与君实生物，和黄的索凡替尼拥有快速通道资格，君实的特瑞普利单抗则被FDA授予过2项突破性疗法认定、1项快速通道认定和1项优先审评认定。\n然而两款产品均在今年5月初收..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "03亿美元",
+        "03亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "法国biotech借此获得1.03亿美元投资，而国内药企，尚未布局...\nFDA两场专家咨询委员会后，蓝鸟生物和CRISPR的「股价」头对头变化...\n\n点击这里，欢聚药时代！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而两款产品均在今年5月初收到了FDA的完整回复函，出海暂缓。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220624-0030.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247940367&idx=1&sn=06ae496d867d64b8f82f8f2d383c18ff&chksm=ecb981e9dbce08ff3138d38b64852e9ed9582a4dc847e6845199ea45b863a98677b5755b282f#rd",
+    "publish_time": "2022-06-24",
+    "distilled_at": "2026-03-17T10:56:04.375160"
+  }
+}

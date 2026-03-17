@@ -1,0 +1,59 @@
+{
+  "article_id": "KZK-20231222-0019",
+  "normalized_title": "安慰剂杀疯了：Efgartigimod临床迭遭败绩",
+  "one_paragraph_essence": "作为近年来全球医药领域崛起速度最快的企业之一，argenx的成长道路可谓顺风顺水，实现了股价6年30倍以上增幅的壮举，这一切都建立在旗下FcRn拮抗剂Efgartigimod的巨大成功之上，这个自免领域又一款潜在的“pipeline in a product”，此前在重症肌无力和慢性炎性脱髓鞘性多发性神经根神经病等适应症上一路高歌猛进，上市两年以内就跨过了年销售额10亿美元大关。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作为近年来全球医药领域崛起速度最快的企业之一，argenx的成长道路可谓顺风顺水，实现了股价6年30倍以上增幅的壮举，这一切都建立在旗下FcRn拮抗剂Efgartigimod的巨大成功之上，这个自免领域又一款潜在的“pipeline in a product”，此前在重症肌无力和慢性炎性脱髓鞘性多发性神经根神经病等适应症上一路高歌猛进，上市两年以内就跨过了年销售额10亿美元大关。",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 4,
+      "examples": [
+        "https://www.argenx.com/sites/default/files/event-attachment/argenx_3Q_2023_FInancial_Results_and_Business_Update_Presentation.pdf",
+        "https://www.argenx.com/sites/default/files/event-attachment/ADVANCE-SC_Topline_11-2_call.pdf",
+        "https://www.argenx.com/sites/default/files/event-attachment/ARGX_ASH_ADVANCE_IV_Presentation_12.11.22.pdf"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20231222-0019.json",
+    "original_url": "https://mp.weixin.qq.com/s/JE91RAzidg3C3a5gy_ewag",
+    "publish_time": "2023-12-22",
+    "distilled_at": "2026-03-17T10:17:04.064999"
+  }
+}

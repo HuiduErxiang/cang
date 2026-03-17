@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20250821-0052",
+  "normalized_title": "从仰望，到猛攻：《三角洲行动》的出海之路",
+  "one_paragraph_essence": "文章以游戏人姚远对《使命召唤：现代战争》的震撼回忆开场，讲述中国游戏人从仰望欧美大作到自主打造全球级射击游戏的漫长追梦之路。通过天美J3工作室开发《三角洲行动》的案例，展现中国游戏产业在射击赛道上二十年磨一剑的追赶历程。文章以历史纵深叙事，揭示这是一篇典型的中国产业追赶故事。",
+  "topic": "游戏产业",
+  "subtopic": "中国游戏出海与产业追赶",
+  "audience": "关注游戏产业、中国制造升级的读者",
+  "narrative_frame": {
+    "frame_type": "industry_evolution_narrative",
+    "key_elements": ["个人回忆开场", "产业差距揭示", "追赶历程铺陈", "阶段性成果展示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国游戏产业在射击赛道经历了从仰望到追赶再到出击的漫长历程，《三角洲行动》是这一追赶故事的阶段性成果",
+    "supporting_points": [
+      "2007年中国游戏人与欧美大作存在巨大差距",
+      "姚远团队从《逆战》到《使命召唤手游》积累经验",
+      "《三角洲行动》实现三端互通全球发行",
+      "登顶169个国家AppStore榜首"
+    ],
+    "conclusion_hook": "这是一群游戏人漫长且艰难的追梦之路，它很难称得上是一篇励志爽文，但这反而让它更接近一个典型的中国产业追赶故事"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "cinematic_opening",
+      "example": "多年之后，已经是一个游戏工作室负责人的姚远，还会时不时想起他第一次玩《使命召唤：现代战争》时的那种震撼",
+      "effect": "以马尔克斯式的回忆开场，建立历史纵深感"
+    },
+    {
+      "device_type": "industry_taxonomy",
+      "example": "射击游戏是玩家比例最高的游戏类型，占比超过53%，位列车枪球之首",
+      "effect": "用数据定位行业坐标，增强说服力"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["anecdote", "data", "quote"],
+    "integration_style": "个人故事驱动产业叙事"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "narrative-driven", "respectful"],
+    "syntax_patterns": ["回忆开场句式", "数据定位句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "多年之后，[主语]还会时不时想起[时间点]的那种[情感]",
+      "context": "建立历史纵深感的开场",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "这是一篇[X]的追梦之路，它很难称得上是一篇励志爽文，但这反而让它更接近一个典型的[Y]",
+      "context": "真实感的总结收尾",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250821-0052.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

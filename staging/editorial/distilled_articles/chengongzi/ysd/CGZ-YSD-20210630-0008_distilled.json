@@ -1,0 +1,114 @@
+{
+  "article_id": "CGZ-YSD-20210630-0008",
+  "normalized_title": "我和我的药时代｜加科思王印祥博士谈BD：欲做License out， IND必须抢占全球前三",
+  "one_paragraph_essence": "记者：郭劲松、辰公子 主笔：辰公子 编辑：辰公子 加科思药业，英文名：Jacobio Pharma，由Jacob和bio两个词组成，Jacob是希伯来语，寓意是“抓住”，bio是生物的词根。 Jacobio这个名字，反映了王印祥博士长期的追求——抓住生命科学的机遇！ 访谈内容： 一、盐酸埃克替尼——民生领域的“两弹一星” 二、发展策略——本土市场还是走向全球？ 三、新药研发生态圈——从玉米地里的氢化釜到全产业链齐备 政策的优化 资本市场的改善 上下游服务的提升 华裔科学家回流 四、License out 的策略——IND申报要做到全球前三 立项策略 产品：全新靶点 专利：不能有瑕疵 数据...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "记者：郭劲松、辰公子",
+    "supporting_points": [
+      "加科思药业，英文名：Jacobio Pharma，由Jacob和bio两个词组成，Jacob是希伯来语，寓意是“抓住”，bio是生物的词根。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 3,
+      "examples": [
+        "然而",
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "怎么行？那怎么才算是好的价钱呢？",
+        "这是个什么概念？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "10%",
+        "40%",
+        "55亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "”\n\n国内药企的销售成本一般在40%-60%左右，创新药也要40%，还要刨去一些生产和行政的费用。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "一个创新药在国际市场的销售每年30-100亿美元是比较常见的，通过license-out，即使有10%以上的全球份额，会有4-15亿美元的收入，而且是纯利润，这部分没有销售和生产及行政费用。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n四、License out的策略\nIND申报要做到全球前三\n\n据咨询机构ChinaBio统计，2020年中国药企和海外药企的跨境交易达到271起，相较2015年增长300%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "以艾伯维的BTK抑制剂举例，这个药物针对血液肿瘤，一年的销售额接近90亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "假如SHP2抑制剂的靠售额和BTK持平，一年90亿美元，加科思拥有两位数的市场份额，也就是说至少10亿美元起步，这是个什么概念？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210630-0008.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247716820&idx=1&sn=3079f3ab6b275f175bfc90a70da43944&chksm=ecbc3732dbcbbe241e2369bf4894c40c07935737ddd7e9e0ac34abf63ca098f66326356e8f7a#rd",
+    "publish_time": "2021-06-30",
+    "distilled_at": "2026-03-17T10:56:04.211972"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "chain_version": "1.0",
+  "created_at": "2026-03-16T00:00:00Z",
+  "description": "进货链血缘 - intake_to_source 记录",
+  "chains": [
+    {
+      "chain_id": "CHAIN-20260316-0001",
+      "intake_id": "INT-20260316-0001",
+      "source_key": "SRC-20260316-0001",
+      "chain_timestamp": "2026-03-16T18:06:10.677502Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0001.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0001.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0002",
+      "intake_id": "INT-20260316-0002",
+      "source_key": "SRC-20260316-0002",
+      "chain_timestamp": "2026-03-16T18:06:10.722843Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0002.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0002.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0003",
+      "intake_id": "INT-20260316-0003",
+      "source_key": "SRC-20260316-0003",
+      "chain_timestamp": "2026-03-16T18:06:10.795593Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0003.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0003.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0004",
+      "intake_id": "INT-20260316-0004",
+      "source_key": "SRC-20260316-0004",
+      "chain_timestamp": "2026-03-16T18:06:10.850111Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0004.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0004.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0005",
+      "intake_id": "INT-20260316-0005",
+      "source_key": "SRC-20260316-0005",
+      "chain_timestamp": "2026-03-16T18:06:10.909556Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0005.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0005.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0006",
+      "intake_id": "INT-20260316-0006",
+      "source_key": "SRC-20260316-0006",
+      "chain_timestamp": "2026-03-16T18:06:10.972050Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0006.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0006.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0007",
+      "intake_id": "INT-20260316-0007",
+      "source_key": "SRC-20260316-0007",
+      "chain_timestamp": "2026-03-16T18:06:11.030584Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0007.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0007.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0008",
+      "intake_id": "INT-20260316-0008",
+      "source_key": "SRC-20260316-0008",
+      "chain_timestamp": "2026-03-16T18:06:11.085514Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0008.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0008.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0009",
+      "intake_id": "INT-20260316-0009",
+      "source_key": "SRC-20260316-0009",
+      "chain_timestamp": "2026-03-16T18:06:11.146325Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0009.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0009.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0010",
+      "intake_id": "INT-20260316-0010",
+      "source_key": "SRC-20260316-0010",
+      "chain_timestamp": "2026-03-16T18:06:11.216300Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0010.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0010.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    },
+    {
+      "chain_id": "CHAIN-20260316-0011",
+      "intake_id": "INT-20260316-0011",
+      "source_key": "SRC-20260316-0011",
+      "chain_timestamp": "2026-03-16T18:06:11.289862Z",
+      "chain_type": "intake_to_source",
+      "transformation": {
+        "type": "dispatch",
+        "from_path": "intake/inbox/import/INT-20260316-0011.pdf",
+        "to_path": "raw/external/partner_shared/SRC-20260316-0011.pdf"
+      },
+      "metadata_changes": {
+        "added": [
+          "source_key",
+          "source_channel"
+        ]
+      }
+    }
+  ]
+}

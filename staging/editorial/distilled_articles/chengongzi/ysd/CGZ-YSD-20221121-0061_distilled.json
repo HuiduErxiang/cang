@@ -1,0 +1,124 @@
+{
+  "article_id": "CGZ-YSD-20221121-0061",
+  "normalized_title": "全球首款T1DM新药获批！公司股价却绿了，重要的问题是：去哪找病人？",
+  "one_paragraph_essence": "欢迎观看重磅直播！300多位同药已预约！ 正文共：3063字 2图 预计阅读时间：8分钟 美国时间2022年11月17日，在一片溢美之声中，全球首款可以延缓1型糖尿病(T1DM）进程的疗法——由Provention Bio开发的CD3单克隆抗体Tzield（teplizumab）获FDA批准上市。 Provention Bio联合创始人兼首席执行官Ashleigh Palmer表示：“这是一个范式转变的突破”；赛诺菲美国普药部负责人Olivier Bogillot说：“这是糖尿病界期待已久的重大胜利”；美国糖尿病协会首席科学/医学官Robert Gabbay博士认为，这对于一型糖尿病患者...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "欢迎观看重磅直播！300多位同药已预约！",
+    "supporting_points": [
+      "正文共：3063字 2图\n预计阅读时间：8分钟\n美国时间2022年11月17日，在一片溢美之声中，全球首款可以延缓1型糖尿病(T1DM）进程的疗法——由Provention Bio开发的CD3单克隆抗...",
+      "但与医学界欢的欣鼓舞形成鲜明对比的，是陷入死寂的资本市场。\nTzield获批当日，Provention Bio股价不升反跌，反倒是一个月前与赛诺菲签订推广协议的时候大涨25%。\n来源：雪球",
+      "冒着绿光的屏幕暗示着，Tzield的获批上市并不意味着巨大的临床改变，距离这款药物实现它的真正价值，仍然有很长的路要走，目前最大的问题是：去哪里找病人？"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 3,
+      "examples": [
+        "然而",
+        "但是，",
+        "但是，"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "25%",
+        "44%",
+        "25亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nTzield获批当日，Provention Bio股价不升反跌，反倒是一个月前与赛诺菲签订推广协议的时候大涨25%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "研究显示，有遗传风险的此期儿童，5年及10年内发生显性糖尿病的风险分别为44%和70%，终身患病风险为100%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "研究显示，5年内发生显性糖尿病的风险为75%，终身患病风险为100%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n但是，尽管家族遗传史的病人发病率会很高，在临床中却只占T1DM患者的15%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "如何进行筛查是一个巨大的问题，因为据我们了解，大约85%的T1DM患者并没有家族史。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221121-0061.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248045656&idx=1&sn=2819d7ef1af9ae3fe0a56eda4af21e3a&chksm=ecbb2cbedbcca5a86c904c6169f0e15ba097cb130202d3b66a600cbc2f8f3c876cc921ac5d7a#rd",
+    "publish_time": "2022-11-21",
+    "distilled_at": "2026-03-17T10:56:04.601513"
+  }
+}

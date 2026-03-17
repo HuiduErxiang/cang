@@ -1,0 +1,87 @@
+{
+  "article_id": "CGZ-YJWYJ-20240930-0034",
+  "normalized_title": "卡度尼利单抗获批胃癌！PD-1单抗遇挫下，及时到来的新「解」",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 恰到好处的新适应症获批，让一切成了最好的安排。 2024年9月30日，康方生物宣布，国家食品药品监督管理局（NMPA）批准卡度尼利单抗联合含氟尿嘧啶类和铂类药物化疗用于局部晚期不可切除或转移性胃或胃食管结合部（G/GEJ）腺癌患者的一线治疗。 卡度尼利单抗由康方生物自主研发，是全球首款PD-1/CTLA-4双特异性抗体，2022年6月已获批后线治疗宫颈癌，此次“一线胃癌全人群”为第二项适应症。 而就在几天前，FDA召开了肿瘤药物专家咨询委员会（ODAC）会议，委员会专家以10:2的投票结果不赞成帕博利珠单抗、纳武利尤单抗、替雷利珠单抗三款",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "恰到好处的新适应症获批，让一切成了最好的安排。\n2024年9月30日，康方生物宣布，国家食品药品监督管理局（NMPA）批准卡度尼利单抗联合含氟尿嘧啶类和铂类药物化疗用于局部晚期不可切除或转移性胃或胃食...",
+      "卡度尼利单抗由康方生物自主研发，是全球首款PD-1/CTLA-4双特异性抗体，2022年6月已获批后线治疗宫颈癌，此次“一线胃癌全人群”为第二项适应症。\n而就在几天前，FDA召开了肿瘤药物专家咨询委员..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "40%",
+        "50%",
+        "mOS相比，提升了50"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "中国本就是胃癌大国，而在中国胃癌患者里，PD-L1 CPS＜5的患者占比过半，PD-L1阴性患者占比近40%，如此庞大的患者群体急需一款可靠的免疫疗法。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "对于PD-L1 CPS＞5的胃癌，PD-1单抗联合化疗一线治疗已经可以取得超过19个月的总生存获益，单独化疗时代不足12个月的mOS相比，提升了50%以上。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n对于PD-L1≥5的患者，截止随访时间时mOS尚未达到（对照组：10.6个月，HR 0.56）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在全人群中卡度尼利单抗联合化疗组的中位总生存期（mOS）也达到了15个月（对照组：10.8个月，HR 0.62）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240930-0034.json",
+    "original_url": "https://mp.weixin.qq.com/s/8atBtP6UOQIbdqeZwftGdw",
+    "publish_time": "2024-09-30",
+    "distilled_at": "2026-03-17T10:47:59.819608"
+  }
+}

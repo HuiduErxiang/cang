@@ -1,0 +1,58 @@
+{
+  "article_id": "CGZ-YJWYJ-20240914-0030",
+  "normalized_title": "如果临床研究也有MBTI，最E的研究是什么？",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 生命科学是最复杂的学科之一，基于其衍生出的医学、药学所涉及的知识也浩如烟海，因此，对于药物研究成果的评价也变得困难。 我们经常需要十分细致的分析研究设计，并对试验背景及领域进行深入挖掘，才能更清晰地理解临床试验对与临床实践带来的影响。 临床研究的多样性有时就像人的性格一样，因此，医界望远镜尝试大胆创新！结合最近十分火热的MBTI人格分型，创造性地提出临床研究的「研格」分型！ 在医界望远镜的「研格」分型之下，你能像心理分析一样分析临床试验，一眼看出该研究在各个维度上的特点，并直接预判出研究结果将对临床实践产生的影响。 我们相信，这将成为一个十",
+  "category": "医界望远镜",
+  "topic": "临床研究",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "生命科学是最复杂的学科之一，基于其衍生出的医学、药学所涉及的知识也浩如烟海，因此，对于药物研究成果的评价也变得困难。\n我们经常需要十分细致的分析研究设计，并对试验背景及领域进行深入挖掘，才能更清晰地理...",
+      "MBTI分型共分成4个维度，分别是：\nE-I、S-N、T-F、J-P\n在E-I维度，医界望远镜考量的是对照组强度。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240914-0030.json",
+    "original_url": "https://mp.weixin.qq.com/s/ov0PaAAGvbJ1-ngXJrkwWw",
+    "publish_time": "2024-09-14",
+    "distilled_at": "2026-03-17T10:47:59.807962"
+  }
+}

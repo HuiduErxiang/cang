@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20200913-0003",
+  "normalized_title": "中国VC流派的前浪、后浪和破浪",
+  "one_paragraph_essence": "文章以1983年国家科委派张晓彬、陈伟力赴斯坦福交流的历史切片开场，讲述中国VC行业从「摸着石头下海」到流派分化的演变。作者将中国VC圈划分为7大流派（选手派、赛道派、捕鲸派、聚焦派、扫街派、连接派、趋势派），通过流派图谱拆解的方式，揭示风险投资「必定是一个平民子弟英雄主义的大型实践场」的行业铁律。",
+  "topic": "投资行业",
+  "subtopic": "中国VC流派演变与投资方法论",
+  "audience": "关注投资、创业、商业模式的读者",
+  "narrative_frame": {
+    "frame_type": "industry_taxonomy",
+    "key_elements": ["历史切片开场", "流派图谱拆解", "人物命运交织", "行业铁律总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "风险投资必定是一个平民子弟英雄主义的大型实践场",
+    "supporting_points": [
+      "中创的失败证明「政策套利」在VC阶段没有用武之地",
+      "VC公司的核心元素只有两个：创始人和方法论",
+      "中国VC圈可分为7大流派，各有打法和代表人物",
+      "创始人个人英雄主义是VC行业的本质特征"
+    ],
+    "conclusion_hook": "风险投资，必定是一个平民子弟英雄主义的大型实践场"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_slice_opening",
+      "example": "1983年，国家科委派了两位年轻的干部去斯坦福大学交流，一位叫张晓彬，另一位叫陈伟力。",
+      "effect": "以具体人物和年份建立历史现场感"
+    },
+    {
+      "device_type": "taxonomy_teardown",
+      "example": "根据每家侧重点的不同，整个中国VC投资圈一共可以分成7种流派：选手派、赛道派、捕鲸派、聚焦派、扫街派、连接派和趋势派。",
+      "effect": "将复杂行业生态高度抽象为形象流派"
+    },
+    {
+      "device_type": "ironic_juxtaposition",
+      "example": "这哪里是什么风险投资公司，你们应该叫保险公司吧？",
+      "effect": "用讽刺性对话揭示行业荒诞"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_case", "industry_mapping", "founder_story"],
+    "integration_style": "历史案例+流派图谱+创始人故事"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "taxonomic", "insider"],
+    "syntax_patterns": ["流派图谱句式", "历史切片句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{年份}年，{机构}派了{数量}位年轻的{身份}去{地点}交流，一位叫{姓名A}，另一位叫{姓名B}。",
+      "context": "历史切片开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "根据{维度}的不同，整个{行业}一共可以分成{数量}种流派：{流派列表}。",
+      "context": "流派图谱拆解块",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "最能够表征一家{公司类型}的元素永远只有两个，一个是{元素A}，一个是{元素B}。",
+      "context": "行业本质定义",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20200913-0003.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

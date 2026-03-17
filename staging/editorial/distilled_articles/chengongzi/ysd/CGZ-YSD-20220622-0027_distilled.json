@@ -1,0 +1,130 @@
+{
+  "article_id": "CGZ-YSD-20220622-0027",
+  "normalized_title": "「疫苗之王」争夺战再起！默沙东的数据出炉，辉瑞要头痛了吗？",
+  "one_paragraph_essence": "跨国大药企默沙东最近新闻不断，周末刚有传闻说默沙东正在评估收购Seagen的可能性，意图进军ADC领域。 而就在周一，默沙东又公布了其肺炎球菌结合疫苗V116在临床1/2期试验积极结果，并将结果发表在了今年6月19日-23日举办的肺炎球菌和肺炎球菌疾病国际研讨会（ISPPD）上。 受这两个消息的刺激，本周二美股开盘后，默沙东公司股价持续上涨，截止收盘涨幅高达4.03%。 来源：雪球 收购的事先不谈，八字还没一撇，这V116是实打实的潜在重磅产品，其对标的产品Prevnar 13常年坐拥「疫苗之王」的宝座，是辉瑞的拳头产品，巅峰年销售额超过60亿美元。 我们更熟悉的HPV疫苗，在几乎没有竞...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "跨国大药企默沙东最近新闻不断，周末刚有传闻说默沙东正在评估收购Seagen的可能性，意图进军ADC领域。",
+    "supporting_points": [
+      "而就在周一，默沙东又公布了其肺炎球菌结合疫苗V116在临床1/2期试验积极结果，并将结果发表在了今年6月19日-23日举办的肺炎球菌和肺炎球菌疾病国际研讨会（ISPPD）上。\n受这两个消息的刺激，本周..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 2,
+      "examples": [
+        "可谓",
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "4.03%",
+        "70%",
+        "60亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "好比",
+        "好比说"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n受这两个消息的刺激，本周二美股开盘后，默沙东公司股价持续上涨，截止收盘涨幅高达4.03%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "多藏在人的鼻咽部，有40~70%的正常人都携带，属于革兰氏阳性菌，是个条件致病菌。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "据WHO估算：\n2008年全球约有880万＜5岁儿童死亡，其中约47.6万名死于肺炎球菌感染，大约占比5.4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n来源：雪球\n收购的事先不谈，八字还没一撇，这V116是实打实的潜在重磅产品，其对标的产品Prevnar 13常年坐拥「疫苗之王」的宝座，是辉瑞的拳头产品，巅峰年销售额超过60亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n我们更熟悉的HPV疫苗，在几乎没有竞争压力，销售额连年攀升的情况下，也是在去年才超过了50亿美元销售额，而新冠疫苗则具有强烈的“时效性”，很难维持常年的爆炸业绩。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220622-0027.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247938960&idx=1&sn=9f9437364cc43cfcdfe3fdf7ab64b72e&chksm=ecb98b76dbce0260837c0e4918438cce5a2cb505f001f71fc8f1cbd6bc921289fca22e7986ea#rd",
+    "publish_time": "2022-06-22",
+    "distilled_at": "2026-03-17T10:56:04.353523"
+  }
+}

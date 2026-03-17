@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20201011-0008",
+  "normalized_title": "对话逍遥子：阿里巴巴的「刚」、「柔」和「勇」",
+  "one_paragraph_essence": "文章以对张勇个人特质的悖论式观察开场——他是最没有大佬派头的互联网巨头掌门人，却执掌8000亿美元市值的公司。作者通过与张勇的长谈，解构其「柔」与「刚」的化学反应：日常生活中谦虚柔和、开拓业务时杀伐决断。通过对双11、新零售、组织迭代等案例的分析，揭示张勇「一台最有温度的人工智能」的底层代码。",
+  "topic": "商业人物",
+  "subtopic": "张勇领导力与阿里组织演进",
+  "audience": "关注互联网、企业管理、领导力的读者",
+  "narrative_frame": {
+    "frame_type": "leader_profile",
+    "key_elements": ["悖论式开场", "人物访谈", "案例解构", "特质提炼"]
+  },
+  "argument_skeleton": {
+    "main_claim": "张勇身上柔和刚的化学反应，塑造了阿里的组织韧性和战略定力",
+    "supporting_points": [
+      "张勇喜欢独处和安静，与马云形成鲜明对比",
+      "他创造出了全球最热闹的购物狂欢节，但内心向往宁静",
+      "出身财务岗位，却冲到业务前线交出近乎满分的答卷",
+      "开拓新业务时运筹缜密、杀伐决断，日常生活却谦虚柔和"
+    ],
+    "conclusion_hook": "在张勇身上，柔和刚的化学反应如何影响阿里，需要解构他这台「人工智能」的底层代码"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "paradox_opening",
+      "example": "中国互联网巨头的掌门人站一排，张勇一定是最没有大佬派头的那个。",
+      "effect": "以悖论式观察打破读者预期"
+    },
+    {
+      "device_type": "contrast_portrait",
+      "example": "他跟那些酒酣耳热的饭局绝缘，也远离各类谈笑风生的圈子，即使对外演讲，主题也大都围绕着商业和组织。",
+      "effect": "通过对比刻画人物特质"
+    },
+    {
+      "device_type": "insider_label",
+      "example": "有人也称他是「一台最有温度的人工智能」。",
+      "effect": "用内部标签化方式定义人物"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["interview_quotation", "career_trajectory", "business_case"],
+    "integration_style": "访谈引用+职业轨迹+商业案例"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["observational", "insider", "analytical"],
+    "syntax_patterns": ["悖论开场句式", "对比画像句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{行业}的{角色}站一排，{姓名}一定是最{特质}的那个。",
+      "context": "悖论式人物开场",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "他跟{社交场景A}绝缘，也远离{社交场景B}，即使{公开场合}，{行为模式}。",
+      "context": "社交画像对比",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "有人也称他是「{标签}」。",
+      "context": "内部标签化定义",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20201011-0008.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

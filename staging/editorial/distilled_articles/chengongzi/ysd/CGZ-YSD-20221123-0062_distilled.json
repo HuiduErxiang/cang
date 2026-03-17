@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20221123-0062",
+  "normalized_title": "这家「只有6名全职员工」的biotech要IPO了，还能更「小而美」吗？",
+  "one_paragraph_essence": "欢迎观看重磅直播！450多位同药已预约！ 正文共： 2650字 6图 预计阅读时间： 7分钟 如果能给近期的全球热搜话题排个名的话，除了世界杯之外，马斯克和推特的故事应该会排在比较靠前的位置。 自10月底入主推特后，马总就开始了大刀阔斧的裁员，成功把寒气传递给了每一个吃瓜群众，据最新的消息显示：推特已经解雇了约4400名员工，占总员工数的80%。 整个事件最让大家感到寒冷的倒并是裁员的数量，而是在裁掉了这么多员工后，推特居然还能正常运转。不禁让人想到持续一年多的药企裁员潮，为了延长现金流的使用时间，无论体量大小，裁员都被药企们纳入了考量之中。 诚然，推特能大幅瘦身而不影响其业务，与行业性...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "欢迎观看重磅直播！450多位同药已预约！",
+    "supporting_points": [
+      "如果能给近期的全球热搜话题排个名的话，除了世界杯之外，马斯克和推特的故事应该会排在比较靠前的位置。\n自10月底入主推特后，马总就开始了大刀阔斧的裁员，成功把寒气传递给了每一个吃瓜群众，据最新的消息显示..."
+    ],
+    "conclusion_hook": "可以说Coya的技术积累早在公司成立前数年就已完成。\n\nStanley Appel博士\nAppel博士已经年近九旬，在去年卸任了管理层的工作，仅担任Coya的科学顾问委员会主席一职。在Coya的科学顾"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "80%",
+        "1%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "就像"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "即便再过10年也",
+        "即便有了上述条件，也不一定能把团队编制压缩到这个程度，选择的疾病领域也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n自10月底入主推特后，马总就开始了大刀阔斧的裁员，成功把寒气传递给了每一个吃瓜群众，据最新的消息显示：推特已经解雇了约4400名员工，占总员工数的80%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而Treg，即调节性T细胞，则更像是“纪委”，它们占外周血淋巴细胞的比例很小，只有1%~2%，但能耐很大，可以抑制免疫反应，把杀伤性T细胞摁住。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221123-0062.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248048614&idx=1&sn=6608ba4881c70a682cd14d1c5e266d17&chksm=ecbb2700dbccae1660d52a2f751f5654c92c36e703cd7d306534a78ce7375140ac4dbc0d38f9#rd",
+    "publish_time": "2022-11-23",
+    "distilled_at": "2026-03-17T10:56:04.612079"
+  }
+}

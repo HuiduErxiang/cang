@@ -1,0 +1,107 @@
+{
+  "article_id": "CGZ-YJWYJ-20241224-0044",
+  "normalized_title": "L858R突变一线治疗，FLAURA2方案用心良苦，但弊端确实太多了……",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 虽然都是EGFR经典突变，但“19del和21L858R应被视作两种完全不同的NSCLC”已经越来越被广泛接受。 19del是预后最好的EGFR突变之一，TKI迭代之后疗效越来越好，一线单药治疗的mOS最长可达到77个月[1]。 而L858R的治疗则进展缓慢，即便三代EGFR-TKI已经成为EGFR经典突变一线标准治疗方案，也掩盖不了FLAURA研究中，奥希替尼与吉非替尼相比未能延长L858R突变患者OS获益（HR 1.0）[2] 的尴尬结果。 L858R难治的原因有很多。 一方面是共突变比例高。有数据显示，与19del相比，L858R存在共突变的概率",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "虽然都是EGFR经典突变，但“19del和21L858R应被视作两种完全不同的NSCLC”已经越来越被广泛接受。\n19del是预后最好的EGFR突变之一，TKI迭代之后疗效越来越好，一线单药治疗的mO...",
+      "FLAURA2研究[6]里，奥希替尼联合化疗相比奥希替尼单药延长了8.8个月的mPFS，取得0.62的HR值，数据看上去还挺好的，于是铺天盖地的宣传好似发现了新大陆一般，EGFR敏感突变仿佛一下子进入..."
+    ],
+    "conclusion_hook": "可以说提供了一个很好的强化治疗思路。\n此外，伏美替尼独特的剂量调整方案也是一个值得尝试的思路。\n由于在结构优化带来的“双重高选择性”优势，伏美替尼有着极宽的剂量窗口，剂量递增试验中可以从20mg递增至"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "70%",
+        "41%",
+        "mOS最长可达到77"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "即便三代EGFR-TKI已经成为EGFR经典突变一线标准治疗方案，也",
+        "即便是PFS的获益也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "有数据显示，与19del相比，L858R存在共突变的概率高出近70%（共突变比例：41% vs 69%）[3]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n一项历史队列研究结果显示，19del患者一线接受EGFR-TKI单药治疗，2年OS率比L858R患者高了近50%（60% vs 43.8%）[5]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n同时，由于联合治疗的毒性非常大，≥3级TRAEs比单独治疗高了近5倍（53%&nbsp; vs 11%），严重不良反应（TRSAE）发生率从5%提高到19%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n从OS曲线上可以看到，由于极高的不良反应，联合治疗组早期OS损害严重，1年OS率比单药组低了3%，在15个月后OS曲线才开始反超。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "FURLONG 研究中≥3级TRAEs的发生率仅为11%，停药率仅为3%[10]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241224-0044.json",
+    "original_url": "https://mp.weixin.qq.com/s/tuBMWdj8jrR5RsiZb5iwtA",
+    "publish_time": "2024-12-24",
+    "distilled_at": "2026-03-17T10:48:00.195388"
+  }
+}

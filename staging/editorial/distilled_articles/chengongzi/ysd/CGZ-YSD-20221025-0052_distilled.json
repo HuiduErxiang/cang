@@ -1,0 +1,112 @@
+{
+  "article_id": "CGZ-YSD-20221025-0052",
+  "normalized_title": "好的临床团队有多重要！连续2款产品「没打赢」安慰剂，开发策略反复横跳，股价都快跌没了...",
+  "one_paragraph_essence": "华先医药创始人、CEO 叶伟平博士：诚邀您出席2022第三届中国新药CMC高峰论坛！ 正文共： 3279字 3图 预计阅读时间： 9分钟 最近刚写了一篇“安慰剂开挂”的文章，没想到这么快又来经典案例。 「安慰剂效应超预期」的情况在神经、精神疾病领域的试验里时有发生，也受到了诸多关注，不过在其他的疾病领域同样不容小觑。 【相关阅读：股价单日暴跌近80%！唯一进临床的管线三期试验失败，原因竟是安慰剂效果太好...】 2022年10月21日，Immunic AG，一家成立于2016年的德国生物科技公司公布了其RORγt反向激动剂IMU-935的Ib期中期分析的试验数据，结果非常不乐观，没和安慰...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "华先医药创始人、CEO 叶伟平博士：诚邀您出席2022第三届中国新药CMC高峰论坛！",
+    "supporting_points": [
+      "最近刚写了一篇“安慰剂开挂”的文章，没想到这么快又来经典案例。\n「安慰剂效应超预期」的情况在神经、精神疾病领域的试验里时有发生，也受到了诸多关注，不过在其他的疾病领域同样不容小觑。\n【相关阅读：股价单..."
+    ],
+    "conclusion_hook": "可以说是非常稀有。\n\n所以COVID-19适应症的开发不可避免的失败了，还耽误了一整年的时间。\n\n2021年2月17日，Immunic AG公布了治疗COVID-19临床试验的中期分析，随后回到MS的"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么会没做出病人常用药物与试验药物的相互作用呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "80%",
+        "78%",
+        "595亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管只是中期分析数据，但投资者还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n尽管只是中期分析数据，但投资者还是对消息进行了及时反馈，并将其体现在了股价上，单日跌幅近78%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n他们在主要终点上选择了“中度病人发病4周后减少对有创通气（可以简单理解为插管）的需求”，但在实际研究中发现，只有不到1%的新冠病人需要呼吸机治疗。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n财务状况上，自公司子在2016年成立至2021年12月31日为止，总共筹集了约2.595亿美元的资金，而累计亏损已经达到1.969亿美元，其中仅2021年度的亏损就达到9290万美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而就是这样一款潜在的重磅炸弹，由于公司在临床试验设计、开发策略等方面频繁出现问题，导致其一再遭受打击，成为了一枚“哑弹”。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221025-0052.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248022739&idx=1&sn=98e095db3b3e2459a011e85e317242c9&chksm=ecbb4235dbcccb23fd1b473ca2bd9ee28cc3a96917585fc054bfabb9c748bb684b5a827a4335#rd",
+    "publish_time": "2022-10-25",
+    "distilled_at": "2026-03-17T10:56:04.532451"
+  }
+}

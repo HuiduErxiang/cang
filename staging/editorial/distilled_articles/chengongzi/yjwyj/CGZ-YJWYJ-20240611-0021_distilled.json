@@ -1,0 +1,64 @@
+{
+  "article_id": "CGZ-YJWYJ-20240611-0021",
+  "normalized_title": "11:0全票通过！Donanemab的获批似乎不是问题，现在的问题是……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 尽管FDA可以无视专家咨询委员会的意见做出审批决定，并且在CNS领域，FDA经常这么干，不过，11位与会专家全票通过的结果仍然让Donanemab的获批前景明朗了起来。 毕竟，关于Donanemab的获益/风险的两个需要投票表决的问题，题干的设置都仅限于参与临床试验的患者里。通过投票甚至全票通过可以说是没什么悬念的。 但议程里除了两个需要“vote”的问题外，还有三个“Disscussion”的问题。而这三个问题，才决定了Donanemab会以怎样的姿态通过FDA的审批。 即：Donanemab的适应症和使用场景，是否会受到一定程度的限制？",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "尽管FDA可以无视专家咨询委员会的意见做出审批决定，并且在CNS领域，FDA经常这么干，不过，11位与会专家全票通过的结果仍然让Donanemab的获批前景明朗了起来。\n毕竟，关于Donanemab的...",
+      "2024年6月10日夜，在做出推迟审批决定后的4个月后，FDA召开了中枢神经系统药物咨询委员会（PCNS）会议，对Donanemab进行了充分的讨论。"
+    ],
+    "conclusion_hook": "总之，在Donanemab获批似乎已经不是问题之后，如何寻求一个恰当的方法使用Donanemab，正在成为新的问题。\n\n参考资料\n\n[1] FDA官网\n[2]&nbsp;https://endpts."
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240611-0021.json",
+    "original_url": "https://mp.weixin.qq.com/s/sQ4yN48Znwr86f2c6OEntg",
+    "publish_time": "2024-06-11",
+    "distilled_at": "2026-03-17T10:47:59.623681"
+  }
+}

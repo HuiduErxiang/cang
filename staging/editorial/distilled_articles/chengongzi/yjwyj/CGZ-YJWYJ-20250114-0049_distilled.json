@@ -1,0 +1,73 @@
+{
+  "article_id": "CGZ-YJWYJ-20250114-0049",
+  "normalized_title": "终于有研究把9款已上市的EGFR-TKI拉出来比一比了……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 过去，我们对肿瘤疾病的认知不够充分，治疗手段也比较有限。相应的，治疗方案的选择也没那么困难。 2003年吉非替尼获FDA批准上市时，EGFR突变与EGFR-TKI疗效的关联都还没有建立，几乎所有NSCLC患者都会接受吉非替尼的治疗。 如今，已经有超过200种EGFR突变亚型被发现[1]，三代EGFR-TKI也陆续问世。这些药物极大丰富了治疗手段，但同时也带来了新的困境。 它们机制相同，获批基于的临床试验类似，因分子结构差异而在疗效和不良反应方面又存在差异。在缺乏头对头研究的情况下，选择最优治疗方案并不容易。 临床医生迫切需要更客观、更全面的",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "过去，我们对肿瘤疾病的认知不够充分，治疗手段也比较有限。相应的，治疗方案的选择也没那么困难。\n2003年吉非替尼获FDA批准上市时，EGFR突变与EGFR-TKI疗效的关联都还没有建立，几乎所有NSC...",
+      "晚期不可治愈的 NSCLC 患者通常面临着多种挑战，过去我们往往聚焦于药物带来的生存获益，而忽视了患者的多元需求。\n随着“以患者为中心”的治疗理念日益发展，药物的毒性以及治疗方案对患者生活质量的影响越..."
+    ],
+    "conclusion_hook": "可以说，这是ASCO和ESMO提供的一种在全球范围内通用的“语言”，基于这两个评价体系，不同地区、不同研究机构间的研究成果可以在没有“头对头试验”的情况进行比较。\n目前已获NMPA批准上市的9款EGF"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "11%",
+        "3%",
+        "mPFS突破20"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "FRULONG研究中伏美替尼治疗组≥3级TRAEs发生率仅为11%，停药率仅为3%，对比其他三代EGFR-TKI具有明显优势。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250114-0049.json",
+    "original_url": "https://mp.weixin.qq.com/s/LYyUUNV9eWIiL_pBxBAk0Q",
+    "publish_time": "2025-01-14",
+    "distilled_at": "2026-03-17T10:48:00.507520"
+  }
+}

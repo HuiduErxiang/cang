@@ -1,0 +1,16 @@
+{
+  "registry_id": "GC_source_registry",
+  "disease_id": "GC",
+  "disease_name": "胃癌",
+  "therapeutic_area": "oncology",
+  "sources": [
+    {
+      "source_id": "pdf_repository",
+      "source_type": "pdf_collection",
+      "source_path": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\oncology\\gastric_cancer",
+      "description": "Gastric cancer PDF repository organized by subdirectories",
+      "file_count": 52,
+      "last_updated": "2026-03-16"
+    }
+  ]
+}

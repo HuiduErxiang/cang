@@ -1,0 +1,57 @@
+{
+  "article_id": "KZK-20230711-0010",
+  "normalized_title": "外来的和尚好念经：全球大药企主要管线资产开始来自从外部Biotech引进",
+  "one_paragraph_essence": "今天看到一篇新鲜出炉热得烫手的文章，Nature Reviews在7月5日刊载的《Investigating the origins of recent pharmaceutical innovation》。",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "今天看到一篇新鲜出炉热得烫手的文章，Nature Reviews在7月5日刊载的《Investigating the origins of recent pharmaceutical innovation》。",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 1,
+      "examples": [
+        "https://www.nature.com/articles/d41573-023-00102-z"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230711-0010.json",
+    "original_url": "https://mp.weixin.qq.com/s/kmju5sAZc6NsrZiIX3ODdA",
+    "publish_time": "2023-07-11",
+    "distilled_at": "2026-03-17T10:17:04.050303"
+  }
+}

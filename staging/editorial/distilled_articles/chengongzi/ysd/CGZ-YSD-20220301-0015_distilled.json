@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YSD-20220301-0015",
+  "normalized_title": "出海翻身仗！南京传奇CAR-T获FDA批准，背后究竟有什么「成功密码」？",
+  "one_paragraph_essence": "2022年3月的第一天，大洋彼岸终于传来好消息，给“药圈人”的2月份画上了一个还算圆满的句号——传奇/强生的CAR-T产品“西达基奥仑赛”获FDA批准上市！ （图片来源：Endpoints News） 这不仅扫去了2.11之后中国出海药企的阴霾，打了一个漂亮的“翻身仗”，更是意味着中国在“细胞疗法”这个领域，正式走到了世界一线的位置： 这是首款获美国FDA批准的，由中国药企设计和研发的CAR-T疗法； 这是第二款由中国企业原创发明，获FDA批准的抗癌新药，距离上一款（百济神州泽布替尼）已经过去了两年多； 这是第二款获批上市的靶向BCMA的CAR-T疗法，也是中国第一款上市的靶向BCMA的...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2022年3月的第一天，大洋彼岸终于传来好消息，给“药圈人”的2月份画上了一个还算圆满的句号——传奇/强生的CAR-T产品“西达基奥仑赛”获FDA批准上市！",
+    "supporting_points": [
+      "这不仅扫去了2.11之后中国出海药企的阴霾，打了一个漂亮的“翻身仗”，更是意味着中国在“细胞疗法”这个领域，正式走到了世界一线的位置：\n这是首款获美国FDA批准的，由中国药企设计和研发的CAR-T疗法..."
+    ],
+    "conclusion_hook": "这意味着斯丹赛在结直肠癌CAR-T疗法领域，做到了世界第一的位置，甚至有可能是世界唯一。\n此外，由CoupledCAR平台开发的其他多个实体瘤CAR-T产品的IND申请工作也正在进行中。\n斯丹赛“十年"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 3,
+      "examples": [
+        "100%",
+        "10%",
+        "ORR，且观察到剂量与疗效之间存在相关性，剂量越高，ORR越高。\n需要强调的是，该试验中GCC19"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n血液瘤的病人只占全部肿瘤患者的10%，更大的空间其实在实体瘤领域，为什么大家不选择实体瘤CAR-T的方向呢？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220301-0015.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247890822&idx=1&sn=83816cdc9936aee4f1be61dee0f1bdbb&chksm=ecb94f60dbcec676d23c4a1374f0d6ba36cf377887fcc3a47375bb71d527880ee43d3bc6cd48#rd",
+    "publish_time": "2022-03-01",
+    "distilled_at": "2026-03-17T10:56:04.256180"
+  }
+}

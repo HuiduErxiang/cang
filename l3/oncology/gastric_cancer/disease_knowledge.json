@@ -1,0 +1,22 @@
+{
+  "$schema": "../manifests/schemas/l3_disease_knowledge_schema.json",
+  "disease_id": "GC",
+  "disease_name": "胃癌",
+  "disease_name_en": "Gastric Cancer",
+  "therapeutic_area": "oncology",
+  "epidemiology": {},
+  "pathophysiology": {},
+  "diagnosis_criteria": {},
+  "treatment_landscape": {},
+  "key_studies": [
+    "DG-01",
+    "DG-02",
+    "DG-04",
+    "DG-06",
+    "KEYNOTE-811",
+    "RAINBOW",
+    "SPOTLIGHT",
+    "GLOW"
+  ],
+  "sources": []
+}

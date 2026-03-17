@@ -1,0 +1,121 @@
+{
+  "article_id": "CGZ-YSD-20210811-0013",
+  "normalized_title": "1年股价翻了40倍的明星Biotech，如今重磅药物遭FDA发函，又跌回去了...",
+  "one_paragraph_essence": "作者：辰公子 编辑：欣宇 礼拜一的晚上，刚刚度过了周末的打工人们熬过了第一个工作日。大部分加班的人还在回家的路上，望着路上川流不息的人流、车流，叹了口气低头继续刷手机，看热搜上的阿里有何进展。而此时远在大洋彼岸的Tabuteau 博士，正坐在办公室里看着纽约的夜色，从凌晨看到日出，眼神里充满焦虑。 Tabuteau 博士 焦虑的原因在于，Axsome Therapeutics第二季度的财报要在天亮之后公布，Tabuteau 博士是Axsome Therapeutics的创始人兼CEO。在一周多前，也就是7月30日，公司收到了FDA针对其NDA阶段的产品AXS-05的一封信函，他们决定将信...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者：辰公子",
+    "supporting_points": [
+      "礼拜一的晚上，刚刚度过了周末的打工人们熬过了第一个工作日。大部分加班的人还在回家的路上，望着路上川流不息的人流、车流，叹了口气低头继续刷手机，看热搜上的阿里有何进展。而此时远在大洋彼岸的Tabutea..."
+    ],
+    "conclusion_hook": "总之丰富多彩的美股生物技术企业，每天都在上演着斩首与窜天的故事。\n\n‍\n这也正是我国现如今新药研发的现状，“CDE新政”的出台正是为了尽量避免此类事件的发生。靶点扎堆，研究内卷不仅耗费了大量的临床资源"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么了？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "50%",
+        "57%",
+        "12亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "真是\"老药新用有奇迹，研发处处是黄金\"。",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "\n\n随后这份财报引起了市场的强烈反应，股价应声大跌，两天里跌幅超过50%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "据Evaluate Vantage的预测，如果该药今年，在2026年的全球销售额将达到12亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "好在公司另外一款治疗偏头痛的药物AXS-07仍在稳步前进，有机构预测该药物上市后的销售额也可达到5亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "400亿美元市场何时才能迎来首款治疗药物？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210811-0013.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247747718&idx=1&sn=cff4d88371867fa3e6635e4397f4a907&chksm=ecbcb060dbcb397647868f7cd4c9497b8c75f87b371a6228174f0217fd6ddba3dba41afdf7b6#rd",
+    "publish_time": "2021-08-11",
+    "distilled_at": "2026-03-17T10:56:04.239436"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20230220-0077",
+  "normalized_title": "一款被「逼」出来的F-I-C药物：靶向两个降血压靶点，却获批了「降蛋白尿」适应症…",
+  "one_paragraph_essence": "创新药BD高阶研讨会【上海站】！ 点击这里立刻报名！ 14年的时间，一款潜在的重磅降压药，摇身一变，成为了肾内科用于降低蛋白尿的First-in-class药物。 2009年2月2日，一款代号为PS433540的药物的2b期临床试验结果公布，这是一款双靶点的药物，作用于两个经典的降血压靶点。临床结果非常振奋人心，高剂量的PS433540以23/14mmHg的血压降幅显著优于厄贝沙坦组的11/7mmHg，而后者是一种临床中常见的ARB类降压药。 这样的结果意味着，如果PS433540按照正常的进度获批上市，非常有潜力成为心血管领域的重磅药物，给当时竞争激烈，正处于“一片火海”的降压领域浇上...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "regulatory_analysis",
+    "key_elements": [
+      "监管分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "创新药BD高阶研讨会【上海站】！\n点击这里立刻报名！",
+    "supporting_points": [
+      "14年的时间，一款潜在的重磅降压药，摇身一变，成为了肾内科用于降低蛋白尿的First-in-class药物。",
+      "2009年2月2日，一款代号为PS433540的药物的2b期临床试验结果公布，这是一款双靶点的药物，作用于两个经典的降血压靶点。临床结果非常振奋人心，高剂量的PS433540以23/14mmHg的血压..."
+    ],
+    "conclusion_hook": "这意义之所以能存在，或许是一种被逼无奈。\n\n1\n\n100万美元首付款，卖掉了做完2b期的药物\n\nSparsentan的开发之旅颇为坎坷。根据智慧芽数据库显示，其原研企业为BMS，但何时立项已不可知，最"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而，",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "30%",
+        "9%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n好在另一家药企Retrophin及时站了出来，在3年后以7600万美元的总交易金额+9%的销售额分成从Ligand手里引进了这款药物。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而，该药却并没有按照预期在几年内快速上市，反而又花了整整14年的时间进行开发。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230220-0077.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248100611&idx=1&sn=81d47b3d489a9a2e8a624cbd98d3deb1&chksm=ecba13e5dbcd9af31d7c43c16f5d34bdefd574af599a2e6b72728b35e8e7a4f91fed54cde256#rd",
+    "publish_time": "2023-02-20",
+    "distilled_at": "2026-03-17T10:56:04.844501"
+  }
+}

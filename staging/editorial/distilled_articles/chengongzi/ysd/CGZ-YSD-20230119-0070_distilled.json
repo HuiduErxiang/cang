@@ -1,0 +1,85 @@
+{
+  "article_id": "CGZ-YSD-20230119-0070",
+  "normalized_title": "强生终止HIV疫苗三期临床试验，赛道进入重启阶段...",
+  "one_paragraph_essence": "新冠疫情已经折磨全球三年之久，面对病毒惊人的突变速度，人类几乎束手无策，只能像情窦初开的羞涩男孩一样在追在心仪女生身后，制造出虽然是最新款，但却已落后于主流毒株的疫苗，以降低病毒的传播。 新冠虽然社会影响巨大，从感染人数上看几乎是“史上最大的病毒”，但从病毒本身的角度来说还远谈不上“威力惊人”，在“奥密克戎时代”，大部分人已经可以靠免疫系统扛过疾病，抗新冠药物的出现也进一步降低了其破坏性。 作为RNA病毒，新冠算是温和的，疫苗虽然慢，但也算有用，药物虽然不能杀死病毒，但也能阻止其复制。而同属RNA病毒大类的HIV（艾滋病）要恐怖的多。 HIV自1981年被发现到现在，已经过去了40多年，...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "新冠疫情已经折磨全球三年之久，面对病毒惊人的突变速度，人类几乎束手无策，只能像情窦初开的羞涩男孩一样在追在心仪女生身后，制造出虽然是最新款，但却已落后于主流毒株的疫苗，以降低病毒的传播。\n新冠虽然社会影响巨大，从感染人数上看几乎是“史上最大的病毒”，但从病毒本身的角度来说还远谈不上“威力惊人”，在“奥密克戎时代”，大部分人已经可以靠免疫系统扛过疾病，抗新冠药物的出现也进一步降低了其破坏性。",
+    "supporting_points": [
+      "作为RNA病毒，新冠算是温和的，疫苗虽然慢，但也算有用，药物虽然不能杀死病毒，但也能阻止其复制。而同属RNA病毒大类的HIV（艾滋病）要恐怖的多。\nHIV自1981年被发现到现在，已经过去了40多年，...",
+      "至于疫苗，更是无从谈起，别说上市，即便是接受了人体有效性测试的预防性疫苗，在全球范围内只有寥寥数款。其中进度最快的是强生的HPX3002，已经进入临床3期。\n而就在2023年1月18日，强生公布了终止..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "32%",
+        "50%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "其在泰国开展的相关临床试验也是历史上最大的HIV疫苗试验，共招募了1.6万名志愿者，保护率达到了32%，是一个历史性的突破。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n可是距离疫苗上市要求的50%保护率仍有不小的差距。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230119-0070.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248088366&idx=1&sn=d5e326103608d0c01026b1e80e081205&chksm=ecba43c8dbcdcade1f10b38b2fa25828fdaf57bbc797fec78f89938c1ff0545c163531d5ce9a#rd",
+    "publish_time": "2023-01-19",
+    "distilled_at": "2026-03-17T10:56:04.658399"
+  }
+}

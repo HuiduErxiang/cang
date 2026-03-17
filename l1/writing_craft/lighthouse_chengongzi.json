@@ -1,0 +1,174 @@
+{
+  "_origin_layer_policy": {
+    "layer_default": "L1",
+    "tag_field": "origin_layer",
+    "primitive_resolution": "inherit_default",
+    "version": "1.0"
+  },
+  "lighthouse_author": "辰公子",
+  "origin_layer": "L1",
+  "source": "lighthouse_distillation",
+  "evidence_refs": {
+    "total_articles": 166,
+    "sub_sources": {
+      "yjwyj": {
+        "total": 63,
+        "distilled_articles_path": "staging/editorial/distilled_articles/chengongzi/yjwyj/",
+        "source_account": "医界望远镜"
+      },
+      "ysd": {
+        "total": 103,
+        "distilled_articles_path": "staging/editorial/distilled_articles/chengongzi/ysd/",
+        "source_account": "药时代"
+      }
+    },
+    "key_evidence_articles": [
+      "CGZ-YJWYJ-20240309-0001 (突发新闻分析、AD新药监管)",
+      "CGZ-YJWYJ-20240407-0013 (打破空白、首个且唯一)",
+      "CGZ-YSD-20230207-0075 (临床试验深度拆解、研格评判)",
+      "CGZ-YSD-20221209-0064 (BD交易分析、数据驱动)",
+      "CGZ-YSD-20210308-0001 (人物专访、行业领袖)"
+    ],
+    "provenance": {
+      "source_author": "chengongzi",
+      "distilled_at": "2026-03-17",
+      "checkpoint": "docs/checkpoints/作者语料重蒸馏_checkpoint_20260317.md"
+    }
+  },
+  "style_profile": {
+    "label": "新闻驱动分析 / 临床数据解剖",
+    "style_positioning": "以突发新闻事件为锚点，用硬核临床数据和专业视角拆解行业动态，兼具新闻时效性与医学专业深度。擅长在监管动态、临床试验结果、BD交易等领域进行数据驱动的深度分析。",
+    "vocabulary_biases": [
+      "监管动态词汇 (如：'获批'、'受理'、'PDUFA'、'ODAC'、'NMPA')",
+      "临床数据词汇 (如：'ORR'、'mPFS'、'mOS'、'HR'、'置信区间')",
+      "新闻驱动词汇 (如：'突发'、'重磅'、'刚刚'、'里程碑')",
+      "对比分析词汇 (如：'同源不同命'、'形成鲜明对比'、'然而')"
+    ],
+    "sentence_patterns": [
+      "突发新闻开篇式：[时间]，[机构]宣布[事件]，[影响范围]。例如：'2024年3月8日，礼来发布公告称，FDA计划召开外周和中枢神经系统药物咨询委员会会议...'",
+      "数据震撼开场式：[试验]结果令人震惊，[关键数据]。例如：'真是风云突变……FDA计划召开PCNSDAC讨论Donanemab...'",
+      "研格评判收束式：看看XX的失败，究竟是'意料之外'，还是'情理之中'。",
+      "打破空白式：这也是我国XX领域首个获批上市的XX，XX再次打破空白，成为我国广大XX患者首个且唯一的XX选择。",
+      "临床试验对比式：为了找到试验失败的原因，我还找到了X篇此前XX做过的临床试验报告..."
+    ],
+    "rhetorical_devices": [
+      "数据驱动叙事 (Data-Driven Narrative)：以临床试验终点数据为核心论据，用ORR/mPFS/mOS/HR等硬指标构建论证链条，而非主观判断。",
+      "对比转折分析 (Contrast & Pivot)：常用'然而'、'同源不同命'、'形成鲜明对比'等词引出与预期相反的分析，打破读者思维定式。",
+      "突发新闻锚定 (Breaking News Anchor)：以'突发'、'刚刚'、'重磅'等词开篇，快速建立新闻时效性和重要性，然后再展开深度分析。",
+      "监管视角透视 (Regulatory Perspective)：从FDA/EMA/NMPA的监管决策角度分析药物价值，关注ODAC会议、PDUFA日期、加速批准等监管节点。"
+    ]
+  },
+  "narrative_patterns": {
+    "preferred_m2_primitives": [
+      "M2_HOOK: 突发新闻事件或震撼数据开场。例如：'真是风云突变……FDA计划召开PCNSDAC讨论Donanemab...'",
+      "M2_SETUP: 以监管背景、临床现状或竞争格局为铺垫，引入核心议题。",
+      "M2_TEARDOWN: 对临床试验数据进行深度拆解，分析HR、P值、置信区间等技术细节。"
+    ],
+    "unique_narrative_arcs": [
+      "突发新闻 → 监管背景 → 临床数据拆解 → 竞品对比 → 市场影响预测。例如在AD新药分析中，先写FDA推迟审批（突发），再写Aβ假说争议（背景），拆解TRAILBLAZER数据（拆解），对比Lecanemab（竞品），最后预判市场格局（预测）。",
+      "临床试验失败 → 历史试验对比 → 失败原因分析 → 启示总结。例如在NASH药物失败分析中，先写NGM药物倒下（失败），对比此前失败的药物（历史），分析试验设计缺陷（原因），总结NASH研发困境（启示）。"
+    ]
+  },
+  "rhetoric_blocks": [
+    {
+      "prototype_id": "M4_P_BREAKING_NEWS_HOOK",
+      "name": "[突发新闻锚定块]",
+      "description": "以'突发'、'刚刚'、'重磅'等词开篇，快速建立新闻时效性和重要性，然后再展开深度分析。常用于监管动态、临床结果公布等时效性强的内容。",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240309-0001", "CGZ-YSD-20210601-0003", "CGZ-YJWYJ-20240312-0002"],
+        "example_text": "真是风云突变……2024年3月8日，礼来发布公告称，FDA计划召开外周和中枢神经系统药物咨询委员会会议...",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_REGULATORY_ANALYSIS",
+      "name": "[监管决策透视块]",
+      "description": "从FDA/EMA/NMPA的监管决策角度分析药物价值，关注ODAC会议、PDUFA日期、加速批准等监管节点，揭示数据背后的监管逻辑。",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240309-0001", "CGZ-YSD-20210608-0004", "CGZ-YSD-20220727-0031"],
+        "example_text": "FDA计划召开外周和中枢神经系统药物咨询委员会会议（PCNSDAC）讨论其阿尔茨海默病新药Donanemab...",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_TRIAL_TEARDOWN",
+      "name": "[临床试验拆解块]",
+      "description": "对临床试验数据进行深度拆解，分析HR、P值、置信区间、亚组分析等技术细节，揭示数据背后的临床意义。",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YSD-20230207-0075", "CGZ-YSD-20210601-0003", "CGZ-YJWYJ-20240407-0013"],
+        "example_text": "为了找到试验失败的原因，我还找到了4篇此前克拉生坦做过的临床试验报告...",
+        "sub_sources": ["ysd", "yjwyj"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_MILESTONE_ANNOUNCEMENT",
+      "name": "[里程碑宣告块]",
+      "description": "用'打破空白'、'首个且唯一'、'里程碑'等词汇宣告行业突破，强化新闻价值和历史意义。",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240407-0013", "CGZ-YSD-20220301-0015"],
+        "example_text": "这也是我国肾癌治疗领域首个获批上市的「免疫+靶向」联合疗法，特瑞普利单抗再次打破空白，成为我国广大肾癌患者首个且唯一的免疫疗法选择。",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
+    }
+  ],
+  "expression_additions": {
+    "transition_phrases": [
+      "真是风云突变…… (突发新闻开场)",
+      "可以说，成功的试验大多相似，失败的试验则各有各的缺陷。 (临床失败分析收束)",
+      "同源不同命， (对比转折)",
+      "与之形成鲜明对比， (对比引入)",
+      "打破空白，成为首个且唯一 (里程碑宣告)",
+      "看看XX的失败，究竟是'意料之外'，还是'情理之中'。 (研格评判式收束)",
+      "为了找到[问题]的原因，我还找到了[X]篇历史临床试验报告... (研格溯源式)",
+      "这也是我国XX领域首个获批上市的XX (里程碑式)"
+    ],
+    "signature_expressions": [
+      "风云突变",
+      "打破空白",
+      "首个且唯一",
+      "意料之外，情理之中",
+      "同源不同命",
+      "里程碑"
+    ]
+  },
+  "persona_kernel": {
+    "kernel_id": "clinical_analyst",
+    "name": "Clinical News Analyst (临床新闻分析师)",
+    "description": "分析师——以突发新闻事件为锚点，用硬核临床数据和专业视角拆解行业动态，兼具新闻时效性与医学专业深度。",
+    "attention_order": [
+      "breaking news and regulatory decisions (突发新闻与监管决策)",
+      "clinical trial endpoints and statistical rigor (临床终点与统计学严谨性)",
+      "competitive landscape and market implications (竞争格局与市场影响)",
+      "historical precedents and pattern recognition (历史先例与模式识别)"
+    ],
+    "default_suspicions": [
+      "Positive headlines may mask underlying data complexities (正面头条可能掩盖底层数据复杂性)",
+      "Regulatory decisions have hidden strategic implications (监管决策有隐藏的战略含义)",
+      "Trial success/failure often follows predictable patterns (试验成败常遵循可预测模式)"
+    ],
+    "voice_dna": {
+      "tone": "news-driven, data-focused, professional, analytical (新闻驱动、数据聚焦、专业、分析性)",
+      "signature_phrases": [
+        "真是风云突变",
+        "打破空白",
+        "同源不同命"
+      ],
+      "preferred_evidence": "clinical trial data, regulatory filings, FDA/EMA decisions, company announcements (临床试验数据、监管文件、FDA/EMA决策、公司公告)"
+    },
+    "origin_layer": "L1"
+  },
+  "sub_source_profiles": {
+    "yjwyj": {
+      "label": "医界望远镜",
+      "focus_areas": ["肿瘤免疫", "靶向治疗", "ADC药物", "阿尔茨海默"],
+      "style_emphasis": "临床数据深度拆解，监管动态跟踪",
+      "typical_audience": "医药投资者、临床医生、行业从业者"
+    },
+    "ysd": {
+      "label": "药时代",
+      "focus_areas": ["新药研发", "企业并购", "人物专访", "市场分析"],
+      "style_emphasis": "行业新闻覆盖，BD交易分析，人物专访",
+      "typical_audience": "医药从业者、投资者、行业研究者"
+    }
+  }
+}

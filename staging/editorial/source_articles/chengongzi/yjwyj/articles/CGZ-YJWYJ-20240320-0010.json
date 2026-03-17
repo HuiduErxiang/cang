@@ -1,0 +1,19 @@
+{
+  "article_id": "CGZ-YJWYJ-20240320-0010",
+  "title": "ORR跟OS获益有多大关系？别说，FDA回顾了13项大型临床试验后，还真发现……",
+  "publish_time": "2024-03-20",
+  "url": "https://mp.weixin.qq.com/s/d4XtL7gsaUMCnjdmD3nogA",
+  "author": "辰公子",
+  "content": "作者 | 辰公子\n审核 | 涟濯\n来源 | 医界望远镜\n\n北京时间2022年4月22日凌晨5点，一场持续了4个小时的FDA肿瘤药物专家咨询委员会（ODAC）终于结束。\n会议的起因是，FDA对4款加速获批的PI3Kδ抑制剂的6项临床试验做了回顾性分析[1]，发现这些药物竟然因为毒性太强，导致了患者预期寿命的缩短！\n即：药物在杀死癌细胞的同时，把患者也给带走了。\n由于此前它们都是都凭借单臂试验获批，试验的终点数据用的也是替代终点，让这个Bug藏匿了许久。这不禁让FDA反思起已有的加速批准政策，也让业内对替代终点（如ORR）是否能切实转化为OS获益产生了兴趣。\n会上，16:1的压倒性结果坚定了FDA的想法，也让FDA开启了更多回顾分析之旅。近日，FDA的另一项汇总分析[2]发表在了《Lancet Oncology》上，该研究旨在探究在免疫检查点抑制剂（ICI）一线治疗NSCLC时，带来的ORR和PFS获益与总生存期（OS）的关系。\n\n别说，还真发现了替代终点与OS获益呈“弱相关”的队列。\n\n统计方法与纳入试验&nbsp;\n\n统计方法\n用怎样的统计方法计算ORR、PFS跟OS的相关性非常重要。本研究采用的是决定系数，用R²表示，这是一种衡量模型拟合优度的指标，通过加权线性回归方法得出，用于评估两个变量间的相关性程度。\nR²取值范围在0到1之间，如果R²等于1，则意味着自变量能够完美预测因变量的所有变异；若R²接近0，则说明自变量对因变量的预测能力非常有限。\n本研究中，R²在0~0.3之间为弱相关，表示二者之间的相关性较弱；R²在0.3~0.7之间为中等强度相关，表明相关替代终点在一定程度上能预测OS，但并不是完美的预测因子；R²在0.7~1之间为强相关，相关终点可以作为预测OS的很好的指标。\n\n纳入试验\n研究人员集中分析了2016年6月24日至2021年3月16日间提交给美国食品药品监督管理局（FDA）的一线随机对照试验数据，共纳入了13项临床试验，共9285名患者，试验方案包括ICI单药治疗及联合治疗，涉及ICI包括PD-1抑制剂帕博利珠单抗、纳武利尤单抗、信迪利单抗、cemiplimab，PD-L1抑制剂阿替利珠单抗，CTLA-4抑制剂伊匹木单抗。\n所有患者的中位随访时间为15.6个月（6.9~28.0个月）。由于PD-L1表达水平对ICI的疗效具有较好的预测效果，研究也将患者根据PD-L1表达分成了4组（＜1%，1%-49%，≥50%和未知）。\n\n表1.研究纳入的试验\n\n为了控制潜在的混杂因素，研究通过多变量Cox比例风险回归模型对每个试验的OS风险比进行了调整，考虑了年龄、ECOG体能状态和吸烟状况等预后因素。\n\n研究结果\n\n对所有纳入研究的患者进行汇总分析后，结果表明，一线使用含ICI的方案治疗转移性NSCLC时，ORR和PFS与总生存期（OS）之间存在中等强度的相关性。\n大部分情况下，PFS是比ORR更准确的预测指标，不过，在ICI联合化疗治疗PD-L1表达相对较低的患者里，ORR对OS的R²数值要高于PFS对OS的R²，其中，PD-L1＜1%的亚组里，ORR的R²明显高于PFS（0.73 vs 0.57 ）。\n整体看下来，对OS预测效果最好的指标是ICI单药一线治疗时患者的PFS，达到了0.89。但对于该结果需要谨慎看待，因为这部分亚组仅纳入了6项临床试验，样本量相对较小。\n所有亚组的R²数据如下，红色为强相关、蓝色为弱相关：\n\n表2.研究结果\n\n值得注意的是，ICI联合化疗一线治疗NSCLC时，在PD-L1＞1%的患者里，无论是ORR还是PFS，对OS的预测都落在弱相关区域，尤其是PD-L1≥50%的患者，ORR对OS的预测处于极弱相关。\n这意味着，用ORR预测该类患者的OS几乎是一个随机事件。\n\n总结与讨论\n\n总的来说，ORR和PFS作为肿瘤试验的优选替代终点，依然有着一定程度的可靠性。不过这项回顾性分析通过统计学方法向我们量化了这种“可靠性”到底有多少。\n另外，该研究也在一定程度上指导了临床治疗使用免疫检查点抑制剂时，对患者更客观的疗效评估。当然，研究研未涵盖无OS数据的试验，因此可能存在偏倚。\n需要强调的是，ORR依然有重要意义。所有研究里，使用ICI治疗并且实现RECIST标准下客观缓解的患者，其OS相比于未取得客观缓解的患者或化疗组的响应者都有所改善。\n在精准治疗的期待下，未来还是要开发更精准的生物标志物，以达到更精准的疗效预测。\n\n参考资料\n\n[1]Richardson NC，et al. The saga of PI3K inhibitors in haematological malignancies: survival is the ultimate safety endpoint. Lancet Oncol. 2022 May;23(5):563-566. doi: 10.1016/S1470-2045(22)00200-5. Epub 2022 Apr 14. PMID: 35429996.\n\n[2]Goulart BHL, et al. Correlations of response rate and progression-free survival with overall survival in immunotherapy trials for metastatic non-small-cell lung cancer: an FDA pooled analysis. Lancet Oncol. 2024 Mar 5:S1470-2045(24)00040-8. doi: 10.1016/S1470-2045(24)00040-8. Epub ahead of print. PMID: 38458207.\n\n版权/免责声明：\n本文内容仅用于医疗行业信息传播、知识分享，我们会对发表的内容进行溯源、求证，力求专业、可靠，但不对内容的准确性做出承诺；不提供任何医疗、商业、投资建议，欢迎个人转发至朋友圈分享。如需转载，请务必注明文章作者和来源，否则我们将保留追究法律责任的权利。\n对本文有异议或投诉、开白名单、商务合作请联系：editor.connect@dotnet-pr.com\n\n&nbsp;👇🏻 点击关注，镜镜与你常相见 😉&nbsp; &nbsp;",
+  "content_length": 2642,
+  "provenance": {
+    "source_file": "fulltext_chengongzi_yjwyj.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\辰公子\\医界望远镜\\source_json\\fulltext_chengongzi_yjwyj.json",
+    "source_index": 9,
+    "original_title": "ORR跟OS获益有多大关系？别说，FDA回顾了13项大型临床试验后，还真发现……",
+    "original_url": "https://mp.weixin.qq.com/s/d4XtL7gsaUMCnjdmD3nogA",
+    "author_name": "辰公子",
+    "source_account": "医界望远镜",
+    "extracted_at": "2026-03-17T00:30:35.216529"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "article_id": "CGZ-YSD-20231027-0102",
+  "normalized_title": "K药会在何时，从默沙东的王座上起身？",
+  "one_paragraph_essence": "小分子创新药P3及NDA阶段API研究重点和案例分享 | 博腾·药时代直播间 正文共：1961字 7图 预计阅读时间：6分钟 作者 | 辰公子 文章来源 | 药时代公众号 2023年10月26日，默沙东发布2023第三季度业绩报告。人药业务Q3营收146.23亿美元，同比增长10%，前三季度总营收高达404.42亿美元。其中，中国区Q3营收16.74亿美元，占比11.7%，前三季度营收52.55亿美元，占比13%。 其中，Keytruda（K药）销售额高达63.38亿美元，同比增长17%，占总销售额的43.34%。前三季度销售额184.03亿美元，同比增长18%。 尽管默沙东总想要摆脱K...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "小分子创新药P3及NDA阶段API研究重点和案例分享 | 博腾·药时代直播间",
+    "supporting_points": [
+      "2023年10月26日，默沙东发布2023第三季度业绩报告。人药业务Q3营收146.23亿美元，同比增长10%，前三季度总营收高达404.42亿美元。其中，中国区Q3营收16.74亿美元，占比11.7..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "10%",
+        "11.7%",
+        "23亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "如同"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是这17%的“低”增长，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "人药业务Q3营收146.23亿美元，同比增长10%，前三季度总营收高达404.42亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "其中，中国区Q3营收16.74亿美元，占比11.7%，前三季度营收52.55亿美元，占比13%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n其中，Keytruda（K药）销售额高达63.38亿美元，同比增长17%，占总销售额的43.34%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "前三季度销售额184.03亿美元，同比增长18%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n再强的K药，增速也要放缓\n\n17%的增长是什么概念呢？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20231027-0102.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248224691&idx=1&sn=7545cccfad54b224f0bd3cdb90c385c5&chksm=ef447755d833fe4386ed61f2d5e79fb38c976fdc4c61e3df4670ad52251c5e108a6b92b918c8#rd",
+    "publish_time": "2023-10-27",
+    "distilled_at": "2026-03-17T10:56:05.065381"
+  }
+}

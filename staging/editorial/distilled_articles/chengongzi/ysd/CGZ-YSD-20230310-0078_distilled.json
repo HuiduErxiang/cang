@@ -1,0 +1,80 @@
+{
+  "article_id": "CGZ-YSD-20230310-0078",
+  "normalized_title": "4天公布3个积极结果，阿斯利康最近有点猛......",
+  "one_paragraph_essence": "药时代直播，点击预约！ 科学是个很神奇的东西，你对它了解的越多，就会发现越不了解它；你对它了解的越多，就会发现，越是看上去理所应当的事就越需要证明。 地球是圆的，需要证明；自由落体速度跟质量无关，需要证明；皮亚诺为了证明1+1=2，甚至把自己代入到了外星人视角...... 医学、药学这类生命科学，本质上属于实验科学，更需要证明一些看上去能自然得出的结论，比如：PFS的改善能带来OS的改善；对不可切肿瘤有巨大改善的方案，在可切肿瘤上也能用；靶向药越早用越好...... 阿斯利康最近4天，公布了3个临床试验数据。尽管3个研究里有2个是早已发表的试验，但这次公布的数据依然有重要意义，因为这些数...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "药时代直播，点击预约！",
+    "supporting_points": [
+      "科学是个很神奇的东西，你对它了解的越多，就会发现越不了解它；你对它了解的越多，就会发现，越是看上去理所应当的事就越需要证明。",
+      "地球是圆的，需要证明；自由落体速度跟质量无关，需要证明；皮亚诺为了证明1+1=2，甚至把自己代入到了外星人视角......\n医学、药学这类生命科学，本质上属于实验科学，更需要证明一些看上去能自然得出的..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么办？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 1,
+      "examples": [
+        "ORR这样的替代终点，但已经展现出了极大的治疗潜力。\n\n图片来源：网络\n\n4"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230310-0078.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248108407&idx=1&sn=0fecdcb7ac988bc9e0b62333023fee78&chksm=ecba3191dbcdb887da571159860789aaa7d9a4690a1895e594349b8d896abcb6994e40902d08#rd",
+    "publish_time": "2023-03-10",
+    "distilled_at": "2026-03-17T10:56:04.864502"
+  }
+}

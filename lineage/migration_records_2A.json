@@ -1,0 +1,95 @@
+{
+  "migration_id": "MIG-2A-20260315",
+  "executed_at": "2026-03-15T19:15:00+08:00",
+  "phase": "2A-1",
+  "operation": "copy",
+  "source_system": "medical_kb_system_v2",
+  "target_system": "藏经阁",
+
+  "migrations": [
+    {
+      "batch": "l2_medical_playbook",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/rules/l2_medical_playbook/core/",
+      "target_root": "D:/汇度编辑部1/藏经阁/l2/medical_playbook/",
+      "file_count": 10,
+      "status": "success",
+      "files": [
+        "m3_strategic_plays.json",
+        "narrative_arcs.json",
+        "sentence_patterns.json",
+        "rhetoric_blocks.json",
+        "m0_persona_templates.json",
+        "persona_medical_overlay.json",
+        "m4_medical_blocks.json",
+        "medical_expression_profiles.json",
+        "medical_syntax_rules.json",
+        "m5_compliance_schema.json"
+      ]
+    },
+    {
+      "batch": "editorial_distilled_articles",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/editorial/distilled_articles/",
+      "target_root": "D:/汇度编辑部1/藏经阁/staging/editorial/distilled_articles/",
+      "file_count": 85,
+      "status": "success"
+    },
+    {
+      "batch": "editorial_persona_profiles",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/editorial/persona_profiles/",
+      "target_root": "D:/汇度编辑部1/藏经阁/staging/editorial/persona_profiles/",
+      "file_count": 3,
+      "status": "success",
+      "files": ["ajmd_profile.json", "chen_gongzi_profile.json", "kongzhike_profile.json"]
+    },
+    {
+      "batch": "evidence_ingested_references",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/evidence/ingested/references/",
+      "target_root": "D:/汇度编辑部1/藏经阁/raw/evidence/ingested/references/",
+      "file_count": 54,
+      "status": "success"
+    },
+    {
+      "batch": "evidence_ingested_guidelines",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/evidence/ingested/guidelines/",
+      "target_root": "D:/汇度编辑部1/藏经阁/raw/evidence/ingested/guidelines/",
+      "file_count": 4,
+      "status": "success"
+    },
+    {
+      "batch": "evidence_rebuilt",
+      "source_root": "D:/汇度编辑部1/写作知识库/medical_kb_system_v2/evidence/rebuilt/",
+      "target_root": "D:/汇度编辑部1/藏经阁/staging/evidence/rebuilt/",
+      "file_count": 7,
+      "status": "success",
+      "files": [
+        "test_product_evidence_v2.json",
+        "pluvicto_evidence_v2.json",
+        "donanemab_evidence_v2.json",
+        "trastuzumab_deruxtecan_gastric_evidence_v2.json",
+        "furmonertinib_evidence_v2.json",
+        "lemborexant_evidence_v2.json",
+        "lecanemab_evidence_v2_sample.json"
+      ]
+    }
+  ],
+
+  "post_migration_stats": {
+    "l1": 8,
+    "l2": 10,
+    "staging": 97,
+    "raw": 58,
+    "total_new": 163
+  },
+
+  "validation": {
+    "source_files_preserved": true,
+    "target_files_readable": true,
+    "no_deletions": true
+  },
+
+  "notes": [
+    "所有迁移均为复制操作，源文件未删除",
+    "Editorial distilled_articles 包含 2 个非 JSON 文件(README.md)未统计",
+    "Evidence references 实际数量 54 个(比预期多 2 个可能是新增文件)"
+  ]
+}

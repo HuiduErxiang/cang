@@ -1,0 +1,89 @@
+{
+  "article_id": "CGZ-YSD-20230903-0098",
+  "normalized_title": "心衰再升温：拜耳扩充非奈利酮的心衰试验到1.5万人，增加3项3期临床试验……",
+  "one_paragraph_essence": "正文共：1237字 1 图 预计阅读时间：6分钟 作者 | 辰公子 文章来源 | 药时代公众号 心衰领域最近格外火爆。 近日，拜耳宣布，将全面扩展Finerenone（非奈利酮）的心衰项目，在原有临床试验的基础上新增3项3期临床试验，入组人数大幅增加，总计超过15000人。 非奈利酮是拜耳旗下慢性肾病领域的重磅药物。2021年7月获FDA批准上市，用于治疗2型糖尿病相关的慢性肾病，2022年6月在中国获批上市。2023年上半年，非奈利酮全球销售额达1.19亿欧元（约1.28亿美元），同比增长238%。 加注心衰 非奈利酮是一种非甾体选择性的盐皮质激素受体拮抗剂（MRA），盐皮质激素受体（...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：1237字 1 图",
+    "supporting_points": [
+      "心衰领域最近格外火爆。\n近日，拜耳宣布，将全面扩展Finerenone（非奈利酮）的心衰项目，在原有临床试验的基础上新增3项3期临床试验，入组人数大幅增加，总计超过15000人。\n非奈利酮是拜耳旗下慢..."
+    ],
+    "conclusion_hook": "这意味着，无论从临床、产业还是理论基础的角度上看，代谢领域都已经成为媲美肿瘤、自免的另一大潜力赛道。\n国内过去多年扎堆挑战肿瘤的情况应该在未来得到缓解，小核酸、抗体药物、基因疗法等新药物形态的日益成熟"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "238%",
+        "40%",
+        "28亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "2023年上半年，非奈利酮全球销售额达1.19亿欧元（约1.28亿美元），同比增长238%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n拜耳此前已经启动了一项名为FINEARTS-HF的3期临床试验，用来评估非奈利酮治疗左室射血分数≥40%（LVEF≥40%）的心衰患者的疗效和安全性，该试验的入组人数已经超过了6000人。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nFINALITY-HF：评估非奈利酮治疗对螺内酯、依普利酮等甾体类MRA不耐受或不适用的LVEF＜40%的心衰患者的疗效和安全性。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230903-0098.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248206246&idx=1&sn=e53c9e48910eaf5bd155902005f86f88&chksm=ef45bf40d8323656f526d144776e54ddfc7a8ae103600b2d91c51030832201a6dc116eb3b0d2#rd",
+    "publish_time": "2023-09-03",
+    "distilled_at": "2026-03-17T10:56:05.022446"
+  }
+}

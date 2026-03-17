@@ -1,0 +1,81 @@
+{
+  "article_id": "CGZ-YSD-20230811-0095",
+  "normalized_title": "仅靠一个1/2期的单臂试验，就加速获批了？强生的临床团队有两把刷子……",
+  "one_paragraph_essence": "正文共：773字 3图 预计阅读时间：4分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | pixabay 2023年8月9日，强生的双特异性抗体TALVEY™（Talquetamab）获FDA加速批准上市，用于治疗既往接受过至少四线治疗的复发或难治性多发性骨髓瘤（MM）成年患者。 Talquetamab是强生公司上市的第三款双抗产品、第二款针对多发性骨髓瘤的双抗产品，也是全球首款靶向CD3/GPRC5D的双抗类药物。 Talquetamab采用的是T细胞介导的治疗机制，通过将T细胞重新定向到特定的表面肿瘤抗原以杀伤癌细胞，并产生持久的临床反应。就该产品而言，GPRC5D...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：773字&nbsp; 3图\n预计阅读时间：4分钟",
+    "supporting_points": [
+      "2023年8月9日，强生的双特异性抗体TALVEY™（Talquetamab）获FDA加速批准上市，用于治疗既往接受过至少四线治疗的复发或难治性多发性骨髓瘤（MM）成年患者。",
+      "Talquetamab是强生公司上市的第三款双抗产品、第二款针对多发性骨髓瘤的双抗产品，也是全球首款靶向CD3/GPRC5D的双抗类药物。\nTalquetamab采用的是T细胞介导的治疗机制，通过将T..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "73%",
+        "73.6%",
+        "ORR为73"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "据估算，85%的患者至少保持了9个月的响应。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230811-0095.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248191942&idx=2&sn=1d1ee313cb97f0071160a2f26a32cf8c&chksm=ef45f720d8327e36f8ce7eae1d88295f083f6b9c0793250442dbb52b5d2f36250d9372630deb#rd",
+    "publish_time": "2023-08-11",
+    "distilled_at": "2026-03-17T10:56:05.010348"
+  }
+}

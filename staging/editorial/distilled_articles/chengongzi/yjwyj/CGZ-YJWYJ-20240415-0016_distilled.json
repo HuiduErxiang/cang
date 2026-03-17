@@ -1,0 +1,76 @@
+{
+  "article_id": "CGZ-YJWYJ-20240415-0016",
+  "normalized_title": "CSCO BC指南更新，晚期TNBC一线唯化疗的时代结束，免疫疗法强势崛起！",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 4月12-13日，全国乳腺癌大会暨中国临床肿瘤学会乳腺癌（CSCO BC）年会正式召开，会上，2024版《CSCO乳腺癌诊疗指南》重磅发布。 指南最大的亮点之一是晚期三阴性乳腺癌（TNBC）的推荐治疗方案的变化。新版指南强势更新了免疫疗法在该人群中的推荐，力度之大颇有些始料未及，甚至独立开辟了“解救化疗+免疫治疗”的章节。 在国内尚无PD-1抑制剂获批晚期三阴性乳腺癌（TNBC）适应症的情况下，这样的方案推荐不太寻常。 “超前”推荐的背后：振奋与无奈 与晚期HER2+、HR+/HER2-乳腺癌领域新药迭出，动辄数年的生存时间相比，晚期T",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "4月12-13日，全国乳腺癌大会暨中国临床肿瘤学会乳腺癌（CSCO BC）年会正式召开，会上，2024版《CSCO乳腺癌诊疗指南》重磅发布。\n指南最大的亮点之一是晚期三阴性乳腺癌（TNBC）的推荐治疗...",
+      "与晚期HER2+、HR+/HER2-乳腺癌领域新药迭出，动辄数年的生存时间相比，晚期TNBC领域多年来的突破性进展乏善可陈。\n由于高度的异质性和侵袭性，TNBC极易复发转移，靠不同的化疗方案仅能维持1..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "15%",
+        "31%",
+        "mOS 近70"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n由于高度的异质性和侵袭性，TNBC极易复发转移，靠不同的化疗方案仅能维持12-18个月的总生存期[1]，复发或转移TNBC的5年生存率不足15%，显著低于乳腺癌整体31%的5年生存率[2]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "两组1年PFS率和2年PFS率分别为41.9% vs 24.4%和23.5% vs 14.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240415-0016.json",
+    "original_url": "https://mp.weixin.qq.com/s/vpL8lxu5XOoCumAlxmN0hA",
+    "publish_time": "2024-04-15",
+    "distilled_at": "2026-03-17T10:47:59.535084"
+  }
+}

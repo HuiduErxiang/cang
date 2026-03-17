@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "L4 Product Evidence",
+  "description": "Schema for product manifest and evidence database (product_manifest.json, evidence_database.json)",
+  "type": "object",
+  "properties": {
+    "product_id": {
+      "description": "Unique identifier for the product",
+      "type": "string"
+    },
+    "product_name": {
+      "description": "Product name (generic or brand name)",
+      "type": "string"
+    },
+    "therapeutic_area": {
+      "description": "Therapeutic area category",
+      "type": "string"
+    },
+    "indication": {
+      "description": "Approved indication(s)",
+      "type": "string"
+    },
+    "clinical_trials": {
+      "description": "Relevant clinical trials",
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "efficacy_data": {
+      "description": "Clinical efficacy data (primary/secondary endpoints)",
+      "type": "object"
+    },
+    "safety_data": {
+      "description": "Safety and tolerability data",
+      "type": "object"
+    },
+    "biomarkers": {
+      "description": "Relevant biomarkers",
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "sources": {
+      "description": "Sources of evidence (studies, guidelines, references)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "product_id",
+    "product_name",
+    "therapeutic_area",
+    "indication",
+    "clinical_trials",
+    "efficacy_data",
+    "safety_data",
+    "biomarkers",
+    "sources"
+  ],
+  "additionalProperties": true
+}

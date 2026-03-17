@@ -1,0 +1,89 @@
+{
+  "article_id": "CGZ-YSD-20220727-0031",
+  "normalized_title": "FDA又被告了，因为新药批的慢 —— 一个「藏在角落里」的条款，让药企股价跌半...",
+  "one_paragraph_essence": "FDA又被药企起诉了，连带一起的还有美国卫生和公众服务部（HHS）以及两个组织机构的领导人——FDA新任局长Robert Califf 博士和HHS部长Xavier Becerra，一共4个被告。 这不是FDA第一次被起诉了，此前FDA就因不公开辉瑞疫苗审评资料问题而被起诉，闹得沸沸扬扬；也曾因不公开吉利德丙肝药物数据而被起诉；还因药品上市流程复杂、首仿定义人问题、未发出孤儿药认证、批准了医生不认可的医疗器械、药品等原因被多次起诉。 这次被起诉的原因是——延迟审批了一款新药。 来源：https://www.docketalarm.com/ 起诉的是一家美国生物科技公司——Avadel C...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "market_analysis",
+    "key_elements": [
+      "市场分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "FDA又被药企起诉了，连带一起的还有美国卫生和公众服务部（HHS）以及两个组织机构的领导人——FDA新任局长Robert Califf 博士和HHS部长Xavier Becerra，一共4个被告。\n这不是FDA第一次被起诉了，此前FDA就因不公开辉瑞疫苗审评资料问题而被起诉，闹得沸沸扬扬；也曾因不公开吉利德丙肝药物数据而被起诉；还因药品上市流程复杂、首仿定义人问题、未发出孤儿药认证、批准了医生不认",
+    "supporting_points": [],
+    "conclusion_hook": "可见REMS专利的厉害之处。\nJ司就为Xywav申请了REMS专利，这让A司很头痛。\n\n2\n\n推迟、推迟、再推迟\n\n在A司的诉状里，我们看到了一句充满怨气的声明——在递交NDA申请后的第525天，PD"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "怎么证明你的药跟我的药一样？",
+        "这是一款治疗“发作性睡病”的药物。发作性睡病是个很特别的病，也叫特发性嗜睡症，具体表现是过度嗜睡，过度到什么程度呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "48%",
+        "124%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "这就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n5月24日，延迟审批的消息披露，随即公司股价大跌48%，几近腰斩。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220727-0031.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247955229&idx=1&sn=b484f43236d8fff45c1fbdfab1c2bcf2&chksm=ecb84bfbdbcfc2ed8ccaeb7e2892d416bc3b207a31c3345af6ce82df3e7107679845cd5693ab#rd",
+    "publish_time": "2022-07-27",
+    "distilled_at": "2026-03-17T10:56:04.380658"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20210707-0009",
+  "normalized_title": "1型糖尿病重磅药物，药代动力学数据居然不达标！股价大跌20%！FDA：回去重做",
+  "one_paragraph_essence": "作者：辰公子 编辑：欣宇 审核：辰公子 5月27日，Prevention的1型糖尿病药物Teplizumab以10:7的票数艰难地通过了FDA咨询委员会的评定。但是我们知道，FDA可以不根据委员会的投票做决定，于是 7月2日，FDA给他们发了一封回应函，Say了NO。 然后请看下图： （图片来源：雪球） Provention 是谁？ 是一家美国的生物技术公司，主要针对免疫系统疾病开发治疗药物，成立于2016年，在业内算是家小有名气的公司。今年年初的时候（2月18日），华东医药还斥资约1.8亿美元，引进了他们的一款人源化的双特异性抗体PRV-3279，靶向CD32b和CD79b，用于治疗系...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者：辰公子",
+    "supporting_points": [
+      "5月27日，Prevention的1型糖尿病药物Teplizumab以10:7的票数艰难地通过了FDA咨询委员会的评定。但是我们知道，FDA可以不根据委员会的投票做决定，于是"
+    ],
+    "conclusion_hook": "可以说是个高光产品。\nTeplizumab咋地了？\n\nProvention递交BLA申请是基于一项名为“At-Risk”的临床研究，该研究评估了Teplizumab用于高危群体预防或延缓发生临床1型糖"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "50%",
+        "50%",
+        "8亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "虽然并不是特指Teplizumab的生产线，但是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "结果非常好，对于高危患者和儿童，T1D的发病率降低50%，发病中位时间推迟至少2年。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "今年年初的时候（2月18日），华东医药还斥资约1.8亿美元，引进了他们的一款人源化的双特异性抗体PRV-3279，靶向CD32b和CD79b，用于治疗系统性红斑狼疮。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210707-0009.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247720902&idx=1&sn=b6e248d4c0486e4f746aed01d9dd3a3c&chksm=ecbc2720dbcbae365b6324708cd7ac6792a1f7fdac497b3ce94b4a7d4ba9d096dfa05048be5b#rd",
+    "publish_time": "2021-07-07",
+    "distilled_at": "2026-03-17T10:56:04.218700"
+  }
+}

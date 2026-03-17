@@ -1,0 +1,99 @@
+{
+  "article_id": "CGZ-YSD-20210601-0003",
+  "normalized_title": "股价腰斩！ 400亿美元市场何时才能迎来首款治疗药物？NASH以及值得期待的下半年",
+  "one_paragraph_essence": "本文有较多术语及专业词汇，非医药学专业或相关从业人士直接可直接跳转至第二章节：NASH简述。 上周的消息，在大范围的医药圈里并没有引起太大的反响，但是在NASH这个细分领域里，可以算是爆炸性新闻：NGM的Alafermin倒下了。继诺华、勃林格殷格翰、Genfit、吉利德、Albireo之后，NASH药物又又又又折了一个！ 5月24日，NGM Biopharmaceutical公布了 ALPINE 2/3的结果，他们的的NASH药物Alafermin在此次2b期临床试验中未达到主要终点。鉴于Alafermin试验中期已经失败，NGM取消了进入临床3期的计划。受此消息影响，NGM的股价大幅...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "本文有较多术语及专业词汇，非医药学专业或相关从业人士直接可直接跳转至第二章节：NASH简述。",
+    "supporting_points": [
+      "上周的消息，在大范围的医药圈里并没有引起太大的反响，但是在NASH这个细分领域里，可以算是爆炸性新闻：NGM的Alafermin倒下了。继诺华、勃林格殷格翰、Genfit、吉利德、Albireo之后，...",
+      "5月24日，NGM Biopharmaceutical公布了&nbsp;ALPINE 2/3的结果，他们的的NASH药物Alafermin在此次2b期临床试验中未达到主要终点。鉴于Alafermin试..."
+    ],
+    "conclusion_hook": "可以说是趋之若鹜，前赴后继。但是药物的研发却进展缓慢，近两年才稍有起色。这些在研药物，靶点各异、机理不同、兵分多路、齐头并进，颇有一番百家争鸣的感觉，我们来细细看一下。\n有多少靶点和药物？\n\n先来看一"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 4,
+      "examples": [
+        "！",
+        "怎么了？",
+        "怎么办？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "31%",
+        "15%",
+        "4亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "”\n\nWoodhouse博士（来源：NGM官网）\n\n在最后一次的银行统计中，NGM还拥有4亿美元的资金。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "据evaluate Pharm预测，2025年全球NASH药物的市场规模可达400亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210601-0003.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247693155&idx=1&sn=98bfbd6e02b75319d765ccffa9cc334e&chksm=ecbc4b85dbcbc2931715446920ca0d5cd1b0f29f94db975583f95c156858a066e632cfee539d#rd",
+    "publish_time": "2021-06-01",
+    "distilled_at": "2026-03-17T10:56:04.178042"
+  }
+}

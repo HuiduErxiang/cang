@@ -1,0 +1,117 @@
+{
+  "index_version": "1.0",
+  "created_at": "2026-03-16T00:00:00Z",
+  "description": "统一来源索引 - 所有 SourceRecord 的真相源",
+  "sources": [
+    {
+      "source_key": "SRC-20260316-0001",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0001.pdf",
+      "ingested_at": "2026-03-16T18:06:10.676517Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0001",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0002",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0002.pdf",
+      "ingested_at": "2026-03-16T18:06:10.685490Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0002",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0003",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0003.pdf",
+      "ingested_at": "2026-03-16T18:06:10.749938Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0003",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0004",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0004.pdf",
+      "ingested_at": "2026-03-16T18:06:10.827230Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0004",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0005",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0005.pdf",
+      "ingested_at": "2026-03-16T18:06:10.885671Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0005",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0006",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0006.pdf",
+      "ingested_at": "2026-03-16T18:06:10.935888Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0006",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0007",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0007.pdf",
+      "ingested_at": "2026-03-16T18:06:11.001042Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0007",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0008",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0008.pdf",
+      "ingested_at": "2026-03-16T18:06:11.051254Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0008",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0009",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0009.pdf",
+      "ingested_at": "2026-03-16T18:06:11.104565Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0009",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0010",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0010.pdf",
+      "ingested_at": "2026-03-16T18:06:11.170443Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0010",
+      "asset_keys": [],
+      "source_system": "药企"
+    },
+    {
+      "source_key": "SRC-20260316-0011",
+      "source_channel": "PARTNER_SHARED",
+      "warehouse_path": "raw/external/partner_shared/SRC-20260316-0011.pdf",
+      "ingested_at": "2026-03-16T18:06:11.245249Z",
+      "status": "raw",
+      "intake_id": "INT-20260316-0011",
+      "asset_keys": [],
+      "source_system": "药企"
+    }
+  ]
+}

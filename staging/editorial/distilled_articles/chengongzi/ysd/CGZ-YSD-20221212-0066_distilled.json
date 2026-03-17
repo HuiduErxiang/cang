@@ -1,0 +1,111 @@
+{
+  "article_id": "CGZ-YSD-20221212-0066",
+  "normalized_title": "这啥CAR-T啊？刚做完一期临床，就卖了40多亿美元...",
+  "one_paragraph_essence": "正文共：2345字 2图 预计阅读时间：6分钟 上周刚整理了历史上超50亿美元的非并购类BD交易，周末又来一笔单产品的大交易，还好没超过50亿美元，不然就白整理了。 历史上，总金额达到50亿美元的「非并购」BD交易只有9起！其中4个发生在今年... 2022年12月9日，吉利德科学旗下Kite公司与Arcellx公司宣布，双方达成研发合作协议，共同开发和商业化Arcellx的主要候选产品CART-ddBCMA，用于治疗复发或难治型多发性骨髓瘤（MM）。 同日，Arcellx公布了该产品的一期临床扩展试验的数据，ORR达到了惊人的100%，该试验于一个多月前（10月31日）才结束，目前刚刚...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：2345字 2图\n预计阅读时间：6分钟\n上周刚整理了历史上超50亿美元的非并购类BD交易，周末又来一笔单产品的大交易，还好没超过50亿美元，不然就白整理了。",
+    "supporting_points": [
+      "2022年12月9日，吉利德科学旗下Kite公司与Arcellx公司宣布，双方达成研发合作协议，共同开发和商业化Arcellx的主要候选产品CART-ddBCMA，用于治疗复发或难治型多发性骨髓瘤（M...",
+      "1、生产制造部分：Kite将负责制造，并负责与商业准备相关的所有制造费用。\n2、开发费用：美国地区55开；美国以外地区64开，Kite出大头。\n3、商业化：美国地区利润55分，美国以外地区按销售额给A..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "怎么去谈？",
+        "这是啥CAR-T啊？能回本吗？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "100%",
+        "50%",
+        "ORR达到了惊人的100"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n同日，Arcellx公布了该产品的一期临床扩展试验的数据，ORR达到了惊人的100%，该试验于一个多月前（10月31日）才结束，目前刚刚开始二期患者给药。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "生产成本吉利德出，非通用型CAR-T的生产费用奇高；商业化成本吉利德出，再加上后面二三期临床的费用，按50%的净利率算，累计销售额达到160亿美元才能回本。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n至于100%的ORR，看上去厉害，其实优势没有多么碾压。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "现在的几个明星CAR-T产品ORR都在80%-90%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "上个月JCO上发表了西达基奥伦塞在中国的关键二期研究，48例患者也有89.6%的ORR。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221212-0066.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248063990&idx=1&sn=f678eda24f5271e4324c8c0cfe27ae83&chksm=ecbbe310dbcc6a06350341b75b22fc5eec5faaedfbdf7d8b484367d3d9fd6f8d72eb7590a746#rd",
+    "publish_time": "2022-12-12",
+    "distilled_at": "2026-03-17T10:56:04.638042"
+  }
+}

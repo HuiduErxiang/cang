@@ -1,0 +1,80 @@
+{
+  "article_id": "CGZ-YJWYJ-20241206-0042",
+  "normalized_title": "阿尔茨海默病量表困境：卷尺怎能测出分子的长度？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 你有没有过那种看见熟人，想不起名字的时候。为了唤起回忆，大脑疯狂运转。 视网膜捕捉了他每一个动作，转化为神经冲动传向丘脑，丘脑将筛选整理后的视觉信息发送至枕叶构建更详细的神经表征，颞叶中的神经细胞按图索骥，在海量的记忆里翻找，海马体也加入了进来，增强记忆回路的活性提高检索效率。无数的神经突触在这一刻涌动。 终于，你想起来了。而前面看似复杂的操作其实都在1秒内全部完成。 只一个愣神，大脑里已经结束了一场“战役”。 正是这种宏观行为与微观世界的差异，让阿尔茨海默病（AD）患者的疾病难以评估，也让量表这种经典的AD评估工具在实际应用中存在很大的局限性。 就像",
+  "category": "医界望远镜",
+  "topic": "阿尔茨海默",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "你有没有过那种看见熟人，想不起名字的时候。为了唤起回忆，大脑疯狂运转。\n视网膜捕捉了他每一个动作，转化为神经冲动传向丘脑，丘脑将筛选整理后的视觉信息发送至枕叶构建更详细的神经表征，颞叶中的神经细胞按图...",
+      "AD是一种极为复杂的神经退行性疾病，准确评估患者的病情对制定治疗策略、监测疾病进展以及AD新药研发都至关重要。\n量表在评估中扮演着关键角色，上世纪70年代已经出现了如MMSE这样用于对老年人或精神病患..."
+    ],
+    "conclusion_hook": "可以说，在诊断环节我们已经有了更精确的工具。\n\n参考资料\n\n[1]DiBenedetti DB, et al. Assessing what matters most to patients with"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "27%",
+        "100%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n被稀释的获益\n\n在III期临床研究Clarity AD中，仑卡奈单抗治疗18个月后患者的CDR-SB 评分增长比安慰剂组低 0.45 分，认知能力下降减缓了 27%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在接受WMM清单评估后，所有患者或其照料者（100%）表示他们对仑卡奈单抗治疗的总体体验“非常满意”（64%）或“满意”（36%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241206-0042.json",
+    "original_url": "https://mp.weixin.qq.com/s/6ibCx6pCgoZqw4RU4N-b7A",
+    "publish_time": "2024-12-06",
+    "distilled_at": "2026-03-17T10:48:00.038328"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YSD-20220916-0048",
+  "normalized_title": "拜登政府要打击中国CXO？看似台风吹过，却只能枝桠微动",
+  "one_paragraph_essence": "正文共： 3866字 11图 预计阅读时间： 10分钟 “America first”快成为中国医药产业国际化的拦路虎了。 2022年9月12日星期一，因为美国人不过中秋节，所以在国内还在放假之际，拜登签署了一项行政命令，名为《国家生物技术和生物制造计划》，简称“拜登政府生物法案”，旨在让制造业回流，用他们的话说叫“确保美国的发明，能在美国制造”，并且直指生物科技产业。 与此前的“芯片法案”、“抑制通胀法案”一样，“生物法案”一问世便受到了众多揣测解读，由于重点提及了生物医药产业的生产制造，CXO行业首当其冲，台风还没来，股价先被吹落了。 9月13日开盘后，CXO们集体大跌，港股CXO概...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;3866字&nbsp;11图\n预计阅读时间：&nbsp;10分钟",
+    "supporting_points": [
+      "“America first”快成为中国医药产业国际化的拦路虎了。\n2022年9月12日星期一，因为美国人不过中秋节，所以在国内还在放假之际，拜登签署了一项行政命令，名为《国家生物技术和生物制造计划》..."
+    ],
+    "conclusion_hook": "可以说是——跟没投一样。除了国防部准备投进基础制造设施里的10亿美元够建一个产业园之外，其他的都是投资对整个产业的发展来说是杯水车薪。\n况且，即便后续追加投资，落实到生物医药领域，对CXO的影响也不会"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "为何能做到这样的变化？",
+        "这是不是与CXO的发展极为相似？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "10%",
+        "6.59%",
+        "10亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 3,
+      "examples": [
+        "尽管美国政府自2008年奥巴马在任时就开始呼吁制造业回流，但与另一个政策“掌握尖端科技”相比，明显力道不足。无论从资本、国际政治还是",
+        "尽管白宫方面提到了“摆脱对中国的依赖”，但法案的核心还是",
+        "即便后续追加投资，落实到生物医药领域，对CXO的影响也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n9月13日开盘后，CXO们集体大跌，港股CXO概念板块整体跌幅超过10%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n因此，时隔两天后，药明生物+6.59%领涨CXO板块也就不难理解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "除了国防部准备投进基础制造设施里的10亿美元够建一个产业园之外，其他的都是投资对整个产业的发展来说是杯水车薪。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220916-0048.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247987356&idx=1&sn=7560dee2f7cd86b3ef38b139e6f5ffcc&chksm=ecb8c87adbcf416cc31b946c226140c1b6cb31b8b195346f0412b3c5abbcfccdd26a36d1d5f9#rd",
+    "publish_time": "2022-09-16",
+    "distilled_at": "2026-03-17T10:56:04.500034"
+  }
+}

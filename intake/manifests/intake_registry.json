@@ -1,0 +1,366 @@
+{
+  "registry_version": "1.0",
+  "created_at": "2026-03-16T00:00:00Z",
+  "description": "进货总账 - 所有进入 intake 的记录的真相源",
+  "schema_version": "1.0",
+  "records": [
+    {
+      "intake_id": "INT-20260316-0001",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.674007Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "GIP减少GLP-1的不良反应.pdf",
+      "file_size_bytes": 1765360,
+      "content_hash": "ce8f96bc1952655d",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0001.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\GIP减少GLP-1的不良反应.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0001",
+        "content_hash": "ce8f96bc1952655d",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0001"
+    },
+    {
+      "intake_id": "INT-20260316-0002",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.682985Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "GIP协同增效.pdf",
+      "file_size_bytes": 1407674,
+      "content_hash": "9b4d99e1712bc900",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0002.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\GIP协同增效.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0002",
+        "content_hash": "9b4d99e1712bc900",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0002"
+    },
+    {
+      "intake_id": "INT-20260316-0003",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.747690Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "GIP在白色脂肪中的作用.pdf",
+      "file_size_bytes": 10770533,
+      "content_hash": "30b8d4e10bb13119",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0003.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\GIP在白色脂肪中的作用.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0003",
+        "content_hash": "30b8d4e10bb13119",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0003"
+    },
+    {
+      "intake_id": "INT-20260316-0004",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.825140Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "GIP早期研究.pdf",
+      "file_size_bytes": 1589200,
+      "content_hash": "6af1f9d622fc395f",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0004.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\GIP早期研究.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0004",
+        "content_hash": "6af1f9d622fc395f",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0004"
+    },
+    {
+      "intake_id": "INT-20260316-0005",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.883114Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "GIP激动剂与拮抗剂均能观察到体重减轻.pdf",
+      "file_size_bytes": 7929876,
+      "content_hash": "6e79568cb6302669",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0005.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\GIP激动剂与拮抗剂均能观察到体重减轻.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0005",
+        "content_hash": "6e79568cb6302669",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0005"
+    },
+    {
+      "intake_id": "INT-20260316-0006",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.933074Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "SURMOUNT-1 DXA.pdf",
+      "file_size_bytes": 2970185,
+      "content_hash": "ef608129606faf62",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0006.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\SURMOUNT-1 DXA.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0006",
+        "content_hash": "ef608129606faf62",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0006"
+    },
+    {
+      "intake_id": "INT-20260316-0007",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:10.998890Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "SURMOUNT-1研究.pdf",
+      "file_size_bytes": 501380,
+      "content_hash": "950828db066ae8e0",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0007.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\SURMOUNT-1研究.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0007",
+        "content_hash": "950828db066ae8e0",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0007"
+    },
+    {
+      "intake_id": "INT-20260316-0008",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:11.048894Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "SURMOUNT-5研究.pdf",
+      "file_size_bytes": 557232,
+      "content_hash": "333c12badbeafc4d",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0008.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\SURMOUNT-5研究.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0008",
+        "content_hash": "333c12badbeafc4d",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0008"
+    },
+    {
+      "intake_id": "INT-20260316-0009",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:11.102108Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "SURPASS-3 MRI.pdf",
+      "file_size_bytes": 1225784,
+      "content_hash": "c4660988985cb790",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0009.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\SURPASS-3 MRI.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0009",
+        "content_hash": "c4660988985cb790",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0009"
+    },
+    {
+      "intake_id": "INT-20260316-0010",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:11.167171Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "国际肠抑胃素和肠促胰素研究的先驱+北平协和医学院林可胜教授.pdf",
+      "file_size_bytes": 835889,
+      "content_hash": "73f90fb9c438d75e",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0010.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\国际肠抑胃素和肠促胰素研究的先驱+北平协和医学院林可胜教授.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0010",
+        "content_hash": "73f90fb9c438d75e",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0010"
+    },
+    {
+      "intake_id": "INT-20260316-0011",
+      "status": "dispatched",
+      "deposited_at": "2026-03-16T18:06:11.242284Z",
+      "deposited_by": "codex_real_trial",
+      "deposit_method": "import",
+      "original_filename": "玛仕度肽的天然构体OXM是什么.pdf",
+      "file_size_bytes": 728837,
+      "content_hash": "d87e87ae681f2642",
+      "mime_type": "application/pdf",
+      "inbox_path": "intake/inbox/import/INT-20260316-0011.pdf",
+      "original_path": "D:\\汇度编辑部1\\项目文章\\2026项目表\\礼来\\礼来资料包\\玛仕度肽和替尔泊肽学习资料\\玛仕度肽的天然构体OXM是什么.pdf",
+      "metadata": {
+        "source_system": "药企"
+      },
+      "inventory_result": {
+        "source_key": "SRC-20260316-0011",
+        "content_hash": "d87e87ae681f2642",
+        "is_duplicate": false,
+        "file_format": "PDF",
+        "mime_type": "application/pdf"
+      },
+      "classification_result": {
+        "target_warehouse": "raw/external/partner_shared/",
+        "source_channel": "PARTNER_SHARED",
+        "confidence": 0.9,
+        "classification_reason": "source_system 标记为合作方 '药企'",
+        "priority_level": 1
+      },
+      "source_key": "SRC-20260316-0011"
+    }
+  ],
+  "statistics": {
+    "total_records": 11,
+    "by_status": {
+      "pending_review": 0,
+      "reviewing": 0,
+      "reviewed": 0,
+      "dispatched": 11,
+      "rejected": 0,
+      "duplicate": 0
+    },
+    "by_deposit_method": {
+      "drop": 0,
+      "upload": 0,
+      "import": 11
+    },
+    "last_updated": "2026-03-16T18:06:11.244593Z"
+  }
+}

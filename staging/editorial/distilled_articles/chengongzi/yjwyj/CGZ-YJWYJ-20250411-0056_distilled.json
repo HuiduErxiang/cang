@@ -1,0 +1,104 @@
+{
+  "article_id": "CGZ-YJWYJ-20250411-0056",
+  "normalized_title": "卡马替尼的前世今生，有多少药物能跑赢一个时代？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 没有任何一个靶点的突破是水到渠成，理所当然的。比如MET抑制剂的开发，差一点，就永远停留在了2014年。 一款新药从分子发现到上市的平均周期为10-15年，如果算上基础理论的探索则可能达到30年以上。期间无数研究者殚精竭虑，但大多壮志难酬。 当年，Onartuzumab的III期研究METlung宣告失败，让全球的患者和专家大失所望。 彼时，EGFR-TKI已经问世10年，在EGFR阳性NSCLC患者中取得了显著的临床效果，但耐药问题几乎不可避免。 Onartuzumab有着十分惊艳的早期试验结果，只差一步就能成为耐药难题的答案。但谁都没想它能失败的",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "没有任何一个靶点的突破是水到渠成，理所当然的。比如MET抑制剂的开发，差一点，就永远停留在了2014年。",
+      "一款新药从分子发现到上市的平均周期为10-15年，如果算上基础理论的探索则可能达到30年以上。期间无数研究者殚精竭虑，但大多壮志难酬。\n当年，Onartuzumab的III期研究METlung宣告失败..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "为何是肺癌？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "40%",
+        "70%",
+        "mOS）三倍（12"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n如果按照MET受体过表达率进行排序，肺癌（40%）只能排到第三，低于肾癌（70%）和结直肠癌（78%）[2]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而在III期METLung研究[6]中，Onartuzumab联合厄洛替尼组的mOS不仅没有延长，反而缩短了30%（6.8个月 vs 9.1个月），对于EGFR阳性的患者，HR更是高达4.68。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在接受第一代/第二代EGFR-TKI治疗后的患者MET扩增阳性率为23.5%[7]，而三代EGFR-TKI由于PFS时间更长，治疗后患者MET扩增阳性率达到了42.7%[7]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "研究结果显示，所有患者的整体ORR为27%，而对于MET 基因拷贝数（GCN≥6）的患者，ORR则达到了 47%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n最新披露的结果显示，初治患者的总体ORR为68%（队列5b和队列7），其中3例者完全缓解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250411-0056.json",
+    "original_url": "https://mp.weixin.qq.com/s/opoBK-wZlFM66TD_p13PUw",
+    "publish_time": "2025-04-11",
+    "distilled_at": "2026-03-17T10:48:00.735771"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "article_id": "DBA-20250720-0050",
+  "normalized_title": "新书推荐：《制裁与经济战》",
+  "one_paragraph_essence": "一篇简短的新书推荐文章，介绍翟东升教授合著的《制裁与经济战》一书。作者以朋友视角推荐这本反制裁手册，指出该书从历史到现实、从理论到实战，系统分析经济战的底层逻辑。文章强调书中关于芯片断供、SWIFT封锁、卡脖子产业链的前瞻判断价值。",
+  "topic": "国际政治经济学",
+  "subtopic": "制裁与反制裁战略",
+  "audience": "关注国际关系、经济战略、芯片产业的读者",
+  "narrative_frame": {
+    "frame_type": "recommendation_with_preview",
+    "key_elements": ["作者关系介绍", "书籍核心价值", "目标读者定位", "价值判断"]
+  },
+  "argument_skeleton": {
+    "main_claim": "这本书是理解下一场经济战怎么打的通关地图，其前瞻判断的价值远超书价和阅读时间",
+    "supporting_points": [
+      "从汉朝断供匈奴讲到俄乌能源博弈",
+      "分析美国如何把金融系统武器化",
+      "提供设防、反制、绕道、筑底的实战案例",
+      "翟东升2014年准确预测中美战略博弈"
+    ],
+    "conclusion_hook": "无论是企业还是个人，这些前瞻判断的价值，都会远远超过这本书的定价"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "value_positioning",
+      "example": "它不是一本书，是你理解下一场经济战怎么打的通关地图",
+      "effect": "将书籍价值上升到战略工具层面"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["quote", "historical_reference"],
+    "integration_style": "简洁直接，以价值判断为核心"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["direct", "recommendatory", "practical"],
+    "syntax_patterns": ["价值定位句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "它不是一本[X]，是你理解[Y]的通关地图",
+      "context": "提升推荐物的战略价值定位",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250720-0050.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

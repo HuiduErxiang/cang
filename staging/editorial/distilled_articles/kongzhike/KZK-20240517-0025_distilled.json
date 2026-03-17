@@ -1,0 +1,47 @@
+{
+  "article_id": "KZK-20240517-0025",
+  "normalized_title": "减肥方法哪家强，长期用药vs管嘴迈腿？",
+  "one_paragraph_essence": "我们总说减肥是逆人性而动，于是有了GLP-1的一飞冲天。最近几年再身边的朋友里面，既有人在“科技与狠活”的帮助下几个月内瘦成一道闪电，也同样还有一批坚持依靠运动和节食的“原教旨”派。\n恰好前两天Nature Medicine和JAMA各发表了几篇有趣的文章，让我们用数据来看看，长期用药与管住嘴迈开腿相比，到底哪一派的减肥方法更加可靠？",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": []
+  },
+  "argument_skeleton": {
+    "main_claim": "我们总说减肥是逆人性而动，于是有了GLP-1的一飞冲天。最近几年再身边的朋友里面，既有人在“科技与狠活”的帮助下几个月内瘦成一道闪电，也同样还有一批坚持依靠运动和节食的“原教旨”派。\n恰好前两天Nature Medicine和JAMA各发表了几篇有趣的文章，让我们用数据来看看，长期用药与管住嘴迈开腿相比，到底哪一派的减肥方法更加可靠？",
+    "supporting_points": [],
+    "conclusion_hook": "最后一年迅速脱落到最后只剩下300多例的地步，考虑到减肥效果以及因不良反应停药的发生大多在一年以内，这个现象是否反应了患者对药物本身兴趣的极限？\n\n在104周时Semaglutide与安慰剂相比，体重降低≥5%的比例为67.8% vs&nbsp;21.3%，体重降低≥10%的比例为44.2% vs 6.9%，体重降低≥15%的比例为22.9% vs 1.7%，体重降低≥20%的比例为11.0% vs 0.6%，体重降低≥25%的比例为4.9% vs&nbsp;0.1%，于是BMI也能带来更加显著的改善，即几乎只有药物才能做到大幅度降低体重。"
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240517-0025.json",
+    "original_url": "https://mp.weixin.qq.com/s/Tx61AnpaQ0ue5TbZXrw7xQ",
+    "publish_time": "2024-05-17",
+    "distilled_at": "2026-03-17T10:17:04.072802"
+  }
+}

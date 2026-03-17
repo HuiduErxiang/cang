@@ -1,0 +1,97 @@
+{
+  "article_id": "CGZ-YSD-20220906-0045",
+  "normalized_title": "融不到就借！知名biotech贷款1.25亿美元续命，力推的一款产品竟是捡来的...",
+  "one_paragraph_essence": "前言 尽管2022年的夏天被称为“史上最热夏天”，寒气却依旧如任正非先生所言那样传递到了每个人，让身处药圈的朋友们真真切切得感受到了“冰火两重天”的滋味。 中国药企的状态还算良好，尽管资金算不上充裕，但真正的考验尚未来临。相比之下，美国的诸多biotech似乎处境更严峻些，裁员、合并、收租等手段频出，凡此种种皆是为了“过冬”做准备，有一种“此诚危急存亡之秋”的感觉。 【相关阅读：药企们的「过冬」策略，裁员不尽兴，他还要收租...】 就在上周，为了推进产品的的开发，一家此前未曾曝出裁员消息的美国biotech也踏上了“求救”之路，在融资困难的情况下，他们想到的方法是——借债。 2022年8...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "前言&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+    "supporting_points": [
+      "尽管2022年的夏天被称为“史上最热夏天”，寒气却依旧如任正非先生所言那样传递到了每个人，让身处药圈的朋友们真真切切得感受到了“冰火两重天”的滋味。\n中国药企的状态还算良好，尽管资金算不上充裕，但真正..."
+    ],
+    "conclusion_hook": "可以说，这是一款从“垃圾堆”里捡来的产品，并且，从此前礼来的买入价来看，这确实是一款有潜力成为重磅炸弹的药物。\n\n2\n\n重磅药物，一波三折\n\n换了东家之后，Teplizumab开始大放异彩，并在临床试"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "20%",
+        "25亿美元",
+        "72亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "2021年2月18日，华东医药引进了他们的一款人源化的双特异性抗体PRV-3279（CD32b和CD79b双靶点）的大中华区权益，交易金额最高可达1.72亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2007，礼来参与了进来，以最高10亿美元的里程碑付款从MacroGenics公司获得了该款药物的授权，但在2010年，Teplizumab在一项关键临床试验中遭遇失败。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n八年后，Provention翻出了这款产品的资料，以最高2.25亿美元的里程碑付款金额从MacroGenics手里获得这款产品的权益。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nAlladapt在8月30日向大力神借了5000万美元，atai Life Sciences要多一些，借了1.75亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220906-0045.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247982215&idx=2&sn=42bcabca69d7d0a7eba7e199c5099108&chksm=ecb82461dbcfad772be1f64e1fc72fc1ecd3208d8358d3a2246b40f825bf1fc1523bd92c43d3#rd",
+    "publish_time": "2022-09-06",
+    "distilled_at": "2026-03-17T10:56:04.474646"
+  }
+}

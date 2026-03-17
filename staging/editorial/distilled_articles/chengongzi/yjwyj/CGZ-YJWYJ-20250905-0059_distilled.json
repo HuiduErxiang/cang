@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YJWYJ-20250905-0059",
+  "normalized_title": "仑卡奈单抗治疗4年，81.4%的患者仍维持轻度AD或MCI状态！",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 阿尔茨海默病（AD）的治疗理念正在被颠覆。 全球首款抗Aβ药物仑卡奈单抗获批后，AD治疗终于迈入了疾病修饰治疗（DMT）时代，治疗目标从“症状改善”变成了“延缓疾病进程”。 一年前，美国阿尔茨海默病协会国际会议（AAIC ）上，仑卡奈单抗Clarity AD研究三年随访结果出炉，凭借持续扩大的延缓认知功能下降的效果以及生物标志物的全面改善，推动了以DMT为核心的AD诊疗理念发展。 而今年AAIC大会上，Clarity AD研究四年随访结果出炉[2]，以绝对有力的获益进一步证实了DMT的长期获益。 81.4%的患者治疗4年后， 仍保持在轻度状态 C",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "阿尔茨海默病（AD）的治疗理念正在被颠覆。\n全球首款抗Aβ药物仑卡奈单抗获批后，AD治疗终于迈入了疾病修饰治疗（DMT）时代，治疗目标从“症状改善”变成了“延缓疾病进程”。",
+      "一年前，美国阿尔茨海默病协会国际会议（AAIC ）上，仑卡奈单抗Clarity AD研究三年随访结果出炉，凭借持续扩大的延缓认知功能下降的效果以及生物标志物的全面改善，推动了以DMT为核心的AD诊疗理..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "81.4%",
+        "27%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "经过18个月治疗后，两组CDR-SB评分较基线分别变化1.21分和1.66分，仑卡奈单抗治疗组CDR-SB评分获益0.45分（P<0.001），较安慰剂延缓27%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n从基于CDR-SB评分的病情恶化曲线来看，与ADNI组相比，仑卡奈单抗治疗组使疾病进展至中重度痴呆阶段的风险显著更低（P < 0.00001，HR 0.436），相对风险下降了56%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n绝对数据：\n\n仑卡奈单抗治疗4年后\n仍有81.4%的患者\n维持在轻度AD\n或MCI（轻度认知障碍）状态！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n极早期患者治疗4年后\n仍有56%的患者病情改善\n\nClarity AD研究4年随访的另一个重要结论是，随着治疗的持续，仑卡奈单抗治疗组的获益趋势变得更加明显。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在Clarity AD三年随访中，这部分患者CDR-SB评分结果未恶化/有改善的比例为59%/51%，而在4年随访阶段，两个数字不降反升，达到了69%/56%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250905-0059.json",
+    "original_url": "https://mp.weixin.qq.com/s/jVFTylSIn9twTDZfKBKgoA",
+    "publish_time": "2025-09-05",
+    "distilled_at": "2026-03-17T10:48:00.791620"
+  }
+}

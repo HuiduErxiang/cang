@@ -1,0 +1,58 @@
+{
+  "article_id": "CGZ-YJWYJ-20240919-0033",
+  "normalized_title": "T-DXd挑战胃癌一线，单药mOS达到2年？",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 设计 |&nbsp;几页 来源 | 医界望远镜 KEYNOTE-811研究的成功，宣告免疫疗法正式踏进PD-L1阳性且HER2阳性胃癌的一线治疗。但在抗HER2治疗方案上，曲妥珠单抗仍有升级空间。 T-DXd作为新一代HER2 ADC，已经在HER2+胃癌后线治疗中取得了卓越的成绩，其在HER2+胃癌一线治疗中的探索的1b/2期临床研究DESTINY-Gastric03（DG-03）的结果也在今年ESMO大会上正式公布。 DG-03研究共分6组，设计上比较复杂，从单药到三药联合，还有减量治疗组，探索了尽可能多的可能性。所以，尽管每个组样本量不算大，但研究纳入",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n设计 |&nbsp;几页\n来源 | 医界望远镜",
+    "supporting_points": [
+      "KEYNOTE-811研究的成功，宣告免疫疗法正式踏进PD-L1阳性且HER2阳性胃癌的一线治疗。但在抗HER2治疗方案上，曲妥珠单抗仍有升级空间。",
+      "T-DXd作为新一代HER2 ADC，已经在HER2+胃癌后线治疗中取得了卓越的成绩，其在HER2+胃癌一线治疗中的探索的1b/2期临床研究DESTINY-Gastric03（DG-03）的结果也在今...",
+      "DG-03研究共分6组，设计上比较复杂，从单药到三药联合，还有减量治疗组，探索了尽可能多的可能性。所以，尽管每个组样本量不算大，但研究纳入的总人群还是高达229例。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管每个组样本量不算大，但研究纳入的总人群还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业客观"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240919-0033.json",
+    "original_url": "https://mp.weixin.qq.com/s/wvUJ48xWnIuuCY-mYpESCA",
+    "publish_time": "2024-09-19",
+    "distilled_at": "2026-03-17T10:47:59.815583"
+  }
+}

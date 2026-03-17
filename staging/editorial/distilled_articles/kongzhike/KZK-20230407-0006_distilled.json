@@ -1,0 +1,47 @@
+{
+  "article_id": "KZK-20230407-0006",
+  "normalized_title": "不是所有卖药都叫商业化：2022年下半年中国Biotech商业化进展总览",
+  "one_paragraph_essence": "继续努力填自己立下flag的坑：半年前梳理了国内Biotech商业化的进展，目前这些主要企业多数都发布了年报（或至少是快报），就可以更新一下在2022年结束后，我们对中国Biotech企业的商业化是否可以有更新的判断。",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "医保支付政策",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": []
+  },
+  "argument_skeleton": {
+    "main_claim": "继续努力填自己立下flag的坑：半年前梳理了国内Biotech商业化的进展，目前这些主要企业多数都发布了年报（或至少是快报），就可以更新一下在2022年结束后，我们对中国Biotech企业的商业化是否可以有更新的判断。",
+    "supporting_points": [],
+    "conclusion_hook": "最后也整体考察利润表上的收入和净利润。"
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230407-0006.json",
+    "original_url": "https://mp.weixin.qq.com/s/4jMbR2O6euMH8rlo-YakVg",
+    "publish_time": "2023-04-07",
+    "distilled_at": "2026-03-17T10:17:04.046268"
+  }
+}

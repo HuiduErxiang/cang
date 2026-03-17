@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20241011-0039",
+  "normalized_title": "小杨哥围剿小杨哥",
+  "one_paragraph_essence": "文章以薛之谦演唱会上小杨哥VIP席位的荣耀开场，讲述这位草根网红从爆红到塌房的轨迹。作者以历史纵深视角，剖析小杨哥与辛巴的撕逼大战、三只羊的罚款停业，揭示网红阶层跃迁的密码与局限。文章指出越是打破主流利益格局的逆袭，越需要尽快融入主流利益格局，否则必将连本带利地回吐一切。",
+  "topic": "互联网网红",
+  "subtopic": "草根网红阶层跃迁与塌房",
+  "audience": "关注网红经济、社会阶层、互联网文化的读者",
+  "narrative_frame": {
+    "frame_type": "rise_and_fall_narrative",
+    "key_elements": ["荣耀开场", "塌房过程", "阶层跃迁分析", "规律揭示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "草根网红实现了中国底层近二十年来最大的一次阶层跃迁，但需要尽快融入主流利益格局才能上岸",
+    "supporting_points": [
+      "小杨哥全网粉丝突破一亿，豪掷1.03亿在合肥买楼",
+      "与辛巴撕逼大战引发一系列破窗效应",
+      "三只羊被罚款6894万并停业整顿",
+      "头部主播学历普遍偏低，专科以下是社会最大公约数"
+    ],
+    "conclusion_hook": "越是打破主流利益格局的逆袭，越是需要尽快融入主流利益格局，否则必将连本带利地回吐一切"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "glory_to-fall_contrast",
+      "example": "2023年的小杨哥似乎的确配得上这种致敬：不但全网粉丝突破一亿，还豪掷1.03亿在合肥买楼...仅仅过了一年，一场爆发在小杨哥和辛巴之间的撕逼大战，拉开了一场猝不及防的塌房序幕",
+      "effect": "以荣耀到塌房的对比制造戏剧张力"
+    },
+    {
+      "device_type": "social_insight",
+      "example": "他们一个接一个地证明了：越是打破主流利益格局的逆袭，越是需要尽快融入主流利益格局",
+      "effect": "提炼社会规律，深化主题"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["anecdote", "data", "social_analysis"],
+    "integration_style": "荣耀叙事+塌房揭示+社会规律提炼"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["narrative-driven", "social", "critical"],
+    "syntax_patterns": ["荣耀开场句式", "规律提炼句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "仅仅过了一年，一场爆发在[X]和[Y]之间的[Z]，拉开了一场猝不及防的塌房序幕",
+      "context": "从荣耀到塌房的转折",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "越是打破[X]的逆袭，越是需要尽快融入[X]，否则必将连本带利地回吐一切",
+      "context": "阶层跃迁的悖论规律",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241011-0039.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

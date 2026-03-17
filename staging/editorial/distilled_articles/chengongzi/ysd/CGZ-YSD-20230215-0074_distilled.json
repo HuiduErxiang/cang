@@ -1,0 +1,101 @@
+{
+  "article_id": "CGZ-YSD-20230215-0074",
+  "normalized_title": "CDK4/6抑制剂曲拉西利3期临床结果出炉：主要终点达标，ORR却比安慰剂低11%，令人震惊…",
+  "one_paragraph_essence": "一款抗肿瘤药要想成功上市，其安全性和有效性必然要得到验证，换句话说，一款已上市的抗肿瘤药，必然能给患者带来正向收益。 这些已上市的药物在拓展适应症时可能会遭遇失败，夸张一点的甚至会输给安慰剂。 但我们以往见到的“输给安慰剂”的案例里，至少药物在绝对疗效数值上，还是会优于安慰剂的，只是未能达到p值＜0.05的统计学差异。但即便p值=0.2，也能说明药物的疗效一定程度上优于安慰剂，只是并不显著。 因此，当看到一款已上市的抗肿瘤药，在新适应症的3期临床试验里，展现出了比安慰剂还低11%的肿瘤总缓解率（ORR）时，我感到了一丝震惊。 来源：电影《九品芝麻官》 2023年2月13日，G1 THER...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "一款抗肿瘤药要想成功上市，其安全性和有效性必然要得到验证，换句话说，一款已上市的抗肿瘤药，必然能给患者带来正向收益。\n这些已上市的药物在拓展适应症时可能会遭遇失败，夸张一点的甚至会输给安慰剂。\n但我们以往见到的“输给安慰剂”的案例里，至少药物在绝对疗效数值上，还是会优于安慰剂的，只是未能达到p值＜0.05的统计学差异。但即便p值=0.2，也能说明药物的疗效一定程度上优于安慰剂，只是并不显著。",
+    "supporting_points": [
+      "因此，当看到一款已上市的抗肿瘤药，在新适应症的3期临床试验里，展现出了比安慰剂还低11%的肿瘤总缓解率（ORR）时，我感到了一丝震惊。\n来源：电影《九品芝麻官》\n2023年2月13日，G1 THERA..."
+    ],
+    "conclusion_hook": "总之，G1可能把trilaciclib在抗肿瘤上的表现想的太简单了，这点从试验终点的设定上也能看出来。\nPRESERVE 1试验的主要终点设定为了“中性粒细胞减少发生率”，而非OS或PFS。说明在研究"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而，"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "11%",
+        "1%",
+        "ORR）时，我感到了一丝震惊。\n来源：电影《九品芝麻官》\n2023"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便p值=0.2，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n因此，当看到一款已上市的抗肿瘤药，在新适应症的3期临床试验里，展现出了比安慰剂还低11%的肿瘤总缓解率（ORR）时，我感到了一丝震惊。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而，这种机制上的创新，可能也为PRESERVE 1试验的结果埋下了伏笔。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230215-0074.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248098836&idx=1&sn=f9c2ea4070b3fab9113fb6d7b3f0b65c&chksm=ecba1cf2dbcd95e4b4565234fdf28d484e04ed24f50d82f0d483dc1dbf813983b24354f079b9#rd",
+    "publish_time": "2023-02-15",
+    "distilled_at": "2026-03-17T10:56:04.696924"
+  }
+}

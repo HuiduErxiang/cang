@@ -1,0 +1,57 @@
+{
+  "article_id": "KZK-20231016-0014",
+  "normalized_title": "从统计公报看医疗产业的钱去哪儿了？",
+  "one_paragraph_essence": "上周卫健委终于发布了姗姗来迟的《2022年卫生健康事业发展统计公报》，透过这份完整覆盖了三年疫情时期的医疗行业宏观数据，并结合医保等数据（参见【医苑观畴】医保不言，数自成蹊：2022年医保发展快报出炉），我们可以尝试回答一个问题：中国医疗产业的钱到底花在哪儿了？",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "医保支付政策",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "上周卫健委终于发布了姗姗来迟的《2022年卫生健康事业发展统计公报》，透过这份完整覆盖了三年疫情时期的医疗行业宏观数据，并结合医保等数据（参见【医苑观畴】医保不言，数自成蹊：2022年医保发展快报出炉），我们可以尝试回答一个问题：中国医疗产业的钱到底花在哪儿了？",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 1,
+      "examples": [
+        "http://www.nhc.gov.cn/guihuaxxs/s3585u/202309/6707c48f2a2b420fbfb739c393fcca92/files/8a3994e41d944f589d914c589a702592.pdf"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20231016-0014.json",
+    "original_url": "https://mp.weixin.qq.com/s/nH5_LnOdtm9xxxBS6DCqGQ",
+    "publish_time": "2023-10-16",
+    "distilled_at": "2026-03-17T10:17:04.053885"
+  }
+}

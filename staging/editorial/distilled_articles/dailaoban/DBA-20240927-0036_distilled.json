@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20240927-0036",
+  "normalized_title": "从跨海到翻山，全球化至暗时刻如何重塑TCL",
+  "one_paragraph_essence": "文章以李东生2024年全球之旅开场，讲述TCL从全球化初学者到全球性企业的二十五年蜕变。作者以历史纵深视角，剖析2004年跨国并购的敦刻尔克时刻如何从四个方面重塑TCL：技术认识、产业链认识、业务战略认识、全球化经营认知。文章揭示至暗时刻如何成为伟大变革的发轫点。",
+  "topic": "企业全球化",
+  "subtopic": "TCL全球化历程与战略重塑",
+  "audience": "关注企业战略、全球化、中国制造的读者",
+  "narrative_frame": {
+    "frame_type": "corporate_transformation_narrative",
+    "key_elements": ["全球之旅开场", "历史对比", "四个重塑分析", "经验总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "全球化的至暗时刻从技术、产业链、业务战略、全球化经营四个方面重塑了TCL",
+    "supporting_points": [
+      "海外营收从2013年353亿增长至1253亿",
+      "2004年收购阿尔卡特和汤姆逊遭遇巨额亏损",
+      "从多元化聚焦到彩电核心业务",
+      "从跨国并购到全球本土化布局"
+    ],
+    "conclusion_hook": "丘吉尔说过：永远不要浪费一场好的危机。春天的希望都是在寒冬中埋下，伟大的变革也通常发轫于至暗时刻"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "global_journey_opening",
+      "example": "从2024年7月开始，TCL创始人、董事长李东生开始了一段久违的全球之旅",
+      "effect": "以全球之旅开场，建立全球化叙事框架"
+    },
+    {
+      "device_type": "historical_quote",
+      "example": "丘吉尔说过：永远不要浪费一场好的危机",
+      "effect": "以名人名言升华主题"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["data", "historical_case", "quote"],
+    "integration_style": "全球之旅+历史对比+名言升华"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "strategic", "inspiring"],
+    "syntax_patterns": ["全球之旅开场句式", "名言升华句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "从[时间]开始，[公司]创始人、董事长[名字]开始了一段久违的全球之旅",
+      "context": "全球化叙事开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "丘吉尔说过：永远不要浪费一场好的危机。春天的希望都是在寒冬中埋下，伟大的变革也通常发轫于至暗时刻",
+      "context": "危机与变革主题升华",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20240927-0036.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

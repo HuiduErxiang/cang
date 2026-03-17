@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20250709-0049",
+  "normalized_title": "影石十年：走进那片硬件的迷雾森林",
+  "one_paragraph_essence": "文章以宝丽来拍立得的品类定义史开场，引出品类定义型产品的概念，讲述影石Insta360创始人刘靖康如何将全景相机与运动场景结合，开创全景运动相机新品类的十年创业历程。作者以历史纵深叙事，分析影石从技术极客到产品大师的进化路径，揭示中国硬件创新的新范式。",
+  "topic": "硬件创新",
+  "subtopic": "品类定义型产品与中国创业",
+  "audience": "关注硬件创业、产品创新、中国制造的读者",
+  "narrative_frame": {
+    "frame_type": "product_history_with_character_study",
+    "key_elements": ["品类历史引入", "创业者画像", "产品创新路径", "产业范式揭示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "影石用十年时间，将全景相机与运动场景结合，开创了品类定义型产品，成为中国硬件创新的新范式",
+    "supporting_points": [
+      "品类定义型产品是产品创新的最高境界",
+      "刘靖康发现运动与全景的结合点",
+      "硬件防水防尘抗震与软件防抖拼接双重突破",
+      "从技术极客进化为产品大师"
+    ],
+    "conclusion_hook": "越来越多的中国产品人梦想做出品类定义型产品"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_context_opening",
+      "example": "1948年，宝丽来公司推出了世界上第一款拍立得相机，成为了那个时代的iPhone",
+      "effect": "以历史案例建立品类定义的概念框架"
+    },
+    {
+      "device_type": "definition_taxonomy",
+      "example": "所谓品类定义型产品，通常指凭借对消费者的超越式洞察，用一款产品开创一个崭新的品类",
+      "effect": "清晰定义核心概念，为后文铺垫"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_anecdote", "product_specs", "founder_story"],
+    "integration_style": "历史铺垫+案例拆解+人物故事"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "analytical", "inspiring"],
+    "syntax_patterns": ["历史引入句式", "定义句式", "转折揭示句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[X]年，[公司]推出了世界上第一款[Y]，成为了那个时代的iPhone",
+      "context": "历史级产品的定位开场",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "很多人最想模仿[X]的，是他[Y]的那一刻，而不是[Z]",
+      "effect": "揭示表面与本质的差距",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250709-0049.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

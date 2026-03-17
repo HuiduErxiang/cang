@@ -1,0 +1,102 @@
+{
+  "article_id": "CGZ-YSD-20231204-0104",
+  "normalized_title": "辉瑞终止开发小分子GLP-1RA背后：诡异的40%安慰剂组停药率，引爆了这条赛道最大的危机……",
+  "one_paragraph_essence": "正文共：1969字 1 图 预计阅读时间：5分钟 作者 | 辰公子 文章来源 | 药时代公众号 由于史无前例的社会热度，在互联网的时代下，GLP-1RA失去了一款药物应有的高级感和神秘感。 药物的作用机制、治疗效果、不良反应等信息在社交软件里广为流传，名人效应更放大了这种传播力度，使得目标患者对药物的熟悉度甚至某种程度上高于相关药企的非研发人员。 而这一切都指向了一个结果：未来，GLP-1药物的研发成本与失败风险会因患者“过于了解药物”，而呈指数级上升。 2023年12月1日，辉瑞公布了口服GLP-1RA药物Danuglipron治疗成人肥胖症的2期临床试验顶线结果。 尽管药物的减重数据...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：1969字 1 图\n预计阅读时间：5分钟",
+    "supporting_points": [
+      "由于史无前例的社会热度，在互联网的时代下，GLP-1RA失去了一款药物应有的高级感和神秘感。\n药物的作用机制、治疗效果、不良反应等信息在社交软件里广为流传，名人效应更放大了这种传播力度，使得目标患者对...",
+      "而这一切都指向了一个结果：未来，GLP-1药物的研发成本与失败风险会因患者“过于了解药物”，而呈指数级上升。\n2023年12月1日，辉瑞公布了口服GLP-1RA药物Danuglipron治疗成人肥胖症..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而，"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "40%",
+        "93%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管药物的减重数据很好，但由于不良反应奇高，辉瑞还是",
+        "即便做好教育也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n但真正炸裂的，还得是那一句：\n“安慰剂组的停药率高达40%”\n很有可能这是后续所有GLP-1药物开发者都要面临的考验，且情况只会变得越来越严重。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在2018年司美格鲁肽2.4mg第一次进行减重临床试验时，安慰剂组还有93%的试验完成率，与试验组相当，而到了2020年以后，GLP-1药物减重试验安慰剂组的试验完成率就没有高于过80%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n对辉瑞来说，单从疗效上来看，Danuglipron的表现还算不错，32周内减重11.7%，安慰剂调整后减重13.1%，跟主要竞品一对比还挺能打的。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而，到了21世纪的今天，这一套运行数十年的临床试验规范，在GLP-1类药物的临床试验上却上面临着失效的困境，尤其是减重试验。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20231204-0104.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248233673&idx=1&sn=fa7b0f4af4504f6273e51a3f90561580&chksm=ef440a2fd8338339fb22a71d44f6799d176891e77e23248e3b9dcd1310878d5c717a362f923f#rd",
+    "publish_time": "2023-12-04",
+    "distilled_at": "2026-03-17T10:56:05.078304"
+  }
+}

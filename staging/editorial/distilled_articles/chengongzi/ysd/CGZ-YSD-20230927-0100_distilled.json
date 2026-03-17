@@ -1,0 +1,94 @@
+{
+  "article_id": "CGZ-YSD-20230927-0100",
+  "normalized_title": "Intercept 8亿美元卖身！NASH先驱，终成先烈……",
+  "one_paragraph_essence": "正文共：1951字 预计阅读时间：6分钟 作者 | 辰公子 文章来源 | 药时代公众号 2023年9月26日，Intercept Pharmaceuticals与意大利制药公司 Alfasigma共同宣布，双方达成了一项并购协议，Alfasigma将以每股19美元的价格收购Intercept，总收购价约8亿美元。 Alfasigma是意大利排名前5的制药公司，是一家私企，创始人家拥有超过75%的股份。公司2021年营业额超过了10亿欧元，在全球约有3000名员工，中国也有分部，名字译的很直接，就叫“阿尔法西格玛”。 Intercept是NASH（非酒精性脂肪性肝炎）新药研发领域的元老公司...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：1951字\n预计阅读时间：6分钟",
+    "supporting_points": [
+      "2023年9月26日，Intercept Pharmaceuticals与意大利制药公司 Alfasigma共同宣布，双方达成了一项并购协议，Alfasigma将以每股19美元的价格收购Interce...",
+      "Alfasigma是意大利排名前5的制药公司，是一家私企，创始人家拥有超过75%的股份。公司2021年营业额超过了10亿欧元，在全球约有3000名员工，中国也有分部，名字译的很直接，就叫“阿尔法西格玛..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "75%",
+        "3%",
+        "8亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\nAlfasigma是意大利排名前5的制药公司，是一家私企，创始人家拥有超过75%的股份。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nOCA同时也是FXR激动剂的代表产品，FXR受体曾被认为是治疗NASH的重要靶点，NASH是脂肪肝的进阶疾病，是一个比PBC大得多的领域，约影响全球3%~5%的人口。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "结果显示，在「肝纤维化改善≥1级且无NASH恶化患者比例」的终点上，OCA高剂量组显著由于安慰剂（23% vs 12%，p=0.0002）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "抛开最明显的瘙痒发生率不谈（高剂量组 vs 安慰剂=51% vs 19%），LDL-C升高和潜在的心血管风险是硬伤。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n虽然Alfasigma的收购价较Intercept前一日的股价高出80%，但还是不足彼时的1/5。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230927-0100.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248217064&idx=1&sn=98cdaffd566a723c3aff8beaf6a0bee0&chksm=ef44490ed833c01851605c1a58f9e443a4f5d83fe452134f46711a1546a4a2a51abf30939dc2#rd",
+    "publish_time": "2023-09-27",
+    "distilled_at": "2026-03-17T10:56:05.047228"
+  }
+}

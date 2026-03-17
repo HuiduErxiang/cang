@@ -1,0 +1,65 @@
+{
+  "article_id": "CGZ-YJWYJ-20240316-0008",
+  "normalized_title": "舒格利单抗获批一线胃癌适应症，成为「全球首个」挺进胃癌的PD-L1单抗",
+  "one_paragraph_essence": "作者 | 辰公子 审核 |&nbsp;涟濯 来源 | 医界望远镜 2024年3月15日，辉瑞与基石药业宣布，NMPA批准其PD-L1抑制剂舒格利单抗（商品名：择捷美®）新适应症的上市申请，用于联合含氟尿嘧啶类和铂类药物化疗一线治疗PD-L1&nbsp;CPS≥5的不可手术切除的局部晚期或转移性胃及胃食管结合部腺癌。 此前，全球范围获批一线胃癌适应症的PD-1/PD-L1抑制剂共有4款，分别是纳武利尤单抗、信迪利单抗、替雷利珠单抗、帕博利珠单抗，均为PD-1抑制剂。舒格利单抗是全球首款获批胃癌一线适应症的PD-L1抑制剂。 此次获批基于多中心、随机、双盲、安慰剂对照的III期临床试验GEMST",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "regulatory_analysis",
+    "key_elements": [
+      "监管分析",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 |&nbsp;涟濯\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年3月15日，辉瑞与基石药业宣布，NMPA批准其PD-L1抑制剂舒格利单抗（商品名：择捷美®）新适应症的上市申请，用于联合含氟尿嘧啶类和铂类药物化疗一线治疗PD-L1&nbsp;CPS≥5的不...",
+      "[1] 辉瑞、基石药业官微\n[2]&nbsp;https://www.annalsofoncology.org/article/S0923-7534(23)04224-2/pdf\n[3] 其他公开资料"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "5%",
+        "10%",
+        "mOS（15"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "专业客观"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240316-0008.json",
+    "original_url": "https://mp.weixin.qq.com/s/TBcqdjkTIlD_oGxCZBAC8A",
+    "publish_time": "2024-03-16",
+    "distilled_at": "2026-03-17T10:47:59.182047"
+  }
+}

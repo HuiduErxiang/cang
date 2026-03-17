@@ -1,0 +1,115 @@
+{
+  "article_id": "CGZ-YJWYJ-20250325-0054",
+  "normalized_title": "攻克阿尔茨海默病的第一步，从读懂抗Aβ新药的获益开始",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 1927年10月，第五届索尔维会议上，一场被后世誉为“世纪之争”的辩论正在上演。 围绕量子力学的理论架构，阿尔伯特·爱因斯坦和尼尔斯·玻尔这两位诺奖得主，带领着各自的拥趸展开了激烈的“攻防”，比利时布鲁塞尔的天气已经开始转凉，却难以掩盖这群世界上最聪明的人迸发的热情。 深受经典物理学影响的爱因斯坦，难以接受量子物理对因果决定论的冲击，坚定的认为量子力学的理论是不完备的，并留下了“上帝不掷骰子”的名言。然而后来的科学发展证明，微观世界的物理规律确实与经典物理学截然不同。 即便聪慧如爱因斯坦，面对量子物理时也会出现新旧观念碰撞下困顿与挣扎。物理学如此，医",
+  "category": "医界望远镜",
+  "topic": "阿尔茨海默",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "1927年10月，第五届索尔维会议上，一场被后世誉为“世纪之争”的辩论正在上演。\n围绕量子力学的理论架构，阿尔伯特·爱因斯坦和尼尔斯·玻尔这两位诺奖得主，带领着各自的拥趸展开了激烈的“攻防”，比利时布...",
+      "即便聪慧如爱因斯坦，面对量子物理时也会出现新旧观念碰撞下困顿与挣扎。物理学如此，医学同样如此。\n正如仑卡奈单抗获批上市，引领阿尔茨海默病（AD）进入疾病修饰治疗（DMT）时代后，依旧有很多人坚守旧日的..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "然而"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "怎么来的呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "27%",
+        "60%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便聪慧如爱因斯坦，面对量子物理时也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n研究结果显示，与安慰剂相比，仑卡奈单抗治疗组的患者治疗18个月时CDR-SB评分获益的绝对差值为0.45分（P = 0.00005），显著延缓疾病进展27%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而如果聚焦于更早期的AD患者，接受仑卡奈单抗治疗36个月后，甚至有60%还出现了认知功能的改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在接受WMM清单评估后，所有患者或其照料者（100%）表示他们对仑卡奈单抗治疗的总体体验“非常满意”（64%）或“满意”（36%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nClarity AD研究中，仑卡奈单抗治疗组的ARIA发生率为21.5%，拆分开来的话，ARIA-E为12.6%，ARIA-H为17.3%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n数字看上去还挺高的，但实际上AD患者本手就是ARIA的高危人群，安慰剂组的ARIA总体发生率也达到了9.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250325-0054.json",
+    "original_url": "https://mp.weixin.qq.com/s/0QGkNhQRQBBv08oV252T8w",
+    "publish_time": "2025-03-25",
+    "distilled_at": "2026-03-17T10:48:00.596102"
+  }
+}

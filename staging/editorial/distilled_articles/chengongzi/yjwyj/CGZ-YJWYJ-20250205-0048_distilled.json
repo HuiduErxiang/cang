@@ -1,0 +1,96 @@
+{
+  "article_id": "CGZ-YJWYJ-20250205-0048",
+  "normalized_title": "今年春晚的MVP，竟然是一则广告……",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 每年春节，央视都会精心制作公益广告，用镜头去描述、刻画春节团聚中亲情的部分。 今年的公益广告《奶奶的日历》聚焦小静与奶奶的“隔辈亲”。在小静眼里，奶奶是家里的“记忆大王”，从小到大，与小静有关的任何事情都记得清清楚楚。而事实上，奶奶的记性早就变差了，因为舍不得忘记与孙女有关一切，所以将每件事都记在了日历上，记下了几十本厚厚的日历。 5分钟的短片叙事却极为精彩，几个镜头便将悬念铺垫的极为扎实，谜底揭晓时刻让人瞬间破防，催泪程度不输2019年的现象级作品《啥是佩奇？》。 &nbsp;《奶奶的日历》在春晚首播，我愿将其评为今年春晚的MVP作品。 ",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "每年春节，央视都会精心制作公益广告，用镜头去描述、刻画春节团聚中亲情的部分。\n今年的公益广告《奶奶的日历》聚焦小静与奶奶的“隔辈亲”。在小静眼里，奶奶是家里的“记忆大王”，从小到大，与小静有关的任何事...",
+      "看到中间的时候，我甚至一度以为这是一个与阿尔茨海默病（AD）有关的宣传短片。毕竟老人、记忆、亲情等关键词能直接让人联想到这个让人绝望的“记忆杀手”。\n故事里的小静是幸福的，也是幸运的。\n据统计，我国6...",
+      "早期症状隐匿，抓住就是胜利\n虽然AD的早期症状与正常衰老的表现很相近，但如果我们多留意，依然能进行有效辨别。\n比如短期记忆障碍，正常衰老可能仅表现为偶尔忘记名字或事件，但提示了之后一般都能回忆起来，而..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "37%",
+        "60%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n目前的研究结果表明，仑卡奈单抗3个月即显著降低Aβ负荷，18个月在 ADCS MCI-ADL 方面的疾病进展减缓了37%, 60%更早期患者实现病程逆转。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n治疗36个月，患者持续受益（CDR-SB评分减少了0.95）且51%的更早期的患者病情得以改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n贝伐珠单抗、依那西普、奥瑞利珠单抗等其他疾病领域的常见生物药的严重不良事件停药率在7%~31%之间。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "Ⅲ期研究Clarity AD结果显示，仑卡奈单抗治疗导致停药的不良事件发生率仅为6.9%，同为AD生物疗法的多奈单抗则有13.1%的患者因不良事件停止治疗。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n例如ARIA，多奈单抗组比安慰剂组更高（31.4% vs 13.6%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250205-0048.json",
+    "original_url": "https://mp.weixin.qq.com/s/yqqdQchgO2pv0CIvfXot8A",
+    "publish_time": "2025-02-05",
+    "distilled_at": "2026-03-17T10:48:00.461124"
+  }
+}

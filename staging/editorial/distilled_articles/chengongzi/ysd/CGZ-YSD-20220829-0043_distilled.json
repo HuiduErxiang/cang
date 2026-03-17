@@ -1,0 +1,106 @@
+{
+  "article_id": "CGZ-YSD-20220829-0043",
+  "normalized_title": "新一代全球「最畅销」小分子药之争，暂时没结果，因为两个药的试验全失败了...",
+  "one_paragraph_essence": "西班牙巴塞罗那，正在举行2022年的欧洲心脏病学年会，在这场为期四天的大型学术盛会上，有两场报告受到了很多人的期待与关注——分别是BMS/强生的milvexian（以下简称：M药）与拜耳的asundexian（以下简称：A药）进行的二期临床研究结果。 这两款均为凝血因子XIa抑制剂，是新一代的小分子口服抗凝药。 尽管大分子药物近年来飞速发展，市场不断扩大，但小分子药也并非不受待见，在某些疾病领域如慢性病里，其方便、便宜的属性仍旧是患者最看重的，因此也不断有制药巨头在小分子药领域加码，迭代更新。 辉瑞的Paxlovid乘着新冠的东风一跃而起，有望成为今年最畅销的小分子药物，甚至在疫苗滞销的...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "西班牙巴塞罗那，正在举行2022年的欧洲心脏病学年会，在这场为期四天的大型学术盛会上，有两场报告受到了很多人的期待与关注——分别是BMS/强生的milvexian（以下简称：M药）与拜耳的asundexian（以下简称：A药）进行的二期临床研究结果。\n这两款均为凝血因子XIa抑制剂，是新一代的小分子口服抗凝药。\n尽管大分子药物近年来飞速发展，市场不断扩大，但小分子药也并非不受待见，在某些疾病领域如",
+    "supporting_points": [],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "30%",
+        "5.5%",
+        "128亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n几乎所有剂量都在数值上均降低了缺血性卒中风险（除外隐匿性卒中），与安慰剂相比，20-100 mg每日两次组患者显示出近30%的相对风险降低，200mg有抬头趋势，但是整体安全性良好。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n缺血性卒中风险：安慰剂组5.5%，25mg/qd组4.6%，25mg/bid组3.8%，50mg/bid组4.0%、100mg/bid组3.5%、200mg/bid组7.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n从临床结果上来看，相较于安慰剂组，两款药物都在某一剂量组展现了最大的卒中事件相对风险降低，并且降幅都超过了30%，均展示出了一定的治疗前景。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n但新冠流行病终会过去，真正的“小分子药王”，在去年销售额达到128亿美元的来那度胺专利即将到期的情况下，最有希望的还得属口服抗凝药。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n毕竟2021年最畅销的两款口服抗凝药阿哌沙班与利伐沙班，加起来的销售额达到了177亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220829-0043.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247977073&idx=1&sn=fbbe8e8283050e710e07ee0ec51c8a84&chksm=ecb83097dbcfb98194e8dc3e7a5dfc563ab329249d6bd23015248db84c85ccebfcc644fb25d8#rd",
+    "publish_time": "2022-08-29",
+    "distilled_at": "2026-03-17T10:56:04.461135"
+  }
+}

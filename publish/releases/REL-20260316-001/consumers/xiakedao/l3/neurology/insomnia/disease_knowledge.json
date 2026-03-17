@@ -1,0 +1,57 @@
+{
+  "disease_id": "INS",
+  "disease_name": "失眠",
+  "disease_name_en": "Insomnia",
+  "therapeutic_area": "neurology",
+  "description": "失眠是一种常见的睡眠障碍，表现为难以入睡、维持睡眠困难或早醒，导致日间功能受损。失眠可分为急性和慢性，慢性失眠持续时间通常超过3个月。",
+  "epidemiology": {
+    "incidence": "全球范围内，失眠的发病率约为10-15%，女性发病率高于男性。",
+    "prevalence": "失眠的患病率较高，尤其是在老年人群、患有慢性疾病或精神障碍的人群中。",
+    "risk_factors": [
+      "年龄",
+      "性别",
+      "精神压力",
+      "慢性疾病",
+      "药物因素",
+      "生活方式"
+    ]
+  },
+  "pathophysiology": {
+    "etiology": "失眠的发病机制复杂，可能与神经递质失衡、下丘脑-垂体-肾上腺轴功能亢进、睡眠觉醒调节异常等因素有关。",
+    "molecular_pathways": [
+      "GABA能神经递质系统",
+      "组胺能神经递质系统",
+      "褪黑素受体信号通路"
+    ]
+  },
+  "classification": {
+    "primary": "原发性失眠",
+    "secondary": "继发性失眠（由其他疾病、药物或生活因素引起）"
+  },
+  "diagnosis": {
+    "methods": [
+      "睡眠日记",
+      " polysomnography（多导睡眠图）",
+      "睡眠质量评估量表",
+      "临床访谈"
+    ]
+  },
+  "treatment": {
+    "non_pharmacological": [
+      "认知行为疗法",
+      "睡眠卫生教育",
+      "放松训练"
+    ],
+    "pharmacological": [
+      "苯二氮䓬类药物",
+      "非苯二氮䓬类催眠药",
+      "褪黑素受体激动剂",
+      "食欲素受体拮抗剂"
+    ]
+  },
+  "key_studies": [
+    "PIONEER 7",
+    "SOLSTICE",
+    "CHAMPION"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20220523-0016",
+  "normalized_title": "餐饮老板的九九八十一难",
+  "one_paragraph_essence": "文章以乡村基2010年纽交所上市后退市的故事开场，讲述中国餐饮业做大的隐形天花板。作者以历史纵深视角，从国营饭馆到高端餐饮到大众连锁的三代餐王演变，分析翻台率、单店模型、工业化体系等餐饮经营指标。文章揭示在中国做餐饮是地狱级难度，50家门店展露狰狞，500家门店成为坚硬气墙。",
+  "topic": "餐饮产业",
+  "subtopic": "中国餐饮连锁化困境与经营难题",
+  "audience": "关注餐饮产业、连锁经营、消费行业的读者",
+  "narrative_frame": {
+    "frame_type": "industry_challenge_narrative",
+    "key_elements": ["上市退市故事开场", "三代餐王演变", "经营指标分析", "困境总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "在中国做餐饮是地狱级难度，连锁数量超过500家便遇到隐形天花板",
+    "supporting_points": [
+      "乡村基2010年上市首日涨近50%，2016年退市只剩3成",
+      "第一代餐王是全聚德等国营饭馆",
+      "第二代餐王是湘鄂情俏江南等高端餐饮",
+      "翻台率成为衡量大众餐饮的核心指标"
+    ],
+    "conclusion_hook": "在中国做餐饮，其实是一件地狱级难的事情"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "ipo_story_opening",
+      "example": "2010年9月28日上市当天，纽交所的副总裁特意用一顿中式饺子迎接了乡村基敲钟团队...6年后，乡村基退市，上市时投资者花10块钱买入，退市时大概能剩3块",
+      "effect": "以上市退市故事开场，建立投资叙事张力"
+    },
+    {
+      "device_type": "ceiling_metaphor",
+      "example": "这道气墙几乎困住了所有中式餐饮企业，阻止了一切成为「中国麦当劳」的徒劳",
+      "effect": "以气墙隐喻揭示行业天花板"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["ipo_case", "industry_evolution", "operating_metrics"],
+    "integration_style": "上市故事+产业演变+指标分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["narrative", "analytical", "challenging"],
+    "syntax_patterns": ["上市故事开场句式", "天花板隐喻句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]上市当天，[地点]的[人物]特意用[方式]迎接了[公司]敲钟团队...[N]年后，[公司]退市，上市时投资者花10块钱买入，退市时大概能剩[X]块",
+      "context": "上市退市投资叙事",
+      "reusability_score": 3
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220523-0016.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

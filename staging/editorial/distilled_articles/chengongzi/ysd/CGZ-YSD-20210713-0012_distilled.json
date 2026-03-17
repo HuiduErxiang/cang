@@ -1,0 +1,99 @@
+{
+  "article_id": "CGZ-YSD-20210713-0012",
+  "normalized_title": "十年时间做出全球首创新药，跨国巨头都失败的路，他为何走成了？——「专访」华领陈力博士",
+  "one_paragraph_essence": "记者：郭劲松、辰公子 主笔：辰公子 编辑：辰公子 药时代专访陈力博士是在7月1日，恰逢党的百年诞辰。见到陈力博士时，他身着一身红衣。上午浦东人才港举行了一个《专家集体观看百年庆典》的活动，这是为活动特意准备的。 （陈力博士） 陈力博士在采访过程中一直面带笑容，十分和蔼。从他的面相来看，其实是有点不怒自威的，如若板起脸来，怕是会让我想起中学时的班主任。陈力博士身材魁梧，声如洪钟，举手投足之间散发出了强烈的气场和自信，相信这是十年创业磨练出的，又或许从罗氏出来时就已有之。 毕竟，能从糖尿病这样一个“血腥惨烈”的赛道冲出；在各大跨国药企都折戟沉沙的靶点上破局；没有先发优势的情况下，后来居上有望...",
+  "category": "药时代",
+  "topic": "人物专访",
+  "subtopic": "行业领袖",
+  "audience": "医药从业者、投资者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "记者：郭劲松、辰公子",
+    "supporting_points": [
+      "药时代专访陈力博士是在7月1日，恰逢党的百年诞辰。见到陈力博士时，他身着一身红衣。上午浦东人才港举行了一个《专家集体观看百年庆典》的活动，这是为活动特意准备的。"
+    ],
+    "conclusion_hook": "可以说是最先进的最时髦的。\n第四是新技术，华领在制剂研发的过程中采用了新技术，将工业化4.0的技术用于产品的制剂、工艺开发。\n最后是新化学结构，这给我们带来了非常好的人体药代动力学特征，尤其是对糖尿病"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "40%",
+        "50%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床指南",
+      "临床研究",
+      "时间线证据",
+      "人物观点"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "肾病是糖尿病的主要并发症，糖尿病肾病的患者约占总糖尿病人群的20～40%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "要知道，首创新药的研发成功率不到1%，Me too药也不过10%左右。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n“我们当时对患者进行了筛选分型，研究发现，其中有一个亚组的患者对于我们这个药物的应答率达到了100%，其中每位患者糖化血红蛋白降幅超过0.6，亚组平均降幅超过1.2，同时还获得了胰岛功能的改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210713-0012.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247726414&idx=1&sn=388a09f221ef68969d7c1aa36b87770f&chksm=ecbccda8dbcb44beaf6398d4efbccfcecd17f96aee9a3c78310c279f00afb31ca463c04439b2#rd",
+    "publish_time": "2021-07-13",
+    "distilled_at": "2026-03-17T10:56:04.232139"
+  }
+}

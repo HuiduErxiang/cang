@@ -1,0 +1,105 @@
+{
+  "article_id": "CGZ-YSD-20220422-0022",
+  "normalized_title": "几乎全票通过！昨晚，FDA又开了一个ODAC会议，可能会改变FDA的审批态度...(附：会议全程录像）",
+  "one_paragraph_essence": "这是一场看上去不起眼，但却有着重要意义的ODAC会议。 不起眼的原因在于，该会议并非针对某个产品或某家公司，对于资本市场的影响也没有此前的FDA专家咨询委员会那样剧烈，关注人数也并不多。 但同时，因为针对的不是某一家公司的产品，而是一整个赛道，对所有布局该靶点的公司，乃至有着类似情况的其他同类产品，都或多或少有着参考作用，可能会改变，或某种程度上预示了未来FDA的审批态度，因此又有着重要的意义。 北京时间4月22日凌晨5点，FDA结束了4个小时的，针对PI3K类药物的肿瘤药物咨询委员会（ODAC），17名与会专家以16票赞成，1票弃权的压倒性票数认为：未来PI3K抑制剂在血液瘤中的适应症...",
+  "category": "药时代",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "这是一场看上去不起眼，但却有着重要意义的ODAC会议。\n不起眼的原因在于，该会议并非针对某个产品或某家公司，对于资本市场的影响也没有此前的FDA专家咨询委员会那样剧烈，关注人数也并不多。\n但同时，因为针对的不是某一家公司的产品，而是一整个赛道，对所有布局该靶点的公司，乃至有着类似情况的其他同类产品，都或多或少有着参考作用，可能会改变，或某种程度上预示了未来FDA的审批态度，因此又有着重要的意义。\n",
+    "supporting_points": [
+      "PI3K（磷酸肌醇3-激酶）是参与细胞信号传导和功能的重要二级信使，早在30多年前就已经被发现。\n其介导的信号传导通路也被认为在细胞的增值、分化、凋亡等货都过程中发挥着关键作用，对肿瘤耐药性也有很大的...",
+      "2016年，吉利德的Zydelig在获批2年后，在临床试验中出现严重不良事件，被FDA和EMA给予警告和调查，随后吉利德也不再对Zydelig投入精力，并在今年1月14日自愿撤回治疗FL和SLL的适应..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 3,
+      "examples": [
+        "60%",
+        "25亿美元",
+        "25亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管议程中的讨论十分激烈，在结果上大家还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n还有一款更加不幸的产品——MEI Pharma的PI3K抑制剂zandelisib，上个月直接被FDA拒批了，公司股价当日大跌近60%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "「口服」mRNA疫苗、与CAR-T联用治疗「实体瘤」...\n5.25亿美元收购，辉瑞挑的「RSV赛道」是个啥？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220422-0022.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247913300&idx=1&sn=416a1695dcd9abd82e3ee22a1c12299d&chksm=ecb937b2dbcebea4dc26d2f7a0dd2c09e1c246de2a984e50f9ee62ac3cdfc0d777800d092eff#rd",
+    "publish_time": "2022-04-22",
+    "distilled_at": "2026-03-17T10:56:04.311444"
+  }
+}

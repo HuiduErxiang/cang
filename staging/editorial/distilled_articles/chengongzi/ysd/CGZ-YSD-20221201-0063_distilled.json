@@ -1,0 +1,109 @@
+{
+  "article_id": "CGZ-YSD-20221201-0063",
+  "normalized_title": "首款「粪便疗法」获FDA批准上市！辉凌的一小步，微生物疗法的一大步",
+  "one_paragraph_essence": "已经~600位同药报名！ 正文共： 1841字 12图 预计阅读时间： 5分钟 2022年11月30日，FDA批准Rebyota（RBX2660）上市，用于预防18岁以上艰难梭菌感染（CDI）成人患者感染复发，患者需接受抗生素治疗后使用。这是FDA批准的首款粪便微生物群产品。 RBX2660是一款由Rebiotix公司开发的基于微生物群的活体生物治疗药物， 是单剂量直肠给药。由合格人员捐赠的粪便制成。 RBX2660于2013年6月24日获FDA授予快速通道资格，随后获FDA授予孤儿药资格认定，2015年10月12日获FDA授予突破性疗法认定。2018年4月5日，Rebiotix被辉凌制...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "已经~600位同药报名！",
+    "supporting_points": [
+      "2022年11月30日，FDA批准Rebyota（RBX2660）上市，用于预防18岁以上艰难梭菌感染（CDI）成人患者感染复发，患者需接受抗生素治疗后使用。这是FDA批准的首款粪便微生物群产品。\nR...",
+      "2、现有的数据是否足以支持Rebyot在接受抗生素治疗后的18岁及以上成人复发性艰难梭菌感染（CDI）的患者中的安全性？（12:4赞成，1票弃权）"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "35%",
+        "65%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管微生物疗法在疾病的发病、治疗方面一再表现出自己的潜力。但无论是学界，还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "CDI难以根治，有高达35%的患者会出现复发，而在已复发的患者里出现二次复发的概率高达65%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "RBX2660 在八周时的模型估计治疗成功率为 70.6%，而安慰剂为 57.5%，RBX2660 \n在标准护理抗生素治疗后降低 rCDI 方面优于安慰剂的概率为99.1%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "超过 90% 的治疗成功的研究参与者在六个月内没有 CDI \n复发。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221201-0063.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248054528&idx=2&sn=8a75dcd88ed9288f8e1f2f3e6f19ff44&chksm=ecbbcfe6dbcc46f06eb56f85e342d3772ab2e3345bbe368768a16db3a790c92650f20f6fa152#rd",
+    "publish_time": "2022-12-01",
+    "distilled_at": "2026-03-17T10:56:04.617151"
+  }
+}

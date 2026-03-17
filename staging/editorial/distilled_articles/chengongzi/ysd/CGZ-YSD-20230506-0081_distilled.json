@@ -1,0 +1,121 @@
+{
+  "article_id": "CGZ-YSD-20230506-0081",
+  "normalized_title": "只过了2个月，就从「即将获批」变成了「管线终止」......这款药，是从一开始就做错了吗？",
+  "one_paragraph_essence": "正文共：3374字 14图 预计阅读时间：10分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | 电影《食神》 如果用一个比喻，形容阿斯利康刚刚终止的一款在研药物，那大概是：一位为了挑战马拉松而筹备多年的选手，上了赛场后，不负众望一路遥遥领先，结果在距离终点线还剩10米的时候摔了一跤，没站起来，然后被迫退赛了...... 这款药物代号为ALXN1840（以下简称“1840”），上一任持有者是罕见病巨头Alexion。2年多前，1840连同Alexion整个公司都被阿斯利康以390亿美元的巨资买走。 尽管那笔并购的焦点被大多数人放在了C5补体抑制剂上，后者的代表依库珠单抗也...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：3374字 14图\n预计阅读时间：10分钟",
+    "supporting_points": [
+      "如果用一个比喻，形容阿斯利康刚刚终止的一款在研药物，那大概是：一位为了挑战马拉松而筹备多年的选手，上了赛场后，不负众望一路遥遥领先，结果在距离终点线还剩10米的时候摔了一跤，没站起来，然后被迫退赛了....",
+      "这款药物代号为ALXN1840（以下简称“1840”），上一任持有者是罕见病巨头Alexion。2年多前，1840连同Alexion整个公司都被阿斯利康以390亿美元的巨资买走。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么证明，患者体内器官里的铜，也减小了呢？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "79%",
+        "7%",
+        "390亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管那笔并购的焦点被大多数人放在了C5补体抑制剂上，后者的代表依库珠单抗也成功在2022年拿下37亿美元的销售额，但Alexion庞大的管线还是",
+        "即便是已上市的治疗药物，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n在该实验里，健康大鼠体内有79%的钼经肾脏清除，7%由粪便排出；而在患病鼠体内，经肾脏清除的钼减小到了29%，粪便排泄率增加到了16%，且肝肾组织中的钼含量明显高于健康鼠。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2年多前，1840连同Alexion整个公司都被阿斯利康以390亿美元的巨资买走。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n尽管那笔并购的焦点被大多数人放在了C5补体抑制剂上，后者的代表依库珠单抗也成功在2022年拿下37亿美元的销售额，但Alexion庞大的管线还是有诸多待挖掘之处，1840正是其中之一。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2018年4月11日，Alexion以8.55亿美元的金额并购了Wilson，将1840收入麾下。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而就在2个多月后，在阿斯利康公布2023Q1业绩的时候，这款产品就从「即将获批上市」，变成了「被终止」。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230506-0081.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248136093&idx=1&sn=d7e683c1a80f73edee293353c2544232&chksm=ecba8d7bdbcd046d7dc188ea5679de26a81ed394d58dade1ce564c533fa1c0691e49f7a07e7a#rd",
+    "publish_time": "2023-05-06",
+    "distilled_at": "2026-03-17T10:56:04.892383"
+  }
+}

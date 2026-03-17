@@ -1,0 +1,17 @@
+{
+  "source_id": "prostate_cancer_literature",
+  "source_name": "前列腺癌文献库",
+  "source_type": "literature",
+  "data_format": "pdf",
+  "location": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\oncology\\prostate_cancer",
+  "scope": "包含前列腺癌相关的临床试验文献、研究报告等",
+  "version": "1.0",
+  "last_updated": "2026-03-16",
+  "total_documents": 12,
+  "key_trials": [
+    "VISION",
+    "PSMAfore",
+    "TheraP",
+    "ENZA-P"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "disease_id": "AD",
+  "disease_name": "阿尔茨海默病",
+  "disease_name_en": "Alzheimer's Disease",
+  "therapeutic_area": "neurology",
+  "epidemiology": {
+    "prevalence": "待补充",
+    "incidence": "待补充",
+    "age_distribution": "待补充",
+    "geographic_variations": "待补充"
+  },
+  "pathophysiology": {
+    "abeta_pathway": "待补充",
+    "tau_pathway": "待补充",
+    "neuroinflammation": "待补充",
+    "neurodegeneration": "待补充"
+  },
+  "diagnosis_criteria": {
+    "clinical_diagnosis": "待补充",
+    "biomarker_diagnosis": "待补充",
+    "imaging_biomarkers": "待补充",
+    "csf_biomarkers": "待补充"
+  },
+  "treatment_landscape": {
+    "cholinesterase_inhibitors": "待补充",
+    "nmda_antagonists": "待补充",
+    "anti_abeta_therapies": "待补充",
+    "other_approaches": "待补充"
+  },
+  "key_studies": [
+    {
+      "study_id": "clarity_ad",
+      "study_name": "Clarity AD",
+      "study_type": "clinical_trial",
+      "phase": "III",
+      "products": ["lecanemab"],
+      "primary_endpoint": "待补充",
+      "results": "待补充",
+      "publication_date": "待补充",
+      "sources": [
+        "Clarity AD原始.pdf",
+        "Clarity AD全析解读.pdf",
+        "Clarity AD研究附表.pdf"
+      ]
+    },
+    {
+      "study_id": "trailblazer_alz",
+      "study_name": "TRAILBLAZER-ALZ",
+      "study_type": "clinical_trial",
+      "phase": "III",
+      "products": ["donanemab"],
+      "primary_endpoint": "待补充",
+      "results": "待补充",
+      "publication_date": "待补充",
+      "sources": [
+        "TRAILBLAZER-ALZ 2.pdf",
+        "TRAILBLAZER-ALZ 2全析解读.pdf",
+        "TRAILBLAZER-ALZ 2研究概览摘要.pdf"
+      ]
+    },
+    {
+      "study_id": "lecanemab_realworld_cn",
+      "study_name": "LEC中国真实世界研究",
+      "study_type": "real_world",
+      "phase": "Post-marketing",
+      "products": ["lecanemab"],
+      "primary_endpoint": "待补充",
+      "results": "待补充",
+      "publication_date": "待补充",
+      "sources": [
+        "仑卡奈单抗真实世界研究摘要.pdf",
+        "仑卡奈单抗真实世界研究数据图表.pdf"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "last_updated": "2026-03-16"
+}

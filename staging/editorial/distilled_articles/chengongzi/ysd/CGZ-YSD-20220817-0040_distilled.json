@@ -1,0 +1,123 @@
+{
+  "article_id": "CGZ-YSD-20220817-0040",
+  "normalized_title": "云顶退货，里面的「热闹」与「门道」",
+  "one_paragraph_essence": "正文共： 3980字 预计阅读时间： 10分钟 云顶“退货”Trodelvy这件事，可以用八个字来形容：意料之外，情理之中。 具体的事件经过，相信关注的朋友都已经了解过了，我们做个简单的梳理： 事件可以追溯到3年前，作为国内知名Biotech的云顶新耀从美国抗体研发公司Immunomedics手里引进了一款有创新靶点的ADC药物——Trodelvy，次年Immunomedics被吉利德收购，“乙方”也变成了吉利德。随后3年时间，云顶新耀大力开发Trodelvy，并让它成功在中国上市，结果上市刚两个多月，就把产品又“退”给了原厂家。 因为药品的开发阶段不一样，价值也不同。引进、授出一倒手，...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;3980字&nbsp;\n预计阅读时间：&nbsp;10分钟",
+    "supporting_points": [
+      "云顶“退货”Trodelvy这件事，可以用八个字来形容：意料之外，情理之中。\n具体的事件经过，相信关注的朋友都已经了解过了，我们做个简单的梳理：\n事件可以追溯到3年前，作为国内知名Biotech的云顶...",
+      "因为药品的开发阶段不一样，价值也不同。引进、授出一倒手，云顶纸面上净赚3.3亿美元，刨去中间的开发费用，应该还有富裕，虽然失去了某种程度上的未来，但是收获了现金。\n由于牵扯到了ADC、License-...",
+      "当一个事件，其蕴含的意义超出事件本身后，就会引来大量的围观群众，不过正如大部分事件引发的围观一样，有的人看的是「热闹」，有的人看的是「门道」。圈内对此事的正反观点都很多，我们不在这里做出一一评论，只提..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "70%",
+        "3亿美元",
+        "3亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "虽然失去了某种程度上的未来，但是",
+        "即便是诺奖得主亲自下场，面对千奇百怪的情况与挑战，业绩也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n药品的本质也是商品的一种，药品也存在竞争与内卷，化妆品行业的营销费用甚至会占到成本的70%，快消、汽车、家电、保险、房地产的销售卷上了天，凭什么药品可以独善其身？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "引进、授出一倒手，云顶纸面上净赚3.3亿美元，刨去中间的开发费用，应该还有富裕，虽然失去了某种程度上的未来，但是收获了现金。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2012年，GSK以2.3亿美元的价格，买下了天济医药的原研产品本维莫得的海外开发权，彼时本维莫得刚刚完成临床II期的试验。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n6年后GSK将该权益“倒卖”给了Dermavant Sciences，交易价格3.3亿美元，账面净赚一亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n随后吉利德210亿美元收购Immunomedics，Trodelvy的开发又非常顺利，如果不是横空出世的DS-8201抢尽风头，Trodelvy很有可能成为ADC的榜样。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220817-0040.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247963919&idx=1&sn=081c1c02ef8943eda4dd16a7c237db9e&chksm=ecb86de9dbcfe4ffd7f6d93f40a93f8240838f425239aa250f58e4621e7e84d2c05a6b604c48#rd",
+    "publish_time": "2022-08-17",
+    "distilled_at": "2026-03-17T10:56:04.444846"
+  }
+}

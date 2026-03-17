@@ -1,0 +1,99 @@
+{
+  "article_id": "CGZ-YJWYJ-20241231-0045",
+  "normalized_title": "EGFR突变伴脑转移怎么治？三代TKI剂量优化是个好选择，但奥希替尼的尝试让事情变得复杂了……",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 脑转移是晚期非小细胞肺癌（NSCLC）治疗最大的挑战之一。 在所有的实体肿瘤中，肺癌是引发脑转移的第一大原发病灶，占比达到了50%[1]。研究表明， EGFR突变是唯一导致患者发生脑转移的独立风险因素，与EGFR野生型的患者相比，EGFR突变的NSCLC患者脑转移发生的概率以及转移灶的数量和体积都要更高[2]。 超过20%EGFR突变的NSCLC患者在初诊时已发生脑转移，超过50%的患者在病程中发生脑转移[3]，给患者的生存带来了极大挑战。回顾性分析显示，EGFR突变伴脑转移的NSCLC患者中位总生存期（mOS）不到一年[4]，如果是未经治疗的脑膜转移",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "脑转移是晚期非小细胞肺癌（NSCLC）治疗最大的挑战之一。\n在所有的实体肿瘤中，肺癌是引发脑转移的第一大原发病灶，占比达到了50%[1]。研究表明， EGFR突变是唯一导致患者发生脑转移的独立风险因素...",
+      "与一/二代EGFR-TKI以喹唑林环为母环的结构不同，三代EGFR-TKI在核心结构上做了调整，变为嘧啶环+丙烯酰胺的结构，亲脂性上有了一定提升，更容易穿透血脑屏障。\n另外，三代EGFR-TKI的被动..."
+    ],
+    "conclusion_hook": "可以说是放弃了160mg奥希替尼这条路，转而走向了联合化疗的路线，因此有了FLAURA2研究。\n从FLAURA2研究[11]的疗效数据看，奥希替尼联合化疗确实取得了不错的结果。在基线CNS转移亚组中，"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "50%",
+        "20%",
+        "mOS）不到一年[4"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是PFS获益也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n在所有的实体肿瘤中，肺癌是引发脑转移的第一大原发病灶，占比达到了50%[1]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n超过20%EGFR突变的NSCLC患者在初诊时已发生脑转移，超过50%的患者在病程中发生脑转移[3]，给患者的生存带来了极大挑战。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果显示，脑转移队列患者的CNS ORR为55%，CNS DCR为77.5%，mPFS仅为7.6个月，mOS为16.9个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "与患者人群相似的AURA系列研究相比，并未展现出优于标准剂量的疗效[9,10]，反而由于剂量增加导致部分患者不能耐受，17.5%的患者剂量恢复至80mg。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n与奥希替尼单药相比，联合化疗组的≥3级TRAEs发生率提高了5倍（53% vs 11%），严重不良反应（TRSAE）发生率从5%提高到19%，给患者带来了生活质量上的极大影响。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241231-0045.json",
+    "original_url": "https://mp.weixin.qq.com/s/mXmxoW4477Iwh9Hu02JgKw",
+    "publish_time": "2024-12-31",
+    "distilled_at": "2026-03-17T10:48:00.453307"
+  }
+}

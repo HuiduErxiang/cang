@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "L3 Disease Knowledge",
+  "description": "Schema for disease knowledge database (disease_knowledge.json)",
+  "type": "object",
+  "properties": {
+    "disease_id": {
+      "description": "Unique identifier for the disease",
+      "type": "string"
+    },
+    "disease_name": {
+      "description": "Chinese name of the disease",
+      "type": "string"
+    },
+    "disease_name_en": {
+      "description": "English name of the disease",
+      "type": "string"
+    },
+    "therapeutic_area": {
+      "description": "Therapeutic area category (e.g., neurology, oncology)",
+      "type": "string"
+    },
+    "epidemiology": {
+      "description": "Epidemiological information about the disease",
+      "type": "object"
+    },
+    "pathophysiology": {
+      "description": "Pathophysiological mechanisms of the disease",
+      "type": "object"
+    },
+    "diagnosis_criteria": {
+      "description": "Diagnosis criteria and guidelines",
+      "type": "object"
+    },
+    "treatment_landscape": {
+      "description": "Current treatment options and landscape",
+      "type": "object"
+    },
+    "key_studies": {
+      "description": "Key clinical studies related to the disease",
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "sources": {
+      "description": "Sources of information (references, guidelines, studies)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "disease_id",
+    "disease_name",
+    "disease_name_en",
+    "therapeutic_area",
+    "epidemiology",
+    "pathophysiology",
+    "diagnosis_criteria",
+    "treatment_landscape",
+    "key_studies",
+    "sources"
+  ],
+  "additionalProperties": true
+}

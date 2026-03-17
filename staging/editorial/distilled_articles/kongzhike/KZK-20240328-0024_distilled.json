@@ -1,0 +1,47 @@
+{
+  "article_id": "KZK-20240328-0024",
+  "normalized_title": "谁是中国人民的老朋友：中国发展高层论坛10年企业家名单之Kimi.ai分析",
+  "one_paragraph_essence": "首先声明：近期主业工作量占据了大量带宽，严肃大篇幅分析暂时有点力不从心，本篇以轻松娱乐为主，测试Kimi.ai为辅（见文末彩蛋），权当一乐~",
+  "category": "特刊",
+  "topic": "宏观经济",
+  "subtopic": "政策解读",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": []
+  },
+  "argument_skeleton": {
+    "main_claim": "首先声明：近期主业工作量占据了大量带宽，严肃大篇幅分析暂时有点力不从心，本篇以轻松娱乐为主，测试Kimi.ai为辅（见文末彩蛋），权当一乐~",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240328-0024.json",
+    "original_url": "https://mp.weixin.qq.com/s/MoVUYntr8wdFIngJusl0Lg",
+    "publish_time": "2024-03-28",
+    "distilled_at": "2026-03-17T10:17:04.071756"
+  }
+}

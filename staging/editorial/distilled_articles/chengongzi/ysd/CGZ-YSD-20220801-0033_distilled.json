@@ -1,0 +1,112 @@
+{
+  "article_id": "CGZ-YSD-20220801-0033",
+  "normalized_title": "终止合作！几亿美元买来的产品，说不要就不要了？",
+  "one_paragraph_essence": "医药领域向来不缺大型交易。 仅过去的一周，科伦博泰和石药集团便分别与默沙东和Elebation oncology完成了ADC领域的重磅合作，两笔交易的总金额加起来接近20亿美元。 这还只是出现在ADC领域重磅交易的冰山一角，且不说风传的默沙东400亿美元收购Seagen，阿斯利康与第一三共就两款ADC药物的交易，总金额超过了100亿美元，其中一款就是Enhertu；吉利德为了Trodelvy豪掷210亿美元收购Immunomedics。 卷，跨国药企带头卷。 再往前，“卷王”之名要归PD-1，国产4大PD-1出海的总交易金额超过40亿美元，连能跟PD-1联用的药都身价暴增。 比如溶瘤病毒...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "医药领域向来不缺大型交易。\n仅过去的一周，科伦博泰和石药集团便分别与默沙东和Elebation oncology完成了ADC领域的重磅合作，两笔交易的总金额加起来接近20亿美元。\n这还只是出现在ADC领域重磅交易的冰山一角，且不说风传的默沙东400亿美元收购Seagen，阿斯利康与第一三共就两款ADC药物的交易，总金额超过了100亿美元，其中一款就是Enhertu；吉利德为了Trodelvy豪掷2",
+    "supporting_points": [
+      "再往前，“卷王”之名要归PD-1，国产4大PD-1出海的总交易金额超过40亿美元，连能跟PD-1联用的药都身价暴增。\n比如溶瘤病毒，因能增强免疫疗法受到了关注。\n2019年12月，武田制药与一家加拿大..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何还不到两年的时间便匆匆离去？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "124%",
+        "20亿美元",
+        "400亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管该患者在17个月后还是不幸去世，但这种无法解释的现象还是",
+        "尽管如此，我们还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nFDA又被告了，因为新药批的慢 —— 一个「藏在角落里」的条款，让药企股价跌半...\n股价上涨124%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n仅过去的一周，科伦博泰和石药集团便分别与默沙东和Elebation oncology完成了ADC领域的重磅合作，两笔交易的总金额加起来接近20亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n再往前，“卷王”之名要归PD-1，国产4大PD-1出海的总交易金额超过40亿美元，连能跟PD-1联用的药都身价暴增。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n此外，武田还在与Turnstone积极寻找下一款基于其牛痘病毒平台开发的下一款候选药物，毕竟10亿美元的大合作并不只是围绕一款药物开展，还有关于技术平台的深入合作。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2016年，恒瑞医药从日本 Oncolys 公司引进了一款溶瘤病毒产品OBP-301，交易金额1.02亿美元，2020年宣布终止合作，退货。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220801-0033.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247956524&idx=1&sn=fc2f72b1ab54c35fb9b9edf39e1979e8&chksm=ecb840cadbcfc9dc6b2d246cd4f81ea27682302b10047623aa7623b4ecc615ef707c9ccf6630#rd",
+    "publish_time": "2022-08-01",
+    "distilled_at": "2026-03-17T10:56:04.394001"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "article_id": "KZK-20231211-0017",
+  "normalized_title": "紧跟ZZJ会议看2024年经济风向",
+  "one_paragraph_essence": "一年一度的“12月会议”结束，在很多人都对未来的风向感到迷茫时，我们不妨跟着最高层的视角，通过看他们“分析研究2024年经济工作”的过程，来一探经济的现状和前途。\nhttps://www.gov.cn/yaowen/liebiao/202310/content_6912992.htm",
+  "category": "特刊",
+  "topic": "宏观经济",
+  "subtopic": "政策解读",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "一年一度的“12月会议”结束，在很多人都对未来的风向感到迷茫时，我们不妨跟着最高层的视角，通过看他们“分析研究2024年经济工作”的过程，来一探经济的现状和前途。\nhttps://www.gov.cn/yaowen/liebiao/202310/content_6912992.htm",
+    "supporting_points": [],
+    "conclusion_hook": "最后是对工作方式的要求，从去年底的“真抓实干”“敢为敢闯敢干敢首创”，到四月的“大兴调查研究”，再到七月的“树立正确政绩观”“激发干事创业的积极性”，直到本次会议的“高质量落实”。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 1,
+      "examples": [
+        "https://www.gov.cn/yaowen/liebiao/202310/content_6912992.htm"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20231211-0017.json",
+    "original_url": "https://mp.weixin.qq.com/s/ZO4bLHWmNSsiGlo1TKMO2w",
+    "publish_time": "2023-12-11",
+    "distilled_at": "2026-03-17T10:17:04.059537"
+  }
+}

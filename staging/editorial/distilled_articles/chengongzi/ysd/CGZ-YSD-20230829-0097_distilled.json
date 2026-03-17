@@ -1,0 +1,109 @@
+{
+  "article_id": "CGZ-YSD-20230829-0097",
+  "normalized_title": "7年前，利拉鲁肽的2项心衰试验惨败给安慰剂，现在司美格鲁肽成功了……",
+  "one_paragraph_essence": "正文共：2761字 2 图 预计阅读时间：9分钟 作者 | 辰公子 文章来源 | 药时代公众号 诺和诺德为司美格鲁肽打造的“慢病城墙”又加厚了一层。 2023年8月25日，诺和诺德公布了司美格鲁肽3期临床试验STEP HFpEF的结果，试验的患者人群为“射血分数保留型心衰患者且合并肥胖”。结果显示，司美格鲁肽2.4mg可以显著降低心衰相关症状并改善功能。 这是诺和诺德近期披露的第2项有关司美格鲁肽在心脏病领域的临床试验结果。上一次是在8月8日披露的SELECT试验，股价当日飙升近20%，让诺和诺德的市值一举突破了4000亿美元大关。 SELECT试验，从各个方面来讲，看上去都比STEP ...",
+  "category": "药时代",
+  "topic": "代谢疾病",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：2761字 2 图\n预计阅读时间：9分钟",
+    "supporting_points": [
+      "诺和诺德为司美格鲁肽打造的“慢病城墙”又加厚了一层。\n2023年8月25日，诺和诺德公布了司美格鲁肽3期临床试验STEP HFpEF的结果，试验的患者人群为“射血分数保留型心衰患者且合并肥胖”。结果显..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "20%",
+        "20%",
+        "4000亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是三家公司各自调换了核心产品，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "真是一场水到渠成，却又来之不易的胜利。",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "上一次是在8月8日披露的SELECT试验，股价当日飙升近20%，让诺和诺德的市值一举突破了4000亿美元大关。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nSELECT试验入组了超过1.7万名受试者，是肥胖领域最大的心血管研究之一；随访时间长达5年；对肥胖、无糖尿病、有心血管疾病的患者，可降低不良心血管事件（MACE）20%，结果非常积极。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果利拉鲁肽并未能击败安慰剂，且0.7%的左室射血分数提升，在数值上也要小于安慰剂的1.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果显示，治疗180天后，两组之间的主要终点无差异；相较于安慰剂，利拉鲁肽组的死亡人数多了3例（19例vs16例），因心衰再次入院数的比例高了7%（63例 vs 50例）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230829-0097.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248204800&idx=2&sn=61387ce8dc952e686725b1e7a3c70f03&chksm=ef45bae6d83233f0063c5e6ae195d7fee800488f089672060b1f24a172e131cbe4912da24e1c#rd",
+    "publish_time": "2023-08-29",
+    "distilled_at": "2026-03-17T10:56:05.019333"
+  }
+}

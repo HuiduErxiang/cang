@@ -1,0 +1,76 @@
+{
+  "article_id": "CGZ-YSD-20230414-0082",
+  "normalized_title": "做到3期的GLP-1R/GCGR，说不要就不要了？",
+  "one_paragraph_essence": "正文共：2363字 1图 预计阅读时间：6分钟 来源：药时代 作者：药时代团队辰公子 最近MNC做的决策都挺理性、挺有魄力，或者说......挺焦虑的。 比如Biogen对MS管线进行裁员。产品竞争力下降这种事每个药企都会遇到，大部分时候的做法是让它“顺其自然”，有人走了就把Headcount关掉，走一个人少一个岗，觉得太慢就调整一下绩效考核方法，配上内部转岗，加速变化。像这样直接裁员的确实不多见，可能因为美国劳动法不用赔N+1吧。 再比如阿斯利康决定停止开发已经进入2b/3期阶段的GLP-1/GCGR双靶点激动剂Cotadutide，正在进行的3项临床试验（NASH、肝损伤、心脏复极化...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "做到3期的GLP-1R/GCGR，说不要就不要了？",
+    "supporting_points": [
+      "停掉在研管线的目的是为了止损，但是到了临床后期，可损失的研发费用其实已经不多了，更多的是上市后的推广及营销费用。在可能损失不大，沉没成本巨大的情况下，阿斯利康终止开发计划，获得了什么，又失去了什么呢？..."
+    ],
+    "conclusion_hook": "这意味着，在GLP-1这条赛道上，双靶点、多靶点、周制剂，已经从产品的优势变成了下限。以前是有了更好，现在是没有不行。大清亡了。\n\n来源：电影《逃学威龙》\n不知道有多少药企在做单靶点GLP1产品，或者"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 1,
+      "examples": [
+        "1%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "能让人停下来喘口气的唯一方法，就是冲到第一的位置，当那1%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230414-0082.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248121541&idx=1&sn=59fbc9c2d93007fe9c432fcccf527160&chksm=ecbac423dbcd4d350b06139cd85f9f79abd49b3c28d114f6a85f77fa8736da9ec5fdaf4d98a5#rd",
+    "publish_time": "2023-04-14",
+    "distilled_at": "2026-03-17T10:56:04.899047"
+  }
+}

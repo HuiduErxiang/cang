@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20250325-0046",
+  "normalized_title": "海信跨越太平洋",
+  "one_paragraph_essence": "文章以1953年盛田昭夫赴美获取晶体管授权的历史开场，引出电视产业从欧美到日本到韩国再到中国的转移规律。作者讲述海信从向美国学习到自主造芯、从引进吸收到创新超越的出海之路，揭示真正推动产业转移的是技术、创新和产品力，而非单纯的制造成本。",
+  "topic": "制造业",
+  "subtopic": "中国家电出海与产业升级",
+  "audience": "关注中国制造、家电产业、企业出海的读者",
+  "narrative_frame": {
+    "frame_type": "industry_transfer_narrative",
+    "key_elements": ["历史对标开场", "产业转移规律", "企业案例", "启示提炼"]
+  },
+  "argument_skeleton": {
+    "main_claim": "海信通过自主研发芯片和底层技术创新，完成了从学习到超越的产业升级路径",
+    "supporting_points": [
+      "2000年海信开始造芯，早于中芯国际成立",
+      "RGB三维控色液晶显示技术解决光色同控难题",
+      "2024年海外收入突破900亿，同比增长15%",
+      "成为2025世俱杯首个全球官方合作伙伴"
+    ],
+    "conclusion_hook": "真正推动产业转移和话语权交接的，并不是制造成本这一个因素，而更多的是技术、创新和产品力"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_parallel",
+      "example": "1953年8月12日，索尼创始人盛田昭夫背着单肩包，拎着一个小行李箱，在羽田机场登上了一架波音377...2025年1月6日，一家同样来自东亚的消费电子公司——海信集团，也组织了一次美国行",
+      "effect": "以历史对标建立叙事框架，揭示相似的发展路径"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_anecdote", "product_specs", "data"],
+    "integration_style": "历史铺垫+案例拆解+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "narrative-driven", "inspiring"],
+    "syntax_patterns": ["历史对标开场句式", "规律提炼句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]，[公司创始人]背着单肩包，拎着一个小行李箱，在[机场]登上了一架[飞机]",
+      "context": "历史级人物出行的电影感开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "真正推动[X]的，并不是[Y]这一个因素，而更多的是[Z]",
+      "context": "揭示事物本质的转折表达",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250325-0046.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

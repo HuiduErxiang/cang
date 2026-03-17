@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20240830-0035",
+  "normalized_title": "互联网30周年，中国公司集体做对了什么？",
+  "one_paragraph_essence": "文章以Sam Altman向张一鸣请教如何做出日活10亿APP的对话开场，讲述中国互联网产业三十年的成功密码。作者以历史纵深视角，对比中日韩欧在互联网浪潮中的表现差异，分析中国公司如何在Hard模式开局下，通过生死焦虑驱动创新，最终在全球20个最活跃App中占据19席。",
+  "topic": "互联网产业",
+  "subtopic": "中国互联网成功密码与产业逻辑",
+  "audience": "关注互联网产业、商业模式、中国经济 的读者",
+  "narrative_frame": {
+    "frame_type": "industry_success_analysis",
+    "key_elements": ["对话开场", "跨国对比", "成功密码拆解", "经验总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国互联网公司在Hard模式开局下，通过生死焦虑驱动产品创新，抓住了互联网浪潮",
+    "supporting_points": [
+      "全球活跃度最高的20个App，19个来自中美",
+      "TikTok、Temu、SHEIN等中国应用打破只会内战质疑",
+      "中国只在数字通信一次浪潮中抓住机会",
+      "生死焦虑驱动的产品创新模式"
+    ],
+    "conclusion_hook": "起步于桌面互联网，大成于移动互联网，中国企业在互联网浪潮中取得斐然的成绩——但这一切，并非是理所当然"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "dialogue_opening",
+      "example": "2021年，OpenAI创始人Sam Altman问了前来拜访的张一鸣一个问题：如何做出一款日活10亿的APP？",
+      "effect": "以名人对话开场，建立专业可信度"
+    },
+    {
+      "device_type": "cross_country_comparison",
+      "example": "把东亚模式的参赛选手都拉出来，统一做一个对比...日本答卷是Line和Rakuten等公司，全球影响力远不如电子时代的索尼松下",
+      "effect": "以跨国对比凸显中国成就"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["dialogue", "data", "cross_country_comparison"],
+    "integration_style": "对话驱动+数据支撑+跨国对比"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "comparative", "strategic"],
+    "syntax_patterns": ["对话开场句式", "跨国对比句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]，[人物A]问了前来拜访的[人物B]一个问题：[问题]",
+      "context": "名人对话开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "把[X]的参赛选手都拉出来，统一做一个对比",
+      "context": "跨国对比分析开场",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20240830-0035.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

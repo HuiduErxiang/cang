@@ -1,0 +1,94 @@
+{
+  "article_id": "CGZ-YSD-20230130-0073",
+  "normalized_title": "礼来重磅新药被FDA拒批，理由如此「荒诞」，谁应该负这个责？",
+  "one_paragraph_essence": "正文共： 2981字 8图 预计阅读时间： 8分钟 2023年1月19日（国内1月20日），大年二十九，虎年的倒数第二天，礼来又被FDA敲了一闷棍。 其备受瞩目的阿尔茨海默病新药Donanemab（以下简称：D药）在美国加速上市的申请遭到FDA发送完整回复函（CRL），被拒了。 以阿尔茨海默病领域的临床需求来看，D药一旦获批，成为年销售额突破10亿美元的“重磅炸弹”可以说水到渠成。 此前各路分析师、行业人士、媒体都极为看好D药的获批都极为看好，一是因为FDA曾对阿尔茨海默病领域表现过无比宽容的态度，二是因为D药与已上市的Aduhlem（以下简称：A药）在头对头比较中做出了极显著的差异，堪...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;2981字&nbsp;8图\n预计阅读时间：&nbsp;8分钟\n2023年1月19日（国内1月20日），大年二十九，虎年的倒数第二天，礼来又被FDA敲了一闷棍。",
+    "supporting_points": [
+      "其备受瞩目的阿尔茨海默病新药Donanemab（以下简称：D药）在美国加速上市的申请遭到FDA发送完整回复函（CRL），被拒了。",
+      "以阿尔茨海默病领域的临床需求来看，D药一旦获批，成为年销售额突破10亿美元的“重磅炸弹”可以说水到渠成。\n此前各路分析师、行业人士、媒体都极为看好D药的获批都极为看好，一是因为FDA曾对阿尔茨海默病领...",
+      "重新等待试验数据的完成，再递交申请，再到获批，又多耽误了一年半载，损失的美元以亿计，这个责任，应该谁来担？"
+    ],
+    "conclusion_hook": "可以说水到渠成。\n此前各路分析师、行业人士、媒体都极为看好D药的获批都极为看好，一是因为FDA曾对阿尔茨海默病领域表现过无比宽容的态度，二是因为D药与已上市的Aduhlem（以下简称：A药）在头对头比"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何完成率只有71.8%？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "20%",
+        "71.8%",
+        "10亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n因为试验组里最终完成试验的只有71.8%（94名），有近30%的患者没有完成试验，导致最后差了6个人。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n来源：参考资料1\n为何完成率只有71.8%？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n以阿尔茨海默病领域的临床需求来看，D药一旦获批，成为年销售额突破10亿美元的“重磅炸弹”可以说水到渠成。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230130-0073.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248092060&idx=1&sn=1ca35d0b8a3bd295a97e4c31c14e3304&chksm=ecba717adbcdf86c64071c220feb48505e649cc098a2afc2df002cd18dfa582227f85deb9a85#rd",
+    "publish_time": "2023-01-30",
+    "distilled_at": "2026-03-17T10:56:04.690759"
+  }
+}

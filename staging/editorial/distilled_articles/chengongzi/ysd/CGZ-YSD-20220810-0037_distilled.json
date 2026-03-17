@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YSD-20220810-0037",
+  "normalized_title": "Aβ假说“被锤”后，离开4年的默沙东又被勾回来，买了一个连靶点都不知道的产品...",
+  "one_paragraph_essence": "正文共： 1464字 1图 预计阅读时间： 4分钟 医药领域火到出圈的话题不多，阿尔兹海默病论文造假算一个。 尽管「误导阿尔兹海默病研发16年」这样的定义有些夸张，但论文的重要意义是被主流认可的，无论是对于β-淀粉样蛋白假说（Aβ）的建立还是研发信心的提升，这篇论文在当年都引起了不小的关注。 受论文造假事件影响的人不少，除了以Aβ假说为题准备毕业论文的同学们，还有诸多正在以Aβ假说为理论基础进行药物开发的药企，甚至是曾经开发阿尔兹海默病药物但是失败了的药企。 比如默沙东。 不知道是不是受此消息的影响，离开这条赛道4年的跨国大药企默沙东又决定回来了。 1 斥资11亿美元，买来一个连靶点都不...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;1464字&nbsp;1图\n预计阅读时间：&nbsp;4分钟\n医药领域火到出圈的话题不多，阿尔兹海默病论文造假算一个。",
+    "supporting_points": [
+      "尽管「误导阿尔兹海默病研发16年」这样的定义有些夸张，但论文的重要意义是被主流认可的，无论是对于β-淀粉样蛋白假说（Aβ）的建立还是研发信心的提升，这篇论文在当年都引起了不小的关注。\n受论文造假事件影..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "71%",
+        "11亿美元",
+        "11亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管「误导阿尔兹海默病研发16年」这样的定义有些夸张，但论文的重要意义是被主流认可的，无论是对于β-淀粉样蛋白假说（Aβ）的建立还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n2022年8月9日，Cerevance宣布与默沙东展开多年的战略合作，Cerevance将获得2500万美元的前期付款，并且有资格获得约11亿美元的里程碑付款。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n换句话说，默沙东是在连靶点都不知道的情况下，就投了11亿美元进去。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220810-0037.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247960410&idx=1&sn=79c8243237919dc1ef5735746c0a6438&chksm=ecb87fbcdbcff6aa2696e9b4b538af3f4d1e65f8bbf55d8614f15402a8d790816d240c81010f#rd",
+    "publish_time": "2022-08-10",
+    "distilled_at": "2026-03-17T10:56:04.418619"
+  }
+}

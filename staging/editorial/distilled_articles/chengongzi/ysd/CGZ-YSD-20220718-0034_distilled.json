@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YSD-20220718-0034",
+  "normalized_title": "首款国产新冠中和抗体，不仅是抗疫的新助力，更是新药研发成功的经典案例...",
+  "one_paragraph_essence": "正文共： 5094字 9图 预计阅读时间： 13分钟 总投入超过2亿美金，全球6个国家、111家医院、超过2000名科学家与医生参与试验，申报材料达到8万页，共10余万条数据资料…… 这些数字背后，是所有服务于「中国首款新冠特效药」上市的人员所做出的努力。 尽管相比于一些“十年磨一剑”的重磅药物，这样的数字并不算夸张，但放在27个月的时间下，我们真切的感受到那种“连公司前台都上场了”的紧张氛围。 2022年7月7日，由腾盛博药、深圳市第三人民医院和清华大学合作研发的长效新冠中和抗体安巴韦单抗和罗米司韦单抗联合疗法正式在中国商业化上市。 2天后，全国首批中和抗体药物送达深圳市第三人民医院，...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;5094字&nbsp;&nbsp;9图\n预计阅读时间：&nbsp;13分钟",
+    "supporting_points": [
+      "总投入超过2亿美金，全球6个国家、111家医院、超过2000名科学家与医生参与试验，申报材料达到8万页，共10余万条数据资料……\n这些数字背后，是所有服务于「中国首款新冠特效药」上市的人员所做出的努力..."
+    ],
+    "conclusion_hook": "这意味着，至少在当下的一波疫情里，接受过中和抗体治疗的病人几乎不会再有二次感染的风险，治好一个算一个。\n“在一些欧美国家，很多的新冠病人是二次感染、三次感染甚至多次感染的，这部分病人对于疫情防控是巨大"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 3,
+      "examples": [
+        "然而，",
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "55亿美元",
+        "55亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管有着极具前瞻性的设计，有着政、产、学、研的通力合作，有着所有参与者呕心沥血的付出，但当我们回过头来复盘安巴韦单抗和罗米司韦单抗的开发之路时，我们还是",
+        "即便能做出一款完美符合设计理念的药物，也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "然而，伴随着中和抗体上市的，还有不断变化的疫情形势。",
+      "context": "对比转折",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而并非所有人都能如这般财大气粗，更多的是眼睛看着账面上的资金余额，心里盘算着药物的开发进度，脑子里想着该去找哪位投资人为临床试验多入组点病人。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220718-0034.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247951806&idx=1&sn=b38059138bbbbe4217bdf9595fb0250d&chksm=ecb85d58dbcfd44e1c43f003f46e9a05fd8b603132ea8d7ec34c9c209380d8324f34cac657f7#rd",
+    "publish_time": "2022-07-18",
+    "distilled_at": "2026-03-17T10:56:04.403218"
+  }
+}

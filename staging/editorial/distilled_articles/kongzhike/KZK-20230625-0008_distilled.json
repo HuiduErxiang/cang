@@ -1,0 +1,65 @@
+{
+  "article_id": "KZK-20230625-0008",
+  "normalized_title": "GLP-1虽好，可不要贪杯哟",
+  "one_paragraph_essence": "在全球医药行业寒冬中，GLP-1不仅一枝独秀，而且已经成功破圈、甚至已呈席卷之势，很多对身材要求较高的朋友们都已经加入了司美格鲁肽俱乐部，以至于每到饭局场合，司美格鲁肽的使用经验都成了普适的开场寒暄话题。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "武侠隐喻",
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "在全球医药行业寒冬中，GLP-1不仅一枝独秀，而且已经成功破圈、甚至已呈席卷之势，很多对身材要求较高的朋友们都已经加入了司美格鲁肽俱乐部，以至于每到饭局场合，司美格鲁肽的使用经验都成了普适的开场寒暄话题。",
+    "supporting_points": [],
+    "conclusion_hook": "最后直到今年4月彻底把它从管线中删除。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 8,
+      "examples": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-shares-slip-ema-drug-safety-signal-2023-06-22/",
+        "https://www.ema.europa.eu/en/documents/prac-recommendation/prac-recommendations-signals-adopted-11-14-april-2023-prac-meeting_en.pdf",
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215256s000lbl.pdf"
+      ]
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 六脉神剑",
+      "keyword": "六脉神剑"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230625-0008.json",
+    "original_url": "https://mp.weixin.qq.com/s/4Ffc0EQo7574JXAKAfzR7A",
+    "publish_time": "2023-06-25",
+    "distilled_at": "2026-03-17T10:17:04.048250"
+  }
+}

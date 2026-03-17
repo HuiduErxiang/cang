@@ -1,0 +1,109 @@
+{
+  "article_id": "CGZ-YSD-20221214-0065",
+  "normalized_title": "武田60亿美元买的药，其实是AI设计的？",
+  "one_paragraph_essence": "2022年12月13日，武田与Nimbus Therapeutics围绕TYK2抑制剂达成了一笔首付款40亿美元，总金额60亿美元的合作。 这可能是今年医药领域第5起超过50亿美元的「非并购」交易。之所以说可能，是因为双方公布的信息略有出入。 武田方面的说法是：从Nimubs手里买了一款产TYK2抑制剂（代号：NDI-034858，以下用其在武田的新代号：TAK-279）。Nimbus那边的说法是：武田收购了Nimbus Therapeutics 的全资子公司Nimbus Lakshmi及TAK-279，并获得了该产品和其他TYK2抑制剂未来的开发和商业化权利。 区别在于，除了TAK-2...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2022年12月13日，武田与Nimbus Therapeutics围绕TYK2抑制剂达成了一笔首付款40亿美元，总金额60亿美元的合作。\n这可能是今年医药领域第5起超过50亿美元的「非并购」交易。之所以说可能，是因为双方公布的信息略有出入。",
+    "supporting_points": [
+      "武田方面的说法是：从Nimubs手里买了一款产TYK2抑制剂（代号：NDI-034858，以下用其在武田的新代号：TAK-279）。Nimbus那边的说法是：武田收购了Nimbus Therapeut..."
+    ],
+    "conclusion_hook": "总之二者有着密切的关系。\n\n据Nimbus官网介绍，其核心方法是构架一个“基于结构”的新药发现引擎来选择靶点、设计新分子。改引擎的核心是将计算化学（computational chemistry）与其"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "20.61%",
+        "68.47%",
+        "40亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "但昨天的额交易达成后，薛定谔公司股价立刻上涨了20.61%，一定程度上反应了资本市场的态度。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n参考资料：\n\n武田官网\nNimbus&nbsp;Therapeutics官网\n比尔·盖茨、谷歌、药明康德、启明创投投资的Schrodinger今美股上市，首日上涨68.47%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n据Evaluate Pharma和BCG的预测，全球ADC市场预计2024年将达到129亿美元，2018至2024年的年复合增长率约为35%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2022年12月13日，武田与Nimbus Therapeutics围绕TYK2抑制剂达成了一笔首付款40亿美元，总金额60亿美元的合作。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n这可能是今年医药领域第5起超过50亿美元的「非并购」交易。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221214-0065.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248069752&idx=1&sn=51a5411f641d298d3e36a61b240bc81f&chksm=ecbb8a9edbcc0388e7be81aa127c175da1e44811411a38baa25628268fb311137071dc6289a6#rd",
+    "publish_time": "2022-12-14",
+    "distilled_at": "2026-03-17T10:56:04.631521"
+  }
+}

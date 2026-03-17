@@ -1,0 +1,100 @@
+{
+  "article_id": "CGZ-YSD-20210525-0002",
+  "normalized_title": "聊一聊“疫苗困境”背后的三大难题",
+  "one_paragraph_essence": "五一假期回来一开市，A股就给我来了当头一棒。无论是生物制品还是化学制药，医疗行业股价集体暴跌。我定睛一看，原来是5月5号，拜登政府发言宣称，美国政府将支持放弃新冠疫苗知识产权专利。受此消息影响，A股复星医药跌停、康诺希跌幅超15%、智飞生物跌近9%、沃森生物跌近11%。 不过没关系，隔两天又涨回来了，还顺手在下跌的时候加了个仓。 图1（来源：同花顺） 对那段发言划个重点——“支持”放弃。为啥只能支持，因为这事拜登政府说了不算，专利不是政府的，是研发企业的。甚至，现在美国的主流疫苗——辉瑞疫苗的专利都不是辉瑞的，而是德国企业BioNTech的。复星医药与BioNTech合作的中国本土mRN...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "五一假期回来一开市，A股就给我来了当头一棒。无论是生物制品还是化学制药，医疗行业股价集体暴跌。我定睛一看，原来是5月5号，拜登政府发言宣称，美国政府将支持放弃新冠疫苗知识产权专利。受此消息影响，A股复星医药跌停、康诺希跌幅超15%、智飞生物跌近9%、沃森生物跌近11%。",
+    "supporting_points": [
+      "对那段发言划个重点——“支持”放弃。为啥只能支持，因为这事拜登政府说了不算，专利不是政府的，是研发企业的。甚至，现在美国的主流疫苗——辉瑞疫苗的专利都不是辉瑞的，而是德国企业BioNTech的。复星医..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何不愿求助原料上游的中国？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "15%",
+        "9%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "受此消息影响，A股复星医药跌停、康诺希跌幅超15%、智飞生物跌近9%、沃森生物跌近11%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "据《自然》杂志统计，关于mRNA疫苗的专利至少有113件，其中高达70%是来自工业界的。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n报告统计了20个主要原料在2017～2019年的全球贸易情况，这些成员掌握了88.3%的疫苗原料出口，其中前五名就占了79.4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "截止2021年2月底，俱乐部成员协商确认的政府预购约占所有疫苗的60%，澳大利亚、加拿大、欧盟、日本、韩国、英国和美国总共订购了约43亿剂疫苗，比其总人数的三倍还多！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210525-0002.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247689058&idx=1&sn=d839f7fd22d09eb3af0c05a128f26d83&chksm=ecbc5b84dbcbd2929e21f7b52a4d59d988ab78a9b67967edf2c2f92294869b42ac0e37ab1a22#rd",
+    "publish_time": "2021-05-25",
+    "distilled_at": "2026-03-17T10:56:04.160051"
+  }
+}

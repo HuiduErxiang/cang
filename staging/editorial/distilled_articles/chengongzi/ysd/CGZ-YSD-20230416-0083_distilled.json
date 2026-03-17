@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YSD-20230416-0083",
+  "normalized_title": "刚刚！默沙东108亿美元收购一家自免领域biotech，核心产品刚做完2期",
+  "one_paragraph_essence": "2023年4月16日，默沙东和Prometheus Biosciences共同宣布，两家公司已达成协议，默沙东将以每股200美元的价格完成对Prometheus的收购，总金额高达108亿美元。 Prometheus直译为“普罗米修斯”，是一家成立于2016年的biotech公司，主攻自免性疾病领域，更具体一点的话，是IBD（炎症性肠病），目标是通过精准医学开发相关的药物及伴随诊断。 其核心产品PRA023的三个适应症：克罗恩病（CD）、溃疡性肠炎（UC）、硬皮（SSc-ILD）病有两个是IBD疾病。 从管线上来看，默沙东发起并购的主要目标就是PRA023，这是一款2022年12月7日才披...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2023年4月16日，默沙东和Prometheus Biosciences共同宣布，两家公司已达成协议，默沙东将以每股200美元的价格完成对Prometheus的收购，总金额高达108亿美元。\nPrometheus直译为“普罗米修斯”，是一家成立于2016年的biotech公司，主攻自免性疾病领域，更具体一点的话，是IBD（炎症性肠病），目标是通过精准医学开发相关的药物及伴随诊断。\n其核心产品PR",
+    "supporting_points": [
+      "从管线上来看，默沙东发起并购的主要目标就是PRA023，这是一款2022年12月7日才披露2期临床结果的产品。为了一款刚过2期临床的产品花这么多钱，上次看到这种交易还是在去年，Summit50亿美元引...",
+      "PRA023是一款靶向T1LA的抗体药物，如果对T1LA感觉陌生的话，它还有两个名字：VEGI、TNFSF15。这两个名字一看，就跟VEGF和TNF有点关系，事实上也的确如此，中文翻译过来叫：血管内皮...",
+      "Stephan Targan博士\n根据智慧芽数据库显示，目前全球仅有7款靶点TL1A的在研产品，其中3款进入了临床阶段，分别所属辉瑞、Prometheus和安进，安进的产品尚在临床1期，辉瑞和Prom..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "25%",
+        "26.5%",
+        "108亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "2023年4月16日，默沙东和Prometheus Biosciences共同宣布，两家公司已达成协议，默沙东将以每股200美元的价格完成对Prometheus的收购，总金额高达108亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "为了一款刚过2期临床的产品花这么多钱，上次看到这种交易还是在去年，Summit50亿美元引进康方PD-1/VEGF双抗的时候。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n不过虽然都是大交易，但Summit只付了5亿美元首付款，而默沙东可是108亿美元全款收购。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\nPRA023 vs 其他药物\n按照这个数据，PRA023确实是比较有潜力的，基本上巅峰销售额达到40亿美元，默沙东就是稳赚不赔。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "何况Prometheus还画了个那么大的饼，说这俩疾病领域有490亿美元市场，比NASH还大一点。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230416-0083.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248121831&idx=1&sn=da8e932f3bd455bd3b44a00c77f48b7b&chksm=ecbac501dbcd4c17cb13b657420dbca756999216fc3fc31a71d26cbc4b1f7a1c7161b5eb360f#rd",
+    "publish_time": "2023-04-16",
+    "distilled_at": "2026-03-17T10:56:04.903533"
+  }
+}

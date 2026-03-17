@@ -1,0 +1,118 @@
+{
+  "article_id": "CGZ-YSD-20230322-0079",
+  "normalized_title": "4轮临床试验结果全矛盾，这减肥药，把积极结果做毁了……",
+  "one_paragraph_essence": "如果说下一个能突破百亿美元的大单品，出现在GLP-1/GCGR双激动剂领域，或者说是减肥领域，那应该不会有人感到特别惊讶。 毕竟，诺和诺德已经凭借司美格鲁肽焕发了又一春，2022年两种剂型加起来卖了100多亿美元，减重适应症可以说功不可没。 而司美格鲁肽毕竟是以降糖为目的开发的单GLP-1受体激动剂，相比之下，减重效果更强的GLP-1/GCGR双激动剂无疑更令人期待，引得大批药企厮杀。 昨天，2023年3月21日，Altimmune公布了其在研GLP-1/GCGR双激动剂pemvidutide的二期临床中期分析数据，结果显示，2.4mg高剂量组用药24周后，患者平均减重10.7%，而对于...",
+  "category": "药时代",
+  "topic": "疫苗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "如果说下一个能突破百亿美元的大单品，出现在GLP-1/GCGR双激动剂领域，或者说是减肥领域，那应该不会有人感到特别惊讶。\n毕竟，诺和诺德已经凭借司美格鲁肽焕发了又一春，2022年两种剂型加起来卖了100多亿美元，减重适应症可以说功不可没。\n而司美格鲁肽毕竟是以降糖为目的开发的单GLP-1受体激动剂，相比之下，减重效果更强的GLP-1/GCGR双激动剂无疑更令人期待，引得大批药企厮杀。\n昨天，20",
+    "supporting_points": [
+      "股价跌的有点夸张，不过对于Altimmune来说，也算是见怪不怪了，因为他们已经遇见过两回了，每次披露pemvidutide的临床结果，无论好坏，股价都会迎来一波下跌。\n按理说，这也不是COVID-1..."
+    ],
+    "conclusion_hook": "可以说，这个试验做完，不仅没把药物摸清楚，还越做越糊涂了。回头又得做条件分析，找出NASH与减重效果削弱之间的关系，再找一下糖尿病患者高剂量组减重效果更好，是“故意的”还是“不小心的”。\n反正Alti"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "怎么会有这样的预期落差呢？是.....产品或者试验出了什么bug么？",
+        "怎么会刚爬坡就到剂量顶点了呢？你能想象用降压药的时候，吃三片会比吃两片效果弱吗？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 3,
+      "examples": [
+        "这下",
+        "这下",
+        "这下可"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "10.7%",
+        "11.9%",
+        "500亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "这下可坏了，别家的药都是越吃效果越好，怎么pemvidutide吃12周就到瓶颈了？",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "资本市场也立刻给予了响应，股价应声下跌54.67%，直接腰斩。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n剩下三组数据出来，还挺不错，有明显剂量相关性，1.8mg组只用了6周就减重5.4%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "期待值拉上去了，股价大涨16.49%，当天最高涨幅达到了37.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n当然，反过来想想，就算抛开2.4mg剂量组不谈，1.8mg剂量组12周减重10.3%依然是个极好的成绩，虽然难以理解，但临床结果还是好的。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230322-0079.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248112517&idx=1&sn=1e8704735f0c788cacdb5efbcd0294fa&chksm=ecba2163dbcda8752c38c88348af20b9ae6c6de9db084f76fd2cee16f8b9400939e9386ba54e#rd",
+    "publish_time": "2023-03-22",
+    "distilled_at": "2026-03-17T10:56:04.871058"
+  }
+}

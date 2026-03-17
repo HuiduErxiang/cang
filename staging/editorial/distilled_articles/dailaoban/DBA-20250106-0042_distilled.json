@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20250106-0042",
+  "normalized_title": "旧世界走得像梦一样",
+  "one_paragraph_essence": "文章以万科2013年量化研究预测房价的案例开场，讲述中国房地产行业从黄金时代到至暗时刻的沦陷。作者以历史纵深视角，剖析虹桥地产圈的兴衰，揭示地方政府、地产商、房东、老乡集体乐观背后的系统性风险。文章以梦一样走得快的旧世界为隐喻，记录中国房地产周期的终结。",
+  "topic": "房地产",
+  "subtopic": "中国房地产周期与行业兴衰",
+  "audience": "关注房地产、经济周期、中国经济的读者",
+  "narrative_frame": {
+    "frame_type": "industry_cycle_narrative",
+    "key_elements": ["研究案例开场", "乐观预测揭示", "群体行为分析", "周期终结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "万科的量化研究预测房价安全，但实际行 动却从未相信过这个结论，房地产行业集体乐观最终迎来周期终结",
+    "supporting_points": [
+      "万科筛选61个房价飙涨和14个暴跌时间段",
+      "居民部门利息保障倍数临界值1.5，中国2013年是10.6",
+      "谭华杰留了风险提示后手，转去养猪",
+      "虹桥地产圈的集体乐观与收缩"
+    ],
+    "conclusion_hook": "那个中国房价离见顶很早的结论，万科其实从来都没信过，但遗憾的是，它的绝大多数同行都信了"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "research_case_opening",
+      "example": "2013年，万科在董秘谭华杰的牵头下，做了一项全球房地产历史上最大的量化研究",
+      "effect": "以权威研究开场，建立专业可信度"
+    },
+    {
+      "device_type": "ironic_reversal",
+      "example": "主导这项研究、并向外界传达乐观的谭华杰，其实在2016年初就卸任了董秘，被投闲置散，转去分管万科的一项边缘业务：养猪",
+      "effect": "以讽刺性反转揭示真相"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["research_data", "anecdote", "quote"],
+    "integration_style": "研究驱动+讽刺揭示+行业全景"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "ironic", "analytical"],
+    "syntax_patterns": ["研究开场句式", "讽刺反转句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]，[公司]在[人物]的牵头下，做了一项[领域]历史上最大的量化研究",
+      "context": "权威研究开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "那个[X]的结论，[主语]其实从来都没信过，但遗憾的是，它的绝大多数同行都信了",
+      "context": "讽刺性揭示真相",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20250106-0042.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

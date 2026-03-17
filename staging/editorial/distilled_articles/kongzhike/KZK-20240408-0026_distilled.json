@@ -1,0 +1,59 @@
+{
+  "article_id": "KZK-20240408-0026",
+  "normalized_title": "“‘分’链条”支持创新药政策来袭",
+  "one_paragraph_essence": "就在一个月前流出的“全链条”文件还没个准话的时候（此处本应贴上此前总结过的要点，无奈已经被删），各个地方已经开始分别出台对医药领域的支持zc，虽然各有侧重，但拆细来看与此前未官宣的文件中所列示的问题及解决方案两厢对比，不难发现既有交集、也有差距，令人不由感觉仿佛是将“全链条”给拆成了很多碎片的“‘分’链条”。\n我们不妨将这些目前可见的碎片合并同类项，看看与设想的完整版本之间有多少异同。",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "就在一个月前流出的“全链条”文件还没个准话的时候（此处本应贴上此前总结过的要点，无奈已经被删），各个地方已经开始分别出台对医药领域的支持zc，虽然各有侧重，但拆细来看与此前未官宣的文件中所列示的问题及解决方案两厢对比，不难发现既有交集、也有差距，令人不由感觉仿佛是将“全链条”给拆成了很多碎片的“‘分’链条”。\n我们不妨将这些目前可见的碎片合并同类项，看看与设想的完整版本之间有多少异同。",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 4,
+      "examples": [
+        "https://www.beijing.gov.cn/hudong/gfxwjzj/zjxx/202404/t20240407_3610906.html",
+        "https://mp.weixin.qq.com/s/otwCK7mXfyCNv1WYSYOuPg",
+        "https://www.gz.gov.cn/gfxwj/szfgfxwj/gzsrmzfbgt/content/post_9451072.html"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240408-0026.json",
+    "original_url": "https://mp.weixin.qq.com/s/JaMC_6HrBZMurB9jtlx-nw",
+    "publish_time": "2024-04-08",
+    "distilled_at": "2026-03-17T10:17:04.073791"
+  }
+}

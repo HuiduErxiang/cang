@@ -1,0 +1,91 @@
+{
+  "article_id": "CGZ-YJWYJ-20240925-0032",
+  "normalized_title": "考题已公布！FDA步步紧逼，中国PD-1单抗能否给出回应？明晚8点全程直播！",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 一个多月前，FDA发表了一份公开文件，称将于9月26日晚召开肿瘤药物专家咨询委员会（ODAC会议），主要目的是讨论是否应当根据PD-L1表达，以对PD-1抑制剂在胃癌及食管癌中的使用加以限制。 翻译一下是：FDA要对PD-1抑制剂胃癌和食管癌全人群适应症下手了。 会议共涉及四款免疫疗法，分别是：帕博利珠单抗（K药）、伊匹木单抗（Y药），以及……替雷利珠单抗。 其中，K、O、Y已经获得FDA批准相关适应症，会议结果可能会导致产品的适应症修改，而替雷利珠单抗纳入会议，则是因为其一线治疗胃癌和食管癌的适应症已经向FDA递交了上市申请。 所以，本次",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "一个多月前，FDA发表了一份公开文件，称将于9月26日晚召开肿瘤药物专家咨询委员会（ODAC会议），主要目的是讨论是否应当根据PD-L1表达，以对PD-1抑制剂在胃癌及食管癌中的使用加以限制。\n翻译一..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "然而"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "80%",
+        "16%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nORIETN-16研究里纳入了16%的PD-L1阴性患者，结果显示信迪利单抗联合化疗在该部分人群OS上的HR值为0.84，降低死亡风险16%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "同时，研究还纳入了23%的PD-L1阴性人群，HR&nbsp;0.77，值得期待。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而当审批临近尾声时，FDA却突然前后大变脸，在2022年的那场ODAC会议上，质疑单一中国研究数据的可靠性。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240925-0032.json",
+    "original_url": "https://mp.weixin.qq.com/s/sQNsHkOxfcD_2dagw5l9Sg",
+    "publish_time": "2024-09-25",
+    "distilled_at": "2026-03-17T10:47:59.813461"
+  }
+}

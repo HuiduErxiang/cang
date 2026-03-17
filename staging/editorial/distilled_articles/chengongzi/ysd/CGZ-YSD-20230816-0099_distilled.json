@@ -1,0 +1,106 @@
+{
+  "article_id": "CGZ-YSD-20230816-0099",
+  "normalized_title": "5年4次提升在指南中的地位！这个指标已崛起，礼来Tirzepatide竟然又领先了...",
+  "one_paragraph_essence": "正文共：4302字 4图 预计阅读时间：11分钟 作者 | 辰公子 文章来源 | 药时代公众号 糖尿病管理，即将进入新的阶段。 连续第二年，在美国糖尿病协会年会（ADA）这个全球糖尿病领域最权威、最隆重的大会上，对于“Time in Range（TIR）”，即：葡萄糖目标范围内时间，这一近年来兴起的糖尿病管理指标再次展开了大篇幅讨论。 拨开云雾见天日——久等的新指标 在TIR出现之前，糖化血红蛋白（HbA1c）一直是评价长期血糖控制的“金标准”， 但其实HbA1c是有局限性，因为其反映的是既往2~3个月的平均血糖水平。 像糖尿病这样的慢性病，对人体的损伤并不是瞬时的，而是漫长、持久的。血...",
+  "category": "药时代",
+  "topic": "阿尔茨海默",
+  "subtopic": "临床研究",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：4302字 4图\n预计阅读时间：11分钟",
+    "supporting_points": [
+      "糖尿病管理，即将进入新的阶段。\n连续第二年，在美国糖尿病协会年会（ADA）这个全球糖尿病领域最权威、最隆重的大会上，对于“Time in Range（TIR）”，即：葡萄糖目标范围内时间，这一近年来兴..."
+    ],
+    "conclusion_hook": "可以说是医学猜想对检测仪器的发展提出了要求。\n但无论如何，人们对于血糖精细化、精准化控制的目标是一直存在的。从HbA1c的局限到TIR出现，从TIR地位的连年提升到TAR和TBR指标的启用，都是在向着"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "7%",
+        "40%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管总样本量较小（n=24），但德谷胰岛素高达77.3%的TIR还是",
+        "即便是正常人的血糖水平也会随用餐情况而大幅升高或降低，对糖尿病患者来说，极高和极低血糖更是要重点关注的内容。另一方面，在贫血、血红蛋白病、缺铁和妊娠等特殊情况下，HbA1c 的测量也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n举个例子，下图是两个HbA1c均为7%的患者的血糖曲线，按以往的标准看都是达标的，但实际上，二者的血糖控制完全不在一个层面上。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n来源：参考资料1\n\n左边40%的TIR，换算一下，每天其实只有9.6小时血糖水平在正常区间内，而右图70%的TIR，每天则有16.8小时将血糖水平控制在了正常区间内。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n对大部分1型或2型糖尿病患者来说，TIR的目标范围都可以定在3.9~10.0 mmol/L，TIR目标值则希望＞70%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "尽管总样本量较小（n=24），但德谷胰岛素高达77.3%的TIR还是给人留下了深刻印象。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "研究根据受试者52周时 HbA1c是否小于5.7%分成了两部分，分别测量其TIR和血糖变异性的数据。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230816-0099.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248193498&idx=1&sn=7626bf5e758888d0796f676f5ba68dd4&chksm=ef45ed3cd832642a9e5936cb7987de3c0b830179e361e8c7ac3ab46f228f9e6bc66e0401b077#rd",
+    "publish_time": "2023-08-16",
+    "distilled_at": "2026-03-17T10:56:05.041100"
+  }
+}

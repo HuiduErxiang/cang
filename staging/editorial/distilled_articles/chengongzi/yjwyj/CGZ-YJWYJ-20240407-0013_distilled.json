@@ -1,0 +1,78 @@
+{
+  "article_id": "CGZ-YJWYJ-20240407-0013",
+  "normalized_title": "打破国内空白！特瑞普利单抗又成「首个且唯一」了",
+  "one_paragraph_essence": "作者 | 辰公子 审核 | 涟濯 来源 | 医界望远镜 2024年4月7日，特瑞普利单抗获国家药品监督管理局（NMPA）批准，用于联合阿昔替尼一线治疗不可切除或转移性肾细胞癌（RCC）患者，这是特瑞普利单抗在国内获批的第8项适应症。 同时，这也是我国肾癌治疗领域首个获批上市的「免疫+靶向」联合疗法，特瑞普利单抗再次打破空白，成为我国广大肾癌患者首个且唯一的免疫疗法选择。 此次获批基于Ⅲ期临床RENOTORCH研究[1]，这是国内首个在晚期肾癌领域开展的靶免联用的大型随机对照Ⅲ期临床研究，特瑞普利单抗也是首个在该领域的Ⅲ期研究做出阳性结果的中国免疫检查点抑制剂。 该研究纳入421例中高危的不",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 | 涟濯\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年4月7日，特瑞普利单抗获国家药品监督管理局（NMPA）批准，用于联合阿昔替尼一线治疗不可切除或转移性肾细胞癌（RCC）患者，这是特瑞普利单抗在国内获批的第8项适应症。",
+      "同时，这也是我国肾癌治疗领域首个获批上市的「免疫+靶向」联合疗法，特瑞普利单抗再次打破空白，成为我国广大肾癌患者首个且唯一的免疫疗法选择。\n此次获批基于Ⅲ期临床RENOTORCH研究[1]，这是国内首..."
+    ],
+    "conclusion_hook": "总之，现在特瑞普利单抗是中国肾癌患者首个且唯一的免疫疗法选择了。\n\n参考资料\n\n[1]&nbsp;Yan XQ, et al. Toripalimab plus axitinib versus sun"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 8,
+      "examples": [
+        "35%",
+        "95%",
+        "mOS：未达到 vs. 26"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n安全性方面，特瑞普利单抗联合阿昔替尼治疗期间出现的≥3级不良事件（TEAE）发生率最少，因AE导致治疗中止也相对较少（只有14.4%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "而CLEAR研究则高达37.2%，整体耐受性不佳。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240407-0013.json",
+    "original_url": "https://mp.weixin.qq.com/s/tC1ivppa_gjaIJbf4GPWDQ",
+    "publish_time": "2024-04-07",
+    "distilled_at": "2026-03-17T10:47:59.508948"
+  }
+}

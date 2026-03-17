@@ -1,0 +1,76 @@
+{
+  "article_id": "CGZ-YJWYJ-20250731-0057",
+  "normalized_title": "仑卡奈单抗4年随访数据披露！56%极早期阿尔茨海默病患者认知功能改善……",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 2023年1月6日，全球首款用于治疗阿尔茨海默病（AD）的抗Aβ药物仑卡奈单抗获FDA批准上市，开启AD治疗DMT时代。III期Clarity AD研究有力证明了仑卡奈单抗在延缓AD患者疾病进展方面的显著效果。 但AD作为一种神经退行性疾病，病程极为漫长，需要更长的随访观察以明确DMT带来的获益。 2024年AAIC大会上，仑卡奈单抗3年随访数据公布，对于基线Tau沉积水平较低（No/low Tau）的患者，有59%在持续治疗3年后认知功能未出现下降，51%存在认知功能改善，给AD的早期干预带来了巨大信心。 今年AAIC大会上，Clarity AD研究",
+  "category": "医界望远镜",
+  "topic": "阿尔茨海默",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2023年1月6日，全球首款用于治疗阿尔茨海默病（AD）的抗Aβ药物仑卡奈单抗获FDA批准上市，开启AD治疗DMT时代。III期Clarity AD研究有力证明了仑卡奈单抗在延缓AD患者疾病进展方面的...",
+      "Clarity AD研究是仑卡奈单抗治疗早期AD的III期临床研究，共纳入1795名早期AD患者，1:1接受仑卡奈单抗或安慰剂治疗。\n核心研究期间（18个月），仑卡奈单抗已经显示出已显示出对早期 AD...",
+      "结果充分表明了早期抗Aβ治疗对延缓AD疾病进程的关键作用。\n在3年随访期间，仑卡奈单抗治疗组相较ADNI的展现出的获益扩大趋势较为平均，CDR-SB评分获益约为0.5分/18个月，而在3~4年期间，获..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "59%",
+        "51%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n另外，对于基线No/low Tau，即：处于AD极早期的患者，接受仑卡奈单抗持续治疗4年后，CDR-SB评分相较基线无衰退的比例高达69%，并有56%的患者存在认知功能改善。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "这一数据甚至高于去年披露的3年随访数据（无衰退：59%；改善：51%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250731-0057.json",
+    "original_url": "https://mp.weixin.qq.com/s/46usubrJ7cmIeUol-N9l5w",
+    "publish_time": "2025-07-31",
+    "distilled_at": "2026-03-17T10:48:00.738274"
+  }
+}

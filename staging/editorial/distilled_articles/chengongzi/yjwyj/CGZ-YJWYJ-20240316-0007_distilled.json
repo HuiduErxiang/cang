@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YJWYJ-20240316-0007",
+  "normalized_title": "2款CAR-T高票通过！FDA ODAC支持用于早期治疗，但是，应该如何理解「早期超额的死亡风险」？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 会议内容很多，关注医界望远镜微信公众号并在后台回复「20240315」即可获得完整资料包，包括两款产品的背景资料、完整研究数据、亚组分析、生存分析，FDA的顾虑与证据等。 BCMA&nbsp;CAR-T 提线讨论&nbsp; 北京时间2024年3月15日晚8点半，FDA肿瘤药物专家咨询委员会（ODAC）正式召开，会议时长超过9小时。此次会议焦点集中于讨论两项BCMA CAR-T细胞疗法产品在治疗多发性骨髓瘤（Multiple Myeloma，MM）领域的扩展适应症申请。 第一个是来自BMS/2seventy bio的Abecma，该产品在2021年",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "会议内容很多，关注医界望远镜微信公众号并在后台回复「20240315」即可获得完整资料包，包括两款产品的背景资料、完整研究数据、亚组分析、生存分析，FDA的顾虑与证据等。",
+      "北京时间2024年3月15日晚8点半，FDA肿瘤药物专家咨询委员会（ODAC）正式召开，会议时长超过9小时。此次会议焦点集中于讨论两项BCMA CAR-T细胞疗法产品在治疗多发性骨髓瘤（Multipl..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "74%",
+        "59%",
+        "mOS还未达到，而标准治疗组的中位OS估计为26"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 3,
+      "examples": [
+        "尽管学界一致认为不足为惧，但FDA还是",
+        "即便患者会在这段时间接受“桥接治疗”也难以避免疾病超进展，因为桥接治疗的目的是为了稳定和控制患者病情，治疗方案上也",
+        "即便算上CAR-T制备、桥接治疗、洗脱期这些时间，患者从入组到接受CAR-T输注治疗的时间也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n对于西达基奥仑赛而言，受试者随机分组8周后，试验组患者的疾病进展或死亡风险降低达74%，这是个非常可观的数据。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n即便是将时间扩大到随机化分组后，增加了对桥接治疗期间的患者超进展的考量，试验组患者的疾病进展或死亡风险依然降低达59%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n其次，虽然安全性分析显示，有11%接受西达基奥仑赛的患者死于治疗中出现的不良事件，高于对照组的8%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "但试验组的死亡人数中有3.7%是由新冠造成的，而对照组的这一比例为 0.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n从总生存期数据看，在第二次中期分析时，试验组的mOS还未达到，而标准治疗组的中位OS估计为26.7个月（HR=0.78，95% CI：0.51-1.20）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240316-0007.json",
+    "original_url": "https://mp.weixin.qq.com/s/5QAkSz07qaFwMQehNf0rOw",
+    "publish_time": "2024-03-16",
+    "distilled_at": "2026-03-17T10:47:59.179209"
+  }
+}

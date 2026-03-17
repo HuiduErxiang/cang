@@ -1,0 +1,53 @@
+{
+  "product_id": "donanemab",
+  "product_name": "多奈单抗",
+  "product_name_en": "Donanemab",
+  "therapeutic_area": "阿尔茨海默病",
+  "indication": "早期阿尔茨海默病",
+  "mechanism_of_action": "Anti-beta-amyloid monoclonal antibody",
+  "approval_status": "已上市",
+  "approval_date": "待补充",
+  "manufacturer": "礼来",
+  "clinical_trials": [
+    "TRAILBLAZER-ALZ 2",
+    "TRAILBLAZER-ALZ 6"
+  ],
+  "efficacy_data": {
+    "primary_endpoint": "待补充",
+    "secondary_endpoints": "待补充",
+    "subgroup_analysis": "待补充"
+  },
+  "safety_data": {
+    "common_adverse_events": "待补充",
+    "serious_adverse_events": "待补充",
+    "special_considerations": "待补充"
+  },
+  "biomarkers": {
+    "csf_biomarkers": "待补充",
+    "pet_biomarkers": "待补充",
+    "other_biomarkers": "待补充"
+  },
+  "dosing_information": "待补充",
+  "administration_route": "静脉输注",
+  "sources": [
+    {
+      "study_id": "trailblazer_alz_2",
+      "study_name": "TRAILBLAZER-ALZ 2",
+      "source_files": [
+        "TRAILBLAZER-ALZ 2.pdf",
+        "TRAILBLAZER-ALZ 2全析解读.pdf",
+        "TRAILBLAZER-ALZ 2研究概览摘要.pdf"
+      ]
+    },
+    {
+      "study_id": "trailblazer_alz_6",
+      "study_name": "TRAILBLAZER-ALZ 6",
+      "source_files": [
+        "TRAILBLAZER-ALZ 6.pdf",
+        "TRAILBLAZER-ALZ 6全析解读.pdf"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "last_updated": "2026-03-16"
+}

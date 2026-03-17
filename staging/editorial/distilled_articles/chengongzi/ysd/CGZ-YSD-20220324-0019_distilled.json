@@ -1,0 +1,120 @@
+{
+  "article_id": "CGZ-YSD-20220324-0019",
+  "normalized_title": "「肠道菌群」联用K药？结果出炉后，单日股价「接近翻倍」！微生物疗法曙光已现？",
+  "one_paragraph_essence": "4D pharam，一家英国的小型生物科技公司，主攻活体生物治疗产品，也就是微生物疗法，核心产品MRx0518是一款口服益生菌产品。 看起来4D pharma是肠道菌群的信徒，坚信肠道微生物的变化与人类多种疾病有关。而学界也有相关研究，称肠道菌群种类的不同，会影响对患者对免疫疗法的应答率（后文详细阐述）。 于是，在2019年，4D pharma 宣布，开启MRx0518和免疫疗法领域扛把子产品Keytruda（中文商品名：可瑞达，简称K药）的联合治疗试验，最先入组的是肾细胞癌的患者组。 昨天夜里，4D pharma 宣布，MRx0518联合K药，在治疗肾细胞癌的1/2期临床试验中达到主要...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "4D pharam，一家英国的小型生物科技公司，主攻活体生物治疗产品，也就是微生物疗法，核心产品MRx0518是一款口服益生菌产品。\n看起来4D pharma是肠道菌群的信徒，坚信肠道微生物的变化与人类多种疾病有关。而学界也有相关研究，称肠道菌群种类的不同，会影响对患者对免疫疗法的应答率（后文详细阐述）。",
+    "supporting_points": [
+      "于是，在2019年，4D pharma 宣布，开启MRx0518和免疫疗法领域扛把子产品Keytruda（中文商品名：可瑞达，简称K药）的联合治疗试验，最先入组的是肾细胞癌的患者组。",
+      "昨天夜里，4D pharma 宣布，MRx0518联合K药，在治疗肾细胞癌的1/2期临床试验中达到主要疗效终点，这些患者此前均接受过免疫疗法的治疗，并出现了疾病进展。\n消息一出，4D pharama应..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "88.48%",
+        "28.51%",
+        "69亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管肠道菌群在疾病的发病、治疗方面一再表现出自己的潜力。但无论是学界，还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "前日收盘价为4.67美元，当日最高价达到了8.8美元，涨幅高达88.48%，接近翻倍！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n随后股价持续回落，收盘时为6美元，单日涨幅仍有28.51%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n来源：雪球\n\n值得一提的是，作为联用对象——K药厂家的默沙东，并未此次临床试验结果发布公告，或做出任何评论，默沙东的股价波动也并不大，仅小幅上涨不到2%，随后也有所回落。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n但免疫疗法的响应率一直是个大问题，总体响应率不超过30%，在大部分癌种里响应率不超过20%，甚至某些癌种几乎不响应。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果非常惊人，15名对K药没有响应的黑色素瘤患者，竟有6名出现了肿瘤缩小或长期获益，对40%的病人显示出了治疗效果。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220324-0019.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247899983&idx=1&sn=ecb35f6d216a9b0c0023ffa85826eee0&chksm=ecb963a9dbceeabf5c729d5a2c3d156d16c5984613d6374aca0d8041b69e540e13b549c9ef3f#rd",
+    "publish_time": "2022-03-24",
+    "distilled_at": "2026-03-17T10:56:04.289748"
+  }
+}

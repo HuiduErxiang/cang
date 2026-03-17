@@ -1,0 +1,74 @@
+{
+  "article_id": "KZK-20241127-0035",
+  "normalized_title": "拮抗还是干不过激动：Amgen公布减肥药MariTide二期数据",
+  "one_paragraph_essence": "被全行业念叨了快一整年的GIPR拮抗与激动之争，总算是盼来了结果。11月26日，Amgen公布了MariTide（AMG-133）的二期临床数据，然后就开盘大跌了10%多……",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "武侠隐喻",
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "被全行业念叨了快一整年的GIPR拮抗与激动之争，总算是盼来了结果。11月26日，Amgen公布了MariTide（AMG-133）的二期临床数据，然后就开盘大跌了10%多……",
+    "supporting_points": [],
+    "conclusion_hook": "最后还是盗一把GS的图，来感受一下在GLP-1次元里的差之毫厘失之千里。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 2,
+      "examples": [
+        "https://investors.amgen.com/static-files/0176d78e-920b-45b3-b9cc-a727e58e80da",
+        "https://www.nature.com/articles/s42255-023-00966-w"
+      ]
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 乔峰",
+      "keyword": "乔峰"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 段誉",
+      "keyword": "段誉"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 六脉神剑",
+      "keyword": "六脉神剑"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20241127-0035.json",
+    "original_url": "https://mp.weixin.qq.com/s/9bNJb5YCLWoXas2ZHNFvTA",
+    "publish_time": "2024-11-27",
+    "distilled_at": "2026-03-17T10:17:04.084085"
+  }
+}

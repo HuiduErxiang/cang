@@ -1,0 +1,91 @@
+{
+  "article_id": "CGZ-YSD-20231120-0101",
+  "normalized_title": "12:1反对！默沙东first in class药物遭FDA专家咨询委员会质疑，这靶点……还有救吗？",
+  "one_paragraph_essence": "《中东北非（MENA）地区医药市场进入策略全面剖析》重磅直播课程，火热报名中！ 正文共：2181字 2图 预计阅读时间：7分钟 作者 | 辰公子 文章来源 | 药时代公众号 2023年11月17日，FDA召开肺部过敏药物专家咨询委员会（PADAC），讨论默沙东口服P2X3受体拮抗剂gefapixant在治疗成人难治性慢性咳嗽（RCC）或不明原因慢性咳嗽（UCC）方面的风险获益及证据有效性问题。 慢性咳嗽是巨大的未被满足的临床需求，美国成人慢性咳嗽的患病率约为5%，其中一部分患者对病因治疗无响应，称为RCC，另一部分经过彻底评估但咳嗽原因不明，称为UCC。目前美国市场尚无针对RCC或UCC...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "《中东北非（MENA）地区医药市场进入策略全面剖析》重磅直播课程，火热报名中！",
+    "supporting_points": [
+      "2023年11月17日，FDA召开肺部过敏药物专家咨询委员会（PADAC），讨论默沙东口服P2X3受体拮抗剂gefapixant在治疗成人难治性慢性咳嗽（RCC）或不明原因慢性咳嗽（UCC）方面的风险..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "5%",
+        "15%",
+        "8亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n慢性咳嗽是巨大的未被满足的临床需求，美国成人慢性咳嗽的患病率约为5%，其中一部分患者对病因治疗无响应，称为RCC，另一部分经过彻底评估但咳嗽原因不明，称为UCC。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在COUGH-1和COUGH-2 两项3期临床试验里，45mg高剂量组的不良事件退出率分别高达15%和20%，有58%和68.6%的受试者经历了味觉相关的不良事件，这可能与靶点相关。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "45mg剂量组有高达65%的受试者出现味觉障碍或丧失，14%的受试者因此终止试验。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n于是后续Bellus调转方向，在重症组下功夫，2b期临床试验，招募了249名≥25咳/小时的患者，在50mg与200mg两个剂量组中，患者病情有了30%以上的较大改善，该结果具有统计学意义。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "就在今年年初，GSK以21.8亿美元收购加拿大生物技术公司Bellus Health，旨在获取其核心产品Camlipixant (BLU-5937)。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20231120-0101.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248230178&idx=1&sn=6bad0a93b86e967ee9763cc9c08aa5c1&chksm=ef441dc4d83394d2636885da2d6d2e8d24ed34b782544e1112b06e0bacf0e0ab363e0b4851a1#rd",
+    "publish_time": "2023-11-20",
+    "distilled_at": "2026-03-17T10:56:05.061094"
+  }
+}

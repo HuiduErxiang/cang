@@ -1,0 +1,89 @@
+{
+  "article_id": "CGZ-YJWYJ-20240309-0001",
+  "normalized_title": "突发！FDA推迟审批礼来Donanemab，为何如此谨慎..…",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 真是风云突变…… 2024年3月8日，礼来发布公告称，FDA计划召开外周和中枢神经系统药物咨询委员会会议&nbsp;（PCNSDAC）讨论其阿尔茨海默病新药Donanemab的III期临床研究TRAILBLAZER-ALZ 2 试验，以评估Donanemab 在早期症状性阿尔茨海默病（AD）中的疗效和安全性。&nbsp; 由于尚未确定PCNSDAC的日期，所以FDA对Donanemab的上市申请做出决定的时间（PDUFA date）继续推迟。 自2023年1月6日，卫材/Biogen联合开发的仑卡奈单抗获FDA加速批准上市，打破AD领域20年的新药沉寂",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "真是风云突变……\n2024年3月8日，礼来发布公告称，FDA计划召开外周和中枢神经系统药物咨询委员会会议&nbsp;（PCNSDAC）讨论其阿尔茨海默病新药Donanemab的III期临床研究TRAI...",
+      "由于AD有复杂的疾病机制，导致学界对致病假说存在多种观点，最大的流派是“Aβ（β淀粉样蛋白）假说”，即：Aβ沉积形成淀粉样斑块，推动了神经退行性过程，导致疾病发生。\nDonanemab和仑卡奈单抗便是..."
+    ],
+    "conclusion_hook": "可以说是建立在先辈的“尸骸”之上。\n美国药品研究与制造商协会曾发布报告指出，在1998~2017年期间，全球已有146个阿尔茨海默病药物在临床试验阶段遭遇失败，仅有四种针对疾病症状的药物获批上市。这意"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而，",
+        "同源不同命"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管礼来曾经表示，Donanemab跟之前那些“祛斑”的药不一样，早期研究[3]也证实，在动物实验里Donanemab不会引发脑出血。但在大规模人体试验里这种情况还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "口语化表达",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "然而，与Lecanemab干净利落的获批形成鲜明对比，Donanemab审批之路真是一波三折。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240309-0001.json",
+    "original_url": "https://mp.weixin.qq.com/s/xW2ia05NOhj8jUua1Q3WTQ",
+    "publish_time": "2024-03-09",
+    "distilled_at": "2026-03-17T10:47:59.126786"
+  }
+}

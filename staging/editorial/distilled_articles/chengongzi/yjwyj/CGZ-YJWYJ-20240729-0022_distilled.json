@@ -1,0 +1,119 @@
+{
+  "article_id": "CGZ-YJWYJ-20240729-0022",
+  "normalized_title": "明朝的剑能不能斩清朝的官？论EMA和FDA对仑卡奈单抗的审评分歧",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 FDA和EMA，尽管在行业内具有相当的影响力和权威性，在近几十年的全球化浪潮下，双方也在审批政策上与对方有互相借鉴的地方，但归根结底仍然，二者仍然只是对本土地区进行药品监管的本土机构。 EMA负责的范围仅限欧洲地区，FDA也只对美国的用药负责。 FDA与EMA的巨大分歧 2024年7月26日，欧洲药品管理局（EMA）官网发布了在7月22日-25日举办的人用药品委员会（CHMP）会议纪要。CHMP会议每月举办一次，会集中讨论一些药品的审评意见。 本次7月会议，7款新药获得了CHMP的积极意见，有望在近期进入欧洲市场，但这都没有另一个审评建",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "FDA和EMA，尽管在行业内具有相当的影响力和权威性，在近几十年的全球化浪潮下，双方也在审批政策上与对方有互相借鉴的地方，但归根结底仍然，二者仍然只是对本土地区进行药品监管的本土机构。\nEMA负责的范...",
+      "2024年7月26日，欧洲药品管理局（EMA）官网发布了在7月22日-25日举办的人用药品委员会（CHMP）会议纪要。CHMP会议每月举办一次，会集中讨论一些药品的审评意见。\n本次7月会议，7款新药获..."
+    ],
+    "conclusion_hook": "可以说，在FDA的监管范围内以及国际主流学术圈子里，仑卡奈单抗获得了高度认可。\n而EMA官网给出的拒绝理由是，仑卡奈单抗在CDR-SB评分上表现优于安慰剂组，但优势不大，不能抵消其导致严重不良事件发生"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "12.6%",
+        "17.3%"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "虽然在大部分的时候会给出一致的审评结果，但是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nClarity AD研究中，仑卡奈单抗治疗组ARIA-E（脑水肿）和ARIA-H（脑出血）的发生率分别为12.6%和17.3%，加起来的淀粉样蛋白相关的影像学异常（ARIA）发生率为21.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "当然，AD本身也会导致患者发生ARIA相关事件，所以安慰剂组也有9.5%的发生率。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n仑卡奈单抗组78%的ARIA事件为无症状事件，90%以上是轻中度，2.8%的患者出现了有症状的ARIA，包括头痛、视力模糊和意识混乱。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "只有0.5%的患者发生了大出血事件，但没有导致患者死亡。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "事实上，单从死亡事件上看，仑卡奈单抗组还要优于安慰剂组（0.7% vs 0.8%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240729-0022.json",
+    "original_url": "https://mp.weixin.qq.com/s/3zWL-fEjFnb-0xMx3AFRgg",
+    "publish_time": "2024-07-29",
+    "distilled_at": "2026-03-17T10:47:59.686677"
+  }
+}

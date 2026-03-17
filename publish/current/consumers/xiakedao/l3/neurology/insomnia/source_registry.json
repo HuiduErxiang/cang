@@ -1,0 +1,16 @@
+{
+  "source_id": "insomnia_literature",
+  "source_name": "失眠文献库",
+  "source_type": "literature",
+  "data_format": "pdf",
+  "location": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\neurology\\insomnia",
+  "scope": "包含失眠相关的临床试验文献、研究报告等",
+  "version": "1.0",
+  "last_updated": "2026-03-16",
+  "total_documents": 3,
+  "key_trials": [
+    "PIONEER 7",
+    "SOLSTICE",
+    "CHAMPION"
+  ]
+}

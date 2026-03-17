@@ -1,0 +1,90 @@
+{
+  "article_id": "CGZ-YJWYJ-20240602-0019",
+  "normalized_title": "DESTINY-Breast06结果重磅出炉！",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 2024年6月2日，ASCO大会行进至第三日，早上第一场口头摘要会议来自乳腺癌。但整场会议的议程却非常“简单粗暴”：LBA1000的展示与讨论。 围绕一个汇报，单独设立了一场摘要会议。那么LBA1000是哪个研究？ 答：DESTINY-Breast06 (DB-06) 的主要结果 两年前的ASCO大会上，DB-04研究结果公布，T-DXd在HER2低表达（IHC 1+和IHC 2+/ISH阴性）患者里取得阳性结果，已经引得全场起立，掌声久久不息。 此次DB-06中，T-DXd更进一步，纳入了132例HER2超低表达（IHC 0）的患者，几",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "2024年6月2日，ASCO大会行进至第三日，早上第一场口头摘要会议来自乳腺癌。但整场会议的议程却非常“简单粗暴”：LBA1000的展示与讨论。\n围绕一个汇报，单独设立了一场摘要会议。那么LBA100...",
+      "两年前的ASCO大会上，DB-04研究结果公布，T-DXd在HER2低表达（IHC 1+和IHC 2+/ISH阴性）患者里取得阳性结果，已经引得全场起立，掌声久久不息。\n此次DB-06中，T-DXd更..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "100%",
+        "38%",
+        "mPFS达到13"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nDB-06与DB-04在试验设计上最大的区别在于，DB-04并未要求患者的HR表达，且受试者是100%接受过化疗的，HR+患者的治疗现状，两个研究互相进行了补充。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "（HR 0.62；95% CI：0.51-0.74；p<0.0001）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n客观缓解率（ORR）方面，T-DXd治疗组确认的ORR达到了56.5%，其中包括9例完全缓解（CRs）和194例部分缓解（PRs）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "相比之下，接受化疗的患者群体中，确认的客观缓解率为32.2%，且无完全缓解，仅有114例部分缓解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n接受T-DXd治疗的患者确认的ORR为61.8%，其中包括4例完全缓解（CRs）和43例部分缓解（PRs）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240602-0019.json",
+    "original_url": "https://mp.weixin.qq.com/s/fmqjjdvAhm6J6lmwwxmRJQ",
+    "publish_time": "2024-06-02",
+    "distilled_at": "2026-03-17T10:47:59.569941"
+  }
+}

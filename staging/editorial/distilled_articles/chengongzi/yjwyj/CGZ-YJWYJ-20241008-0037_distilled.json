@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YJWYJ-20241008-0037",
+  "normalized_title": "迷雾拨开，LEAP-012补足了多少循证缺口？",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 肿瘤分期越早，患者预后越好，临床试验的周期越长，取得证据的要求越高。因此，尽管近几年晚期肝癌已逐步出现多种一、二线治疗方案，但中期肝癌的标准治疗仍主要依赖有几十年历史的TACE（Transcatheter Arterial Chemoembolization，经动脉化疗栓塞术）。 中期肝癌异质性较强，临床特征差异大，过去20多年时间肝癌的分期不断细化，其中BCLC分期更新了5次，4次都在中期肝癌部分进行了调整[1]。 另外，基于患者异质性的精准化治疗是患者取得最大化获益的基础，卫健委今年更新的《原发性肝癌诊疗指南（2024 年版）》中已经",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "肿瘤分期越早，患者预后越好，临床试验的周期越长，取得证据的要求越高。因此，尽管近几年晚期肝癌已逐步出现多种一、二线治疗方案，但中期肝癌的标准治疗仍主要依赖有几十年历史的TACE（Transcathet...",
+      "另外，基于患者异质性的精准化治疗是患者取得最大化获益的基础，卫健委今年更新的《原发性肝癌诊疗指南（2024 年版）》中已经较上一版提出了更明确的TACE精细化使用要求，强调TACE必须遵循规范化和个体...",
+      "随着系统治疗药物取得的爆发式突破，TACE联合系统治疗在人群、方案、时机上都存在巨大的探索空间，在临床实践中，全球专家也进行了各自的探索，但全球中心的大样本III期研究目前仅有EMERALD-1，提示..."
+    ],
+    "conclusion_hook": "总之，旧的迷雾已经散去，中期肝癌的临床治疗已经踏出了最关键的一步，那未来的探索便都有了基础。\n\n参考资料\n\n[1]&nbsp;&nbsp;&nbsp;&nbsp; Trevisani F, Vital"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "43.3%",
+        "11.7%",
+        "mOS均未达到，但治疗组已展现出OS获益趋势，1"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n入组人群：中国患者比例高，病因复杂更贴合临床实践\n研究共纳入480例患者，其中中国患者比例高达43.3%，与EMERALD-1[4]的11.7%相比，临床结果对于中国的临床实践更具参考价值。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "1年PFS率为62.2% vs 43.4%，2年PFS率为39.1% vs 27.9%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\nOS方面，两组mOS均未达到，但治疗组已展现出OS获益趋势，1年OS率为89.0% vs 83.1%，2年OS率为74.6% vs 68.6%，HR 0.80，p=0.0867。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n根据RECIST1.1标准（下图左），两组的ORR为46.8% vs 33.3%，PD率为6.8% vs 14.8%，DOR为12.6个月 vs 10.7个月。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n而根据mRECIST标准（下图右），两组的ORR为71.3% vs 49.8%，PD率为3.4% vs 12.8%，CR率为56.1% vs 33.7%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241008-0037.json",
+    "original_url": "https://mp.weixin.qq.com/s/8PUQ8TN2D7SAPPx8g0sGvw",
+    "publish_time": "2024-10-08",
+    "distilled_at": "2026-03-17T10:47:59.857389"
+  }
+}

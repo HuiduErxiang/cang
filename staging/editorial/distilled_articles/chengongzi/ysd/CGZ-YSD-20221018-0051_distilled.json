@@ -1,0 +1,120 @@
+{
+  "article_id": "CGZ-YSD-20221018-0051",
+  "normalized_title": "又一明星biotech身处绝境，股价去年腰斩，今天又跌70%！布局的3个赛道折了2个，默沙东还要继续加注吗？",
+  "one_paragraph_essence": "欢迎预约重磅直播！~600位朋友已预约！ 一年以后，望着再次跳水的股价，NGM bio的首席执行官David J. Woodhouse 博士会想起在2015年与美国制药巨头默沙东公司签订合作的那个下午。 那时的NGM bio已经成立七年，涉及的领域已经从最初的NASH扩展至肿瘤、眼科等多个赛道，在抗体领域深耕多年的他们有充足的信心能带给默沙东超额回报，为了这份回报，默沙东付以溢价20%的比例购买了NGM bio 15%的股票，并承诺给NGM提供首付款9400万美元、一共2.5亿美元的资金供其未来5年研发使用，如果有里程碑进展，这个数字还会更高。 如今7年过去，默沙东还是那个默沙东，近期又...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "欢迎预约重磅直播！~600位朋友已预约！",
+    "supporting_points": [
+      "一年以后，望着再次跳水的股价，NGM bio的首席执行官David J. Woodhouse 博士会想起在2015年与美国制药巨头默沙东公司签订合作的那个下午。\n那时的NGM bio已经成立七年，涉及...",
+      "NASH全称非酒精性脂肪性肝炎，在丙肝被解决之后，整个肝病领域涨势最猛的就是NASH。除了阿尔兹海默症，NASH可能是最后一个还未被开垦的慢病市场，可谓一片蓝海。Evaluate Pharm此前曾预测..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "20%",
+        "15%",
+        "5亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n结果显示，经过52周的治疗后，NGM621的4周与8周治疗组在地图样萎缩（GA）病变面积变化率上的数据分别为 6.3% 和 6.5%，与安慰剂组方面无统计学差异。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "股价从11.55美元再次大跌70%，降到了3.41美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "Evaluate Pharm此前曾预测，2025年全球NASH药物的市场规模可达400亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "”\n彼时NGM的账面上还有4亿美元的资金。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2.74亿美元的市值还不及NGM去年账面上的存款多。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221018-0051.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248014448&idx=1&sn=33be64a5d03953a05e3815affdc1d401&chksm=ecb8a296dbcf2b80cbe318395d7e73b6a54f82b4d4a9cabca76315c4bbeeb04f2556265762f6#rd",
+    "publish_time": "2022-10-18",
+    "distilled_at": "2026-03-17T10:56:04.520747"
+  }
+}

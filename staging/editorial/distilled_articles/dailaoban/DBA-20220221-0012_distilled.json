@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20220221-0012",
+  "normalized_title": "这代打工人不想996了",
+  "one_paragraph_essence": "文章以B站up主大猛子工地视频年轻人消失的现象开场，讲述中国劳动力就业几十年的最大变迁。作者以历史纵深视角，从1978年待业青年问题到互联网造富黄金时代，分析制造业招工难与互联网996的对比，揭示劳动力就业偏好如何随时代变迁而转移。文章指出这代打工人正在用脚投票，拒绝一眼看到头的按部就班。",
+  "topic": "劳动就业",
+  "subtopic": "中国劳动力就业变迁与年轻人选择",
+  "audience": "关注劳动就业、社会变迁、年轻人问题的读者",
+  "narrative_frame": {
+    "frame_type": "social_change_narrative",
+    "key_elements": ["现象观察开场", "就业史梳理", "代际对比", "趋势分析"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国劳动力就业正在经历几十年最大变迁，年轻人用脚投票拒绝传统制造业和996",
+    "supporting_points": [
+      "工地干活的人基本上都在35岁以上，平均40多岁",
+      "1978年城镇登记失业率高达5.3%，1979年待业人数1500万",
+      "互联网成为寒门子弟阶层跃迁的黄金通道",
+      "互联网大战中算法工程师一年跳槽三次薪酬翻三倍"
+    ],
+    "conclusion_hook": "这代打工人不想996了，他们正在用脚投票"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "phenomenon_observation_opening",
+      "example": "B站up主大猛子...在60多期视频里，你可以看到出生于1950～1990之间的各代人...但除了某期视频里出镜的一个年轻同事，大猛子的镜头中就很少见到同龄人了",
+      "effect": "以现象观察开场，建立问题意识"
+    },
+    {
+      "device_type": "employment_history_timeline",
+      "example": "1978年城镇登记失业率高达5.3%...1980年代乡镇企业容纳大量就业...1990年代制造业崛起...2010年移动互联网爆发程序员成丈母娘首选",
+      "effect": "以时间线梳理就业变迁脉络"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["phenomenon", "historical_data", "timeline"],
+    "integration_style": "现象观察+历史数据+时间线梳理"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["observational", "historical", "analytical"],
+    "syntax_patterns": ["现象观察开场句式", "就业史时间线句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "一首民谣这样传唱：50年代嫁英雄，60年代嫁贫农，70年代嫁军营，80年代嫁文凭，90年代嫁富翁，2000年代嫁[X]",
+      "context": "时代择偶偏好演变",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220221-0012.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

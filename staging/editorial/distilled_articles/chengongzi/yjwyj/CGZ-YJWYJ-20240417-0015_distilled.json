@@ -1,0 +1,75 @@
+{
+  "article_id": "CGZ-YJWYJ-20240417-0015",
+  "normalized_title": "“魔法子弹”的“穿甲弹”——T-DXd载荷之秘",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 T-DXd的成功在药物研发史上很特别。 历史上的革命性药物大多是在新靶点、新技术上实现了从0到1的突破，肿瘤领域如PD-1等靶点的发现与使用，直接让相关疾病的治疗产生了质的变化。 T-DXd却不是，“魔法子弹”的构想在百年前就已诞生，使用的抗体也是上个世纪的产物。在ADC已问世超过20载的今天，T-DXd能让“老树开花”，与其巧夺天工的设计密不可分，创新载荷的使用便是核心之一。 载荷为ADC提供细胞毒作用直接杀死肿瘤细胞，其选择直接决定了ADC的上限，T-DM1作为第二代ADC在胃癌领域铩羽而归，与载荷的局限性不无关系。 只有理解T-DXd",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "T-DXd的成功在药物研发史上很特别。\n历史上的革命性药物大多是在新靶点、新技术上实现了从0到1的突破，肿瘤领域如PD-1等靶点的发现与使用，直接让相关疾病的治疗产生了质的变化。\nT-DXd却不是，“...",
+      "从ADC的设计理念来看，好的载荷至少需要满足三个方面的条件。\n首先，载荷要具有膜通透性。能穿透细胞膜的载荷是发挥“旁观者效应”的前提，即：细胞毒性药物可以在杀死肿瘤细胞之后，游离到隔壁的肿瘤细胞里，继..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 5,
+      "examples": [
+        "51.3%",
+        "14.3%",
+        "mOS方面，T-DXd组高出近50"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240417-0015.json",
+    "original_url": "https://mp.weixin.qq.com/s/sJSgcUOOi5y1bmGQDHFECQ",
+    "publish_time": "2024-04-17",
+    "distilled_at": "2026-03-17T10:47:59.525533"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "article_id": "CGZ-YJWYJ-20250527-0055",
+  "normalized_title": "成为KRAS G12C抑制剂中的「最长生存」王者，戈来雷塞做对了什么？",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 KRAS是首个被发现的致癌基因之一，距离我们认识它已经有超过40年的时间[1]。KRAS的发现证实了 “致癌基因” 的存在，颠覆了我们对肿瘤成因的认知，为后续的肿瘤学发展及靶向肿瘤驱动基因药物的开发奠定了基础。 目前KRAS G12C突变晚期NSCLC一线依然是参考无驱动基因NSCLC的治疗方案。 二线方案，2021年获批的全球首款KRAS G12C抑制剂Sotorasib曾让我们看到一缕曙光。 但在III期研究CodeBreaK 200[11]中，与单药多西他赛相比，Sotorasib仅延长1.1个月的mPFS（5.6个月 vs 4.5个月，HR 0",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "KRAS是首个被发现的致癌基因之一，距离我们认识它已经有超过40年的时间[1]。KRAS的发现证实了 “致癌基因” 的存在，颠覆了我们对肿瘤成因的认知，为后续的肿瘤学发展及靶向肿瘤驱动基因药物的开发奠..."
+    ],
+    "conclusion_hook": "可以说，牺牲生物利用度的药物策略并不完美。\n那么戈来雷塞做了什么选择呢？\n答案是：没做选择。活性和生物利用度，我全都要！\n\n机制创新！成熟药物不做选择\n\n从最后的分子看，在Sotorasib分子的基础"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "为何Sotorasib的表现不尽如人意？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 7,
+      "examples": [
+        "28.1%",
+        "50%",
+        "mOS甚至更短（10"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "好比"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "仔细分析试验数据发现，Sotorasib对肿瘤的缓解非常有限，ORR仅为28.1%，低于靶向药物ORR达到50%左右的预期。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n目前国内三款KRAS G12C抑制剂氟泽雷塞、格索雷塞、戈来雷塞，虽然在临床试验中都能实现80%以上的疾病控制率（DCR），但客观缓解率（ORR）仅有50%左右[4-6]。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "靶病灶最大径之和减少≥30%即可被定义为PR，而在PR到CR之间其实还有非常大的空间。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在戈来雷塞≥2线治疗KRAS G12C突变晚期NSCLC的II期单臂研究[9]中，共纳入117例患者，其中56例实现缓解，ORR为49.6%，看上去并不惊艳。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n但实现缓解的患者中，有64.2%的患者（36例）肿瘤缩小＞50%，实现了深度缓解，患者总体的CR率达到了6%，在已披露的同类研究中数值最高，且遥遥领先。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20250527-0055.json",
+    "original_url": "https://mp.weixin.qq.com/s/smLHdQWkORtUFy_5miskKw",
+    "publish_time": "2025-05-27",
+    "distilled_at": "2026-03-17T10:48:00.648552"
+  }
+}

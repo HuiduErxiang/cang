@@ -1,0 +1,59 @@
+{
+  "article_id": "KZK-20230428-0005",
+  "normalized_title": "革命不分先后：GLP-1之争礼来加速剑指诺和诺德",
+  "one_paragraph_essence": "近两年的全球医药领域似乎都十分缺乏“共识热点”，而GLP-1以及减肥药应该可以称得上那极少数的共识热点了。自从去年扒了一下GLP-1在减重适应症上的进展【药海听涛】GLP-1真的能成为“肥宅快乐药”吗？，仅仅半年多竞争又急剧白热化，礼来的Tirzepatide开始加速向诺和诺德的Semaglutide发起正面挑战，在这条赛道上生动展示了“革命不分先后”，非但First-in-class早已销声匿迹、First-blockbuster也并没有吃到最大的蛋糕，如今甚至可能连First-10billion-dollar-molecule都未必能保住江湖地位了。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "近两年的全球医药领域似乎都十分缺乏“共识热点”，而GLP-1以及减肥药应该可以称得上那极少数的共识热点了。自从去年扒了一下GLP-1在减重适应症上的进展【药海听涛】GLP-1真的能成为“肥宅快乐药”吗？，仅仅半年多竞争又急剧白热化，礼来的Tirzepatide开始加速向诺和诺德的Semaglutide发起正面挑战，在这条赛道上生动展示了“革命不分先后”，非但First-in-class早已销声匿迹...",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 4,
+      "examples": [
+        "https://investor.lilly.com/news-releases/news-release-details/lillys-tirzepatide-achieved-157-weight-loss-adults-obesity-or",
+        "https://investor.lilly.com/static-files/76c6788c-ea65-4c9f-9a57-e8bceb2fa290",
+        "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230428-0005.json",
+    "original_url": "https://mp.weixin.qq.com/s/8sNMSqpQtxGoIjUQenfl_w",
+    "publish_time": "2023-04-28",
+    "distilled_at": "2026-03-17T10:17:04.044058"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "article_id": "CGZ-YSD-20210610-0005",
+  "normalized_title": "从Aducanumab到GV-971，人类能跳出阿尔兹海默症这座“五指山”吗？",
+  "one_paragraph_essence": "大圣道：“我的手段多哩！我有七十二般变化，万劫不老长生。会驾筋斗云，一纵十万八千里。如何坐不得天位？” 佛祖道：“我与你打个赌赛：你若有本事，一筋斗打出我这右手掌中，算你赢；若不能打出手掌，你还下界为妖，再修几劫，却来争吵。” ——《西游记》 （来源：电影《西游降魔篇》） 孙悟空被压山下五百年，而人类在阿尔兹海默症座“五指山”下，也已困顿了百年之久。这样一个机制成谜，药物研发靠“靶点假说”的世纪难题，引无数药企竞折腰。 1 FDA的“唐僧手” 2021年6月8日，无数人从梦中醒来时，面对的是铺天盖地朋友圈转发的新闻。从业人员、相关人士、新闻媒体、吃瓜群众无不纷纷侧目，关注着这被称为“FD...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "大圣道：“我的手段多哩！我有七十二般变化，万劫不老长生。会驾筋斗云，一纵十万八千里。如何坐不得天位？”",
+    "supporting_points": [
+      "佛祖道：“我与你打个赌赛：你若有本事，一筋斗打出我这右手掌中，算你赢；若不能打出手掌，你还下界为妖，再修几劫，却来争吵。”&nbsp;\n——《西游记》",
+      "孙悟空被压山下五百年，而人类在阿尔兹海默症座“五指山”下，也已困顿了百年之久。这样一个机制成谜，药物研发靠“靶点假说”的世纪难题，引无数药企竞折腰。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "40%",
+        "99%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便进入中国市场，进口原研药的价格对患者也是一道难关，依照目前渤健对Aducanumab的定价，患者年均治疗费用约为5.6万美元，以2021年6月10日人民币对美元汇率计算，约为35.7万元人民币。GV-971相对来说要亲民一些，但年治疗费用也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "范围涉及了14个国家和地区，包含2046名轻中度阿尔兹海默病患者，其中40%将来自中国。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210610-0005.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247698860&idx=1&sn=1709219c4272e4e5397d3bc0fa4849aa&chksm=ecbc714adbcbf85c68cc651415609f249fa0929e12ce41e4906d960dcc39294f732c346deaa2#rd",
+    "publish_time": "2021-06-10",
+    "distilled_at": "2026-03-17T10:56:04.190914"
+  }
+}

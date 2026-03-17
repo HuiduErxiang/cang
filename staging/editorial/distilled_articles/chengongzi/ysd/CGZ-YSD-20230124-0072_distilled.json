@@ -1,0 +1,91 @@
+{
+  "article_id": "CGZ-YSD-20230124-0072",
+  "normalized_title": "制药巨头的2023「首裁」，默克美国分部裁员11%，主要来自「药物发现」团队",
+  "one_paragraph_essence": "裁员的风暴从2022吹到了2023，从医药领域刮到了各行各业。日前已有消息称，科技巨头微软和亚马逊将开启万人级别的大裁员，微软将要在3月底前裁员1万名员工，亚马逊则宣布了1.8万人的裁员计划。 回到医药领域，一月份还没结束已经有至少八家药企宣布了裁员的消息，其中不乏明星企业，如CRISPR基因编辑龙头公司：由华裔生物学家张峰和诺奖得主Jennifer Doudna联合创办的Editas，以及Fate这样的CAR-NK头部企业。 这家CAR-NK领军企业和杨森「掰」了，股票一日崩塌，砍光管线，还要裁掉60%员工，资金流预计还能坚持3年…… 现在，德国默克变成了第九家，并成为2023年第一家...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "裁员的风暴从2022吹到了2023，从医药领域刮到了各行各业。日前已有消息称，科技巨头微软和亚马逊将开启万人级别的大裁员，微软将要在3月底前裁员1万名员工，亚马逊则宣布了1.8万人的裁员计划。\n回到医药领域，一月份还没结束已经有至少八家药企宣布了裁员的消息，其中不乏明星企业，如CRISPR基因编辑龙头公司：由华裔生物学家张峰和诺奖得主Jennifer Doudna联合创办的Editas，以及Fat",
+    "supporting_points": [
+      "这家CAR-NK领军企业和杨森「掰」了，股票一日崩塌，砍光管线，还要裁掉60%员工，资金流预计还能坚持3年……",
+      "现在，德国默克变成了第九家，并成为2023年第一家宣布裁员的大型制药公司。\n据美国行业媒体Fierce biotech报道，默克雪兰诺（默克集团处方药业务部门）将在位于美国马萨诸塞州比勒里卡的美国研发...",
+      "据《波士顿环球报》报道，此次裁员主要来自其药物发现和开发技术团队（Discovery and Development Technologies Team），该团队拥有一批化学家和蛋白质科学家，主要职能..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "60%",
+        "26%",
+        "3亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\n这家CAR-NK领军企业和杨森「掰」了，股票一日崩塌，砍光管线，还要裁掉60%员工，资金流预计还能坚持3年……\n\n现在，德国默克变成了第九家，并成为2023年第一家宣布裁员的大型制药公司。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n为此，默克表示将更加依赖外部创新，在保持内部产出的情况下，未来将有50%新推出的管线来自合作开发或License in。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n2022年，Mersana因与GSK就一款临床前HER2 ADC药物达成14.6亿美元的合作而备受关注。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230124-0072.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248090073&idx=1&sn=0201cb19e666acb56cb96a3d8d55219a&chksm=ecba793fdbcdf029fe411d2a0aaf77117a6bfd9f500fdbc1c678984ee7c5998a7ef91d9a1f25#rd",
+    "publish_time": "2023-01-24",
+    "distilled_at": "2026-03-17T10:56:04.670102"
+  }
+}

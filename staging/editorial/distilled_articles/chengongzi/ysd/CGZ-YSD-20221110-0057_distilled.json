@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YSD-20221110-0057",
+  "normalized_title": "阿斯利康的新型哮喘药开发成功，背后几个有意思的地方",
+  "one_paragraph_essence": "今天下午3点！ 点击图片预约观看直播 正文共：2689字 预计阅读时间：7分钟 “方向比努力更重要”，最近经常能在一些地方看到这句话，如果理解有一些障碍，中国制药行业的状态可以作为补充参考。 在经过了一轮轮的政策指导、市场修正之后，我们对于新药研发已经有了一个基本的认知和共识，即“创新是核心”，无创新的药会以最快的速度被淘汰。 但，什么是创新？除了新靶点、新机制，我们对于创新是否还有其他层面的认知？如果没有，可能就会调入“盲目创新”或“伪创新”的陷阱。换句话说就是：你以为你在做创新。 其实在新药研发的产业里，创新的范畴远不止靶点和机制，或许换一个角度，思路就被打开了。 美东时间11月8日...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "今天下午3点！",
+    "supporting_points": [
+      "正文共：2689字&nbsp;\n预计阅读时间：7分钟\n“方向比努力更重要”，最近经常能在一些地方看到这句话，如果理解有一些障碍，中国制药行业的状态可以作为补充参考。\n在经过了一轮轮的政策指导、市场修正..."
+    ],
+    "conclusion_hook": "这意味着在最初的评估里，PT027并不是一款值得投入大量精力的产品。\nPT027的两种组分：沙丁胺醇和布地奈德，都是哮喘常用药。\n沙丁胺醇是β2受体激动剂，可以舒张支气管平滑肌，能起到哮喘发作时急救药"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！！",
+        "怎么做？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "2%",
+        "2%"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "临床数据一路向好，股价也大涨，但还是要裁员...\n\n股价仅剩峰值的2%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "一家药企裁员60%，有感【裁员启示录】&nbsp;\n\n点击这里，与～20万同药们喜相逢！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221110-0057.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248038501&idx=1&sn=b1c96bc0be38f40fbe19a095d1dfe242&chksm=ecbb0083dbcc89952250674152ae050ce7414bf9e91e3022f1d326a9b01b4b61be53928eb27d#rd",
+    "publish_time": "2022-11-10",
+    "distilled_at": "2026-03-17T10:56:04.569294"
+  }
+}

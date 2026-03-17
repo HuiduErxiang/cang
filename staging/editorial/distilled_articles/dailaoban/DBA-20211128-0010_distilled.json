@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20211128-0010",
+  "normalized_title": "如何理解共同富裕",
+  "one_paragraph_essence": "文章以美国前劳工部长罗伯特·赖克的著作《拯救资本主义》开场，讲述美国贫富分化的历史脉络。作者以跨文化对比的方式，将赖克的理论著作与《乡下人的悲歌》的个人叙事并置，揭示贫富差距如何从「宏观叙事」走向「灼热气流」，最终以中国视角回应「共同富裕」的时代命题。",
+  "topic": "社会经济",
+  "subtopic": "贫富差距与共同富裕政策解读",
+  "audience": "关注社会问题、公共政策、宏观经济 的读者",
+  "narrative_frame": {
+    "frame_type": "cross_cultural_analysis",
+    "key_elements": ["跨文化开场", "人物命运", "著作对比", "本土回应"]
+  },
+  "argument_skeleton": {
+    "main_claim": "贫富差距需要从宏观叙事转化为具体可感的社会问题，共同富裕是对这一问题的中国式回应",
+    "supporting_points": [
+      "赖克的著作充满精英范儿，没能完成对大众的启蒙",
+      "《乡下人的悲歌》用个人叙事让贫富分化如灼热气流般扑面而来",
+      "美国标普500指数30年涨30倍，前10%富人持有股票价值占比超80%",
+      "贫富差距在「合法且完美的自由市场制度」下完成，影响资本主义的根基"
+    ],
+    "conclusion_hook": "贫富差距这个话题需要从枯燥的数字走向灼热的气流"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "cross_cultural_opening",
+      "example": "2015年，美国前劳工部长罗伯特·赖克（Robert Reich）出版了一本很标题党的著作——《拯救资本主义》。",
+      "effect": "以跨文化人物和著作建立国际视野"
+    },
+    {
+      "device_type": "contrasting_works",
+      "example": "尽管赖克的书和纪录片里都充满了能够挑逗大众情绪的「G点」...但毕竟理论性和精英范儿太浓...直到2016年，一部个人叙事的作品引爆了对这个话题的讨论。",
+      "effect": "通过对比不同作品的传播效果揭示规律"
+    },
+    {
+      "device_type": "sensory_metaphor",
+      "example": "用强烈的故事叙事和家庭回忆录的方式，让美国几十年来的贫富分化不再停留在枯燥的数字上，而是如同灼热的气流一样扑面而来。",
+      "effect": "用感官隐喻将抽象概念具象化"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["book_analysis", "documentary_evidence", "personal_narrative"],
+    "integration_style": "著作分析+纪录片证据+个人叙事"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "cross_cultural", "sensory"],
+    "syntax_patterns": ["跨文化开场句式", "作品对比句式", "感官隐喻句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{年份}年，{人物}出版了一本很{形容词}的著作——《{书名}》。",
+      "context": "著作开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "尽管{作品}充满了能够{效果}，但毕竟{局限}，直到{转折点}，一部{新作品}引爆了{话题}。",
+      "context": "作品对比",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "让{抽象概念}不再停留在枯燥的数字上，而是如同{感官隐喻}一样扑面而来。",
+      "context": "感官隐喻块",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20211128-0010.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

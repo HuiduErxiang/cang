@@ -1,0 +1,190 @@
+{
+  "directory": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\oncology\\lung_cancer",
+  "total_files": 27,
+  "files": [
+    {
+      "filename": "PAPILLON研究.pdf",
+      "path": "NSCLC\\EGFR阳性\\Ex20ins\\PAPILLON研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\Ex20ins",
+      "size": 568087
+    },
+    {
+      "filename": "PAPILLON研究补充材料.pdf",
+      "path": "NSCLC\\EGFR阳性\\Ex20ins\\PAPILLON研究补充材料.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\Ex20ins",
+      "size": 746371
+    },
+    {
+      "filename": "FLAURA2研究.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FLAURA2研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 576834
+    },
+    {
+      "filename": "FLAURA研究OS分析补充附录.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FLAURA研究OS分析补充附录.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 869037
+    },
+    {
+      "filename": "FLAURA研究补充附录.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FLAURA研究补充附录.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 1068653
+    },
+    {
+      "filename": "FLAURA研究（奥希替尼）.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FLAURA研究（奥希替尼）.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 327765
+    },
+    {
+      "filename": "FULONG研究补充附录.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FULONG研究补充附录.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 1471902
+    },
+    {
+      "filename": "FULONG研究（伏美替尼）.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FULONG研究（伏美替尼）.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 1451577
+    },
+    {
+      "filename": "FURLONG研究PRO.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\FURLONG研究PRO.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 615081
+    },
+    {
+      "filename": "NEJ009.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\NEJ009.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 1100676
+    },
+    {
+      "filename": "NEJ009最终分析.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\NEJ009最终分析.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 506135
+    },
+    {
+      "filename": "伏美替尼中国真实世界研究.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\伏美替尼中国真实世界研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 1146810
+    },
+    {
+      "filename": "阿美替尼-AENEAS研究.pdf",
+      "path": "NSCLC\\EGFR阳性\\一线\\阿美替尼-AENEAS研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "EGFR阳性\\一线",
+      "size": 469538
+    },
+    {
+      "filename": "HORIZON-Lung.pdf",
+      "path": "NSCLC\\HER2突变\\HORIZON-Lung.pdf",
+      "category": "NSCLC",
+      "subcategory": "HER2突变",
+      "size": 607645
+    },
+    {
+      "filename": "CodeBreaK 200研究.pdf",
+      "path": "NSCLC\\KRAS\\CodeBreaK 200研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "KRAS",
+      "size": 868577
+    },
+    {
+      "filename": "氟泽雷塞2期研究.pdf",
+      "path": "NSCLC\\KRAS\\氟泽雷塞2期研究.pdf",
+      "category": "NSCLC",
+      "subcategory": "KRAS",
+      "size": 887385
+    },
+    {
+      "filename": "HARMONi-A 补充资料.pdf",
+      "path": "NSCLC\\免疫\\HARMONi-A 补充资料.pdf",
+      "category": "NSCLC",
+      "subcategory": "免疫",
+      "size": 343066
+    },
+    {
+      "filename": "HARMONi-A.pdf",
+      "path": "NSCLC\\免疫\\HARMONi-A.pdf",
+      "category": "NSCLC",
+      "subcategory": "免疫",
+      "size": 479167
+    },
+    {
+      "filename": "ASTRUM-005 研究补充资料.pdf",
+      "path": "SCLC\\ASTRUM-005 研究补充资料.pdf",
+      "category": "SCLC",
+      "size": 394102
+    },
+    {
+      "filename": "ASTRUM-005.pdf",
+      "path": "SCLC\\ASTRUM-005.pdf",
+      "category": "SCLC",
+      "size": 546939
+    },
+    {
+      "filename": "CASPIAN研究.pdf",
+      "path": "SCLC\\CASPIAN研究.pdf",
+      "category": "SCLC",
+      "size": 462651
+    },
+    {
+      "filename": "CASPIAN研究补充资料.pdf",
+      "path": "SCLC\\CASPIAN研究补充资料.pdf",
+      "category": "SCLC",
+      "size": 500422
+    },
+    {
+      "filename": "ETER701.pdf",
+      "path": "SCLC\\ETER701.pdf",
+      "category": "SCLC",
+      "size": 1754142
+    },
+    {
+      "filename": "ETER701补充数据.pdf",
+      "path": "SCLC\\ETER701补充数据.pdf",
+      "category": "SCLC",
+      "size": 2203169
+    },
+    {
+      "filename": "IMpower133 OS和PD-L1亚组分析.pdf",
+      "path": "SCLC\\IMpower133 OS和PD-L1亚组分析.pdf",
+      "category": "SCLC",
+      "size": 582433
+    },
+    {
+      "filename": "IMpower133 OS和PD-L1亚组分析补充资料.pdf",
+      "path": "SCLC\\IMpower133 OS和PD-L1亚组分析补充资料.pdf",
+      "category": "SCLC",
+      "size": 214519
+    },
+    {
+      "filename": "RATIONALE-312.pdf",
+      "path": "SCLC\\RATIONALE-312.pdf",
+      "category": "SCLC",
+      "size": 632166
+    }
+  ],
+  "categories": [
+    "NSCLC",
+    "SCLC"
+  ]
+}

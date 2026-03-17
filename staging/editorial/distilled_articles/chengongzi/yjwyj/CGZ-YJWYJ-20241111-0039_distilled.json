@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YJWYJ-20241111-0039",
+  "normalized_title": "免疫2.0时代：懂双抗的都知道！里面的门道有多深",
+  "one_paragraph_essence": "作者 | 辰公子&nbsp; 来源 | 医界望远镜 问世第十年，免疫治疗继续狂飙，挺进各个瘤种的各线治疗，彻底改变了肿瘤治疗的现状。但是，我们也能感受到PD-1单抗取得突破越来越难，边际效应逐渐显现。 双抗的出现破除了困境。 9月，HARMONi-2研究结果震撼公布。康方生物开发的PD-1/VEGF双抗依沃西单抗头对头当代“药王”帕博利珠单抗（K药）获得全面胜利，意味着我们对现有肿瘤治疗靶点的挖掘达到了更深的层面。 要知道，双抗绝非两个单抗的简单加法，其内含的作用机制更为复杂，生产工艺与单抗也不可同日而语，可以说是引领肺癌免疫治疗进入了2.0的时代。 懂双抗的都知道，里面的门道有多深…… ",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子&nbsp;\n来源 | 医界望远镜",
+    "supporting_points": [
+      "问世第十年，免疫治疗继续狂飙，挺进各个瘤种的各线治疗，彻底改变了肿瘤治疗的现状。但是，我们也能感受到PD-1单抗取得突破越来越难，边际效应逐渐显现。\n双抗的出现破除了困境。\n9月，HARMONi-2研...",
+      "依沃西单抗的两个靶点，分别来自于贝伐珠单抗的全部和派安普利单抗的部分，康方生物基于独特的Tetrabody技术将二者结合在一起，在贝伐珠单抗的Fc段链接了派安普利单抗的单链抗体（ScFv）制成，具体长..."
+    ],
+    "conclusion_hook": "可以说，依沃西单抗在疗效和安全性上的惊人表现，为晚期NSCLC患者的一线用药提供了全新的优选方案，也将肺癌领域的免疫疗法向前推进了一大步。\n目前，依沃西单抗已经在肺癌领域开展了多项III期头对头临床研"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是，"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "1%",
+        "49%",
+        "mPFS）高达11"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n从PFS的曲线上看，两组曲线明显分离，说明依沃西单抗有显著优势，相较K药可降低患者的疾病进展或死亡风险49%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n另外，在鳞状NSCLC中，依沃西单抗组≥3级TRAE发生率与帕博利珠单抗相当（22.2% vs 18.7%）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20241111-0039.json",
+    "original_url": "https://mp.weixin.qq.com/s/5Nv0cnVs1yJ6F4TBBuzqvQ",
+    "publish_time": "2024-11-11",
+    "distilled_at": "2026-03-17T10:47:59.920795"
+  }
+}

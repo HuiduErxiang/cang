@@ -1,0 +1,90 @@
+{
+  "index_version": "1.0",
+  "created_at": "2026-03-16T00:00:00Z",
+  "description": "去重索引 - 按 content_hash 索引所有已入库文件",
+  "hash_algorithm": "sha256-truncated-16",
+  "index": {
+    "ce8f96bc1952655d": {
+      "intake_id": "INT-20260316-0001",
+      "source_key": "SRC-20260316-0001",
+      "original_filename": "GIP减少GLP-1的不良反应.pdf",
+      "file_size_bytes": 1765360,
+      "first_seen_at": "2026-03-16T18:06:10.674917Z"
+    },
+    "9b4d99e1712bc900": {
+      "intake_id": "INT-20260316-0002",
+      "source_key": "SRC-20260316-0002",
+      "original_filename": "GIP协同增效.pdf",
+      "file_size_bytes": 1407674,
+      "first_seen_at": "2026-03-16T18:06:10.683671Z"
+    },
+    "30b8d4e10bb13119": {
+      "intake_id": "INT-20260316-0003",
+      "source_key": "SRC-20260316-0003",
+      "original_filename": "GIP在白色脂肪中的作用.pdf",
+      "file_size_bytes": 10770533,
+      "first_seen_at": "2026-03-16T18:06:10.748473Z"
+    },
+    "6af1f9d622fc395f": {
+      "intake_id": "INT-20260316-0004",
+      "source_key": "SRC-20260316-0004",
+      "original_filename": "GIP早期研究.pdf",
+      "file_size_bytes": 1589200,
+      "first_seen_at": "2026-03-16T18:06:10.825662Z"
+    },
+    "6e79568cb6302669": {
+      "intake_id": "INT-20260316-0005",
+      "source_key": "SRC-20260316-0005",
+      "original_filename": "GIP激动剂与拮抗剂均能观察到体重减轻.pdf",
+      "file_size_bytes": 7929876,
+      "first_seen_at": "2026-03-16T18:06:10.883837Z"
+    },
+    "ef608129606faf62": {
+      "intake_id": "INT-20260316-0006",
+      "source_key": "SRC-20260316-0006",
+      "original_filename": "SURMOUNT-1 DXA.pdf",
+      "file_size_bytes": 2970185,
+      "first_seen_at": "2026-03-16T18:06:10.933761Z"
+    },
+    "950828db066ae8e0": {
+      "intake_id": "INT-20260316-0007",
+      "source_key": "SRC-20260316-0007",
+      "original_filename": "SURMOUNT-1研究.pdf",
+      "file_size_bytes": 501380,
+      "first_seen_at": "2026-03-16T18:06:10.999494Z"
+    },
+    "333c12badbeafc4d": {
+      "intake_id": "INT-20260316-0008",
+      "source_key": "SRC-20260316-0008",
+      "original_filename": "SURMOUNT-5研究.pdf",
+      "file_size_bytes": 557232,
+      "first_seen_at": "2026-03-16T18:06:11.049480Z"
+    },
+    "c4660988985cb790": {
+      "intake_id": "INT-20260316-0009",
+      "source_key": "SRC-20260316-0009",
+      "original_filename": "SURPASS-3 MRI.pdf",
+      "file_size_bytes": 1225784,
+      "first_seen_at": "2026-03-16T18:06:11.102781Z"
+    },
+    "73f90fb9c438d75e": {
+      "intake_id": "INT-20260316-0010",
+      "source_key": "SRC-20260316-0010",
+      "original_filename": "国际肠抑胃素和肠促胰素研究的先驱+北平协和医学院林可胜教授.pdf",
+      "file_size_bytes": 835889,
+      "first_seen_at": "2026-03-16T18:06:11.167966Z"
+    },
+    "d87e87ae681f2642": {
+      "intake_id": "INT-20260316-0011",
+      "source_key": "SRC-20260316-0011",
+      "original_filename": "玛仕度肽的天然构体OXM是什么.pdf",
+      "file_size_bytes": 728837,
+      "first_seen_at": "2026-03-16T18:06:11.243079Z"
+    }
+  },
+  "statistics": {
+    "total_entries": 11,
+    "total_duplicates_detected": 0,
+    "last_updated": "2026-03-16T18:06:11.243811Z"
+  }
+}

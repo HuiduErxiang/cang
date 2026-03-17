@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20211214-0013",
+  "normalized_title": "重庆啤酒复活记",
+  "one_paragraph_essence": "文章以重庆啤酒市值突破1000亿的节点开场，回溯其从「关灯吃面」到消费白马的逆袭之路。作者以嘉士伯入主为主线，揭示乌苏啤酒如何成为「夺命大乌苏」网红产品，分析啤酒行业格局变迁（五雄争霸）和重庆啤酒如何在嘉士伯扶持下重返行业第四，最终回答「为什么一个不务正业的坏孩子能得到外资持续青睐」的问题。",
+  "topic": "商业案例",
+  "subtopic": "重庆啤酒转型与啤酒行业格局",
+  "audience": "关注商业、消费、投资的读者",
+  "narrative_frame": {
+    "frame_type": "turnaround_case",
+    "key_elements": ["转折点开场", "逆袭叙事", "行业格局分析", "关键因素揭示"]
+  },
+  "argument_skeleton": {
+    "main_claim": "重庆啤酒的复活源于嘉士伯的入主和乌苏啤酒的网红化",
+    "supporting_points": [
+      "重庆啤酒曾因乙肝疫苗大败局连续9个跌停，成为过街老鼠",
+      "嘉士伯从2008年起持续增持，目前持股超60%，是复活的最大推手",
+      "乌苏啤酒2020年卖了63万吨，占总销量四分之一，「夺命大乌苏」热梗破圈",
+      "啤酒行业赚的是格局的钱，巴西百威垄断EBITDA利润率超50%"
+    ],
+    "conclusion_hook": "啤酒这个行业，赚的首先行业格局的钱"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "turning_point_opening",
+      "example": "当重庆啤酒市值在2021年7月突破1000亿时，当年经历「关灯吃面」的股民百感交集。",
+      "effect": "以转折点制造戏剧性对比"
+    },
+    {
+      "device_type": "industry_formula",
+      "example": "啤酒这个行业，赚的首先行业格局的钱。",
+      "effect": "用公式化表达揭示行业本质"
+    },
+    {
+      "device_type": "regional_mapping",
+      "example": "啤酒的区域性很强。运输成本高、运输半径小的特点致使啤酒产销区域性明显。",
+      "effect": "通过分析区域特性揭示行业逻辑"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["turnaround_narrative", "industry_mapping", "regional_analysis"],
+    "integration_style": "逆袭叙事+行业图谱+区域分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["narrative", "analytical", "insider"],
+    "syntax_patterns": ["转折点开场句式", "行业公式句式", "区域映射句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "当{公司}市值在{时间}突破{金额}时，当年经历{事件}的{群体}百感交集。",
+      "context": "转折点开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "{行业}这个行业，赚的首先{因素}的钱。",
+      "context": "行业本质公式",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "{行业}的区域性很强。{原因}，致使{结果}。",
+      "context": "区域特性分析",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20211214-0013.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

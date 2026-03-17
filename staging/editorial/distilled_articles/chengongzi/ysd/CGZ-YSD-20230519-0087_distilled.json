@@ -1,0 +1,92 @@
+{
+  "article_id": "CGZ-YSD-20230519-0087",
+  "normalized_title": "百年药企诺和诺德如何「以慢制快」？对话诺和诺德全球药物发现高级副总裁 Karin Conde-Knape博士",
+  "one_paragraph_essence": "正文共：5136 字 4 图 预计阅读时间：13 分钟 采访 | 辰公子 主笔 | 辰公子 对诺和诺德来说，2023年是特别的一年。 一百年前的1923年，丹麦科学家奥古斯特·克罗格教授为了一个能挽救妻子的“偏方”，毅然与医生身份的哈格多恩博士合作，成立了一家制药公司生产该产品。彼时，克罗格的妻子罹患2型糖尿病多年，而那个“偏方”正是多伦多大学提取的胰岛素，二人成立的诺德胰岛素实验室公司是诺和诺德的前身。 今年，是诺和诺德成立的一百周年。 在百年诞辰之际，诺和诺德依然坚守在胰岛素领域。2022年诺和诺德全年营收1769.54亿丹麦克朗，其中有529.52亿来自胰岛素业务，占比接近30%。...",
+  "category": "药时代",
+  "topic": "人物专访",
+  "subtopic": "行业领袖",
+  "audience": "医药从业者、投资者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：5136 字&nbsp; 4 图\n预计阅读时间：13 分钟",
+    "supporting_points": [
+      "对诺和诺德来说，2023年是特别的一年。\n一百年前的1923年，丹麦科学家奥古斯特·克罗格教授为了一个能挽救妻子的“偏方”，毅然与医生身份的哈格多恩博士合作，成立了一家制药公司生产该产品。彼时，克罗格..."
+    ],
+    "conclusion_hook": "这意味着患者在使用这些药物控制血糖的同时，还有较好的心血管获益。\n这样的临床数据让他们意识到，无论是心血管疾病还是肝脏疾病，都有可能是糖尿病的合并症。在糖尿病领域已有多年积淀的诺和诺德，对于把药物扩展"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "30%",
+        "50%",
+        "150亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床研究",
+      "时间线证据",
+      "人物观点"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "2022年诺和诺德全年营收1769.54亿丹麦克朗，其中有529.52亿来自胰岛素业务，占比接近30%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "据Karin博士介绍，诺和诺德现有研发管线中，超过50%的项目基于新的疾病机理，并且其中一部分机理适用于多个疾病领域。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "不过这些项目大多来自肿瘤领域，从投资的角度看，投向代谢疾病项目的金额，也只能占整体投资的10%左右。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n这种情况在中国也是如此，中国创新势力从去年下半年开始，就迎来了爆发式的收获，今年则更甚，2023年截止至5月12日，就有整整20笔出海交易，总交易金额超过150亿美元，令人激动。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230519-0087.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248141964&idx=1&sn=affe64322af41f59b6639e3134090df4&chksm=ecbab46adbcd3d7c50297b1415cd0303b79eb45ca2c60a7dcea443b1ac9ab43104438d5ae604#rd",
+    "publish_time": "2023-05-19",
+    "distilled_at": "2026-03-17T10:56:04.925471"
+  }
+}

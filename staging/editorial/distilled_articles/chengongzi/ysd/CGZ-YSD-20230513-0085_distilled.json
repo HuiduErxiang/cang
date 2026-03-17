@@ -1,0 +1,86 @@
+{
+  "article_id": "CGZ-YSD-20230513-0085",
+  "normalized_title": "股价3年翻了3.5倍后，礼来以4229亿美元市值超越强生，登顶药企第一！",
+  "one_paragraph_essence": "中国好BD，在这里相聚！药时代学苑「第3期」创新药BD高阶研讨会欢迎您！ 在经历了股价的连续上涨后，礼来终于在2023年5月12日开盘后，以一波2.6%的高开，把自己的市值推到了4229亿美元，实现了对强生的反超，成功登顶全球药企市值第一的宝座，这也是礼来自1997年10月以来首次超过强生。 尽管这次夺魁只持续了不到2个小时，随后礼来的股价便遭到了一波卖出，迅速滑落，最后以1美分价格的涨幅结束了当日的交易，但依然称得上一次的胜利。 （图片来源：雪球） 很难想象，在仅仅3年多前，礼来的市值才只有千亿美元出头。这3年里，礼来以一路稳步上涨的姿态，把自己的股价抬高了3倍多。 这个成绩似乎并没有...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国好BD，在这里相聚！药时代学苑「第3期」创新药BD高阶研讨会欢迎您！",
+    "supporting_points": [
+      "在经历了股价的连续上涨后，礼来终于在2023年5月12日开盘后，以一波2.6%的高开，把自己的市值推到了4229亿美元，实现了对强生的反超，成功登顶全球药企市值第一的宝座，这也是礼来自1997年10月...",
+      "（制表：药时代）\n2019年12月31日，正是全球新冠疫情爆发的前夕。3年过后，吃到一大波新冠红利的辉瑞市值只涨了14%，牢牢把握K药上升期的默沙东市值上涨了50%，深陷专利悬崖的罗氏小跌2%，其余跨..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "2.6%",
+        "14%",
+        "4229亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "3年过后，吃到一大波新冠红利的辉瑞市值只涨了14%，牢牢把握K药上升期的默沙东市值上涨了50%，深陷专利悬崖的罗氏小跌2%，其余跨国大药企的变化也大多在2位数。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "通过观察礼来自2019年12月31日以来，13次股价单日涨幅＞5%的原因，可以看到，除了主要推手2款阿尔茨海默病药物外，其余的大涨均来自不同产品的推动。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230513-0085.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248139175&idx=1&sn=002896981612680036c260bf6782bf29&chksm=ecbab941dbcd30575a5ccf327162569254c6bf353988597ed9bff530c52aa98d3cf5b8fbe591#rd",
+    "publish_time": "2023-05-13",
+    "distilled_at": "2026-03-17T10:56:04.913490"
+  }
+}

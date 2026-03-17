@@ -1,0 +1,96 @@
+{
+  "article_id": "CGZ-YSD-20210709-0010",
+  "normalized_title": "这次杨森联手的公司，老板是个科普作家？",
+  "one_paragraph_essence": "作者：辰公子 编辑：欣宇 审核：辰公子 2021年7月8日，强生旗下杨森制药公司宣布，与Vor Biopharma公司达成了一项合作协 议。双方各展所长，将杨森目前在研的双特异性抗体与Vor手上的重点项目工程化造血干细胞技术平台VOR相结合，开发针对急性髓系白血病（AML）的新组合疗法。 强生不必多提。在6月11日，PharmExec（美国制药经理人杂志）发布的的2021全球制药50强里，强生以431亿美元的2020全年处方药销售额位列第4名，较上一年提升了2位，是真真正正的巨头企业。 这次他的合作伙伴Vor Biopharma 比较有意思，是一家成立于2015年的生物技术公司，专注于血...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者：辰公子",
+    "supporting_points": [
+      "2021年7月8日，强生旗下杨森制药公司宣布，与Vor Biopharma公司达成了一项合作协\n议。双方各展所长，将杨森目前在研的双特异性抗体与Vor手上的重点项目工程化造血干细胞技术平台VOR相结合...",
+      "强生不必多提。在6月11日，PharmExec（美国制药经理人杂志）发布的的2021全球制药50强里，强生以431亿美元的2020全年处方药销售额位列第4名，较上一年提升了2位，是真真正正的巨头企业。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "108.33%",
+        "80%",
+        "431亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n\nCD33是普遍存在与90%AML患者，CD33是一种在成髓细胞表面表达的抗原，在多达90%的AML患者中都存在。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在6月11日，PharmExec（美国制药经理人杂志）发布的的2021全球制药50强里，强生以431亿美元的2020全年处方药销售额位列第4名，较上一年提升了2位，是真真正正的巨头企业。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210709-0010.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247722948&idx=1&sn=be9c3bfc26ae67a1b6dab4c466a3026b&chksm=ecbcdf22dbcb563473a2ced627267f58047b3bed2456bc1d97a516925988f06c65410ffea016#rd",
+    "publish_time": "2021-07-09",
+    "distilled_at": "2026-03-17T10:56:04.225510"
+  }
+}

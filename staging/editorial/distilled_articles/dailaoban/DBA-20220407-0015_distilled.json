@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20220407-0015",
+  "normalized_title": "华清嘉园往事",
+  "one_paragraph_essence": "文章以北京华清嘉园20年房价涨30倍的故事开场，讲述这个五道口小区如何成为中国互联网人的革命老区。作者以历史纵深视角，梳理王兴、吴世春、宿华、张一鸣等互联网新贵从这里走出去的轨迹，揭示中国互联网黄金时代如何造就阶层跃迁的黄金通道。文章以盖茨比的世界为隐喻，道尽互联网造富神话的光芒与阴影。",
+  "topic": "互联网产业",
+  "subtopic": "中国互联网黄金时代与阶层跃迁",
+  "audience": "关注互联网产业、创业史、社会变迁的读者",
+  "narrative_frame": {
+    "frame_type": "place_history_narrative",
+    "key_elements": ["房价故事开场", "人物群像", "黄金时代回顾", "隐喻收尾"]
+  },
+  "argument_skeleton": {
+    "main_claim": "华清嘉园是中国互联网人的革命老区，记录了中国互联网黄金时代如何造就阶层跃迁的黄金通道",
+    "supporting_points": [
+      "华清嘉园2000年开盘5000元/平，2020年突破16万，20年涨30倍",
+      "王兴校内网租在13号楼805，吴世春酷讯租在11号楼1706",
+      "宿华和程一笑租在7号楼305",
+      "互联网成为寒门子弟阶层跃迁的黄金通道"
+    ],
+    "conclusion_hook": "莎士比亚说：这些残暴的欢愉，终将以残暴结局"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "real_estate_opening",
+      "example": "西方不能没有耶路撒冷，正如中国互联网的历史不能没有华清嘉园...开盘第二年，华清嘉园单价突破7000元，2005年破万...2020单价已有报价突破16万",
+      "effect": "以房价涨幅开场，建立叙事张力"
+    },
+    {
+      "device_type": "gatsby_metaphor",
+      "example": "那可是黄金时代啊，敲钟此起彼伏，融资蜂拥而至，美元滚滚而来...莎士比亚说：这些残暴的欢愉，终将以残暴结局",
+      "effect": "以盖茨比隐喻揭示黄金时代的光芒与阴影"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["real_estate_data", "founder_stories", "quote"],
+    "integration_style": "房价故事+人物群像+隐喻收尾"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "narrative", "metaphorical"],
+    "syntax_patterns": ["房价故事开场句式", "盖茨比隐喻句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "西方不能没有耶路撒冷，正如中国[X]的历史不能没有[Y]",
+      "context": "地点历史地位定位",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "那可是黄金时代啊，[描述]...莎士比亚说：这些残暴的欢愉，终将以残暴结局",
+      "context": "黄金时代叙事收尾",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220407-0015.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "article_id": "KZK-20240816-0033",
+  "title": "【医苑观畴】资本主义也有铁拳：美国IRA首批医保谈判价格出炉",
+  "publish_time": "2024-08-16",
+  "url": "https://mp.weixin.qq.com/s/ZR8weu1Q-NU31Gjy1rdsOw",
+  "author": "空之客",
+  "content": "早在两年前，拜大统领签署了通胀削减法案IRA，其中重头戏之一就是医保谈判，即从Medicare的Part B&D中选取花费最多的药物，从2026年开始至少有10个药品进入谈判范围（参见【医苑观畴】地主家也没有余粮：美国扩大“医保控费”力度）。一年前谈判目录公布，而2024年8月15日，这10个药品的谈判结果出炉：\n\nhttps://www.cms.gov/newsroom/fact-sheets/medicare-drug-price-negotiation-program-negotiated-prices-initial-price-applicability-year-2026\n\n乍一看从最高的Januvia降价79%往下，除了Imbruvica降幅稍低以外（可能确实竞争相对激烈且专利期所剩无几），剩下9个品种的谈判价格与售价之间降幅都在50-80%之间。\n虽然不至于跟咱们当初“4+7”那一批动辄自砍90%以上，但与历年我国医保谈判新增品种的平均降幅相比也已经有过之而无不及（偷个懒不画图了，2016-2023年分别为59%、44%、57%、61%、51%、62%、60%、62%），好像这资本主义的铁拳看上去也够狠的。\n那这铁拳到底打在哪儿了？笔者对于美国的保险体系并不算熟悉，但就一些简单可查的事实简略剖析如下。\n\n我们以谈判列表里，占用Medicare Part D资金量最大的Eliquis为例（顺便一说这里的2023年度药品花费$18b确实纳入了很多因素，几乎与该药整体销售额相当，但即便刨去后文将详述的因素，该药销售额中应也有相当比例由Medicare承担，也侧面破除了“美国医药支出以商保为主”之说）。\n关键而又复杂的一环，是有这么个PBM（Pharmacy Benefit Manager，四舍五入应该就跟那个常见名词“军工复合体”类似吧）的存在，它会与药厂之间在卖药之后发生postsale rebates（字面意思就是回扣），也就是说药厂账面上的销售额时要刨掉这部分回扣，例如在下面这个例子里，一盒药$200里面保户自掏$50，但保险可以从药厂和药店分别获得$25和$5、因此只需要掏$120。\n\nhttps://www.medpac.gov/wp-content/uploads/2023/06/Jun23_Ch2_MedPAC_Report_To_Congress_SEC.pdf\n那么问题来了，就是对于药厂来说这部分“回扣”要付多少呢？平均在20%多，但对于Eliquis这种抗凝药物居然能谈到高达40-50%，而且近些年回扣比例显著增加。这也就意味着，原本药厂就需要在售价里面掏出很大一部分给这个中间商PBM，在IRA医保谈判之后只要不用再付这些钱了（所以PBM也是闹得最凶的），哪怕是50%以上的降价，其实挤压的不是药厂、而是这个中间商（是不是一下子回到了“两票制”和“集采”的画风）！\n\n事实上，我们正可以从BMY自己对销售额（不含PFE部分）的影响预判交叉印证，其实这一轮IRA谈判确实不会造成多大损失（虽然BMY是领衔起诉IRA违宪的药企之一）。从公司2023年报披露的销售额$12.2b，到在谈判价格出炉后对2026-2027年销售额的预估中位数降到$11.5-9.8b，说破大天也就是减少了$2b左右、相当于20%。\n\nhttps://www.bms.com/assets/bms/us/en-us/pdf/investor-info/doc_presentations/2023/BMY-2023-Q4-Results-Investor-Presentation.pdf\n\nhttps://www.bms.com/investor-statement-on-eliquis-revenue-under-ira.html\n\n综上所述，美国IRA首批这十个品种的谈判，看起来确实动静不小，降幅普遍在50-80%之间，但刀子更大程度上并不一定会砍在药企身上、而是有望倒逼挤压PBM这个中间商，这架势就有那么点熟悉的味道了，莫不是也学习了“三明模式”？\n至于为什么大洋彼岸此前会形成如此强势、比我国两票制和集采之前更加过分的中间商，咱也不知道、咱也不敢问，留待熟悉美国医药体制的方家来解惑吧~",
+  "content_length": 1772,
+  "provenance": {
+    "source_file": "fulltext_kongzhike.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\空之客\\source_json\\fulltext_kongzhike.json",
+    "source_index": 32,
+    "original_title": "【医苑观畴】资本主义也有铁拳：美国IRA首批医保谈判价格出炉",
+    "original_url": "https://mp.weixin.qq.com/s/ZR8weu1Q-NU31Gjy1rdsOw",
+    "author_name": "空之客",
+    "source_account": "空之客",
+    "extracted_at": "2026-03-17T00:30:35.315282"
+  }
+}

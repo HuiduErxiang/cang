@@ -1,0 +1,76 @@
+{
+  "article_id": "CGZ-YJWYJ-20251103-0063",
+  "normalized_title": "EGFR突变NSCLC亚型高达数百种，是时候给它们分分类了",
+  "one_paragraph_essence": "作者 | 辰公子 来源 | 医界望远镜 EGFR突变NSCLC靶向治疗历经20余年后，基于外显子的EGFR突变分类方法对临床的指导，终于开始显得乏力…… 20年前，吉非替尼问世之初，人们尚未建立起对EGFR-TKI高响应患者的筛选方法。尽管基础研究已证实EGFR通路的异常激活与NSCLC的发生发展有关[1]，但由于绝大多数NSCLC细胞存在EGFR或其某种配体的过表达[2]，EGFR-TKI被认为无需测量EGFR表达水平即可使用。 在这个思路下的几项早期试验[3,4]也证明了吉非替尼在NSCLC中的抗肿瘤活性，让临床上更有信心。但随后几项III期临床试验的失败[5,7]却再次将我们拉回了起点",
+  "category": "医界望远镜",
+  "topic": "靶向治疗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n来源 | 医界望远镜",
+    "supporting_points": [
+      "EGFR突变NSCLC靶向治疗历经20余年后，基于外显子的EGFR突变分类方法对临床的指导，终于开始显得乏力……\n20年前，吉非替尼问世之初，人们尚未建立起对EGFR-TKI高响应患者的筛选方法。尽管...",
+      "基于外显子的分类方法最明显的使用障碍是亚型太多，无法与治疗药物建立对应关系。\n以ex20ins（20号外显子插入突变）为例，ex20ins是典型的难治性EGFR突变NSCLC亚型，既往被认为对EGFR..."
+    ],
+    "conclusion_hook": "可以说，PACC突变给诸多罕见且难治的EGFR突变亚型做了归因和归类。\n\n这样一方面简化了诊疗流程，避免了将每种TKI匹配几百种EGFR突变NSCLC亚型的困扰，在新分类之下，PACC 突变在 EGF"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "12.5%",
+        "61.4%",
+        "mPFS为10"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 1,
+      "examples": [
+        "就像"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "疑问语气"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "FURTHER研究结果表明，240mg伏美替尼治疗PACC突变的ORR达68.2%，mPFS达到了16个月，≥3级TRAEs发生率仅为20.7%，保持了一贯良好的安全性。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20251103-0063.json",
+    "original_url": "https://mp.weixin.qq.com/s/8BA_Z3SleM_aA4tP0nQqBg",
+    "publish_time": "2025-11-03",
+    "distilled_at": "2026-03-17T10:48:00.965379"
+  }
+}

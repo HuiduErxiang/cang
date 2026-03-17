@@ -1,0 +1,89 @@
+{
+  "article_id": "KZK-20230809-0011",
+  "normalized_title": "乔峰vs段誉：激烈到离谱的GLP-1双雄之争",
+  "one_paragraph_essence": "礼来毫无争议是今天全球医药最靓的仔，二季报中的Tirzepatide销售额数字实在令人咋舌：单季度9.8亿美元！可以看下此前这些GLP-1类药物，Tirzepatide的爬坡速度早已一骑绝尘；即使放眼整个医药史，在获批后的前四个季度累计破十亿、第五个季度单季十亿、近乎每个季度环比翻倍的恐怖速度，恕在下孤陋，好像脑海里想不出来此前有过任何重磅药物出现过这种爬坡曲线。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "武侠隐喻",
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "礼来毫无争议是今天全球医药最靓的仔，二季报中的Tirzepatide销售额数字实在令人咋舌：单季度9.8亿美元！可以看下此前这些GLP-1类药物，Tirzepatide的爬坡速度早已一骑绝尘；即使放眼整个医药史，在获批后的前四个季度累计破十亿、第五个季度单季十亿、近乎每个季度环比翻倍的恐怖速度，恕在下孤陋，好像脑海里想不出来此前有过任何重磅药物出现过这种爬坡曲线。",
+    "supporting_points": [],
+    "conclusion_hook": "有幸能围观两大绝世高手的见招拆招，既是患者的福音，亦是投资者的幸运。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 5,
+      "examples": [
+        "https://investor.lilly.com/static-files/66ea0c52-8756-413f-b898-f69c78b191ec",
+        "https://investor.novonordisk.com/q1-2023-presentation",
+        "https://www.accessdata.fda.gov/scripts/drugshortages/dsp_ActiveIngredientDetails.cfm?AI=Tirzepatide%20Injection&st=c"
+      ]
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 乔峰",
+      "keyword": "乔峰"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 段誉",
+      "keyword": "段誉"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 六脉神剑",
+      "keyword": "六脉神剑"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 降龙十八掌",
+      "keyword": "降龙十八掌"
+    },
+    {
+      "device_type": "metaphor",
+      "label": "武侠隐喻 - 打狗棒法",
+      "keyword": "打狗棒法"
+    },
+    {
+      "device_type": "self_deprecation",
+      "pattern": "在下孤陋"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230809-0011.json",
+    "original_url": "https://mp.weixin.qq.com/s/kcDXQWyazEmXAq0PpOe9-w",
+    "publish_time": "2023-08-09",
+    "distilled_at": "2026-03-17T10:17:04.050860"
+  }
+}

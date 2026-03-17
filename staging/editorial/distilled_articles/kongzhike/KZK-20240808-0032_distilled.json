@@ -1,0 +1,47 @@
+{
+  "article_id": "KZK-20240808-0032",
+  "normalized_title": "力大砖飞：百济神州扭亏在即",
+  "one_paragraph_essence": "半年前，在看到百济神州的2023年报后，我们提出了“百济神州究竟什么时候能够盈利”之问（参见【医苑观畴】钱都去哪了：百济神州的亏损之谜）；当2024年中报出炉后，我想这个问题的答案揭晓将比预计更早，百济神州凭借强大的销售额增长即将实现报表扭亏。\n进一步地，我们通过观察百济神州近几年来的扭亏之路，再次印证了对Biotech自主商业化的两个观点：1）这条路非常艰难，必须要有现象级重磅品种才有可能走通，无论在中国还是海外，大部分Biotech都并不适合自主进行商业化；2）只要销售额足够大，且浮动的成本费用结构合理能够被摊薄，再大的固定费用也能被填平，也就是俗称的“力大砖飞”。\n以下我们就定量地来看下这块砖是怎么飞的。鉴于本号对Biotech商业化已有定期更新，相关定义和口径不再重复声明，可参考文末列出往期文章。",
+  "category": "医苑观畴",
+  "topic": "医药政策",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": []
+  },
+  "argument_skeleton": {
+    "main_claim": "半年前，在看到百济神州的2023年报后，我们提出了“百济神州究竟什么时候能够盈利”之问（参见【医苑观畴】钱都去哪了：百济神州的亏损之谜）；当2024年中报出炉后，我想这个问题的答案揭晓将比预计更早，百济神州凭借强大的销售额增长即将实现报表扭亏。\n进一步地，我们通过观察百济神州近几年来的扭亏之路，再次印证了对Biotech自主商业化的两个观点：1）这条路非常艰难，必须要有现象级重磅品种才有可能走通，...",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240808-0032.json",
+    "original_url": "https://mp.weixin.qq.com/s/rMz98QPPdm7TQxk1l4VtEg",
+    "publish_time": "2024-08-08",
+    "distilled_at": "2026-03-17T10:17:04.080506"
+  }
+}

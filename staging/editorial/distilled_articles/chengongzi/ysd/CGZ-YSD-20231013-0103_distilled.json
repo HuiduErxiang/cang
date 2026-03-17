@@ -1,0 +1,81 @@
+{
+  "article_id": "CGZ-YSD-20231013-0103",
+  "normalized_title": "百济神州展现教科书式出海，但PD-1出海之后「过得好不好」，还得看国内……",
+  "one_paragraph_essence": "正文共：3438字 预计阅读时间：9分钟 作者 | 辰公子 文章来源 | 药时代公众号 封面图来源 | pixabay 刚刚过去的9月，整个中国创新药产业迎来了2023年迄今为止最振奋人心的消息，这也将成为国产原研新药载入史册的里程碑事件之一。 9月19日，百济神州同时报出了2个重磅新闻： 欧盟委员会（EC）已批准替雷利珠单抗（中文商品名：百泽安®；英文商品名：TEVIMBRA®）作为单药用于治疗既往接受过含铂化疗的不可切除、局部晚期或转移性食管鳞状细胞癌（ESCC）的成人患者。国产PD-1出海，终于实现了“零的突破”！ FDA也已经受理替雷利珠单抗的一项上市许可申请，用于一线治疗不可切...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：3438字\n预计阅读时间：9分钟",
+    "supporting_points": [
+      "刚刚过去的9月，整个中国创新药产业迎来了2023年迄今为止最振奋人心的消息，这也将成为国产原研新药载入史册的里程碑事件之一。",
+      "9月19日，百济神州同时报出了2个重磅新闻：\n欧盟委员会（EC）已批准替雷利珠单抗（中文商品名：百泽安®；英文商品名：TEVIMBRA®）作为单药用于治疗既往接受过含铂化疗的不可切除、局部晚期或转移性..."
+    ],
+    "conclusion_hook": "可以说是细致到家了。\n这使得研究结果在不同临床实践模式下均有适用性，成为适用于不同国家的高级别循证医学证据，可代表全球不同地区的临床需求，为替雷利珠单抗获得国际药监部门认可打下了高质量循证基石。\n无论"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 3,
+      "examples": [
+        "30%",
+        "157亿美元",
+        "157亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "与欧洲人种差异较小的大洋洲国家，与英、法有着“隔代亲”且语系相同的非洲国家，都十分认可EMA的监管，这些地区占据了全球30%以上的人口。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20231013-0103.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248221569&idx=1&sn=c71a1136745578018fa0dbb4397a168d&chksm=ef447b67d833f271aa363dbda5fa64f4b640af989acd43723f03bd2bdcacd7463d6356bbb4af#rd",
+    "publish_time": "2023-10-13",
+    "distilled_at": "2026-03-17T10:56:05.073028"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article_id": "KZK-20230307-0001",
+  "normalized_title": "一力降十会：DS-8201在HER2阳性泛瘤种二期临床中取得积极结果",
+  "one_paragraph_essence": "3月7日AZ和Daiichi Sankyo共同宣布，“ADC界的阿司匹林”DS-8201继续从胜利走向胜利，针对HER2+泛瘤种的二期临床DESTINY-PanTumor02试验取得积极结果，达到了预设的ORR和DoR终点，这些患者包括局部晚期、不可切除或转移性且重度经治的268例实体瘤患者，包括胆管癌、尿路上皮癌、宫颈癌、子宫内膜癌、卵巢癌、胰腺癌等多个队列。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "3月7日AZ和Daiichi Sankyo共同宣布，“ADC界的阿司匹林”DS-8201继续从胜利走向胜利，针对HER2+泛瘤种的二期临床DESTINY-PanTumor02试验取得积极结果，达到了预设的ORR和DoR终点，这些患者包括局部晚期、不可切除或转移性且重度经治的268例实体瘤患者，包括胆管癌、尿路上皮癌、宫颈癌、子宫内膜癌、卵巢癌、胰腺癌等多个队列。",
+    "supporting_points": [],
+    "conclusion_hook": "总之，如果正处于与DS-8201头对头竞争范围的玩家，至少自己心里应该修正一下所讲故事的空间量级，你就算在某些方面比王者更能文善武，但大概天下也不会有你一份。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "consensus_teardown",
+      "pattern": "这种思路的问题，是仅从逻辑而无需专业判断就可以发现的",
+      "count": 1,
+      "examples": [
+        "这种思路的问题，是仅从逻辑而无需专业判断就可以发现的"
+      ]
+    },
+    {
+      "device_type": "consensus_teardown",
+      "pattern": "然而\\s*.*\\s*，\\s*就因为",
+      "count": 1,
+      "examples": [
+        "然而泡沫之所以能出现，就因为"
+      ]
+    },
+    {
+      "device_type": "dimensional_reduction",
+      "pattern": "一个比较简单粗暴的比方是",
+      "count": 1,
+      "examples": [
+        "一个比较简单粗暴的比方是"
+      ]
+    },
+    {
+      "device_type": "source_tracing",
+      "count": 3,
+      "examples": [
+        "https://www.astrazeneca.com/media-centre/press-releases/2023/enhertu-destiny-pantumor02-shows-positive-results.html",
+        "https://www.daiichisankyo.com/investors/library/materials/",
+        "https://www.daiichisankyo.com/files/investors/library/materials/2022/JPM%20Conference%202023.pdf"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "刘邦就要登基了，那些丰沛勋贵们纷纷出来要跟汉王比试文武艺，萧何说我比汉王善谋、曹参说我比汉王能打、卢绾搞不好还要说我小时候把汉王摁在地上摩擦呢，那汉王这即将拿下的天下是要分给这些比他更能文能武的人一份么？\n\n回到DS-8201的话，包括今天新闻中的这“遮天蔽日”的泛瘤种临床，仅是在乳腺癌和肺癌这俩跟HER2高度相关的大瘤种上，DS-8201所形成的的壁垒就远不是在某个临床试验中展现出一两个有效性或者安全性数据的优势能够跨越的，何况目前所看到的绝大多数这种所谓“优势”还是纸面的（非头对头）、非注册临床终点的（多数还拿ORR说事）、并不巨大的（比如可能只是响应率高几个点）",
+      "context": "简单粗暴比喻",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而泡沫之所以能出现，就因为情绪往往不是逻辑的朋友，在市场信心（至少是局部地）爆棚时，光怪陆离的思路自会登堂入室：DS-8201价值已经高度确定，而a药在b试验中展现出c数据的优势，所以也能理所应当分",
+      "context": "转折归因句式",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20230307-0001.json",
+    "original_url": "https://mp.weixin.qq.com/s/OX1r1jeF5snOmqyoV0BoHA",
+    "publish_time": "2023-03-07",
+    "distilled_at": "2026-03-17T10:17:04.038275"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "disease_id": "PC",
+  "disease_name": "前列腺癌",
+  "disease_name_en": "Prostate Cancer",
+  "therapeutic_area": "oncology",
+  "description": "前列腺癌是男性常见的恶性肿瘤之一，起源于前列腺组织。前列腺癌的发病率随年龄增长而增加，早期通常无明显症状，晚期可出现排尿困难、血尿、骨痛等症状。",
+  "epidemiology": {
+    "incidence": "全球范围内，前列腺癌是男性第二常见的癌症，在发达国家发病率更高。",
+    "prevalence": "前列腺癌的患病率较高，尤其是在老年男性中。",
+    "risk_factors": [
+      "年龄",
+      "家族史",
+      "种族",
+      "饮食因素"
+    ]
+  },
+  "pathophysiology": {
+    "etiology": "前列腺癌的发病机制尚未完全明确，可能与遗传、激素、环境等因素有关。",
+    "molecular_pathways": [
+      "雄激素受体信号通路",
+      "PI3K/AKT/mTOR信号通路",
+      "DNA损伤修复通路"
+    ]
+  },
+  "diagnosis_criteria": {
+    "methods": [
+      "PSA检测",
+      "直肠指诊",
+      "前列腺穿刺活检",
+      "影像学检查"
+    ],
+    "classification": {
+      "staging": "TNM分期系统",
+      "grading": "Gleason评分系统"
+    }
+  },
+  "treatment_landscape": {
+    "localized": [
+      "手术治疗",
+      "放疗",
+      "主动监测"
+    ],
+    "advanced": [
+      "雄激素剥夺疗法",
+      "化疗",
+      "免疫治疗",
+      "靶向治疗",
+      "放射性配体治疗"
+    ]
+  },
+  "key_studies": [
+    "VISION",
+    "PSMAfore",
+    "TheraP",
+    "ENZA-P"
+  ],
+  "sources": [
+    "VISION",
+    "PSMAfore",
+    "TheraP",
+    "ENZA-P"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "release_id": "REL-20260315-002",
+  "created_at": "2026-03-15T19:30:00+08:00",
+  "schema_version": "1.0.0",
+  "status": "published",
+  "exporters": ["v2", "xiakedao"],
+  "description": "2A全量搬迁发布 - L1写作心法层 + L2医学策略层 + Editorial蒸馏文章 + Evidence证据库",
+
+  "knowledge_layers": {
+    "l1": {
+      "count": 8,
+      "path": "l1/writing_craft/",
+      "description": "写作心法层 - 8 个规则文件"
+    },
+    "l2": {
+      "count": 10,
+      "path": "l2/medical_playbook/",
+      "description": "医学策略层 - 10 个规则文件"
+    },
+    "staging": {
+      "count": 97,
+      "path": "staging/",
+      "description": "中间产物层 - Editorial蒸馏文章 + Evidence重建"
+    },
+    "raw": {
+      "count": 58,
+      "path": "raw/evidence/",
+      "description": "原始证据层 - Evidence摄入记录"
+    }
+  },
+
+  "consumers": {
+    "v2": {
+      "path": "consumers/v2/",
+      "ready": true,
+      "file_count": 115
+    },
+    "xiakedao": {
+      "path": "consumers/xiakedao/",
+      "ready": true,
+      "file_count": 115
+    }
+  },
+
+  "lineage": {
+    "source_release": "REL-20260315-001",
+    "migration_batch": "2A_full_migration",
+    "source_paths": [
+      "V2/rules/l1_writing_craft/",
+      "V2/rules/l2_medical_playbook/",
+      "V2/editorial/distilled_articles/",
+      "V2/editorial/persona_profiles/",
+      "V2/evidence/ingested/",
+      "V2/evidence/rebuilt/",
+      "V2/intake/manifests/"
+    ],
+    "migration_record": "lineage/migration_records_2A.json"
+  },
+
+  "validation": {
+    "manifest_valid": true,
+    "directories_exist": true,
+    "files_copied": true,
+    "checksum_verified": false
+  },
+
+  "migration_summary": {
+    "phase": "2A",
+    "total_files_migrated": 173,
+    "source_system": "medical_kb_system_v2",
+    "excluded_from_2A": {
+      "structured_l3": {
+        "file_count": 13,
+        "reason": "L3疾病知识层需要PDF提取 - 2B范围"
+      },
+      "structured_l4": {
+        "file_count": 27,
+        "reason": "L4产品证据层需要PDF提取 - 2B范围"
+      }
+    },
+    "carryover_document": "manifests/2B_carryover清单.json"
+  }
+}

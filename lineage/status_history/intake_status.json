@@ -1,0 +1,304 @@
+{
+  "history_version": "1.0",
+  "created_at": "2026-03-16T00:00:00Z",
+  "description": "进货记录状态变更历史",
+  "records": [
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0001",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.674007Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.678049Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.678053Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0001.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0002",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.682985Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.729913Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.729919Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0002.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0003",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.747690Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.819964Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.819970Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0003.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0004",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.825140Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.865930Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.865939Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0004.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0005",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.883114Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.924584Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.924592Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0005.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0006",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.933074Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:10.994652Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:10.994658Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0006.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0007",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:10.998890Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:11.045611Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:11.045618Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0007.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0008",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:11.048894Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:11.097459Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:11.097471Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0008.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0009",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:11.102108Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:11.163266Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:11.163274Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0009.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0010",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:11.167171Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:11.238581Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:11.238589Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0010.pdf"
+        }
+      ]
+    },
+    {
+      "object_type": "IntakeRecord",
+      "object_id": "INT-20260316-0011",
+      "status_history": [
+        {
+          "from_status": null,
+          "to_status": "pending_review",
+          "changed_at": "2026-03-16T18:06:11.242284Z",
+          "changed_by": "codex_real_trial",
+          "reason": "文件投递"
+        },
+        {
+          "from_status": "pending_review",
+          "to_status": "reviewed",
+          "changed_at": "2026-03-16T18:06:11.316313Z",
+          "changed_by": "system_auto",
+          "reason": "自动盘点完成"
+        },
+        {
+          "from_status": "reviewed",
+          "to_status": "dispatched",
+          "changed_at": "2026-03-16T18:06:11.316321Z",
+          "changed_by": "system_auto",
+          "reason": "自动分发到 raw/external/partner_shared/SRC-20260316-0011.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "article_id": "KZK-20240711-0029",
+  "normalized_title": "是你太疯癫，还是我看不穿：礼来32亿美元收购Morphic之惑",
+  "one_paragraph_essence": "7月8日，礼来公告以32亿美元现金收购Morphic，显然这是一家只有一款处在临床二期的小分子α4β7抑制剂的单产品公司，而礼来在这个管线投下重注，着实让笔者有些困惑。从去年礼来出手收购DICE，以及今年以来多笔针对自免领域的资产收购，多少都有点没太看懂，忍了两天并没有找到能解惑的说法（其实是主业占满了带宽），还是自己动手来扒一下是不是有我没看明白的地方。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "7月8日，礼来公告以32亿美元现金收购Morphic，显然这是一家只有一款处在临床二期的小分子α4β7抑制剂的单产品公司，而礼来在这个管线投下重注，着实让笔者有些困惑。从去年礼来出手收购DICE，以及今年以来多笔针对自免领域的资产收购，多少都有点没太看懂，忍了两天并没有找到能解惑的说法（其实是主业占满了带宽），还是自己动手来扒一下是不是有我没看明白的地方。",
+    "supporting_points": [],
+    "conclusion_hook": "最后非要给礼来这笔收购挽尊找个合理性的话，只能说礼来已经拥有相当强大的自免管线阵容，特别是手握IL23p19单抗Mirikizumab和小分子IL17抑制剂DC-806，都有可能与MORF-057形成联用协同作用，或者至少也可以充分利用礼来的研发和商业化能力。"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 4,
+      "examples": [
+        "https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-morphic-improve-outcomes-patients-inflammatory",
+        "https://investor.morphictx.com/static-files/afb4fcff-9676-4496-97d8-54c73ecfe163",
+        "https://investor.morphictx.com/static-files/5da0ac37-756f-4b45-aca7-9a59cf1cd2ab"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20240711-0029.json",
+    "original_url": "https://mp.weixin.qq.com/s/vq2I5SMdJI0hvTBY9799mA",
+    "publish_time": "2024-07-11",
+    "distilled_at": "2026-03-17T10:17:04.077070"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article_id": "CGZ-YSD-20220309-0017",
+  "normalized_title": "​最具科学家底色的跨国药企，又在中国上市了一款「全球首创药品」，深挖产品、公司、行业背后的逻辑——独家专访诺和诺德张克洲",
+  "one_paragraph_essence": "1874 年，古埃及学家埃伯斯（Georg Ebers）发现了一本写在纸莎草上的古埃及医书，经考证，其创作于时间大约在公元前1500年前后。 在这本书中，古埃及的医生们记载了一种“多饮多尿”的疾病，甚至还记载了利用谷物、水果和甜酒对此进行治疗的过程，根据我们现在的了解，这是典型的糖尿病症状。 在3千多年的历史里，人类与糖尿病的斗争一直处于下风，直到近百年的医学突破，才让它从“不治之症”，变为一种可治的慢性疾病。 人类迄今为止，已经开发了近10大类治疗糖尿病的药物，但糖尿病，从未被根治，对人类的危害也从未停止。 胰岛素作为最早的糖尿病治疗药物，在去年度过了自己的“百年诞辰”。百年来，胰岛素...",
+  "category": "药时代",
+  "topic": "人物专访",
+  "subtopic": "行业领袖",
+  "audience": "医药从业者、投资者",
+  "narrative_frame": {
+    "frame_type": "interview_profile",
+    "key_elements": [
+      "人物专访",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "1874 年，古埃及学家埃伯斯（Georg Ebers）发现了一本写在纸莎草上的古埃及医书，经考证，其创作于时间大约在公元前1500年前后。",
+    "supporting_points": [
+      "在这本书中，古埃及的医生们记载了一种“多饮多尿”的疾病，甚至还记载了利用谷物、水果和甜酒对此进行治疗的过程，根据我们现在的了解，这是典型的糖尿病症状。\n在3千多年的历史里，人类与糖尿病的斗争一直处于下..."
+    ],
+    "conclusion_hook": "可以说在降糖机制上与胰岛素类产品是互补的。\n2020年《中国成人2型糖尿病患者糖化血红蛋白控制目标及达标策略专家共识》指出，对于低血糖风险较高或低血糖危害较大以及需要减重的患者，优先考虑应用GLP-1"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "怎么样能够加速研发的速度，提升效率？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "24%",
+        "8.3%",
+        "40亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n截止2021年中国成年糖尿病患病人数约1.4亿，预计2030年将达到1.6亿，居全球各国之首，总患病率约为12.8%，大型城市的患病率则达到了15%以上，但总体血糖达标率仅为16.5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "单用口服降糖药治疗的患者达标率约35%，基础胰岛素治疗后的患者达标率约40%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "”张克洲博士说，“中国糖尿病患者人数约1.4亿,仅有不到16.5%人得到了有效控制。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "2018年诺和诺德旗下利拉鲁肽产品诺和力®成为全球最畅销降糖药，销售额超过40亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "——专访诺和益®中国3期临床研究主要研究者、解放军总医院内分泌科主任母义明教授\n未来糖尿病角逐战：礼来与诺和诺德成主角，一大批公司放弃或掉队\n12亿美元！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220309-0017.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247894447&idx=1&sn=67574e8bd31ac7957dbc2a4bad8d48bc&chksm=ecb97d49dbcef45f8f3ed3e5493771a0e87083dc01087ab9f8d097938c4bbc808a3eff0531cc#rd",
+    "publish_time": "2022-03-09",
+    "distilled_at": "2026-03-17T10:56:04.278974"
+  }
+}

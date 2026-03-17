@@ -1,0 +1,95 @@
+{
+  "article_id": "CGZ-YSD-20220826-0041",
+  "normalized_title": "研究了半个世纪，终于成功了！辉瑞又抢先一步，即将登陆「百亿美元」大市场",
+  "one_paragraph_essence": "说到研发黑洞，我们首先想到的是阿尔兹海默病以及一众神经疾病领域。但其实像这样的黑洞不在少数，呼吸道合胞病毒（Respiratory syncytial virus, RSV）感染也算一个。 自1955年发现RSV病毒以来，已经过了半个多世纪的时间，期间生命科学经历了大发展，肿瘤都已不再成为不治之症，RSV疫苗的研发依旧是世界性难题。 2022年8月25日，辉瑞公布了其二价RSV疫苗RSVpreF的大型三期临床研究RENOIR的顶线积极结果，并承诺将在今年向FDA递交这一数据及BLA申请，想要一举反超GSK。 1 百亿美元大市场 不是每一个难治的疾病领域都能成为「研发黑洞」的，至少得有足够...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "说到研发黑洞，我们首先想到的是阿尔兹海默病以及一众神经疾病领域。但其实像这样的黑洞不在少数，呼吸道合胞病毒（Respiratory syncytial virus, RSV）感染也算一个。\n自1955年发现RSV病毒以来，已经过了半个多世纪的时间，期间生命科学经历了大发展，肿瘤都已不再成为不治之症，RSV疫苗的研发依旧是世界性难题。\n2022年8月25日，辉瑞公布了其二价RSV疫苗RSVpreF的",
+    "supporting_points": [
+      "不是每一个难治的疾病领域都能成为「研发黑洞」的，至少得有足够的药企入场砸钱才行，这意味着，这样的领域有足够大的病人基数以及空白的临床需求。\nRSV是导致下呼吸道感染 (LRTI) 最常见的病毒病原体，..."
+    ],
+    "conclusion_hook": "这意味着，这样的领域有足够大的病人基数以及空白的临床需求。\nRSV是导致下呼吸道感染 (LRTI) 最常见的病毒病原体，容易引起气管炎和肺炎，对于健康的成年人来说危害不大，需要被保护的对象主要是免疫力"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "66.7%",
+        "96.6%",
+        "25亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "尽管GSK当时并没有披露对预防RSV严重感染的有效性的关键数据，给业界留下了一个悬念，但还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\nRENOIR研究入组约3.7万人，以1：1的比例随机分配接受120μg RSVpreF疫苗或安慰剂，数据显示其保护力达66.7%（96.6% CI：28.8-85.8）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "在对重症患者组——出现3个以上症状的LRTI-RSV进一步分析后，结果显示该类人群的疫苗效力达85.7%（96.6% CI：32.0-98.7）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220826-0041.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247975423&idx=2&sn=67dbc6f2231d9bde41d559be1140976a&chksm=ecb83919dbcfb00f509743eb1f18ad83d9eb123c3e40d654d8d9f756ad516f125ec4e33b7756#rd",
+    "publish_time": "2022-08-26",
+    "distilled_at": "2026-03-17T10:56:04.449989"
+  }
+}

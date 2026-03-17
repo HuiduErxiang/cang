@@ -1,0 +1,126 @@
+{
+  "disease_id": "LC",
+  "disease_name": "肺癌",
+  "disease_name_en": "Lung Cancer",
+  "therapeutic_area": "oncology",
+  "epidemiology": {
+    "incidence": "高",
+    "prevalence": "常见",
+    "mortality": "高"
+  },
+  "pathophysiology": {
+    "definition": "肺癌是起源于肺部支气管黏膜或腺体的恶性肿瘤",
+    "risk_factors": [
+      "吸烟",
+      "空气污染",
+      "职业暴露",
+      "遗传因素"
+    ],
+    "pathogenesis": "多步骤癌变过程，涉及原癌基因激活和抑癌基因失活"
+  },
+  "diagnosis_criteria": {
+    "methods": [
+      "影像学检查",
+      "组织活检",
+      "基因检测"
+    ],
+    "staging": "TNM分期系统"
+  },
+  "treatment_landscape": {
+    "localized": [
+      "手术",
+      "放疗"
+    ],
+    "advanced": [
+      "化疗",
+      "靶向治疗",
+      "免疫治疗",
+      "联合治疗"
+    ]
+  },
+  "subtypes": [
+    {
+      "subtype_id": "NSCLC",
+      "subtype_name": "非小细胞肺癌",
+      "subtype_name_en": "Non-Small Cell Lung Cancer",
+      "description": "非小细胞肺癌是肺癌的主要类型，约占肺癌总数的85%",
+      "epidemiology": {
+        "incidence": "高",
+        "prevalence": "常见"
+      },
+      "key_mutations": [
+        "EGFR",
+        "ALK",
+        "ROS1",
+        "KRAS"
+      ],
+      "standard_treatments": [
+        "手术",
+        "化疗",
+        "靶向治疗",
+        "免疫治疗"
+      ]
+    },
+    {
+      "subtype_id": "SCLC",
+      "subtype_name": "小细胞肺癌",
+      "subtype_name_en": "Small Cell Lung Cancer",
+      "description": "小细胞肺癌是肺癌中恶性程度最高的类型，约占15%",
+      "epidemiology": {
+        "incidence": "中",
+        "prevalence": "较少见"
+      },
+      "key_mutations": [
+        "TP53",
+        "RB1"
+      ],
+      "standard_treatments": [
+        "化疗",
+        "放疗",
+        "免疫治疗"
+      ]
+    }
+  ],
+  "key_studies": [
+    {
+      "study_id": "FURLONG",
+      "study_name": "FURLONG研究",
+      "description": "伏美替尼对比吉非替尼一线治疗EGFR突变阳性NSCLC的III期临床试验",
+      "phase": "III",
+      "primary_endpoint": "PFS",
+      "status": "已完成"
+    },
+    {
+      "study_id": "ASTRUM-005",
+      "study_name": "ASTRUM-005研究",
+      "description": "斯鲁利单抗联合化疗一线治疗广泛期SCLC的III期临床试验",
+      "phase": "III",
+      "primary_endpoint": "OS",
+      "status": "已完成"
+    },
+    {
+      "study_id": "RATIONALE-312",
+      "study_name": "RATIONALE-312研究",
+      "description": "替雷利珠单抗联合化疗一线治疗晚期NSCLC的III期临床试验",
+      "phase": "III",
+      "primary_endpoint": "OS",
+      "status": "已完成"
+    }
+  ],
+  "diagnostic_methods": [
+    "影像学检查",
+    "组织活检",
+    "基因检测"
+  ],
+  "prognostic_factors": [
+    "分期",
+    "病理类型",
+    "基因变异",
+    "治疗反应"
+  ],
+  "sources": [
+    "中国临床肿瘤学会（CSCO）肺癌诊疗指南",
+    "美国国家综合癌症网络（NCCN）指南",
+    "相关III期临床试验结果"
+  ]
+}

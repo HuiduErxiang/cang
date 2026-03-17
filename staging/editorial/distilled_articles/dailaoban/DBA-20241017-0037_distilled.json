@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20241017-0037",
+  "normalized_title": "奉献、服从和斗争：台积电的权力和帝国",
+  "one_paragraph_essence": "文章以2003年台积电研发六骑士在圆山饭店的合影开场，讲述台积电内部的权力游戏与人才梯队。作者以历史纵深视角，剖析梁孟松被边缘化到复仇三星的历程，揭示台积电如何通过严苛的等级制度和竞争机制培养一代又一代研发人才。文章以权力斗争为线索，展现这家近万亿美金市值公司背后的组织密码。",
+  "topic": "半导体",
+  "subtopic": "台积电权力结构与人才机制",
+  "audience": "关注半导体产业、企业管理、组织行为的读者",
+  "narrative_frame": {
+    "frame_type": "corporate_power_narrative",
+    "key_elements": ["历史合影开场", "权力斗争案例", "组织机制揭示", "帝国密码总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "台积电通过严苛的等级制度和竞争机制，培养了一代又一代研发人才，但也埋下了权力斗争的隐患",
+    "supporting_points": [
+      "2003年研发六骑士在圆山饭店合影",
+      "梁孟松被孙元成接替后边缘化",
+      "梁孟松入职三星完成第一次复仇",
+      "张忠谋2009年重新担任CEO，10分钟把蔡力行撸到光伏部门"
+    ],
+    "conclusion_hook": "企业里的权力斗争也是残酷的，接班背后往往是站队问题，失败通常就意味着上升通道的终结"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_photo_opening",
+      "example": "2003年12月7日，六个中年男人在台北圆山饭店拍了一张合影",
+      "effect": "以历史照片开场，建立叙事入口"
+    },
+    {
+      "device_type": "power_game_analysis",
+      "example": "梁孟松一度有8个月没有事情可做，白天就坐在办公室里，因为害怕遇见同事所以连饭堂都不敢去",
+      "effect": "以具体细节展现权力斗争的残酷"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_anecdote", "photo", "organizational_analysis"],
+    "integration_style": "历史照片+权力故事+组织分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "power-focused", "organizational"],
+    "syntax_patterns": ["历史照片开场句式", "权力斗争揭示句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]，[数字]个中年男人在[地点]拍了一张合影",
+      "context": "历史照片叙事开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "[X]一度有[时间]没有事情可做，白天就坐在办公室里，因为害怕遇见[Y]所以连[Z]都不敢去",
+      "context": "权力斗争中边缘化的细节",
+      "reusability_score": 3
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20241017-0037.json",
+    "distilled_at": "2026-03-17T01:30:00Z"
+  }
+}

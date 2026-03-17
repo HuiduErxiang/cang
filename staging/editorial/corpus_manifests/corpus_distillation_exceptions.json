@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-03-16",
+  "description": "作者语料重蒸馏异常清单 - 记录空文、乱码、格式异常等无法正常蒸馏的文章",
+  "exceptions": [],
+  "statistics": {
+    "total_exceptions": 0,
+    "by_author": {
+      "dailaoban": 0,
+      "chengongzi_yjwyj": 0,
+      "chengongzi_ysd": 0,
+      "kongzhike": 0
+    },
+    "by_exception_type": {
+      "empty_content": 0,
+      "encoding_error": 0,
+      "format_error": 0,
+      "other": 0
+    }
+  }
+}

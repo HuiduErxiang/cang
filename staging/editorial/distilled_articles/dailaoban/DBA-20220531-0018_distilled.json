@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20220531-0018",
+  "normalized_title": "当资产负债表不想奋斗了",
+  "one_paragraph_essence": "文章以日本1990年前后判若两国的谜团开场，讲述辜朝明如何用资产负债表衰退理论解释日本失去的二十年。作者以历史纵深视角，剖析泡沫破裂后企业和家庭不再追求利润最大化而是负债最小化的行为逻辑，揭示货币政策失效的深层原因。文章以日本为镜鉴，为理解经济衰退提供新的理论框架。",
+  "topic": "宏观经济学",
+  "subtopic": "资产负债表衰退与日本经济谜团",
+  "audience": "关注宏观经济、日本经济、货币政策 的读者",
+  "narrative_frame": {
+    "frame_type": "economic_theory_narrative",
+    "key_elements": ["国家谜团开场", "学者介绍", "理论阐述", "镜鉴意义"]
+  },
+  "argument_skeleton": {
+    "main_claim": "辜朝明的资产负债表衰退理论解释了日本泡沫破裂后货币和财政政策为何失效",
+    "supporting_points": [
+      "日本1990年前后判若两国，经济躺平超过15年",
+      "企业不再追求利润最大化而是负债最小化",
+      "利率降至零也无法刺激借贷需求",
+      "辜朝明是极少数参与日本五年经济计划制定的外籍人士"
+    ],
+    "conclusion_hook": "资产负债表衰退，是一个可以帮助理解经济衰退的全新理论框架"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "country_puzzle_opening",
+      "example": "作为过河的参考对象，日本是一颗已经被摸圆了的石头...但被放在显微镜下研究了这么多年，日本仍然有太多谜团，比如：为什么日本在1990年前后，简直是判若两国？",
+      "effect": "以国家谜团开场，建立问题意识"
+    },
+    {
+      "device_type": "scholar_introduction",
+      "example": "最后把这个问题大概讲清楚了的，是一个叫辜朝明的台湾人",
+      "effect": "以学者介绍建立理论权威性"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["country_case", "scholar_biography", "theory_explanation"],
+    "integration_style": "国家案例+学者故事+理论阐述"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["analytical", "historical", "theoretical"],
+    "syntax_patterns": ["国家谜团开场句式", "学者介绍句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "作为过河的参考对象，[国家]是一颗已经被摸圆了的石头...但被放在显微镜下研究了这么多年，[国家]仍然有太多谜团",
+      "context": "国家案例研究开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "最后把这个问题大概讲清楚了的，是一个叫[名字]的[身份]",
+      "context": "学者/专家介绍",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220531-0018.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "article_id": "CGZ-YSD-20210901-0016",
+  "normalized_title": "囊括这5P的和铂医药，会引领下一个10年的中国创新药吗？——从5个维度看药企",
+  "one_paragraph_essence": "医药产业的热度下去了。 疫情带动了一波医药行业飞起，资本唱着愉快的歌声入场，然而还没等疫情过去，资本的热情就先褪去了。药企年中报披露，不管业绩好坏，反映在股价上都是跌，砸起来蛮不讲理，恒瑞一波财报出炉更是有种掀了牌桌的感觉。 诚然，震荡是暂时的，医药产业终究是成长的板块。如何在这个行业永立潮头？翻开制药历史的书本，每一页上都密密麻麻的写着：靶向、免疫、细胞疗法、PD-1等专业词汇，仔细看了半晌，才从字缝里看出字来，满本都写着两个字是： 创新！ 创新药企需要具备的5个要素 创新不是目标，真正的目标是满足广大未被满足的临床需求。中国医药产业发展数十年，面临的需求不同，解决方式也不同。 在无药...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "数据支撑"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "医药产业的热度下去了。\n疫情带动了一波医药行业飞起，资本唱着愉快的歌声入场，然而还没等疫情过去，资本的热情就先褪去了。药企年中报披露，不管业绩好坏，反映在股价上都是跌，砸起来蛮不讲理，恒瑞一波财报出炉更是有种掀了牌桌的感觉。\n诚然，震荡是暂时的，医药产业终究是成长的板块。如何在这个行业永立潮头？翻开制药历史的书本，每一页上都密密麻麻的写着：靶向、免疫、细胞疗法、PD-1等专业词汇，仔细看了半晌，才",
+    "supporting_points": [
+      "创新不是目标，真正的目标是满足广大未被满足的临床需求。中国医药产业发展数十年，面临的需求不同，解决方式也不同。",
+      "在无药可用的年代，需要的是能快速上市仿制药；\n在吃不起进口药的年代，需要的是能绕过专利的Me-too药；\n而在医药行业资本化严重的现在，需要的是具有世界级别的竞争力，真正有差异化的创新药。\n因此，创新..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 4,
+      "examples": [
+        "然而",
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何能更加繁荣？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "不得不说"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "18%",
+        "13.3%",
+        "22亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "如同",
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "不得不说，和铂医药当年在免疫疗法这个十字路口，没有选择PD-1，而是拐向了CTLA-4实在是明智之举。",
+      "context": "口语化开头/过渡",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "2020年中国处方药市场销售规模为1.21万亿元，18%的全球总人口只占了13.3%的市场份额。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "相比之下，2020年美国药品市场总额为3590亿美元，约合人民币2.33万亿元，不到5%的全球总人口却占了将近26%的市场份额。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "一个产品授权给顶级药企卖100亿美元，销售额分成10%，能获益10亿美元；授权给二线药企卖50亿美元，即便销售额分成15%，也只能获益7.5亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "一代嵌合抗体中约2/3的氨基酸是人源的，二代人源化单抗中这个比重提升到了90%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210901-0016.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247763172&idx=1&sn=7842a6e34741069c965a07ee2e17562d&chksm=ecbf7c02dbc8f5149924208bdd60b6ee885c7d99c83fe997aef742626c2fae964020db55c4d5#rd",
+    "publish_time": "2021-09-01",
+    "distilled_at": "2026-03-17T10:56:04.271127"
+  }
+}

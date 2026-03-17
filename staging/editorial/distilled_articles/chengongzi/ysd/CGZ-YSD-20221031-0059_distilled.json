@@ -1,0 +1,123 @@
+{
+  "article_id": "CGZ-YSD-20221031-0059",
+  "normalized_title": "首张处方已开出！「全副武装」的华领，如何走好biotech的「商业化」之路？",
+  "one_paragraph_essence": "正文共： 4422字 12图 预计阅读时间： 12分钟 “ 这项以“逐梦”为名的探索试验，带来了远超预期的结果。看着停在洞泾仓库前装满多格列艾汀的货车，仿佛看到搭载着治愈糖尿病的DREAM也将一同出发。 ” 01 全球首创、中国首发的降糖药 自多格列艾汀片（商品名：华堂宁®）获国家药品监督管理局（NMPA）批准上市以来，华领医药创始人、首席执行官、首席科学官陈力博士的日程表就像高考时压在数学考卷上的草稿纸一样紧凑。 2022年10月28日，在国药物流上海物流中心洞泾仓库举行的华堂宁®发售仪式上，药时代再次有幸与陈力博士展开对话。一年前，陈力博士向我们介绍了这款全球首创新药的过去；一年后，...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;4422字&nbsp;12图\n预计阅读时间：&nbsp;12分钟",
+    "supporting_points": [
+      "这项以“逐梦”为名的探索试验，带来了远超预期的结果。看着停在洞泾仓库前装满多格列艾汀的货车，仿佛看到搭载着治愈糖尿病的DREAM也将一同出发。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "为何走成了？",
+        "为何走成了？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "1.07%",
+        "7%",
+        "1000亿美元"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "就像",
+        "如同"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床研究",
+      "时间线证据",
+      "人物观点"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "结果表明，经多格列艾汀治疗24周后，患者的糖化血红蛋白（HbA1c）从基线下降1.07%，与对照组有显著差异。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n更为关键的是，研究者观察到部分SEED研究出组患者血糖控制情况较为理想，HbA1c达到大约7%甚至6.5%，这让他们萌生了一个想法：看看这些血糖控制情况较好的患者，停药之后情况如何？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "结果显示：在停用多格列艾汀52周后，基于DREAM研究方案定义的糖尿病缓解率为65.2%，即45例患者达到缓解。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n华堂宁®正式发车（图片来源：华领医药）\n倘若站在「时空广场」的「时空之门」前，在接受传统药物治疗后疾病进展和接受多格列艾汀治疗一年后65.2%的缓解率，您选哪一个？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n全球糖尿病市场的估值大约1000亿美元，但这只是直接治疗糖尿病的费用，围绕糖尿病管理及并发症治疗的费用10倍于此。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20221031-0059.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248029060&idx=1&sn=1f6ed3b14640ff298897f169bfcb4bdc&chksm=ecbb6b62dbcce274c9ec0e74321dc4532c827804864f629ba0c0126b8ce1be8d8353f96e66a7#rd",
+    "publish_time": "2022-10-31",
+    "distilled_at": "2026-03-17T10:56:04.586925"
+  }
+}

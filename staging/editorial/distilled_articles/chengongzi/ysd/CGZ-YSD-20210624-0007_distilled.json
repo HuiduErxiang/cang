@@ -1,0 +1,118 @@
+{
+  "article_id": "CGZ-YSD-20210624-0007",
+  "normalized_title": "营收翻倍，助力50%近年FDA批准的癌症创新药物的开发！——李其翔博士分享中美冠科快速扩张的秘密",
+  "one_paragraph_essence": "记者：辰公子 编辑：辰公子 两年内核心业务营收接近翻倍； 国内新设立的苏州转化医学中心，一年多的时间已经满员，亟待扩建； 2020年至今，FDA批准的17个癌症新药里，参与了其中8个药物的开发工作。 这样爆发性的业绩增长，对于中美冠科这样一家已经拥有15年历史的CRO公司来说，可以说是一个“反常规”变化。其背后的原因，与公司的战略、运营有关，同样也与新药研发大环境的变化密不可分。 两年前，药时代对中美冠科的首席科学家（CSO）李其翔博士进行了专访：既生PDX，何生PDO(organoids)？试看登上《科学》封面的类器官如何助力新药研发！当时主要是对冠科引进的类器官技术进行了深入探讨。 ...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "记者：辰公子",
+    "supporting_points": [],
+    "conclusion_hook": "可以说是“可破局，必先布局于心中”。也正是这样一份对科学、对专业无穷探索的精神，成就了他与冠科十年的发展之路。\n\n3 \n\n没有差劲的药物，只有糟糕的临床试验&nbsp;\n\n十年来的发展，成就了中美冠科"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 3,
+      "examples": [
+        "然而",
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 2,
+      "examples": [
+        "100%",
+        "60%"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "虽然我们最源头的创新还是很少，但是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "因此在国外我们也有布局扩展，美国圣地亚哥的公司在近一年的时间营收达到了100%的涨幅，英国诺丁汉附近的分公司营收也得到了翻倍的增长。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "事实上我们现在有60%的业务都是来自肿瘤免疫，这是我们增长最快的部分，已经快要从我们原本的癌症药物转化业务里独立生长出来了。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "他跟我们分享了一组数据，从2020年1月1日至2021年5月31日，FDA共批准了26款药物上市，而中美冠科参与其中，做出很大贡献的就有13款，高达50%的参与度！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n李其翔博士\n\n一个药物进入临床后，成功的概率只有3%-5%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "以前的药物几乎全是小分子药，而现在新获批的药物里，大分子药物应该已经超过50%了。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210624-0007.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247712482&idx=1&sn=b1c7eff4da17d5fda05fb2c2d05353c8&chksm=ecbc0604dbcb8f12e10d1e167eff377ef452a8a1f284f10616de228c2dfbc74a2e974d0b099f#rd",
+    "publish_time": "2021-06-24",
+    "distilled_at": "2026-03-17T10:56:04.202450"
+  }
+}

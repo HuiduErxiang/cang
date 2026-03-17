@@ -1,0 +1,54 @@
+{
+  "article_id": "DBA-20221207-0023",
+  "normalized_title": "中国软件三十年：烟尘隐入，夹缝重生",
+  "one_paragraph_essence": "文章以比尔·盖茨1994年首次访华开场，讲述中国软件产业三十年奋斗却差距扩大的困境。作者以历史纵深视角，从WPS辉煌到传统软件衰落，分析盗版、微软冲击、企业信息化认识不足等多重障碍，揭示中国软件市场先天性的盐碱地属性。文章以金山为代表，展示软件英雄从豪情万丈到认清现实的曲折历程。",
+  "topic": "软件产业",
+  "subtopic": "中国软件产业困境与发展历程",
+  "audience": "关注软件产业、科技史、企业服务的读者",
+  "narrative_frame": {
+    "frame_type": "industry_history_narrative",
+    "key_elements": ["历史人物访华开场", "三十年历程梳理", "困境剖析", "反思总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "中国软件行业奋斗30年，为何差距跟90年代相比没缩小反而扩大？因为本土软件市场存在先天性障碍",
+    "supporting_points": [
+      "微软中国区收入仅占全球1.2%，苹果中国区收入占比高达21%",
+      "金山WPS 1990年狂卖3万套收入6600万，但1995年遭遇前有微软后有盗版",
+      "企业对信息化认识几乎为零，根本没有需求",
+      "2022年中国最大软件公司金山市值只有微软的0.8%"
+    ],
+    "conclusion_hook": "一个人固然要自我奋斗，但也要考虑历史的进程"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "historical_figure_opening",
+      "example": "1994年，比尔·盖茨第一次访问中国...39岁的盖茨衣着朴素，仅带一名同事，但他此时已是全球首富，因此接待规格极高",
+      "effect": "以历史人物访华开场，建立时代纵深感"
+    },
+    {
+      "device_type": "salt_land_metaphor",
+      "example": "中国本土的软件市场，可能存在着一些先天性的障碍...在盐碱地里种植水稻",
+      "effect": "以盐碱地隐喻揭示市场困境"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["historical_event", "data", "quote"],
+    "integration_style": "历史叙事+数据支撑+困境分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["historical", "analytical", "reflective"],
+    "syntax_patterns": ["历史人物开场句式", "盐碱地隐喻句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "中国[X]行业奋斗[N]年，为何差距跟[Y]相比没缩小，反而扩大了？",
+      "context": "行业发展困境提问",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20221207-0023.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

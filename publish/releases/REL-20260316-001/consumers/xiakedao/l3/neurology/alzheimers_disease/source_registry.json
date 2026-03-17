@@ -1,0 +1,100 @@
+{
+  "disease_id": "AD",
+  "disease_name": "阿尔茨海默病",
+  "source_type": "PDF",
+  "total_sources": 10,
+  "sources": [
+    {
+      "filename": "Clarity AD原始.pdf",
+      "title": "Clarity AD原始研究文档",
+      "study_id": "clarity_ad",
+      "study_name": "Clarity AD",
+      "product_ids": ["lecanemab"],
+      "document_type": "原始研究",
+      "language": "中文"
+    },
+    {
+      "filename": "Clarity AD全析解读.pdf",
+      "title": "Clarity AD全析解读",
+      "study_id": "clarity_ad",
+      "study_name": "Clarity AD",
+      "product_ids": ["lecanemab"],
+      "document_type": "解读文档",
+      "language": "中文"
+    },
+    {
+      "filename": "Clarity AD研究附表.pdf",
+      "title": "Clarity AD研究附表",
+      "study_id": "clarity_ad",
+      "study_name": "Clarity AD",
+      "product_ids": ["lecanemab"],
+      "document_type": "研究附表",
+      "language": "中文"
+    },
+    {
+      "filename": "TRAILBLAZER-ALZ 2.pdf",
+      "title": "TRAILBLAZER-ALZ 2原始研究",
+      "study_id": "trailblazer_alz_2",
+      "study_name": "TRAILBLAZER-ALZ 2",
+      "product_ids": ["donanemab"],
+      "document_type": "原始研究",
+      "language": "中文"
+    },
+    {
+      "filename": "TRAILBLAZER-ALZ 2全析解读.pdf",
+      "title": "TRAILBLAZER-ALZ 2全析解读",
+      "study_id": "trailblazer_alz_2",
+      "study_name": "TRAILBLAZER-ALZ 2",
+      "product_ids": ["donanemab"],
+      "document_type": "解读文档",
+      "language": "中文"
+    },
+    {
+      "filename": "TRAILBLAZER-ALZ 2研究概览摘要.pdf",
+      "title": "TRAILBLAZER-ALZ 2研究概览摘要",
+      "study_id": "trailblazer_alz_2",
+      "study_name": "TRAILBLAZER-ALZ 2",
+      "product_ids": ["donanemab"],
+      "document_type": "摘要",
+      "language": "中文"
+    },
+    {
+      "filename": "TRAILBLAZER-ALZ 6.pdf",
+      "title": "TRAILBLAZER-ALZ 6原始研究",
+      "study_id": "trailblazer_alz_6",
+      "study_name": "TRAILBLAZER-ALZ 6",
+      "product_ids": ["donanemab"],
+      "document_type": "原始研究",
+      "language": "中文"
+    },
+    {
+      "filename": "TRAILBLAZER-ALZ 6全析解读.pdf",
+      "title": "TRAILBLAZER-ALZ 6全析解读",
+      "study_id": "trailblazer_alz_6",
+      "study_name": "TRAILBLAZER-ALZ 6",
+      "product_ids": ["donanemab"],
+      "document_type": "解读文档",
+      "language": "中文"
+    },
+    {
+      "filename": "仑卡奈单抗真实世界研究摘要.pdf",
+      "title": "仑卡奈单抗真实世界研究摘要",
+      "study_id": "lecanemab_realworld_cn",
+      "study_name": "LEC中国真实世界研究",
+      "product_ids": ["lecanemab"],
+      "document_type": "摘要",
+      "language": "中文"
+    },
+    {
+      "filename": "仑卡奈单抗真实世界研究数据图表.pdf",
+      "title": "仑卡奈单抗真实世界研究数据图表",
+      "study_id": "lecanemab_realworld_cn",
+      "study_name": "LEC中国真实世界研究",
+      "product_ids": ["lecanemab"],
+      "document_type": "数据图表",
+      "language": "中文"
+    }
+  ],
+  "version": "1.0.0",
+  "last_updated": "2026-03-16"
+}

@@ -1,0 +1,81 @@
+{
+  "article_id": "CGZ-YSD-20220824-0042",
+  "normalized_title": "康方的半年报：什么叫惊喜？",
+  "one_paragraph_essence": "2022年8月23日晚，康方生物披露了上半年的业绩报告。相信看到这份业绩报告的人，无论是不是长期关注康方，都会感到某种程度上的震惊，对夏总和她的员工、股东来说，《让子弹飞》里的这句魔性台词可能会成为近期心情的真实写照： 来源：电影《让子弹飞》 1 PD-1销售额近3亿，意味着什么？ 惊喜来自超预期，康方的业绩超预期来自几个方面，首先是PD-1的销售额。 随着PD-1竞争加剧、降价等因素，国产PD-1上半年的销售数据整体成下滑趋势。而康方的PD-1产品派安普利单抗在2021年8月才刚刚获批上市，仅凭霍奇金淋巴瘤一个适应症就达到了近3亿元的销售额，扣除成本后盈利1.34亿元。 这样的成绩属实...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2022年8月23日晚，康方生物披露了上半年的业绩报告。相信看到这份业绩报告的人，无论是不是长期关注康方，都会感到某种程度上的震惊，对夏总和她的员工、股东来说，《让子弹飞》里的这句魔性台词可能会成为近期心情的真实写照：",
+    "supporting_points": [],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "25亿美元",
+        "5亿美元",
+        "25亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220824-0042.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247973409&idx=2&sn=571b3ef5018be6924778192050b8672d&chksm=ecb802c7dbcf8bd156e8864647b36e018c570873d20255973fd0eeb3084010554568f04ef000#rd",
+    "publish_time": "2022-08-24",
+    "distilled_at": "2026-03-17T10:56:04.454372"
+  }
+}

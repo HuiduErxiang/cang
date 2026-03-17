@@ -1,0 +1,88 @@
+{
+  "article_id": "CGZ-YSD-20220930-0049",
+  "normalized_title": "卡脖子 or 被卡脖子？生物制药产业供应链「国产替代」，已经需要争分夺秒！",
+  "one_paragraph_essence": "正文：3731字 预计阅读时间：10分钟 “卡脖子”一词最早的出处已不可考证，但变成热门话题是在2018年，贸易战打响后的“华为单挑美国”事件。尽管战略意识卓越的华为早在十几年前就做足准备，祭出麒麟芯片险些让美国铩羽而归，但川普政府“上下其手”，还是摸到了华为的“脖子”。这直接促使芯片成为了中国近几年最重要的的科技攻关项目，甚至没有之一。 时过境迁，政权交到了拜登政府，但“掐脖子”的行为不减反增，只是局面更为复杂。日前，拜登签署了《国家生物技术和生物制造计划》，简称“拜登政府生物法案”，直指生物产业。药时代曾发表评论文章，认为法案徒有其表，无法影响生物医药产业的现有格局。【相关阅读：拜登...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "前沿进展",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文：3731字\n预计阅读时间：10分钟",
+    "supporting_points": [
+      "“卡脖子”一词最早的出处已不可考证，但变成热门话题是在2018年，贸易战打响后的“华为单挑美国”事件。尽管战略意识卓越的华为早在十几年前就做足准备，祭出麒麟芯片险些让美国铩羽而归，但川普政府“上下其手..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "analogy_metaphor",
+      "pattern": "好比",
+      "count": 2,
+      "examples": [
+        "好比",
+        "如同"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 2,
+      "examples": [
+        "尽管战略意识卓越的华为早在十几年前就做足准备，祭出麒麟芯片险些让美国铩羽而归，但川普政府“上下其手”，还是",
+        "尽管可以通过从欧盟和日本进口解决问题，但这样一块“高积木”还是"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床指南",
+      "临床研究",
+      "时间线证据",
+      "人物观点"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220930-0049.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247992990&idx=1&sn=181009710f261a4259ae637c6a77959f&chksm=ecb8fe78dbcf776ec4dc610037f4078d59c1d59d93f236a1318cd5e1c9122caa3e4137bb80dd#rd",
+    "publish_time": "2022-09-30",
+    "distilled_at": "2026-03-17T10:56:04.506322"
+  }
+}

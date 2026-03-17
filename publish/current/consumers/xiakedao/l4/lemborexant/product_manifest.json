@@ -1,0 +1,23 @@
+{
+  "product_id": "lemborexant",
+  "product_name": "莱博雷生",
+  "product_name_en": "Lemborexant",
+  "therapeutic_area": "失眠",
+  "indication": "成人失眠",
+  "approval_status": {
+    "us_fda": "Approved (2019)",
+    "ema": "Approved (2020)",
+    "nmpa": "Approved (2022)"
+  },
+  "mechanism_of_action": "双重食欲素受体拮抗剂",
+  "clinical_trials": [
+    "PIONEER 7",
+    "SOLSTICE",
+    "CHAMPION"
+  ],
+  "administration": {
+    "route": "Oral",
+    "dosage": "5mg或10mg，睡前30分钟服用"
+  },
+  "manufacturer": "Eisai"
+}

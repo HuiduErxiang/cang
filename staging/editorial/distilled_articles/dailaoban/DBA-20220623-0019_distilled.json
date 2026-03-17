@@ -1,0 +1,59 @@
+{
+  "article_id": "DBA-20220623-0019",
+  "normalized_title": "能穿越牛熊的，只有我们对世界的认知",
+  "one_paragraph_essence": "文章以投学苑行业课推出一年的回顾开场，讲述投资认知如何穿越牛熊。作者以历史纵深视角，分析产业趋势、周期规律、供需博弈等不变的投资规律，指出能穿越牛熊的只有投资者对这些事物的认知。文章强调提升认知是对抗变幻无常世界的武器，无论风动幡动还是心动，只要找到认知制高点就能找到盈利落脚点。",
+  "topic": "投资方法论",
+  "subtopic": "投资认知与穿越牛熊",
+  "audience": "关注投资方法论、资产管理、行业研究的读者",
+  "narrative_frame": {
+    "frame_type": "investment_philosophy_narrative",
+    "key_elements": ["课程回顾开场", "不变规律分析", "认知武器提炼", "行动呼吁"]
+  },
+  "argument_skeleton": {
+    "main_claim": "能穿越牛熊的，只有投资者对产业趋势、周期规律、供需博弈这些不变事物的认知",
+    "supporting_points": [
+      "产业趋势没有变：新能源汽车加速渗透",
+      "周期规律没有变：牧原从半年盈利95亿到亏损50亿",
+      "供需博弈没有变：锂电光伏上游涨价狂潮催生10倍牛股",
+      "投资是一个没心没肺的行业"
+    ],
+    "conclusion_hook": "提升我们的认知，是为数不多的能对抗这个变幻无常世界的武器"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "course_launch_opening",
+      "example": "去年5月底的时候，我们推出了远川投学苑的第一门课程——行业课，那会儿上证指数大概是3500点。一年多过去了，今天收盘后上证指数是3320点",
+      "effect": "以课程回顾开场，建立时间纵深感"
+    },
+    {
+      "device_type": "philosophy_statement",
+      "example": "能穿越牛熊的，只有我们对世界的认知",
+      "effect": "以哲学性陈述提炼核心观点"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["market_data", "industry_example", "philosophy"],
+    "integration_style": "市场回顾+产业案例+认知提炼"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["philosophical", "reflective", "encouraging"],
+    "syntax_patterns": ["课程回顾开场句式", "哲学性陈述句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "能穿越[X]的，只有我们对[Y]的认知",
+      "context": "认知类核心观点提炼",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "投资是一个没心没肺的行业。什么叫没心没肺？就是真实的世界里无论是[A]还是[B]，投资的世界里却总有赚钱的线索",
+      "context": "投资行业特性描述",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220623-0019.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

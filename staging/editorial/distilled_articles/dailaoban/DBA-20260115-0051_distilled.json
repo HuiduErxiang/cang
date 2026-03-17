@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20260115-0051",
+  "normalized_title": "再见王石",
+  "one_paragraph_essence": "文章以电影级特写开场，描写王石与段永平、田朴珺同台时的尴尬处境，揭示这位万科创始人面临的「二次中年危机」。作者通过历史纵深视角，梳理万科从标杆企业到坠入深渊的历程，剖析「创始人缺位」这一致命隐患如何让王石的克制与清高最终成为悲剧。文章以犀利的叙事手法，将个人命运与企业兴衰交织，展现了一代商业领袖的黄昏时刻。",
+  "topic": "商业人物",
+  "subtopic": "企业家命运与企业治理",
+  "audience": "关注商业史、企业治理、房地产行业的读者",
+  "narrative_frame": {
+    "frame_type": "historical_narrative_with_character_study",
+    "key_elements": ["电影级开场特写", "历史纵深铺陈", "人物命运与企业兴衰交织", "悲剧性结尾"]
+  },
+  "argument_skeleton": {
+    "main_claim": "王石的克制与清高，在创始人缺位的治理结构下，最终导致万科的坠落和他个人的黄昏",
+    "supporting_points": [
+      "1988年股改放弃实控人地位留下致命隐患",
+      "宝能敲门前万科已是别人家孩子的标杆",
+      "后王石时代高管团队搭建财务迷宫分食利益",
+      "中年危机三件套在75岁的王石身上重演"
+    ],
+    "conclusion_hook": "老登都不好过，但那些本不该道与外人的细节，却在伴侣流量KPI的驱动下公开处刑"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "cinematic_opening",
+      "example": "见段永平的这天，王石穿了一件粉白色的格纹衬衫。近1小时里，他几乎没有任何肢体动作，只是两手交叉在腹前",
+      "effect": "以极具画面感的细节开场，迅速将读者拉入现场"
+    },
+    {
+      "device_type": "historical_echo",
+      "example": "中国历史表明，皇帝如果不再上朝，最大得益者必然是那个以私利为重的文官集团，创始人缺位的万科也一样",
+      "effect": "将企业治理问题与历史规律对比，揭示宿命感"
+    },
+    {
+      "device_type": "categorical_labeling",
+      "example": "中年危机有三件套——身体、婚姻和事业",
+      "effect": "用标签化归纳复杂的人生困境"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["anecdote", "historical_event", "quote"],
+    "integration_style": "叙事中穿插证据，用故事包装硬核逻辑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "analytical", "cinematic", "ironic"],
+    "syntax_patterns": ["历史对比句式", "细节特写句式", "悬念转折句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "这表面上是一种[A]，本质上却是一种[B]",
+      "context": "揭示事物本质的转折表达",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "老王这是想不开啊——跟[X]比[Y]，约等于跟马云比口条、跟强东比妻美",
+      "context": "用排比式类比制造幽默讽刺效果",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "这不是开始，而是结束。[主语]彻底滚蛋了，最开心的是……",
+      "context": "戏剧性反转叙事",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20260115-0051.json",
+    "distilled_at": "2026-03-17T01:15:00Z"
+  }
+}

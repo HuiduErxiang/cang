@@ -93,37 +93,61 @@
       "prototype_id": "M4_P_CINEMATIC_OPENING",
       "name": "[电影级特写开场块]",
       "description": "以精确的时间、地点、人物和极具画面感的动作细节开篇，像电影镜头一样将读者拉入事件现场，创造即时的沉浸感。",
-      "source_author": "戴老板"
+      "source_author": "戴老板",
+      "evidence_refs": {
+        "example_articles": ["DBA-20200729-0002", "DBA-20210211-0007"],
+        "example_text": "1989年6月30日深夜，一架通体漆黑的C-141军用运输机在美国华盛顿郊区的Andrews空军基地秘密起飞。"
+      }
     },
     {
       "prototype_id": "M4_P_HISTORICAL_ECHO",
       "name": "[历史回音壁块]",
       "description": "将当前事件与数年或数十年前的相似历史事件进行对照，揭示事物发展的周期性规律或宿命感，增加论述的纵深。",
-      "source_author": "戴老板"
+      "source_author": "戴老板",
+      "evidence_refs": {
+        "example_articles": ["DBA-20200729-0002", "DBA-20210211-0007"],
+        "example_text": "1989年的访华的确是斯考克罗夫特第二次来中国。在1972年那个「改变世界的一周」里，他的身份是尼克松的军事顾问。"
+      }
     },
     {
       "prototype_id": "M4_P_TAXONOMY_TEARDOWN",
       "name": "[流派图谱拆解块]",
       "description": "将复杂的行业生态或竞争格局高度抽象并命名为若干形象流派，逐一拆解其打法、特征和代表案例，帮助读者建立全景认知。",
-      "source_author": "戴老板"
+      "source_author": "戴老板",
+      "evidence_refs": {
+        "example_articles": ["DBA-20200913-0003"],
+        "example_text": "根据每家侧重点的不同，整个中国VC投资圈一共可以分成7种流派：选手派、赛道派、捕鲸派、聚焦派、扫街派、连接派和趋势派。"
+      }
     },
     {
       "prototype_id": "M4_P_CONSENSUS_TEARDOWN",
       "name": "[共识拆解块]",
       "description": "先陈述当前市场或大众的普遍共识，然后用一个简单的常识比喻或底层逻辑指出其荒谬之处，瓦解读者的思维定式。",
-      "source_author": "空之客"
+      "source_author": "空之客",
+      "evidence_refs": {
+        "example_articles": ["KZK-20230307-0001", "KZK-20230123-0002", "KZK-20230407-0006", "KZK-20240711-0029"],
+        "example_text": "这种思路的问题，是仅从逻辑而无需专业判断就可以发现的，一个比较简单粗暴的比方是：刘邦就要登基了，那些丰沛勋贵们纷纷出来要跟汉王比试文武艺，萧何说我比汉王善谋、曹参说我比汉王能打..."
+      }
     },
     {
       "prototype_id": "M4_P_SOURCE_TRACING",
       "name": "[溯源求证块]",
       "description": "面对二手信息的发酵或恐慌，直接跳过媒体解读，寻找并展示最原始的文件、数据或监管文件，以一手材料作为立论基础。",
-      "source_author": "空之客"
+      "source_author": "空之客",
+      "evidence_refs": {
+        "example_articles": ["KZK-20230314-0003", "KZK-20230809-0011", "KZK-20231222-0019", "KZK-20240816-0033"],
+        "example_text": "据McKinsey估计，至2031年IRA将减少2,810亿美元卫生费用...https://www.kff.org/...、https://investor.lilly.com/...、https://www.argenx.com/..."
+      }
     },
     {
       "prototype_id": "M4_P_DIMENSIONAL_REDUCTION",
       "name": "[降维打击块]",
       "description": "将复杂的技术或商业竞争还原为最基础的资源、产能或常识问题，剥离技术光环和叙事泡沫，回归本质。",
-      "source_author": "空之客"
+      "source_author": "空之客",
+      "evidence_refs": {
+        "example_articles": ["KZK-20230123-0002", "KZK-20230307-0001", "KZK-20240808-0032"],
+        "example_text": "医药之所以是一个工业门类，就意味着研发至多是工业链条上的一个环节，最终要创造价值依然需要各个环节完整发挥功能...真正以一己之力把一款药品做出来且卖出去从来都是极高的壁垒..."
+      }
     },
     {
       "prototype_id": "M4_P_DRAMATIC_FRAG_HOOK",
@@ -148,6 +172,50 @@
       "name": "[冷酷拆解块]",
       "description": "剥去营销包装和叙事泡沫，直接暴露底层现实——揭示估值或炒作与实际业绩之间的落差，语气冷静但结论犀利。",
       "source_author": "阿基米德Biotech"
+    },
+    {
+      "prototype_id": "M4_P_BREAKING_NEWS_HOOK",
+      "name": "[突发新闻锚定块]",
+      "description": "以'突发'、'刚刚'、'重磅'等词开篇，快速建立新闻时效性和重要性，然后再展开深度分析。常用于监管动态、临床结果公布等时效性强的内容。",
+      "source_author": "辰公子",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240309-0001", "CGZ-YSD-20210601-0003", "CGZ-YJWYJ-20240312-0002"],
+        "example_text": "真是风云突变……2024年3月8日，礼来发布公告称，FDA计划召开外周和中枢神经系统药物咨询委员会会议...",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_REGULATORY_ANALYSIS",
+      "name": "[监管决策透视块]",
+      "description": "从FDA/EMA/NMPA的监管决策角度分析药物价值，关注ODAC会议、PDUFA日期、加速批准等监管节点，揭示数据背后的监管逻辑。",
+      "source_author": "辰公子",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240309-0001", "CGZ-YSD-20210608-0004", "CGZ-YSD-20220727-0031"],
+        "example_text": "FDA计划召开外周和中枢神经系统药物咨询委员会会议（PCNSDAC）讨论其阿尔茨海默病新药Donanemab...",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_TRIAL_TEARDOWN",
+      "name": "[临床试验拆解块]",
+      "description": "对临床试验数据进行深度拆解，分析HR、P值、置信区间、亚组分析等技术细节，揭示数据背后的临床意义。常用于失败试验的复盘分析。",
+      "source_author": "辰公子",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YSD-20230207-0075", "CGZ-YSD-20210601-0003", "CGZ-YJWYJ-20240407-0013"],
+        "example_text": "为了找到试验失败的原因，我还找到了4篇此前克拉生坦做过的临床试验报告...",
+        "sub_sources": ["ysd", "yjwyj"]
+      }
+    },
+    {
+      "prototype_id": "M4_P_MILESTONE_ANNOUNCEMENT",
+      "name": "[里程碑宣告块]",
+      "description": "用'打破空白'、'首个且唯一'、'里程碑'等词汇宣告行业突破，强化新闻价值和历史意义。常用于国产创新药获批、首创新药上市等里程碑事件。",
+      "source_author": "辰公子",
+      "evidence_refs": {
+        "example_articles": ["CGZ-YJWYJ-20240407-0013", "CGZ-YSD-20220301-0015"],
+        "example_text": "这也是我国肾癌治疗领域首个获批上市的「免疫+靶向」联合疗法，特瑞普利单抗再次打破空白，成为我国广大肾癌患者首个且唯一的免疫疗法选择。",
+        "sub_sources": ["yjwyj", "ysd"]
+      }
     }
   ]
 }

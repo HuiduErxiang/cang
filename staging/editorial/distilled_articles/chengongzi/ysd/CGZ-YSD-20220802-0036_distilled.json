@@ -1,0 +1,107 @@
+{
+  "article_id": "CGZ-YSD-20220802-0036",
+  "normalized_title": "阿斯利康10亿美元购买的产品，三期临床失败，合作伙伴股价大跌，不过希望仍在...",
+  "one_paragraph_essence": "2022年8月1日，法国生物科技公司Innate Pharma在官网上向公众传达了他的合作伙伴阿斯利康的决定——在三期临床试验INTERLINK-1未达到预设的疗效阈值，基于对结果的分析和数据监查委员会的建议，阿斯利康将停止该试验的继续进行，并将这一决定通知了Innate公司，具体的临床数据将择日公布。 而INTERLINK-1试验正是曾经被阿斯利康寄予厚望的，新一代肿瘤免疫疗法monalizumab正在进行的三期临床试验之一，对比monalizumab+西妥昔单抗联用 vs 西妥昔单抗单药二线治疗头颈癌，入组人群为接受过含铂化疗或PD-（L）1治疗后进展的患者。 消息一出Innate ...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "market_analysis",
+    "key_elements": [
+      "市场分析",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "2022年8月1日，法国生物科技公司Innate Pharma在官网上向公众传达了他的合作伙伴阿斯利康的决定——在三期临床试验INTERLINK-1未达到预设的疗效阈值，基于对结果的分析和数据监查委员会的建议，阿斯利康将停止该试验的继续进行，并将这一决定通知了Innate公司，具体的临床数据将择日公布。\n而INTERLINK-1试验正是曾经被阿斯利康寄予厚望的，新一代肿瘤免疫疗法monalizum",
+    "supporting_points": [
+      "之所以没有一下子跌穿，想必是因为monalizumab成功率更大的二线治疗NSCLC的三期临床试验仍在进展中，并且成功希望颇大。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "但是",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "16%",
+        "40%",
+        "10亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "对比分析+数据支撑"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n消息一出Innate Pharma股价应声大跌，当日最大跌幅接近16%。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n结果非常令人吃惊，NKG2A 单抗单用没有显著的抗癌作用，PD-L1单抗单用则可减少40%的肿瘤组织，但是当PD-L1和 NKG2A联用时，可减少75%的肿瘤组织！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\nFDA又被告了，因为新药批的慢 —— 一个「藏在角落里」的条款，让药企股价跌半...\n股价上涨124%！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n\n1\n\n10亿美元交易\n\n回首2018年，免疫疗法获得诺贝尔奖，彻底点燃了人们对第三代肿瘤治疗的热情。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220802-0036.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247956814&idx=1&sn=351019ba0d193e0bd8558aed85126ee6&chksm=ecb841a8dbcfc8bee016f99c7df55d408123d4278f29f0c0048d602b983386851b69b1c4a9a5#rd",
+    "publish_time": "2022-08-02",
+    "distilled_at": "2026-03-17T10:56:04.414641"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "article_id": "CGZ-YSD-20220607-0023",
+  "normalized_title": "我们的历史不是我们的命运！！当拥有5000年历史的「乳腺癌」，碰到了109岁的「魔法子弹」",
+  "one_paragraph_essence": "正文共： 4485字 8图 预计阅读时间： 12分钟 引言 ................ 1862年，美国古董家艾德温‧史密斯从埃及古城卢克索的一位卖家手中，购得了一份纪录古代埃及旧事的纸莎草纸，尽管深知纸上内容有重要价值，但史密斯并却没有将纸上的内容翻译或发表，而是将其添进了自己的收藏中，默默保存。 44年后史密斯去世，纸莎草纸由他的女儿转增给了纽约历史学会，并于1930年翻译完成，此时人们才发现，纸莎草纸的内容并非什么古代王朝秘辛，而是一本纪录了48个古老病例的医学文献。 这是人类历史上第一本关于创伤的外科医学著作，据考证其成书时间约为公元前3000年左右，该书也以其可被追溯的第...",
+  "category": "药时代",
+  "topic": "靶向治疗",
+  "subtopic": "临床研究",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：&nbsp;4485字&nbsp;8图\n预计阅读时间：&nbsp;12分钟",
+    "supporting_points": [
+      "1862年，美国古董家艾德温‧史密斯从埃及古城卢克索的一位卖家手中，购得了一份纪录古代埃及旧事的纸莎草纸，尽管深知纸上内容有重要价值，但史密斯并却没有将纸上的内容翻译或发表，而是将其添进了自己的收藏中..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "49%",
+        "36%",
+        "ORR分别为52"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床指南",
+      "临床研究"
+    ],
+    "integration_style": "指南解读+临床实践"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220607-0023.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247931924&idx=1&sn=e27eaeac7c0efe47dc9627b3ea44a38b&chksm=ecb9e0f2dbce69e4649658332a911e124c1cb280cd3aa7561c45ef7cbae544bd28b5a947f417#rd",
+    "publish_time": "2022-06-07",
+    "distilled_at": "2026-03-17T10:56:04.320798"
+  }
+}

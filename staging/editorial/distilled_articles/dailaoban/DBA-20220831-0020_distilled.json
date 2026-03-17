@@ -1,0 +1,49 @@
+{
+  "article_id": "DBA-20220831-0020",
+  "normalized_title": "解构银华：一个基金公司的工业革命",
+  "one_paragraph_essence": "文章以银华基金研究员2019年春节跨省调研猪周期的故事开场，讲述这家基金公司如何通过投研体系攻克投资难题。作者以历史纵深视角，剖析银华从小公司到万亿航母的工业化投研模式转型，揭示如何让投研体系像太阳系般稳定运转，实现可持续可复制的投资能力。",
+  "topic": "资产管理",
+  "subtopic": "基金公司投研体系与工业化转型",
+  "audience": "关注资产管理、基金投资、组织管理的读者",
+  "narrative_frame": {
+    "frame_type": "corporate_capability_narrative",
+    "key_elements": ["调研故事开场", "投研案例拆解", "工业化体系揭示", "能力总结"]
+  },
+  "argument_skeleton": {
+    "main_claim": "银华基金通过工业化投研体系，实现了可持续可复制的投资能力，从小公司成长为万亿航母",
+    "supporting_points": [
+      "研究员跨省调研获取非洲猪瘟一线数据",
+      "投委会群策群力攻克猪周期投资机会",
+      "二十一年来从40亿到超万亿管理规模",
+      "第9次荣膺金牛基金管理公司"
+    ],
+    "conclusion_hook": "如何让一个资管投研模式可持续、可复制，这是资管行业的共同难题"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "research_story_opening",
+      "example": "2019年2月18日，天空中下着冷雨，刚刚在周例会上汇报了猪周期的研究员王丽敏，买了晚上8点去郑州的火车票",
+      "effect": "以调研故事开场，建立专业可信度"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["case_study", "data", "quote"],
+    "integration_style": "故事驱动+数据支撑+体系分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["professional", "narrative", "analytical"],
+    "syntax_patterns": ["调研故事开场句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "[年份]，天空中下着冷雨，刚刚在周例会上汇报了[X]的研究员，买了晚上[Y]去[Z]的火车票",
+      "context": "调研故事叙事开场",
+      "reusability_score": 3
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20220831-0020.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

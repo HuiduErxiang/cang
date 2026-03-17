@@ -1,0 +1,119 @@
+{
+  "article_id": "CGZ-YSD-20230128-0071",
+  "normalized_title": "诺华First-in-class药物上市3年后，确证性试验结果出炉：未能击败安慰剂...",
+  "one_paragraph_essence": "正文共：2069字 预计阅读时间：6分钟 又是一个诡异的临床失败。 2023年1月27日，诺华公布了其P-选择素抑制剂crizanlizumab（商品名：Adakveo）上市后3期临床试验STAND的最新进展。该产品于2019年11月获FDA批准用于预防16岁以上镰状细胞病（SCD）患者发生疼痛性血管闭塞性危机（VOC）。 SCD是一种常见的单基因突变型遗传性疾病，最常见的类型就是我们熟知的镰状细胞贫血病。当患者的血氧含量降低时，镰状细胞会增多，由于镰状细胞柔韧性差，难以通过毛细血管，因此会导致血管堵塞并引发疼痛，这种情况就是VOC。VOC严重时可能致使器官损害，并引发肾衰或心衰。 VO...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药从业者、临床医生",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "对比分析",
+      "数据支撑",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "正文共：2069字&nbsp;\n预计阅读时间：6分钟\n又是一个诡异的临床失败。",
+    "supporting_points": [
+      "2023年1月27日，诺华公布了其P-选择素抑制剂crizanlizumab（商品名：Adakveo）上市后3期临床试验STAND的最新进展。该产品于2019年11月获FDA批准用于预防16岁以上镰状..."
+    ],
+    "conclusion_hook": "可以说结果很硬了，并且体现了剂量相关性。\n\n然而在STAND研究里，初步结果表明，在随机分组后一年内，中、高剂量组在降低患者因VOC就诊次数上均未与安慰剂显示出统计学差异，具体数据并未披露。\nSUST"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而",
+        "然而"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 6,
+      "examples": [
+        "45.3%",
+        "36%",
+        "65亿美元"
+      ]
+    },
+    {
+      "device_type": "concession_transition",
+      "pattern": "虽然.+但是",
+      "count": 1,
+      "examples": [
+        "即便是全球顶级药企也"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "\n据SUSTAIN研究结果显示，治疗12个月后，与安慰剂相比，中剂量的crizanlizumab降低患者因VOC年就诊的次数达45.3%（1.63 vs 2.98，P=0.010）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n不仅5mg的中剂量组试验成功，2.5mg的低剂量组也做出了统计学差异，相比安慰剂减少了患者因VOC的年就诊次数32.6%（2.01 vs 3.0，p=0.180）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n在被认为是“下等马”后，crizanlizumab奋力增长，2020年销售额为1.05亿美元，2021年增长56%达到1.64亿美元，2022年前三季度再次增长18%达到1.43亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n根据协议，交易的总金额最高可达6.65亿美元，而促使诺华发起并购的，正是其收到的SUSTAIN研究的结果。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "有分析师曾预计Voxelotor的2024年销售额将达到19.8亿美元，而crizanlizumab则仅为2亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20230128-0071.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2248091394&idx=1&sn=b397c14478935df0fba718f12f37ba58&chksm=ecba7fe4dbcdf6f28e69d07d65292d95e3e552cbb4441f7a667c8fb1c800494dd78279103d94#rd",
+    "publish_time": "2023-01-28",
+    "distilled_at": "2026-03-17T10:56:04.662934"
+  }
+}

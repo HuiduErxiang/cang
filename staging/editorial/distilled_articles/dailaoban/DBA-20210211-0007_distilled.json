@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20210211-0007",
+  "normalized_title": "美联储的大萧条PTSD",
+  "one_paragraph_essence": "文章以美联储最早的掌舵人本杰明·斯特朗的人生故事开场，讲述美联储从诞生到大萧条的草蛇灰线。作者以历史纵深视角，将斯特朗的个人命运（娶了银行董事长女儿、染上肺结核、1928年去世）与美联储的政策演变（1927年降息救欧洲、大萧条爆发、伯南克的PTSD）交织叙述，揭示「命运给斯特朗开了个玩笑」的宿命感，以及大萧条如何塑造了美联储此后近百年的政策基因。",
+  "topic": "宏观经济",
+  "subtopic": "美联储历史与大萧条政策遗产",
+  "audience": "关注宏观经济、货币政策、金融史的读者",
+  "narrative_frame": {
+    "frame_type": "historical_biography",
+    "key_elements": ["人物命运开场", "机构演变铺陈", "历史转折点", "当代回响"]
+  },
+  "argument_skeleton": {
+    "main_claim": "大萧条的阴影塑造了美联储此后近百年的政策基因，形成了对通缩和衰退的PTSD",
+    "supporting_points": [
+      "本杰明·斯特朗作为美联储实际控制人，1928年病逝导致政策真空",
+      "斯特朗1927年降息救欧洲，为后来的股市泡沫埋下伏笔",
+      "大萧条期间美联储的错误决策（紧缩货币、放任银行倒闭）加深了危机",
+      "伯南克等后任美联储主席的研究形成对大萧条的政策记忆"
+    ],
+    "conclusion_hook": "但命运也给斯特朗开了个玩笑：这份工作赋予他无上成就感的工作，也在慢慢谋杀他"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "biographical_opening",
+      "example": "美联储最早的「掌舵人」本杰明·斯特朗（Benjamin Strong）是个小镇青年。",
+      "effect": "以人物身世开场，建立叙事张力"
+    },
+    {
+      "device_type": "destiny_irony",
+      "example": "但命运也给斯特朗开了个玩笑：这份工作赋予他无上成就感的工作，也在慢慢谋杀他。",
+      "effect": "用命运的反讽揭示人物的悲剧性"
+    },
+    {
+      "device_type": "historical_causation",
+      "example": "1916年他为了跟欧洲协调处理黄金流入美国的问题，冒险横渡大西洋，染上了肺结核——在抗生素和卡介苗发明之前，这几乎是一个不治之症。",
+      "effect": "揭示历史事件的因果链条"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["biographical_detail", "historical_timeline", "policy_analysis"],
+    "integration_style": "传记细节+历史时间线+政策分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["epic", "tragic", "analytical"],
+    "syntax_patterns": ["传记开场句式", "命运反讽句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{机构}最早的「掌舵人」{姓名}是个{出身}。",
+      "context": "传记式开场",
+      "reusability_score": 4
+    },
+    {
+      "fragment": "但命运也给{人物}开了个玩笑：{成就描述}，也在{代价描述}。",
+      "context": "命运反讽块",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "{年份}年他为了{目的}，{行动}，{后果}——在{背景}下，这几乎是一个{定性}。",
+      "context": "历史因果链条",
+      "reusability_score": 4
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20210211-0007.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

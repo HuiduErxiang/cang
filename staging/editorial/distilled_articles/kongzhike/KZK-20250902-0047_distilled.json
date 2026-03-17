@@ -1,0 +1,58 @@
+{
+  "article_id": "KZK-20250902-0047",
+  "normalized_title": "“今日无事”：Alnylam公布高血压药物的KARDIA-3试验结果",
+  "one_paragraph_essence": "去年Alnylam和Roche公布的Zilebesiran在KARDIA-2试验结果的时候，笔者就引用“天边的乌云”来形容（参见【药海听涛】晴空乌云：Alnylam公布高血压药物的KARDIA-2试验结果）。当时，对于KARDIA-3的态度也只是认为“既有启示、也难免引入挑战”，没想到一年后揭盖子的时候，KARDIA-3直接读出了未达到显著性的结果。",
+  "category": "药海听涛",
+  "topic": "医药投资",
+  "subtopic": "临床与监管分析",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "analytical_commentary",
+    "key_elements": [
+      "溯源求证"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "去年Alnylam和Roche公布的Zilebesiran在KARDIA-2试验结果的时候，笔者就引用“天边的乌云”来形容（参见【药海听涛】晴空乌云：Alnylam公布高血压药物的KARDIA-2试验结果）。当时，对于KARDIA-3的态度也只是认为“既有启示、也难免引入挑战”，没想到一年后揭盖子的时候，KARDIA-3直接读出了未达到显著性的结果。",
+    "supporting_points": [],
+    "conclusion_hook": null
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "source_tracing",
+      "count": 2,
+      "examples": [
+        "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/a763e465-b043-4df4-824b-ccbaa8326c73",
+        "https://www.astrazeneca.com/content/dam/az/Investor_Relations/events/ESC2025-Presentation-20250831.pdf"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "clinical_data",
+      "market_data",
+      "policy_documents"
+    ],
+    "integration_style": "数据驱动+逻辑推演+常识比喻"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "analytical",
+      "skeptical",
+      "wry"
+    ],
+    "syntax_patterns": [
+      "反问句式",
+      "转折归因",
+      "简单粗暴比喻"
+    ]
+  },
+  "reusable_expression_fragments": [],
+  "provenance": {
+    "source_author": "kongzhike",
+    "source_file": "KZK-20250902-0047.json",
+    "original_url": "https://mp.weixin.qq.com/s/8cXNsKxYKtVsWbQA5MsBUw",
+    "publish_time": "2025-09-02",
+    "distilled_at": "2026-03-17T10:17:04.097728"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "registry_id": "lung_cancer_v1",
+  "name": "肺癌知识库资源注册表",
+  "version": "1.0",
+  "description": "肺癌相关PDF文档和知识资源的注册表",
+  "sources": [
+    {
+      "source_id": "raw_lung_cancer_pdfs",
+      "name": "肺癌原始PDF文档",
+      "type": "pdf_collection",
+      "location": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\oncology\\lung_cancer",
+      "index_file": "D:\\汇度编辑部1\\藏经阁\\raw\\pdf\\oncology\\lung_cancer\\pdf_index.json",
+      "categories": [
+        "NSCLC",
+        "SCLC"
+      ],
+      "count": 27,
+      "last_updated": "2026-03-16"
+    },
+    {
+      "source_id": "l3_lung_cancer_knowledge",
+      "name": "肺癌L3疾病知识",
+      "type": "structured_knowledge",
+      "location": "D:\\汇度编辑部1\\藏经阁\\l3\\oncology\\lung_cancer\\disease_knowledge.json",
+      "format": "JSON",
+      "schema_version": "1.0",
+      "last_updated": "2026-03-16"
+    },
+    {
+      "source_id": "l4_furmonertinib_product",
+      "name": "伏美替尼L4产品证据",
+      "type": "product_evidence",
+      "location": "D:\\汇度编辑部1\\藏经阁\\l4\\furmonertinib\\product_manifest.json",
+      "format": "JSON",
+      "schema_version": "1.0",
+      "last_updated": "2026-03-16"
+    }
+  ],
+  "schemas": [
+    {
+      "schema_id": "l3_disease_knowledge",
+      "name": "L3疾病知识Schema",
+      "location": "D:\\汇度编辑部1\\藏经阁\\manifests\\schemas\\l3_disease_knowledge_schema.json",
+      "version": "1.0"
+    },
+    {
+      "schema_id": "l4_product_evidence",
+      "name": "L4产品证据Schema",
+      "location": "D:\\汇度编辑部1\\藏经阁\\manifests\\schemas\\l4_product_evidence_schema.json",
+      "version": "1.0"
+    }
+  ]
+}

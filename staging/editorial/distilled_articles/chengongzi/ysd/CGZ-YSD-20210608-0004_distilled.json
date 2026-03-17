@@ -1,0 +1,105 @@
+{
+  "article_id": "CGZ-YSD-20210608-0004",
+  "normalized_title": "里程碑！渤健/卫材阿尔兹海默症新药Aducanumab获FDA批准上市，十年磨一剑！",
+  "one_paragraph_essence": "它来了，它来了，它向着千亿市场走来了！ 2021年6月7日，美国FDA宣布批准渤健/卫材公司Aβ（β淀粉样蛋白）抗体aducanumab用于治疗早期阿尔兹海默症（AD）患者的生物制品许可（BLA）申请。 这个曾经数次刷屏，备受争议的阿尔兹海默症治疗药物，今天终于被FDA官宣批准上市。 Aducanumab是啥？ 这是一款用于治疗早期阿尔兹海默症的药物 靶点是β-淀粉样蛋白（Aβ），这是目前最火热的阿尔兹海默症两大靶点之一，另一个是Tau蛋白 由Neurimmune发现，2007年“过继”给了渤健（Biogen） 目前的“法定监护人”是渤健（Biogen）和卫材（Eisai） 为何备受瞩目...",
+  "category": "药时代",
+  "topic": "新药研发",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "国际视角",
+      "人物故事"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "它来了，它来了，它向着千亿市场走来了！",
+    "supporting_points": [
+      "2021年6月7日，美国FDA宣布批准渤健/卫材公司Aβ（β淀粉样蛋白）抗体aducanumab用于治疗早期阿尔兹海默症（AD）患者的生物制品许可（BLA）申请。"
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 1,
+      "examples": [
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 3,
+      "examples": [
+        "！",
+        "为何备受瞩目？",
+        "为何备受争议？"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 2,
+      "examples": [
+        "可谓",
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "6000亿美元",
+        "400亿美元",
+        "6000亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "人物专访+行业洞察"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "在美国，大约每年有6000亿美元用于护理这些病人，预计2050年，每年用于治疗阿尔茨海默症的费用将达到6万亿美元。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "400亿美元市场何时才能迎来首款治疗药物？",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20210608-0004.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247697917&idx=2&sn=e28191248f8d5f09e0d9ba9829ef2c06&chksm=ecbc7d1bdbcbf40d0dedcfe087f842a3a400245ac91beccb5995950c184debe328f1b62b369b#rd",
+    "publish_time": "2021-06-08",
+    "distilled_at": "2026-03-17T10:56:04.182300"
+  }
+}

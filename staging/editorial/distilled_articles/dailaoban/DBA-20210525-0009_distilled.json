@@ -1,0 +1,69 @@
+{
+  "article_id": "DBA-20210525-0009",
+  "normalized_title": "超越认知：中国行业背后的500个秘密",
+  "one_paragraph_essence": "文章以2019年底参加虎嗅年会的个人经历开场，引出远川「撰写500个全球登顶的冠军行业+500个行业称霸的龙头企业」的十年愿景。作者以「投资的本质是对认知的变现」为核心论点，通过养猪、光伏、新能源汽车、社区团购等行业案例，揭示每个行业背后的「秘密」，最终引出「远川投学苑」产品介绍。",
+  "topic": "产品介绍",
+  "subtopic": "行业研究与投资认知方法论",
+  "audience": "关注投资、行业研究、个人财富的读者",
+  "narrative_frame": {
+    "frame_type": "vision_pitch",
+    "key_elements": ["个人经历开场", "愿景阐述", "案例举证", "产品引出"]
+  },
+  "argument_skeleton": {
+    "main_claim": "投资的本质是对认知的变现，对行业的深度认知等于财富",
+    "supporting_points": [
+      "过去10年成功投资依靠对「中观」行业的深刻认知，而非宏观择时或微观黑马",
+      "用行业认知的α，叠加中国崛起的β，是成功投资的通用公式",
+      "中国行业数量多、差别大，水平参差不齐，每个行业都有诀窍和法门",
+      "注册制背景下，所有行业都会有龙头公司上市，认知更容易变现"
+    ],
+    "conclusion_hook": "投资的本质是对认知的变现"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "personal_context_opening",
+      "example": "2019年底的时候，我去北京参加了虎嗅的年会，在年度作者的颁奖活动上做了一个演讲，主题叫做：我们欠时代的1001个故事。",
+      "effect": "以个人经历建立叙事可信度"
+    },
+    {
+      "device_type": "secret_revealing",
+      "example": "养猪行业为什么能诞生寡头？背后的秘密是供给侧玩家的持续出清。",
+      "effect": "用「秘密」一词制造悬念和知识获得感"
+    },
+    {
+      "device_type": "formula_summarization",
+      "example": "用行业认知的α，叠加了中国崛起的β，这是过去10年成功投资的通用公式。",
+      "effect": "用公式化表达总结复杂规律"
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": ["industry_case", "investment_formula", "personal_testimony"],
+    "integration_style": "行业案例+投资公式+个人见证"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": ["visionary", "educational", "promotional"],
+    "syntax_patterns": ["愿景句式", "秘密揭示句式", "公式总结句式"]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "{行业}为什么能{成就}？背后的秘密是{原因}。",
+      "context": "行业秘密揭示",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "用{因素A}的α，叠加了{因素B}的β，这是{场景}的通用公式。",
+      "context": "成功公式总结",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "投资的本质是对认知的变现。",
+      "context": "核心论点表达",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "dailaoban",
+    "source_file": "DBA-20210525-0009.json",
+    "distilled_at": "2026-03-17T02:00:00Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "article_id": "CGZ-YSD-20220721-0032",
+  "normalized_title": "二审败诉！重磅ADC药物Enhertu依旧被判侵权。盘点药企专利之争，厉害的药全被告了...",
+  "one_paragraph_essence": "Enhertu（DS-8201）是近几年最火热的癌症治疗药物之一，凭借一己之力带火了整个ADC赛道，在头对头试验中完胜同靶点的二代ADC药物Kadcyla，数次登上顶级医学期刊封面，今年ASCO上更是再次成为最靓的药，有望改变乳腺癌分型。 然而，尽管Enhertu在“场内”风光无限，“场外”却面临着专利纠纷。2020年10月Seagen，就是最近被默沙东盯上意图收购的药企，对第一三共的Enhertu提起了专利诉讼，认为其违反了“039号专利”，而这个“039号专利”涉及的内容正是“蛋白酶可裂解连接子”——Enhertu的核心优势之一。 今年4月，法院宣判第一三共需向Seagen赔偿418...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "breaking_news_analysis",
+    "key_elements": [
+      "新闻驱动",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "Enhertu（DS-8201）是近几年最火热的癌症治疗药物之一，凭借一己之力带火了整个ADC赛道，在头对头试验中完胜同靶点的二代ADC药物Kadcyla，数次登上顶级医学期刊封面，今年ASCO上更是再次成为最靓的药，有望改变乳腺癌分型。",
+    "supporting_points": [
+      "然而，尽管Enhertu在“场内”风光无限，“场外”却面临着专利纠纷。2020年10月Seagen，就是最近被默沙东盯上意图收购的药企，对第一三共的Enhertu提起了专利诉讼，认为其违反了“039号...",
+      "第一三共表示，将继续寻求上诉机会。不过他们似乎并不围绕“是否侵权”的事实进行讨论，而是希望援引“拖延起诉”的条款来辩护，该条款大意为：如果专利持有者在起诉过程中因不合理的、无法解释的原因导致长时间的拖..."
+    ],
+    "conclusion_hook": "可以说是“能告尽告”，专利保护已经成为药企无法回避的问题，下面我们总结一下近年来发生在重磅产品上的专利诉讼案。\n\n1、免疫疗法头牌药物——Keytruda\n\nKyeturda是近年来最重磅的药品之一，"
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "contrast_juxtaposition",
+      "pattern": "然而[，,]?",
+      "count": 2,
+      "examples": [
+        "然而，",
+        "但是"
+      ]
+    },
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 2,
+      "examples": [
+        "！",
+        "为何没有获得诺奖？"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "25亿美元",
+        "86亿美元",
+        "25亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "根据协议，默沙东将要先支付给BMS/小野制药6.25亿美元的首付款，此外还有未来数年按比例的销售额分成，按照Kyeturda2021年的171.86亿美元的销售额计算，将要分出超过10亿美元纯利润。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "\n凭此一项专利布局，BMS和小野制药将以3:1的比例分享这每年超过10亿美元的专利费用。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "Portage Biotech全力以赴地投身于腺苷通路\n艾伯维放弃了2.25亿美元的药物！",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    },
+    {
+      "fragment": "然而，尽管Enhertu在“场内”风光无限，“场外”却面临着专利纠纷。",
+      "context": "对比转折",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220721-0032.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247953448&idx=1&sn=0fd4f8e19ebbb79f3e02db343b190207&chksm=ecb854cedbcfddd84fbdf2fbe1577d6dfc61945808f92468442fc581e5177448629f46e10e51#rd",
+    "publish_time": "2022-07-21",
+    "distilled_at": "2026-03-17T10:56:04.387507"
+  }
+}

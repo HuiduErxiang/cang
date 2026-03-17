@@ -1,0 +1,19 @@
+{
+  "article_id": "KZK-20240911-0031",
+  "title": "【药海听涛】从PFS到OS的崩坏：看Dato-DXd肺癌三期数据变迁",
+  "publish_time": "2024-09-11",
+  "url": "https://mp.weixin.qq.com/s/LtB9KJQ9dPLKtq1rkqHNjg",
+  "author": "空之客",
+  "content": "9月9日，AZ在WCLC 2024年会上公布了TROP2 ADC治疗2L+ NSCLC的三期临床TROPION-Lung01试验的OS获益结果。\n\nhttps://www.astrazeneca.com/content/dam/az/Investor_Relations/events/WCLC-2024-Investor-relations-event-Presentation.pdf\n\n虽然，早在去年ESMO时就已经从中期分析知道了OS可能是阴性结果，但一直以来公司给出的态度一直是非鳞癌还大有可为，毕竟PFS结果很好、中期OS好像也还有一战之力，然而此次披露结果似乎进一步往下滑了一截，无论是从PFS到OS获益的转化、还是从中期分析到完整结果，都有那么点不牢靠，这大概也就体现了临床开发不到最后完成都时刻不能放下风险防范意识吧。（看标题是不是以为要说上周末出炉的某全行业注目的炸裂数据读出了？没错在下确实在整理那个话题，不过那边还没完工就看到这个略有相关性的结果了，先预个热吧）\n\n在TROPION-Lung01三期临床试验中，共入组了604例2L+ NSCLC患者，其中非鳞癌占78%左右、伴有AGA占17%左右，由Dato-DXd与多西他赛对照，采用PFS和OS双终点。\n\n在去年ESMO上首次公布试验结果，整体PFS对比为4.4mo vs 3.7mo、HR=0.75（0.62, 0.91）、p=0.004；其中鳞癌完全没有PFS获益（所以基本上当场凉了），非鳞癌的PFS对比为5.6mo vs 3.7mo、HR=0.63（0.51, 0.78）。\n\n然而OS整体结果令人心碎，12.4mo vs 11.0mo、HR=0.90（0.72, 1.13）；好在非鳞癌亚组看起来还有得救，HR=0.77（0.59, 1.01），毕竟置信区间上限也就压在1出一点点头，而且这个中期分析时的事件发生比例已经到了74%、看起来后续翻大车的概率按说不算太高。\n\n此外，伴有AGA的患者亚组PFS获益非常显著，HR低至0.38。\n\n这一数据公布，Dato-DXd一下失去逐鹿整个2L+ NSCLC的星辰大海，只能退守非鳞癌，好在这江南半壁看起来还算稳固，就这样ESMO期间AZ股价大跌了8%以上。\n\n到了今年ELCC，更新的非鳞癌OS对比为13.4mo vs 11.4mo，HR=0.79（0.60, 1.02），比上面又稍微下滑了一点、好在不多，而且KM曲线除了前4个月以外后面还是分得挺开的。\n\n短短几个月后的昨天，在WCLC上公布的完整分析中，非鳞癌的OS对比是14.6mo vs&nbsp;12.3mo，HR=0.84（0.68, 1.05）。好家伙又往下滑了一步，前后不到一年HR从0.77上升到0.84，置信区间上限冲到1.05，KM曲线最后那几个月又直接重合到一起了；更要命的是，伴有AGA患者群的OS获益也远没有PFS那样显著，HR=0.65（0.40, 1.08），这置信区间上限看着也不比不伴有AGA的患者群强到哪里去，特别是考虑到AGA患者占比还不到20%，这下想再退一步跟SKB-264竞争AGA人群都不见得稳妥了。\n\n此外，虽然本次并未披露新的严重不良反应，但这7例ILD死亡（鳞癌3+非鳞癌4）看着还是很不舒服，要知道此前TROPION-Lung02试验和TROPION-PanTumor01试验的8mpk以下剂量组中可都没发生ILD死亡。\n\n现在问题来了，面对PFS显著、OS不显著的结果，年底的PDUFA会有什么样的决定？当然曾经FDA也不乏这样批准的先例，至少加速批准是有机会的，不过好像更多是诸如Tecentriq的IMPASSION130/131这种亚组获益、加速批准、但确证临床又翻车的剧情（恕在下想不起来有什么三期OS获益不显著还最终完全批准的案例了）。所以，容我随口一说（不负任何责任），Dato-DXd在non-sq&nbsp;2L+ NSCLC适应症未见得能获批。\n最后还是要声明，本文只针对TROPION-Lung01试验，有关PFS到OS转化和中期分析数据可靠性等临床和统计学问题，极其复杂在下也远未入门，不影射任何其他产品和企业。",
+  "content_length": 1741,
+  "provenance": {
+    "source_file": "fulltext_kongzhike.json",
+    "source_file_path": "D:\\汇度编辑部1\\藏经阁待入库\\空之客\\source_json\\fulltext_kongzhike.json",
+    "source_index": 30,
+    "original_title": "【药海听涛】从PFS到OS的崩坏：看Dato-DXd肺癌三期数据变迁",
+    "original_url": "https://mp.weixin.qq.com/s/LtB9KJQ9dPLKtq1rkqHNjg",
+    "author_name": "空之客",
+    "source_account": "空之客",
+    "extracted_at": "2026-03-17T00:30:35.314501"
+  }
+}

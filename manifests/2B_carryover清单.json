@@ -1,0 +1,139 @@
+{
+  "carryover_id": "CARRYOVER-2B-20260315",
+  "created_at": "2026-03-15T19:00:00+08:00",
+  "source_phase": "2A",
+  "target_phase": "2B",
+  "description": "2A阶段明确延期到2B的知识资产清单",
+
+  "items": [
+    {
+      "id": "CO-001",
+      "category": "L3疾病知识层",
+      "source_path": "structured/l3/",
+      "target_layer": "l3/",
+      "file_count": 13,
+      "status": "deferred",
+      "reason": "需要PDF提取和结构化处理",
+      "required_action": "2B阶段执行医学数据库PDF提取，充实L3疾病通识层",
+      "subdirectories": {
+        "neurology/insomnia/": {
+          "files": ["m1_thesis_derivation_rules.json", "disease_knowledge.json"],
+          "disease_area": "失眠"
+        },
+        "neurology/alzheimers_disease/": {
+          "files": ["disease_knowledge.json", "source_registry.json", "m1_thesis_derivation_rules.json"],
+          "disease_area": "阿尔茨海默病"
+        },
+        "oncology/prostate/": {
+          "files": ["disease_knowledge.json"],
+          "disease_area": "前列腺癌"
+        },
+        "oncology/gastric_cancer/": {
+          "files": ["disease_knowledge.json", "m1_thesis_derivation_rules.json"],
+          "disease_area": "胃癌"
+        },
+        "oncology/lung_cancer/": {
+          "files": ["disease_knowledge.json", "m1_thesis_derivation_rules.json"],
+          "disease_area": "肺癌"
+        },
+        "oncology/": {
+          "files": ["disease_knowledge_shared.json", "source_registry.json", "m1_thesis_derivation_rules_shared.json"],
+          "description": "肿瘤学共享知识"
+        }
+      }
+    },
+    {
+      "id": "CO-002",
+      "category": "L4产品证据层",
+      "source_path": "structured/l4/",
+      "target_layer": "l4/",
+      "file_count": 27,
+      "status": "deferred",
+      "reason": "需要PDF提取和产品知识充实",
+      "required_action": "2B阶段执行医学数据库PDF提取，充实L4产品证据层",
+      "products": {
+        "lecanemab": {
+          "files": [
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json",
+            "client_style_instances/client_startup_aggressive.json",
+            "client_style_instances/client_pfizer_corporate.json",
+            "client_style_instances/client_patient_empathetic.json"
+          ],
+          "therapeutic_area": "阿尔茨海默病",
+          "status": "需要产品证据充实"
+        },
+        "donanemab": {
+          "files": [
+            "product_manifest.json",
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json",
+            "client_style_instances/client_default.json"
+          ],
+          "therapeutic_area": "阿尔茨海默病",
+          "status": "需要产品证据充实"
+        },
+        "pluvicto": {
+          "files": [
+            "product_manifest.json",
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json",
+            "client_style_instances/client_default.json"
+          ],
+          "therapeutic_area": "前列腺癌",
+          "status": "需要产品证据充实"
+        },
+        "furmonertinib": {
+          "files": [
+            "product_manifest.json",
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json"
+          ],
+          "therapeutic_area": "肺癌",
+          "status": "需要产品证据充实"
+        },
+        "lemborexant": {
+          "files": [
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json"
+          ],
+          "therapeutic_area": "失眠",
+          "status": "需要产品证据充实"
+        },
+        "trastuzumab_deruxtecan_gastric": {
+          "files": [
+            "product_manifest.json",
+            "product_taxonomy.json",
+            "m5_compliance_rules.json",
+            "expression_library.json"
+          ],
+          "therapeutic_area": "胃癌",
+          "status": "需要产品证据充实"
+        }
+      }
+    }
+  ],
+
+  "summary": {
+    "total_items": 2,
+    "total_files": 40,
+    "categories": ["L3疾病知识层", "L4产品证据层"]
+  },
+
+  "blockers_for_2B": [
+    "医学数据库PDF全量提取流程未建立",
+    "L3/L4知识结构化Schema未最终确定",
+    "产品证据充实依赖临床试验数据提取"
+  ],
+
+  "acceptance_criteria_for_2B": [
+    "PDF提取流程建立并验证",
+    "L3/L4 Schema确定",
+    "至少一个产品的完整证据链充实"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "product_id": "pluvicto",
+  "product_name": "镥[177Lu]特昔维匹肽",
+  "product_name_en": "Lutetium [177Lu] Vipivotide Tetraxetan",
+  "therapeutic_area": "前列腺癌",
+  "indication": "转移性去势抵抗性前列腺癌 (mCRPC)",
+  "approval_status": {
+    "us_fda": "Approved (2022)",
+    "ema": "Approved (2022)",
+    "nmpa": "Pending"
+  },
+  "mechanism_of_action": "PSMA靶向放射性配体疗法",
+  "clinical_trials": [
+    "VISION",
+    "PSMAfore"
+  ],
+  "efficacy_data": {
+    "primary_endpoints": ["Overall Survival", "Radiographic Progression-Free Survival"]
+  },
+  "safety_data": {
+    "common_adverse_events": ["Fatigue", "Nausea", "Anemia", "Constipation"]
+  },
+  "biomarkers": ["PSMA expression"],
+  "sources": ["VISION", "PSMAfore"],
+  "administration": {
+    "route": "Intravenous",
+    "dosage": "7.4 GBq every 6 weeks for up to 6 cycles"
+  },
+  "manufacturer": "Novartis"
+}

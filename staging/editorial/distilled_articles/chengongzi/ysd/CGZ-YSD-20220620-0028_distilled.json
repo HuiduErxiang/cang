@@ -1,0 +1,90 @@
+{
+  "article_id": "CGZ-YSD-20220620-0028",
+  "normalized_title": "上市1年内，就有244位患者用药后死亡...这药也能站上FDA专家咨询委员会？",
+  "one_paragraph_essence": "FDA最近与专家咨询委员会的互动颇为频繁。 6月9日-10日，FDA召开「细胞、组织和基因治疗咨询委员会（CTGTAC）」，讨论蓝鸟生物的两款基因疗法产品，两款产品均获得专家的高票支持，蓝鸟生物也成功止住了近期的颓势，股价抬头。 相关阅读： 高票通过！FDA专家咨询委员会首日，蓝鸟生物「闯关成功」，这次他们能缓过来吗？ FDA两场专家咨询委员会后，蓝鸟生物和CRISPR的「股价」头对头变化... 6月14-15日，FDA继续召开了疫苗及相关生物制品咨询委员会（VRBPAC)，讨论辉瑞/BioNtech及Moderna的新冠疫苗关于婴幼儿适应症的话题，最终两款疫苗产品获得专家的全票支持，认...",
+  "category": "药时代",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "FDA最近与专家咨询委员会的互动颇为频繁。\n6月9日-10日，FDA召开「细胞、组织和基因治疗咨询委员会（CTGTAC）」，讨论蓝鸟生物的两款基因疗法产品，两款产品均获得专家的高票支持，蓝鸟生物也成功止住了近期的颓势，股价抬头。\n相关阅读：",
+    "supporting_points": [
+      "高票通过！FDA专家咨询委员会首日，蓝鸟生物「闯关成功」，这次他们能缓过来吗？\nFDA两场专家咨询委员会后，蓝鸟生物和CRISPR的「股价」头对头变化...",
+      "6月14-15日，FDA继续召开了疫苗及相关生物制品咨询委员会（VRBPAC)，讨论辉瑞/BioNtech及Moderna的新冠疫苗关于婴幼儿适应症的话题，最终两款疫苗产品获得专家的全票支持，认为应当...",
+      "而就在上周五，6月17日，FDA又召开了精神药物咨询委员会（PDAC），讨论一款选择性5-羟色胺反向激动剂和拮抗剂——Nuplazid，用于治疗与阿尔茨海默病相关的幻觉和妄想。\n相比于前两场会议讨论的..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "rhetorical_question",
+      "pattern": "[？！]+$",
+      "count": 1,
+      "examples": [
+        "！"
+      ]
+    },
+    {
+      "device_type": "colloquial_emphasis",
+      "pattern": "真是[。，]",
+      "count": 1,
+      "examples": [
+        "可谓"
+      ]
+    },
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "41亿美元",
+        "10亿美元",
+        "41亿美元"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "监管决策",
+      "临床指南",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "疑问语气",
+      "口语化表达",
+      "专业权威"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "括号补充说明",
+      "破折号强调"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "但2020年，Nuplazid的销售额只有4.418亿美元，虽然卖的也不少，但对于一款有着“独占”赛道资格的药物来说，这样的销售额是远远不够的。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "ysd",
+    "source_file": "CGZ-YSD-20220620-0028.json",
+    "original_url": "http://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247938534&idx=1&sn=f08a3c19dac175d76be7ce95d3bb3379&chksm=ecb98900dbce0016000fc017c6c9f82b89a3371594ea52261d5d7ac5870c0d7a7158fae4923e#rd",
+    "publish_time": "2022-06-20",
+    "distilled_at": "2026-03-17T10:56:04.360127"
+  }
+}

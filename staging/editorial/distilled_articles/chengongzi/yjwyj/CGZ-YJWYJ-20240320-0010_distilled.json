@@ -1,0 +1,73 @@
+{
+  "article_id": "CGZ-YJWYJ-20240320-0010",
+  "normalized_title": "ORR跟OS获益有多大关系？别说，FDA回顾了13项大型临床试验后，还真发现……",
+  "one_paragraph_essence": "作者 | 辰公子 审核 | 涟濯 来源 | 医界望远镜 北京时间2022年4月22日凌晨5点，一场持续了4个小时的FDA肿瘤药物专家咨询委员会（ODAC）终于结束。 会议的起因是，FDA对4款加速获批的PI3Kδ抑制剂的6项临床试验做了回顾性分析[1]，发现这些药物竟然因为毒性太强，导致了患者预期寿命的缩短！ 即：药物在杀死癌细胞的同时，把患者也给带走了。 由于此前它们都是都凭借单臂试验获批，试验的终点数据用的也是替代终点，让这个Bug藏匿了许久。这不禁让FDA反思起已有的加速批准政策，也让业内对替代终点（如ORR）是否能切实转化为OS获益产生了兴趣。 会上，16:1的压倒性结果坚定了FDA",
+  "category": "医界望远镜",
+  "topic": "肿瘤免疫",
+  "subtopic": "监管动态",
+  "audience": "医药投资者、行业从业者",
+  "narrative_frame": {
+    "frame_type": "question_driven_inquiry",
+    "key_elements": [
+      "问题导向",
+      "对比分析",
+      "数据支撑",
+      "国际视角"
+    ]
+  },
+  "argument_skeleton": {
+    "main_claim": "作者 | 辰公子\n审核 | 涟濯\n来源 | 医界望远镜",
+    "supporting_points": [
+      "北京时间2022年4月22日凌晨5点，一场持续了4个小时的FDA肿瘤药物专家咨询委员会（ODAC）终于结束。\n会议的起因是，FDA对4款加速获批的PI3Kδ抑制剂的6项临床试验做了回顾性分析[1]，发..."
+    ],
+    "conclusion_hook": ""
+  },
+  "rhetoric_devices": [
+    {
+      "device_type": "data_citation",
+      "pattern": "\\d+\\.?\\d*%",
+      "count": 4,
+      "examples": [
+        "1%",
+        "1%",
+        "ORR）是否能切实转化为OS获益产生了兴趣。\n会上，16"
+      ]
+    }
+  ],
+  "evidence_usage_pattern": {
+    "evidence_types": [
+      "临床终点数据",
+      "监管决策",
+      "临床研究",
+      "时间线证据"
+    ],
+    "integration_style": "数据驱动分析"
+  },
+  "tone_and_syntax_signals": {
+    "tone_markers": [
+      "感叹语气",
+      "专业权威",
+      "批判性思考"
+    ],
+    "syntax_patterns": [
+      "插入语修饰",
+      "数据嵌入",
+      "括号补充说明"
+    ]
+  },
+  "reusable_expression_fragments": [
+    {
+      "fragment": "由于PD-L1表达水平对ICI的疗效具有较好的预测效果，研究也将患者根据PD-L1表达分成了4组（＜1%，1%-49%，≥50%和未知）。",
+      "context": "数据驱动陈述",
+      "reusability_score": 5
+    }
+  ],
+  "provenance": {
+    "source_author": "chengongzi",
+    "sub_source": "yjwyj",
+    "source_file": "CGZ-YJWYJ-20240320-0010.json",
+    "original_url": "https://mp.weixin.qq.com/s/d4XtL7gsaUMCnjdmD3nogA",
+    "publish_time": "2024-03-20",
+    "distilled_at": "2026-03-17T10:47:59.232528"
+  }
+}
