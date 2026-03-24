@@ -13,7 +13,7 @@ from pathlib import Path
 from collections import defaultdict
 
 # Paths
-BASE_DIR = Path(r"D:\汇度编辑部1\藏经阁")
+BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_DIR = BASE_DIR / "staging" / "editorial" / "source_articles" / "kongzhike" / "articles"
 OUTPUT_DIR = BASE_DIR / "staging" / "editorial" / "distilled_articles" / "kongzhike"
 L1_DIR = BASE_DIR / "l1" / "writing_craft"

@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\CSCO指南\\2022CSCO胃癌诊疗指南 (1).pdf",
+    "product_id": "2022CSCO胃癌诊疗指南",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-2022CSCO胃癌诊疗指南-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+      "title": "中国临床肿瘤学会(CSCO)胃癌诊疗指南2022",
+      "citation": "中国临床肿瘤学会(CSCO)胃癌诊疗指南2022. 人民卫生出版社. 2022.",
+      "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+      "metadata": {
+        "year": 2022,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "胃癌患者（所有分期，包括可手术、局部进展期、晚期转移性、腹膜转移及遗传性胃癌）",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:17.310766"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-001",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-001",
+      "domain": "recommendation",
+      "definition": "{'category': '诊断', 'content': '胃癌诊断包括影像内镜诊断和病理学诊断，病理组织学诊断为金标准', 'page': 4}",
+      "definition_zh": "{'category': '诊断', 'content': '胃癌诊断包括影像内镜诊断和病理学诊断，病理组织学诊断为金标准', 'page': 4}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-002",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-002",
+      "domain": "recommendation",
+      "definition": "{'category': '治疗-可手术胃癌', 'content': '可手术切除胃癌的治疗策略', 'page': 20}",
+      "definition_zh": "{'category': '治疗-可手术胃癌', 'content': '可手术切除胃癌的治疗策略', 'page': 20}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-003",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-003",
+      "domain": "recommendation",
+      "definition": "{'category': '治疗-局部进展期', 'content': '不可手术切除局部进展期胃癌的综合治疗方案', 'page': 63}",
+      "definition_zh": "{'category': '治疗-局部进展期', 'content': '不可手术切除局部进展期胃癌的综合治疗方案', 'page': 63}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-004",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-004",
+      "domain": "recommendation",
+      "definition": "{'category': '治疗-晚期转移性胃癌', 'content': '晚期转移性胃癌的药物治疗选择', 'page': 70}",
+      "definition_zh": "{'category': '治疗-晚期转移性胃癌', 'content': '晚期转移性胃癌的药物治疗选择', 'page': 70}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-005",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-005",
+      "domain": "recommendation",
+      "definition": "{'category': '药物治疗', 'content': '晚期转移性胃癌的药物治疗选择及方案', 'page': 72}",
+      "definition_zh": "{'category': '药物治疗', 'content': '晚期转移性胃癌的药物治疗选择及方案', 'page': 72}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-006",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-006",
+      "domain": "recommendation",
+      "definition": "{'category': '腹膜转移', 'content': '胃癌腹膜转移的综合治疗策略', 'page': 93}",
+      "definition_zh": "{'category': '腹膜转移', 'content': '胃癌腹膜转移的综合治疗策略', 'page': 93}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-007",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-007",
+      "domain": "recommendation",
+      "definition": "{'category': '局部复发或转移', 'content': '胃癌局部复发或单一远处转移的综合治疗', 'page': 97}",
+      "definition_zh": "{'category': '局部复发或转移', 'content': '胃癌局部复发或单一远处转移的综合治疗', 'page': 97}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-008",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-008",
+      "domain": "recommendation",
+      "definition": "{'category': '支持治疗', 'content': '胃癌患者营养治疗及并发症处理', 'page': 110}",
+      "definition_zh": "{'category': '支持治疗', 'content': '胃癌患者营养治疗及并发症处理', 'page': 110}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-2022CSCO胃癌诊疗指南-REC-009",
+      "fact_key": "FACT-2022CSCO胃癌诊疗指南-REC-009",
+      "domain": "recommendation",
+      "definition": "{'category': '遗传筛查', 'content': '遗传相关胃癌的筛查和诊断，包括CDH1致病性胚系基因突变携带者处理', 'page': 125}",
+      "definition_zh": "{'category': '遗传筛查', 'content': '遗传相关胃癌的筛查和诊断，包括CDH1致病性胚系基因突变携带者处理', 'page': 125}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-2022CSCO胃癌诊疗指南-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-2022CSCO胃癌诊疗指南-BBE141DB",
+        "doc_id": "guidelines_2022CSCO胃癌诊疗指南_1_bbe141db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

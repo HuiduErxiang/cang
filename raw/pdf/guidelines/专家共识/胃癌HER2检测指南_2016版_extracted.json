@@ -1,0 +1,96 @@
+{
+  "document_type": "guideline_consensus",
+  "title": "胃癌HER2检测指南(2016版)",
+  "issuing_body": "《胃癌HER2检测指南(2016版)》专家组",
+  "year": 2016,
+  "language": "中文",
+  "total_pages": 5,
+  "disease_area": "胃癌",
+  "key_recommendations": [
+    {
+      "topic": "检测适用范围",
+      "recommendation": "所有经病理诊断证实为胃癌的病例均有必要进行HER2检测；对于新辅助治疗后的病灶以及复发或转移病灶，如能获得足够标本，建议重新进行HER2检测",
+      "evidence_level": "专家共识"
+    },
+    {
+      "topic": "检测方法选择",
+      "recommendation": "IHC(免疫组织化学)方法仍为检测胃癌HER2的首选方法",
+      "evidence_level": "I级"
+    },
+    {
+      "topic": "IHC结果判读标准",
+      "recommendation": "IHC 3+的病例直接判定为HER2阳性；IHC 1+和IHC 0的病例直接判定为HER2阴性；IHC 2+的病例为'不确定'病例，需进一步行原位杂交检测(FISH)最终明确HER2状态",
+      "evidence_level": "I级"
+    },
+    {
+      "topic": "手术标本固定时间",
+      "recommendation": "胃癌手术标本应在离体后20~30 min内进行标记、切开和固定等处理；固定时间为8~48 h；固定液的量应至少为组织的10倍",
+      "evidence_level": "专家共识"
+    },
+    {
+      "topic": "胃镜活检标本要求",
+      "recommendation": "取材应不少于6块组织，建议取6~8块；当胃镜活检组织块数达到5块时，活检标本与手术标本HER2状态的一致性可达到90%以上",
+      "evidence_level": "II级"
+    },
+    {
+      "topic": "蜡块选择",
+      "recommendation": "手术切除标本应选择含Lauren分型肠型胃癌成分较多的组织块进行HER2检测；在一张切片上放置同一胃癌病例两个蜡块的组织同时进行检测，取其中IHC评分更高者为最终评分",
+      "evidence_level": "专家共识"
+    },
+    {
+      "topic": "对照设立",
+      "recommendation": "无论采用手工还是全自动IHC方法进行染色，都应该在每张切片上设立阳性对照，阳性对照可采用已被证实为IHC 3+的胃癌组织；有条件的实验室宜采用包含IHC 0/1+/2+/3+胃癌组织的组织芯片作为梯度对照",
+      "evidence_level": "专家共识"
+    },
+    {
+      "topic": "原位杂交检测方法",
+      "recommendation": "FISH仍然是常规的检测手段；有条件的实验室可以开展双色银染原位杂交(DSISH)方法进行检测",
+      "evidence_level": "I级"
+    },
+    {
+      "topic": "FISH判读标准",
+      "recommendation": "HER2基因和第17号染色体着丝粒(CEP17)的比值(HER2/CEP17)有助于预测曲妥珠单抗治疗的敏感性；HER2/CEP17≥4.7是判断曲妥珠单抗治疗敏感和不敏感的最佳界值；HER2/CEP17>5的患者总生存时间较长",
+      "evidence_level": "II级"
+    },
+    {
+      "topic": "质量控制",
+      "recommendation": "从事胃癌HER2检测的实验室技术人员和病理医师应接受定期培训和资格考核；实验室应设置专人负责HER2检测；实验室每年至少参加一次国家或省市以及其他权威机构组织的培训及室间质评活动",
+      "evidence_level": "专家共识"
+    }
+  ],
+  "flowcharts": [
+    {
+      "id": "HER2检测流程图",
+      "page": 2,
+      "description": "胃癌HER2检测流程：首先进行IHC检测，IHC 3+判为阳性，IHC 1+/0判为阴性，IHC 2+需进一步行FISH检测确定HER2状态"
+    }
+  ],
+  "tables": [
+    {
+      "id": "HER2阳性率数据表",
+      "page": 1,
+      "description": "全球及中国胃癌HER2阳性率统计数据汇总，包括ToGA研究、中国多中心研究结果等"
+    },
+    {
+      "id": "IHC评分标准表",
+      "page": 2,
+      "description": "胃癌HER2免疫组织化学(IHC)评分标准及判读方法"
+    },
+    {
+      "id": "FISH判读标准表",
+      "page": 3,
+      "description": "HER2基因扩增原位杂交(FISH)检测判读标准，包括HER2/CEP17比值及临床意义"
+    }
+  ],
+  "key_conclusions": [
+    "胃癌HER2阳性率约为16.6%(IHC 2+/FISH阳性或IHC 3+)，中国人群胃癌HER2阳性率约为12%~13%",
+    "HER2状态是筛选曲妥珠单抗治疗患者最重要的指标之一，HER2检测对胃癌的临床诊疗具有重要意义",
+    "IHC方法仍为检测胃癌HER2的首选方法，IHC 2+病例需进一步行FISH检测明确HER2状态",
+    "手术标本的规范化固定是胃癌HER2检测质量的保障，应在离体后20~30分钟内进行标记、切开和固定，固定时间8~48小时",
+    "胃镜活检标本取材应不少于6块组织(建议6~8块)，以提高检测准确性",
+    "HER2与Lauren分型肠型胃癌的预后关系尚待进一步研究，HER2阳性的弥漫型胃癌患者生存结局最差",
+    "HER2/CEP17比值有助于预测曲妥珠单抗治疗的敏感性，HER2/CEP17≥4.7是判断治疗敏感的最佳界值",
+    "精准的HER2检测有赖于多学科治疗团队的合作，参加室间质评活动是进行质量控制的有效方法",
+    "本指南是对2011版《胃癌HER2检测指南》的更新和补充，为规范我国胃癌HER2检测提供了理论和实践指导"
+  ]
+}

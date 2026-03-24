@@ -1,0 +1,273 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\卫健委\\【卫健委】胃癌诊疗指南（2022年版）.pdf",
+    "product_id": "卫健委胃癌诊疗指南2022年版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 10,
+      "tagged_facts": 10
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-卫健委胃癌诊疗指南2022年版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+      "title": "胃癌诊疗指南（2022年版）",
+      "citation": "胃癌诊疗指南（2022年版）. 中华消化外科杂志. 2022.",
+      "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+      "metadata": {
+        "year": 2022,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "胃癌患者",
+          "endpoint_nature": "diagnostic_performance",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:31.076573"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-001",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': '胃癌治疗的总体策略是以外科为主的综合治疗', 'page': 1}",
+      "definition_zh": "{'content': '胃癌治疗的总体策略是以外科为主的综合治疗', 'page': 1}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-002",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '内镜及内镜下活检是目前诊断胃癌的金标准', 'page': 3}",
+      "definition_zh": "{'content': '内镜及内镜下活检是目前诊断胃癌的金标准', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-003",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': 'CT检查应为首选临床分期手段', 'page': 2}",
+      "definition_zh": "{'content': 'CT检查应为首选临床分期手段', 'page': 2}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-004",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '标准手术要求必须切除2/3以上的胃，并且进行D2淋巴结清扫', 'page': 12}",
+      "definition_zh": "{'content': '标准手术要求必须切除2/3以上的胃，并且进行D2淋巴结清扫', 'page': 12}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-005",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '对于cT2~4或cN(+)的肿瘤应进行D2清扫', 'page': 13}",
+      "definition_zh": "{'content': '对于cT2~4或cN(+)的肿瘤应进行D2清扫', 'page': 13}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-006",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '辅助化疗适用于D2根治术后病理分期为Ⅱ期及Ⅲ期者', 'page': 16}",
+      "definition_zh": "{'content': '辅助化疗适用于D2根治术后病理分期为Ⅱ期及Ⅲ期者', 'page': 16}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-007",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '对无远处转移的局部进展期胃癌（T3/4、N+），推荐新辅助化疗', 'page': 16}",
+      "definition_zh": "{'content': '对无远处转移的局部进展期胃癌（T3/4、N+），推荐新辅助化疗', 'page': 16}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-008",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': 'HER2过表达的晚期胃癌患者推荐曲妥珠单抗联合化疗', 'page': 18}",
+      "definition_zh": "{'content': 'HER2过表达的晚期胃癌患者推荐曲妥珠单抗联合化疗', 'page': 18}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-009",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '阿帕替尼适用于晚期胃癌三线及以上治疗', 'page': 19}",
+      "definition_zh": "{'content': '阿帕替尼适用于晚期胃癌三线及以上治疗', 'page': 19}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-卫健委胃癌诊疗指南2022年版-REC-010",
+      "fact_key": "FACT-卫健委胃癌诊疗指南2022年版-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': '早期胃癌根治性术后随访频率：最初3年每6个月1次，然后每1年1次至术后5年', 'page': 22}",
+      "definition_zh": "{'content': '早期胃癌根治性术后随访频率：最初3年每6个月1次，然后每1年1次至术后5年', 'page': 22}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-卫健委胃癌诊疗指南2022年版-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-卫健委胃癌诊疗指南2022年版-8D80ACC3",
+        "doc_id": "guidelines_卫健委胃癌诊疗指南2022年版_8d80acc3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "diagnostic_performance"
+      }
+    }
+  ]
+}

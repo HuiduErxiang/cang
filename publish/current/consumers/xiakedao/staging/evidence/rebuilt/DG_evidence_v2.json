@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\HER2+胃癌\\DG-06（见刊附录）.pdf",
+    "product_id": "DG",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-DG-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-DG-116C6A92",
+      "title": "A Single-arm Study of Trastuzumab Deruxtecan (T-DXd) Monotherapy for Patients with HER2-expressing Locally Advanced or Metastatic Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma Who Have Received 2 or More Prior Regimens (DESTINY-Gastric06)",
+      "citation": "A Single-arm Study of Trastuzumab Deruxtecan (T-DXd) Monotherapy for Patients with HER2-expressing Locally Advanced or Metastatic Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma Who Have Received 2 or More Prior Regimens (DESTINY-Gastric06). AstraZeneca AB. 2021.",
+      "doc_id": "oncology_DG_06见刊附录_116c6a92",
+      "metadata": {
+        "year": 2021,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "HER2-expressing locally advanced or metastatic gastric or GEJ adenocarcinoma patients who received ≥2 prior regimens",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.85,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:50.341347"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

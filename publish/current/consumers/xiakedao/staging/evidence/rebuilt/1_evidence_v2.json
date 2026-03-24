@@ -1,0 +1,365 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\1_《基于PD-L1蛋白表达水平的胃癌免疫治疗专家共识（2023年版）》正式刊出.pdf",
+    "product_id": "1",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 14,
+      "tagged_facts": 14
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-1-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-1-D0E3789F",
+      "title": "基于PD-L1蛋白表达水平的胃癌免疫治疗专家共识（2023年版）",
+      "citation": "基于PD-L1蛋白表达水平的胃癌免疫治疗专家共识（2023年版）. 中国肿瘤临床. 2023.",
+      "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "胃癌患者（包括晚期和局部进展期）",
+          "endpoint_nature": "biomarker",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.9,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:17.419140"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-1-REC-001",
+      "fact_key": "FACT-1-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': '推荐使用CPS作为胃癌PD-L1评分指标', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意87.5%，基本同意12.5%'}",
+      "definition_zh": "{'content': '推荐使用CPS作为胃癌PD-L1评分指标', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意87.5%，基本同意12.5%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-002",
+      "fact_key": "FACT-1-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '不常规推荐使用TAP作为胃癌评分指标', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意55.4%，基本同意37.5%'}",
+      "definition_zh": "{'content': '不常规推荐使用TAP作为胃癌评分指标', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意55.4%，基本同意37.5%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-003",
+      "fact_key": "FACT-1-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': '不常规推荐采用TPS作为胃癌评分指标', 'page': 2, 'evidence_level': '低', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意81.2%，基本同意18.7%'}",
+      "definition_zh": "{'content': '不常规推荐采用TPS作为胃癌评分指标', 'page': 2, 'evidence_level': '低', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意81.2%，基本同意18.7%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-004",
+      "fact_key": "FACT-1-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '推荐PD-L1 CPS≥5分作为胃癌患者PD-L1高表达诊断阈值', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意81.2%，基本同意18.7%'}",
+      "definition_zh": "{'content': '推荐PD-L1 CPS≥5分作为胃癌患者PD-L1高表达诊断阈值', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意81.2%，基本同意18.7%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-005",
+      "fact_key": "FACT-1-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '建议在有资质的病理科/实验室由经过PD-L1判读培训合格的病理医师进行诊断', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意85.7%，基本同意12.5%'}",
+      "definition_zh": "{'content': '建议在有资质的病理科/实验室由经过PD-L1判读培训合格的病理医师进行诊断', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意85.7%，基本同意12.5%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-006",
+      "fact_key": "FACT-1-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '推荐选用22C3抗体试剂、28-8抗体试剂、SP263抗体试剂用于胃癌PD-L1检测', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意93.7%，基本同意6.2%'}",
+      "definition_zh": "{'content': '推荐选用22C3抗体试剂、28-8抗体试剂、SP263抗体试剂用于胃癌PD-L1检测', 'page': 2, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意93.7%，基本同意6.2%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-007",
+      "fact_key": "FACT-1-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '对于MSI-H/dMMR晚期胃癌患者，无论PD-L1表达情况，推荐使用免疫治疗', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意92.9%，基本同意7.1%'}",
+      "definition_zh": "{'content': '对于MSI-H/dMMR晚期胃癌患者，无论PD-L1表达情况，推荐使用免疫治疗', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意92.9%，基本同意7.1%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-008",
+      "fact_key": "FACT-1-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '常规推荐患者治疗前进行PD-L1检测', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意87.5%，基本同意7.1%'}",
+      "definition_zh": "{'content': '常规推荐患者治疗前进行PD-L1检测', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意87.5%，基本同意7.1%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-009",
+      "fact_key": "FACT-1-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '对于PD-L1 CPS≥5分人群，推荐选择化疗联合基于PD-1靶点的免疫治疗方案', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意89.3%，基本同意8.9%'}",
+      "definition_zh": "{'content': '对于PD-L1 CPS≥5分人群，推荐选择化疗联合基于PD-1靶点的免疫治疗方案', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '强推荐', 'expert_agreement': '完全同意89.3%，基本同意8.9%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-010",
+      "fact_key": "FACT-1-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': '对于PD-L1 CPS<5分人群，可以考虑使用化疗联合PD-1单抗进行治疗', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意46.4%，基本同意44.6%'}",
+      "definition_zh": "{'content': '对于PD-L1 CPS<5分人群，可以考虑使用化疗联合PD-1单抗进行治疗', 'page': 4, 'evidence_level': '高', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意46.4%，基本同意44.6%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-011",
+      "fact_key": "FACT-1-REC-011",
+      "domain": "recommendation",
+      "definition": "{'content': '对于PD-L1 CPS<5分或阴性人群，可以考虑化疗联合基于PD-1靶点的双特异性抗体（如卡度尼利单抗）进行治疗', 'page': 4, 'evidence_level': '低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意35.7%，基本同意48.2%'}",
+      "definition_zh": "{'content': '对于PD-L1 CPS<5分或阴性人群，可以考虑化疗联合基于PD-1靶点的双特异性抗体（如卡度尼利单抗）进行治疗', 'page': 4, 'evidence_level': '低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意35.7%，基本同意48.2%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-012",
+      "fact_key": "FACT-1-REC-012",
+      "domain": "recommendation",
+      "definition": "{'content': '对行围术期治疗的局部进展期胃癌患者，推荐常规进行PD-L1检测', 'page': 6, 'evidence_level': '低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意67.3%，基本同意25.5%'}",
+      "definition_zh": "{'content': '对行围术期治疗的局部进展期胃癌患者，推荐常规进行PD-L1检测', 'page': 6, 'evidence_level': '低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意67.3%，基本同意25.5%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-013",
+      "fact_key": "FACT-1-REC-013",
+      "domain": "recommendation",
+      "definition": "{'content': '对行新辅助治疗的局部进展期MSI-H/dMMR胃癌患者，推荐围手术期使用含免疫治疗的方案', 'page': 6, 'evidence_level': '中', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意69.1%，基本同意27.3%'}",
+      "definition_zh": "{'content': '对行新辅助治疗的局部进展期MSI-H/dMMR胃癌患者，推荐围手术期使用含免疫治疗的方案', 'page': 6, 'evidence_level': '中', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意69.1%，基本同意27.3%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-1-REC-014",
+      "fact_key": "FACT-1-REC-014",
+      "domain": "recommendation",
+      "definition": "{'content': '对行新辅助治疗的局部进展期非MSI-H/dMMR胃癌患者，如果PD-L1 CPS≥5分，推荐术前使用化疗联合以PD-1单抗为基础的治疗方案', 'page': 6, 'evidence_level': '极低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意60.0%，基本同意27.3%'}",
+      "definition_zh": "{'content': '对行新辅助治疗的局部进展期非MSI-H/dMMR胃癌患者，如果PD-L1 CPS≥5分，推荐术前使用化疗联合以PD-1单抗为基础的治疗方案', 'page': 6, 'evidence_level': '极低', 'recommendation_strength': '弱推荐', 'expert_agreement': '完全同意60.0%，基本同意27.3%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-1-REC-014"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-1-D0E3789F",
+        "doc_id": "guidelines_1_基于PD_L1蛋白表达水平的胃癌免疫治疗专家共识2023年版正式刊出_d0e3789f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    }
+  ]
+}

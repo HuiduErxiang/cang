@@ -1,0 +1,388 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\专家共识\\胃癌抗HER2治疗中国专家共识（2024版）.pdf",
+    "product_id": "胃癌抗HER2治疗中国专家共识2024版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 15,
+      "tagged_facts": 15
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-胃癌抗HER2治疗中国专家共识2024版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+      "title": "胃癌抗HER2治疗中国专家共识（2024年版）",
+      "citation": "胃癌抗HER2治疗中国专家共识（2024年版）. 中国肿瘤临床. 2024.",
+      "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "HER2阳性胃癌患者（包括晚期和局部进展期）",
+          "endpoint_nature": "clinical_outcome",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:44.198141"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-001",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': '对于PD-L1 CPS≥1分的HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，一线治疗优先推荐帕博利珠单抗联合曲妥珠单抗和化疗方案', 'strength': '强推荐', 'evidence_level': '高', 'page': 1190}",
+      "definition_zh": "{'content': '对于PD-L1 CPS≥1分的HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，一线治疗优先推荐帕博利珠单抗联合曲妥珠单抗和化疗方案', 'strength': '强推荐', 'evidence_level': '高', 'page': 1190}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-002",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '对于PD-L1 CPS<1分的HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，一线治疗优先推荐曲妥珠单抗联合化疗', 'strength': '强推荐', 'evidence_level': '高', 'page': 1191}",
+      "definition_zh": "{'content': '对于PD-L1 CPS<1分的HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，一线治疗优先推荐曲妥珠单抗联合化疗', 'strength': '强推荐', 'evidence_level': '高', 'page': 1191}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-003",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': '曲妥珠单抗生物类似药于国内已获批多款，在临床实践中可以替代使用', 'strength': '弱推荐', 'evidence_level': '高', 'page': 1191}",
+      "definition_zh": "{'content': '曲妥珠单抗生物类似药于国内已获批多款，在临床实践中可以替代使用', 'strength': '弱推荐', 'evidence_level': '高', 'page': 1191}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-004",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的晚期一线胃癌患者，在临床研究的背景下，可以考虑使用新型ADC药物联合免疫和化疗治疗方案', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1191}",
+      "definition_zh": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的晚期一线胃癌患者，在临床研究的背景下，可以考虑使用新型ADC药物联合免疫和化疗治疗方案', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1191}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-005",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）的晚期胃癌患者，一线应用曲妥珠单抗进展后的二线治疗，不推荐继续跨线给予曲妥珠单抗治疗，建议重新活检明确HER2状态', 'strength': '弱推荐', 'evidence_level': '中', 'page': 1193}",
+      "definition_zh": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）的晚期胃癌患者，一线应用曲妥珠单抗进展后的二线治疗，不推荐继续跨线给予曲妥珠单抗治疗，建议重新活检明确HER2状态', 'strength': '弱推荐', 'evidence_level': '中', 'page': 1193}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-006",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的晚期胃癌患者，在临床研究的背景下，二线治疗可以考虑新型ADC药物治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1193}",
+      "definition_zh": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的晚期胃癌患者，在临床研究的背景下，二线治疗可以考虑新型ADC药物治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1193}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-007",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，三线治疗推荐新型ADC药物（维迪西妥单抗、德曲妥珠单抗）；对于HER2 IHC2+/ISH-晚期胃癌患者可推荐新型ADC药物（维迪西妥单抗）', 'strength': '弱推荐', 'evidence_level': '中', 'page': 1194}",
+      "definition_zh": "{'content': '对于HER2阳性（IHC3+或2+/ISH+）晚期胃癌患者，三线治疗推荐新型ADC药物（维迪西妥单抗、德曲妥珠单抗）；对于HER2 IHC2+/ISH-晚期胃癌患者可推荐新型ADC药物（维迪西妥单抗）', 'strength': '弱推荐', 'evidence_level': '中', 'page': 1194}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-008",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '对于行围手术期治疗的局部进展期胃癌患者，推荐术前常规进行HER2检测', 'strength': '强推荐', 'evidence_level': '高', 'page': 1195}",
+      "definition_zh": "{'content': '对于行围手术期治疗的局部进展期胃癌患者，推荐术前常规进行HER2检测', 'strength': '强推荐', 'evidence_level': '高', 'page': 1195}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-009",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '对于行新辅助治疗的HER2阳性（IHC3+或2+/ISH+）局部进展期胃癌患者，在临床研究的背景下，围手术期可以考虑联合抗HER2治疗，治疗方案可选曲妥珠单抗+化疗±免疫', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1195}",
+      "definition_zh": "{'content': '对于行新辅助治疗的HER2阳性（IHC3+或2+/ISH+）局部进展期胃癌患者，在临床研究的背景下，围手术期可以考虑联合抗HER2治疗，治疗方案可选曲妥珠单抗+化疗±免疫', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1195}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-010",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': '对于行新辅助治疗的HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的局部进展期胃癌患者，可在临床研究的背景下，考虑新型ADC药物联合免疫和化疗进行新辅助治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1196}",
+      "definition_zh": "{'content': '对于行新辅助治疗的HER2阳性（IHC3+或2+/ISH+）或IHC2+/ISH-的局部进展期胃癌患者，可在临床研究的背景下，考虑新型ADC药物联合免疫和化疗进行新辅助治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1196}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-011",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-011",
+      "domain": "recommendation",
+      "definition": "{'content': '对于局部进展期HER2阳性（IHC3+或2+/ISH+）胃癌患者，若影像学或病理显示术前新辅助抗HER2治疗有效，术后辅助治疗可以继续使用原抗HER2治疗方案', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1196}",
+      "definition_zh": "{'content': '对于局部进展期HER2阳性（IHC3+或2+/ISH+）胃癌患者，若影像学或病理显示术前新辅助抗HER2治疗有效，术后辅助治疗可以继续使用原抗HER2治疗方案', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1196}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-012",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-012",
+      "domain": "recommendation",
+      "definition": "{'content': '对于未经术前治疗的胃癌患者，术后病理若提示HER2阳性（IHC3+或2+/ISH+），原则上不推荐术后辅助化疗联合抗HER2治疗，但对于术后病理分期为III期及以上具有高复发风险因素的胃癌患者，在多学科协作讨论的情况下，可以考虑术后辅助化疗联合抗HER2治疗', 'strength': '弱推荐', 'evidence_level': '极低', 'page': 1196",
+      "definition_zh": "{'content': '对于未经术前治疗的胃癌患者，术后病理若提示HER2阳性（IHC3+或2+/ISH+），原则上不推荐术后辅助化疗联合抗HER2治疗，但对于术后病理分期为III期及以上具有高复发风险因素的胃癌患者，在多学科协作讨论的情况下，可以考虑术后辅助化疗联合抗HER2治疗', 'strength': '弱推荐', 'evidence_level': '极低', 'page': 1196",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-013",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-013",
+      "domain": "recommendation",
+      "definition": "{'content': '对于初始评估难以根治性切除的HER2阳性（IHC3+或2+/ISH+）晚期胃癌转化治疗方案可以参考晚期胃癌一线抗HER2治疗方案进行选择', 'strength': '弱推荐', 'evidence_level': '极低', 'page': 1197}",
+      "definition_zh": "{'content': '对于初始评估难以根治性切除的HER2阳性（IHC3+或2+/ISH+）晚期胃癌转化治疗方案可以参考晚期胃癌一线抗HER2治疗方案进行选择', 'strength': '弱推荐', 'evidence_level': '极低', 'page': 1197}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-014",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-014",
+      "domain": "recommendation",
+      "definition": "{'content': '因胃癌HER2表达的高度时空异质性，只要有可能获取肿瘤组织，建议一线疾病进展后对原发灶或转移灶积极进行再次活检确认HER2状态', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1199}",
+      "definition_zh": "{'content': '因胃癌HER2表达的高度时空异质性，只要有可能获取肿瘤组织，建议一线疾病进展后对原发灶或转移灶积极进行再次活检确认HER2状态', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1199}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-014"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024版-REC-015",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024版-REC-015",
+      "domain": "recommendation",
+      "definition": "{'content': '对于无法取得活检组织的胃癌患者，可通过ctDNA检测（液体活检）HER2扩增状态，有助于指导抗HER2靶向治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1200}",
+      "definition_zh": "{'content': '对于无法取得活检组织的胃癌患者，可通过ctDNA检测（液体活检）HER2扩增状态，有助于指导抗HER2靶向治疗', 'strength': '弱推荐', 'evidence_level': '低', 'page': 1200}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024版-REC-015"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024版-E630409D",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024版_e630409d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_outcome"
+      }
+    }
+  ]
+}

@@ -23,7 +23,7 @@ import argparse
 # Configuration
 # ============================================================
 
-BASE_DIR = Path(r"D:\汇度编辑部1")
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 SOURCE_BASE = BASE_DIR / "藏经阁待入库"
 TARGET_BASE = BASE_DIR / "藏经阁" / "staging" / "editorial" / "source_articles"
 

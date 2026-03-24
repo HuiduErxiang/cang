@@ -1,0 +1,227 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\COMPASSION-03补充资料.pdf",
+    "product_id": "COMPASSION",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 8,
+      "tagged_facts": 8
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-COMPASSION-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-COMPASSION-230AF0D1",
+      "title": "Safety and antitumour activity of cadonilimab, an anti-PD-1/CTLA-4 bispecific antibody, for patients with advanced solid tumours (COMPASSION-03): a multicentre, open-label, phase 1b/2 trial - Supplementary Appendix 2",
+      "citation": "Safety and antitumour activity of cadonilimab, an anti-PD-1/CTLA-4 bispecific antibody, for patients with advanced solid tumours (COMPASSION-03): a multicentre, open-label, phase 1b/2 trial - Supplementary Appendix 2. Lancet Oncology. 2023.",
+      "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with advanced solid tumours (cervical cancer, esophageal carcinoma, hepatocellular carcinoma)",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.92,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:42.911758"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-COMPASSION-001",
+      "fact_key": "FACT-COMPASSION-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Treatment-related adverse events (TRAE) occurred in 90.4% (217/240) of patients; Grade >=3 TRAE in 27.9% (67/240); immune-related AEs (irAEs) in 50.8% (122/240)', 'page': 12}",
+      "definition_zh": "{'content': 'Treatment-related adverse events (TRAE) occurred in 90.4% (217/240) of patients; Grade >=3 TRAE in 27.9% (67/240); immune-related AEs (irAEs) in 50.8% (122/240)', 'page': 12}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-002",
+      "fact_key": "FACT-COMPASSION-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Most common TRAEs: Anaemia (25.4%), Aspartate aminotransferase increased (19.6%), Hypothyroidism (19.6%), Alanine aminotransferase increased (18.8%), Rash (15.8%)', 'page': 12}",
+      "definition_zh": "{'content': 'Most common TRAEs: Anaemia (25.4%), Aspartate aminotransferase increased (19.6%), Hypothyroidism (19.6%), Alanine aminotransferase increased (18.8%), Rash (15.8%)', 'page': 12}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-003",
+      "fact_key": "FACT-COMPASSION-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'TRAE leading to permanent discontinuation in 7.1% (17/240) of patients; most common causes were immune-mediated pneumonitis and infusion-related reaction (2 cases each)', 'page': 21}",
+      "definition_zh": "{'content': 'TRAE leading to permanent discontinuation in 7.1% (17/240) of patients; most common causes were immune-mediated pneumonitis and infusion-related reaction (2 cases each)', 'page': 21}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-004",
+      "fact_key": "FACT-COMPASSION-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Anti-drug antibodies (ADA) treatment-emergent positive in 7.0% (14/200) of patients; Neutralizing antibodies (NAb) positive in 6.0% (12/200)', 'page': 8}",
+      "definition_zh": "{'content': 'Anti-drug antibodies (ADA) treatment-emergent positive in 7.0% (14/200) of patients; Neutralizing antibodies (NAb) positive in 6.0% (12/200)', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-005",
+      "fact_key": "FACT-COMPASSION-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'PK analysis showed dose-proportional exposure; Median trough concentration at steady state at 6mg/kg Q2W was 5 ug/mL', 'page': 4}",
+      "definition_zh": "{'content': 'PK analysis showed dose-proportional exposure; Median trough concentration at steady state at 6mg/kg Q2W was 5 ug/mL', 'page': 4}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-006",
+      "fact_key": "FACT-COMPASSION-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Receptor occupancy (RO) and CD4+Ki67+ T cell proliferation demonstrated PD-1 and CTLA-4 target engagement following cadonilimab administration', 'page': 25}",
+      "definition_zh": "{'content': 'Receptor occupancy (RO) and CD4+Ki67+ T cell proliferation demonstrated PD-1 and CTLA-4 target engagement following cadonilimab administration', 'page': 25}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-007",
+      "fact_key": "FACT-COMPASSION-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median follow-up for PFS: Cervical cancer 13.1 months, Esophageal carcinoma 23.9 months, Hepatocellular carcinoma 24.3 months', 'page': 9}",
+      "definition_zh": "{'content': 'Median follow-up for PFS: Cervical cancer 13.1 months, Esophageal carcinoma 23.9 months, Hepatocellular carcinoma 24.3 months', 'page': 9}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-COMPASSION-008",
+      "fact_key": "FACT-COMPASSION-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Subsequent therapies received by 30.8% (74/240) of patients; most common was chemotherapy (17.9%)', 'page': 22}",
+      "definition_zh": "{'content': 'Subsequent therapies received by 30.8% (74/240) of patients; most common was chemotherapy (17.9%)', 'page': 22}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-COMPASSION-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-COMPASSION-230AF0D1",
+        "doc_id": "oncology_COMPASSION_03补充资料_230af0d1",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

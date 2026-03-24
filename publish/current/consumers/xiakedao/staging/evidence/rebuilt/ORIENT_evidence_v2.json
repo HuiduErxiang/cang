@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\ORIENT-16补充资料.pdf",
+    "product_id": "ORIENT",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-ORIENT-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-ORIENT-E7093D7F",
+      "title": "Sintilimab plus chemotherapy for unresectable gastric or gastroesophageal junction cancer: the ORIENT-16 Randomized Clinical Trial - Supplemental Online Content",
+      "citation": "Sintilimab plus chemotherapy for unresectable gastric or gastroesophageal junction cancer: the ORIENT-16 Randomized Clinical Trial - Supplemental Online Content. JAMA (Journal of the American Medical Association). 2023.",
+      "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with unresectable gastric or gastroesophageal junction cancer",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:07.176384"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-ORIENT-001",
+      "fact_key": "FACT-ORIENT-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'In PD-L1 CPS ≥5 patients, median OS was 18.7 months (95% CI, 14.8-NC) in sintilimab group vs 12.9 months (95% CI, 11.1-15.4) in placebo group; stratified HR 0.658 (95% CI, 0.502-0.861), p",
+      "definition_zh": "{'content': 'In PD-L1 CPS ≥5 patients, median OS was 18.7 months (95% CI, 14.8-NC) in sintilimab group vs 12.9 months (95% CI, 11.1-15.4) in placebo group; stratified HR 0.658 (95% CI, 0.502-0.861), p",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-002",
+      "fact_key": "FACT-ORIENT-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'In all randomized patients, median OS was 15.4 months (95% CI, 13.0-18.4) in sintilimab group vs 12.3 months (95% CI, 11.3-13.8) in placebo group; stratified HR 0.761 (95% CI, 0.622-0.931",
+      "definition_zh": "{'content': 'In all randomized patients, median OS was 15.4 months (95% CI, 13.0-18.4) in sintilimab group vs 12.3 months (95% CI, 11.3-13.8) in placebo group; stratified HR 0.761 (95% CI, 0.622-0.931",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-003",
+      "fact_key": "FACT-ORIENT-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'In PD-L1 CPS ≥5 patients, confirmed objective response rate was 63.6% (95% CI, 56.2-71.0) in sintilimab group vs 49.4% (95% CI, 41.8-57.0) in placebo group; difference 13.91% (95% CI, 3.5",
+      "definition_zh": "{'content': 'In PD-L1 CPS ≥5 patients, confirmed objective response rate was 63.6% (95% CI, 56.2-71.0) in sintilimab group vs 49.4% (95% CI, 41.8-57.0) in placebo group; difference 13.91% (95% CI, 3.5",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-004",
+      "fact_key": "FACT-ORIENT-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'In all randomized patients, confirmed objective response rate was 58.2% (95% CI, 52.3-64.2) in sintilimab group vs 48.4% (95% CI, 42.3-54.6) in placebo group; difference 9.60% (95% CI, 1.",
+      "definition_zh": "{'content': 'In all randomized patients, confirmed objective response rate was 58.2% (95% CI, 52.3-64.2) in sintilimab group vs 48.4% (95% CI, 42.3-54.6) in placebo group; difference 9.60% (95% CI, 1.",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-005",
+      "fact_key": "FACT-ORIENT-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Duration of response in CPS ≥5 patients: median 9.8 months (95% CI, 7.1-21.1) vs 7.1 months (95% CI, 5.4-9.0); stratified HR 0.62 (95% CI, 0.42-0.91), p=0.01', 'page': 7}",
+      "definition_zh": "{'content': 'Duration of response in CPS ≥5 patients: median 9.8 months (95% CI, 7.1-21.1) vs 7.1 months (95% CI, 5.4-9.0); stratified HR 0.62 (95% CI, 0.42-0.91), p=0.01', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-006",
+      "fact_key": "FACT-ORIENT-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Any treatment-related adverse events leading to treatment discontinuation: 9.8% (32/328) in sintilimab group vs 5.6% (18/320) in placebo group', 'page': 11}",
+      "definition_zh": "{'content': 'Any treatment-related adverse events leading to treatment discontinuation: 9.8% (32/328) in sintilimab group vs 5.6% (18/320) in placebo group', 'page': 11}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-007",
+      "fact_key": "FACT-ORIENT-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Any treatment-related serious adverse events: 26.2% (86/328) in sintilimab group vs 21.9% (70/320) in placebo group', 'page': 12}",
+      "definition_zh": "{'content': 'Any treatment-related serious adverse events: 26.2% (86/328) in sintilimab group vs 21.9% (70/320) in placebo group', 'page': 12}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-008",
+      "fact_key": "FACT-ORIENT-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Treatment-related adverse events leading to death: 1.8% (6/328) in sintilimab group vs 0.6% (2/320) in placebo group', 'page': 13}",
+      "definition_zh": "{'content': 'Treatment-related adverse events leading to death: 1.8% (6/328) in sintilimab group vs 0.6% (2/320) in placebo group', 'page': 13}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-ORIENT-009",
+      "fact_key": "FACT-ORIENT-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'Subsequent anticancer therapy rates were lower in sintilimab group (36.4%) vs placebo group (47.4%), suggesting delayed disease progression', 'page': 6}",
+      "definition_zh": "{'content': 'Subsequent anticancer therapy rates were lower in sintilimab group (36.4%) vs placebo group (47.4%), suggesting delayed disease progression', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-ORIENT-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-ORIENT-E7093D7F",
+        "doc_id": "oncology_ORIENT_16补充资料_e7093d7f",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

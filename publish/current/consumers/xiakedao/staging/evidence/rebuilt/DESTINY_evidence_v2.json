@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\HER2+胃癌\\DESTINY-Gastric03 - Trastuzumab Deruxtecan - Updated results 5.4mg-kg triplet combo (ASCO GI 2025).pdf",
+    "product_id": "DESTINY",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-DESTINY-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-DESTINY-A97472D9",
+      "title": "Updated results from the trastuzumab deruxtecan 5.4 mg/kg triplet combination of DESTINY-Gastric03: first-line T-DXd with fluoropyrimidine and pembrolizumab in advanced or metastatic HER2-positive gastric cancer, gastroesophageal junction adenocarcinoma, or esophageal adenocarcinoma",
+      "citation": "Updated results from the trastuzumab deruxtecan 5.4 mg/kg triplet combination of DESTINY-Gastric03: first-line T-DXd with fluoropyrimidine and pembrolizumab in advanced or metastatic HER2-positive gastric cancer, gastroesophageal junction adenocarcinoma, or esophageal adenocarcinoma. ASCO Gastrointestinal Cancers Symposium 2025. 2025.",
+      "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with advanced or metastatic HER2-positive gastric cancer, gastroesophageal junction adenocarcinoma, or esophageal adenocarcinoma",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.9,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:39.013397"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-DESTINY-001",
+      "fact_key": "FACT-DESTINY-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'T-DXd 6.4 mg/kg with fluoropyrimidine and pembrolizumab demonstrated antitumor activity with confirmed ORR of 53.5% in HER2+ gastric cancer, GEJA, or esophageal adenocarcinoma; however, i",
+      "definition_zh": "{'content': 'T-DXd 6.4 mg/kg with fluoropyrimidine and pembrolizumab demonstrated antitumor activity with confirmed ORR of 53.5% in HER2+ gastric cancer, GEJA, or esophageal adenocarcinoma; however, i",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-DESTINY-002",
+      "fact_key": "FACT-DESTINY-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'At similar median durations of follow-up (6.9 months vs 7.8 months), T-DXd 5.4 mg/kg and reduced-dose fluoropyrimidine with pembrolizumab showed promising early antitumor activity with co",
+      "definition_zh": "{'content': 'At similar median durations of follow-up (6.9 months vs 7.8 months), T-DXd 5.4 mg/kg and reduced-dose fluoropyrimidine with pembrolizumab showed promising early antitumor activity with co",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-DESTINY-003",
+      "fact_key": "FACT-DESTINY-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'In T-DXd 6.4 mg/kg arm, ORR was 55.9% (19/34) in IHC 3+ patients and 44.4% (4/9) in IHC 2+/ISH+ patients; median PFS was 10.3 months', 'page': 1}",
+      "definition_zh": "{'content': 'In T-DXd 6.4 mg/kg arm, ORR was 55.9% (19/34) in IHC 3+ patients and 44.4% (4/9) in IHC 2+/ISH+ patients; median PFS was 10.3 months', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-DESTINY-004",
+      "fact_key": "FACT-DESTINY-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'In T-DXd 5.4 mg/kg arm, ORR was 73.1% (19/26) in IHC 3+ patients and 83.3% (5/6) in IHC 2+/ISH+ patients; median PFS was 9.8 months', 'page': 1}",
+      "definition_zh": "{'content': 'In T-DXd 5.4 mg/kg arm, ORR was 73.1% (19/26) in IHC 3+ patients and 83.3% (5/6) in IHC 2+/ISH+ patients; median PFS was 9.8 months', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-DESTINY-005",
+      "fact_key": "FACT-DESTINY-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lowering T-DXd dose from 6.4 mg/kg to 5.4 mg/kg and lowering capecitabine starting dose from 1000 mg/m2 to 750 mg/m2 improved tolerability of the triplet combination without decreasing OR",
+      "definition_zh": "{'content': 'Lowering T-DXd dose from 6.4 mg/kg to 5.4 mg/kg and lowering capecitabine starting dose from 1000 mg/m2 to 750 mg/m2 improved tolerability of the triplet combination without decreasing OR",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-DESTINY-006",
+      "fact_key": "FACT-DESTINY-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade ≥3 adverse events: 88.4% in T-DXd 6.4 mg/kg arm vs 46.9% in T-DXd 5.4 mg/kg arm; serious AEs: 58.1% vs 37.5%; AEs leading to T-DXd discontinuation: 23.3% vs 6.3%', 'page': 1}",
+      "definition_zh": "{'content': 'Grade ≥3 adverse events: 88.4% in T-DXd 6.4 mg/kg arm vs 46.9% in T-DXd 5.4 mg/kg arm; serious AEs: 58.1% vs 37.5%; AEs leading to T-DXd discontinuation: 23.3% vs 6.3%', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-DESTINY-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-DESTINY-A97472D9",
+        "doc_id": "oncology_DESTINY_Gastric03___Trastuzumab_Deruxtecan___Updat_a97472d9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

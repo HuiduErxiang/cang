@@ -1,0 +1,227 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\Claudin18.2阳性\\SPOTLIGHT研究补充材料.pdf",
+    "product_id": "SPOTLIGHT研究补充材料",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 8,
+      "tagged_facts": 8
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-SPOTLIGHT研究补充材料-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+      "title": "Zolbetuximab plus mFOLFOX6 in patients with claudin-18.2 positive, human epidermal growth factor receptor 2-negative, untreated, locally advanced unresectable or metastatic gastric or gastro-oesophageal junction adenocarcinoma (SPOTLIGHT): a randomised, double-blind, phase 3 trial - Supplementary appendix",
+      "citation": "Zolbetuximab plus mFOLFOX6 in patients with claudin-18.2 positive, human epidermal growth factor receptor 2-negative, untreated, locally advanced unresectable or metastatic gastric or gastro-oesophageal junction adenocarcinoma (SPOTLIGHT): a randomised, double-blind, phase 3 trial - Supplementary appendix. The Lancet. 2023.",
+      "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with claudin-18.2 positive, HER2-negative, untreated, locally advanced unresectable or metastatic gastric or gastro-oesophageal junction adenocarcinoma",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:19.972588"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-001",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Progression-free survival: Median PFS was 10.61 months (95% CI 8.90-12.48) in zolbetuximab group vs 8.67 months (95% CI 8.21-10.28) in placebo group. Hazard ratio 0.751 (95% CI 0.598-0.94",
+      "definition_zh": "{'content': 'Progression-free survival: Median PFS was 10.61 months (95% CI 8.90-12.48) in zolbetuximab group vs 8.67 months (95% CI 8.21-10.28) in placebo group. Hazard ratio 0.751 (95% CI 0.598-0.94",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-002",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Overall survival (key secondary endpoint): Median OS was 18.23 months (95% CI 16.43-22.90) in zolbetuximab group vs 15.54 months (95% CI 13.47-16.53) in placebo group. Hazard ratio 0.750 ",
+      "definition_zh": "{'content': 'Overall survival (key secondary endpoint): Median OS was 18.23 months (95% CI 16.43-22.90) in zolbetuximab group vs 15.54 months (95% CI 13.47-16.53) in placebo group. Hazard ratio 0.750 ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-003",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate was similar between groups: 48% (135/283) in zolbetuximab group vs 48% (134/282) in placebo group.', 'page': 8}",
+      "definition_zh": "{'content': 'Objective response rate was similar between groups: 48% (135/283) in zolbetuximab group vs 48% (134/282) in placebo group.', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-004",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Complete response rate was higher in zolbetuximab group: 7% (19/283) vs 4% (10/282) in placebo group.', 'page': 8}",
+      "definition_zh": "{'content': 'Complete response rate was higher in zolbetuximab group: 7% (19/283) vs 4% (10/282) in placebo group.', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-005",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median duration of response was 9.00 months (95% CI 6.87-10.25) in zolbetuximab group vs 8.05 months (95% CI 6.47-10.81) in placebo group.', 'page': 8}",
+      "definition_zh": "{'content': 'Median duration of response was 9.00 months (95% CI 6.87-10.25) in zolbetuximab group vs 8.05 months (95% CI 6.47-10.81) in placebo group.', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-006",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Treatment-related grade 5 events leading to death occurred in 5 patients (2%) in zolbetuximab group vs 4 patients (1%) in placebo group.', 'page': 16}",
+      "definition_zh": "{'content': 'Treatment-related grade 5 events leading to death occurred in 5 patients (2%) in zolbetuximab group vs 4 patients (1%) in placebo group.', 'page': 16}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-007",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Nausea was the most common adverse event in zolbetuximab group: 81% (226/279) vs 61% (169/278) in placebo group.', 'page': 13}",
+      "definition_zh": "{'content': 'Nausea was the most common adverse event in zolbetuximab group: 81% (226/279) vs 61% (169/278) in placebo group.', 'page': 13}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-SPOTLIGHT研究补充材料-008",
+      "fact_key": "FACT-SPOTLIGHT研究补充材料-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Vomiting occurred in 65% (180/279) of patients in zolbetuximab group vs 35% (96/278) in placebo group.', 'page': 13}",
+      "definition_zh": "{'content': 'Vomiting occurred in 65% (180/279) of patients in zolbetuximab group vs 35% (96/278) in placebo group.', 'page': 13}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-SPOTLIGHT研究补充材料-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-SPOTLIGHT研究补充材料-071DB009",
+        "doc_id": "oncology_SPOTLIGHT研究补充材料_071db009",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

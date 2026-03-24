@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "raw\\pdf\\neurology\\alzheimers_disease\\Clarity AD原文.pdf",
+    "product_id": "clarity",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-CLARITY-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-CLARITY-270E7367",
+      "title": "Lecanemab in Early Alzheimer's Disease",
+      "citation": "Lecanemab in Early Alzheimer's Disease. The New England Journal of Medicine. 2023.",
+      "doc_id": "neurology_clarity_ad_270e7367",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Adults aged 50-90 years with early Alzheimer's disease (mild cognitive impairment or mild dementia due to Alzheimer's disease) with confirmed amyloid pathology (PET or CSF)",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto",
+          "tagged_at": "2026-03-23T20:26:50.290491"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

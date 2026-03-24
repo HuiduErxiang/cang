@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\晚期二线\\Rainbow原文.pdf",
+    "product_id": "Rainbow原文",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-RAINBOW原文-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-RAINBOW原文-74621032",
+      "title": "Ramucirumab plus paclitaxel versus placebo plus paclitaxel in patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (RAINBOW): a double-blind, randomised phase 3 trial",
+      "citation": "Ramucirumab plus paclitaxel versus placebo plus paclitaxel in patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (RAINBOW): a double-blind, randomised phase 3 trial. The Lancet Oncology. 2014.",
+      "doc_id": "oncology_Rainbow原文_74621032",
+      "metadata": {
+        "year": 2014,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:12.111145"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-001",
+      "fact_key": "FACT-RAINBOW原文-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Overall survival was significantly longer in the ramucirumab plus paclitaxel group than in the placebo plus paclitaxel group (median 9.6 months [95% CI 8.5–10.8] vs 7.4 months [95% CI 6.3",
+      "definition_zh": "{'content': 'Overall survival was significantly longer in the ramucirumab plus paclitaxel group than in the placebo plus paclitaxel group (median 9.6 months [95% CI 8.5–10.8] vs 7.4 months [95% CI 6.3",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-002",
+      "fact_key": "FACT-RAINBOW原文-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median progression-free survival was significantly longer with ramucirumab plus paclitaxel than with placebo plus paclitaxel (4.4 months [95% CI 4.2–5.3] vs 2.9 months [2.8–3.0]; HR 0.635",
+      "definition_zh": "{'content': 'Median progression-free survival was significantly longer with ramucirumab plus paclitaxel than with placebo plus paclitaxel (4.4 months [95% CI 4.2–5.3] vs 2.9 months [2.8–3.0]; HR 0.635",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-003",
+      "fact_key": "FACT-RAINBOW原文-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate was significantly higher in the ramucirumab plus paclitaxel group (92 [28%] of 330 vs 54 [16%] of 335; p=0.0001)', 'page': 6}",
+      "definition_zh": "{'content': 'Objective response rate was significantly higher in the ramucirumab plus paclitaxel group (92 [28%] of 330 vs 54 [16%] of 335; p=0.0001)', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-004",
+      "fact_key": "FACT-RAINBOW原文-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Disease control rate was significantly higher in the ramucirumab plus paclitaxel group (264 [80%] vs 213 [64%]; p<0.0001)', 'page': 6}",
+      "definition_zh": "{'content': 'Disease control rate was significantly higher in the ramucirumab plus paclitaxel group (264 [80%] vs 213 [64%]; p<0.0001)', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-005",
+      "fact_key": "FACT-RAINBOW原文-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade 3 or higher adverse events more common in ramucirumab plus paclitaxel group included neutropenia (41% vs 19%), leucopenia (17% vs 7%), hypertension (14% vs 2%), fatigue (12% vs 5%),",
+      "definition_zh": "{'content': 'Grade 3 or higher adverse events more common in ramucirumab plus paclitaxel group included neutropenia (41% vs 19%), leucopenia (17% vs 7%), hypertension (14% vs 2%), fatigue (12% vs 5%),",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW原文-006",
+      "fact_key": "FACT-RAINBOW原文-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'The combination of ramucirumab with paclitaxel significantly increases overall survival compared with placebo plus paclitaxel, and could be regarded as a new standard second-line treatmen",
+      "definition_zh": "{'content': 'The combination of ramucirumab with paclitaxel significantly increases overall survival compared with placebo plus paclitaxel, and could be regarded as a new standard second-line treatmen",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW原文-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW原文-74621032",
+        "doc_id": "oncology_Rainbow原文_74621032",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.0",
+    "rebuild_date": "2026-03-23",
+    "migration_batch": "manual-adpd-2026",
+    "source_file": "D:\\汇度编辑部1\\项目文章\\2026项目表\\卫材\\仑卡奈单抗\\2026 ADPD\\Hiramatsu_Reduction of AB PF Correlation_ADPD v8 FINAL.pdf",
+    "product_id": "仑卡奈单抗Aβ原纤维机制",
+    "product_name_zh": "仑卡奈单抗 Aβ 原纤维机制",
+    "rebuild_status": "complete",
+    "rebuild_scope": "ADPD 2026 Hiramatsu 海报最小证据包"
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-PF-ADPD2026-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+      "title": "Reduction of brain Aβ protofibrils by lecanemab correlates with CSF pTau217 and neuronal/synaptic biomarkers in APPNL-G-F/MAPT double knock-in mice",
+      "citation": "Hiramatsu N, Kubo A, Shuta K, et al. ADPD 2026 Poster #1627.",
+      "metadata": {
+        "conference": "ADPD 2026",
+        "study_type": "conference_poster",
+        "model": "APPNL-G-F/MAPT double knock-in mice"
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-PF-001",
+      "fact_key": "FACT-PF-MODEL-AND-INTERVENTION",
+      "domain": "机制与标志物",
+      "definition": "Male APPNL-G-F/MAPT double knock-in mice received weekly intraperitoneal injections of mAb158 for 16 weeks from 6 months of age.",
+      "definition_zh": "6月龄雄性 APPNL-G-F/MAPT 双敲入小鼠接受 mAb158 每周腹腔注射，共 16 周。",
+      "value": "mAb158 is a murine version of lecanemab; 3 and 10 mg/kg",
+      "unit": "study design",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-METHODS",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Methods and study design"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PF-002",
+      "fact_key": "FACT-PF-PLAQUE-AND-CSF-IMPROVEMENT",
+      "domain": "机制与标志物",
+      "definition": "Administration of mAb158 significantly reduced Aβ plaques and CSF pTau217, total tau and neurogranin in APPNL-G-F/MAPT dKI mice.",
+      "definition_zh": "mAb158 给药可显著降低 Aβ 斑块以及 CSF pTau217、total tau 和 neurogranin。",
+      "value": "Significant reductions vs PBS",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-FIG1",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 1"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PF-003",
+      "fact_key": "FACT-PF-DOSE-DEPENDENT-REDUCTION",
+      "domain": "机制与标志物",
+      "definition": "Administration of mAb158 significantly reduced brain Aβ protofibrils in a dose-dependent manner.",
+      "definition_zh": "mAb158 可剂量依赖性降低脑内 Aβ 原纤维。",
+      "value": "Dose-dependent reduction of brain Aβ PF",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-FIG2A",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 2A"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PF-004",
+      "fact_key": "FACT-PF-CORRELATION-WITH-CSF-BIOMARKERS",
+      "domain": "机制与标志物",
+      "definition": "Brain Aβ protofibrils correlated with CSF pTau217, total tau and neurogranin.",
+      "definition_zh": "脑内 Aβ 原纤维与 CSF pTau217、total tau 和 neurogranin 存在相关性。",
+      "value": "pTau217 r=0.748; total tau r=0.800; neurogranin r=0.622",
+      "unit": "Pearson r",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-FIG2BCD",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 2B-D"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PF-005",
+      "fact_key": "FACT-PF-PTAU217-HIGHER-THAN-PLAQUE-AB42",
+      "domain": "机制与标志物",
+      "definition": "Correlation between CSF pTau217 and Aβ protofibrils was significantly higher than that with Aβ plaques, insoluble Aβ42 or insoluble N3pE-42 Aβ.",
+      "definition_zh": "CSF pTau217 与 Aβ 原纤维的相关性显著高于其与 Aβ 斑块、不可溶 Aβ42 或不可溶 N3pE-42 Aβ 的相关性。",
+      "value": "Aβ plaque r=0.625; insoluble Aβ42 r=0.310 (p=0.0837); insoluble N3pE-42 Aβ r=0.008 (p=0.9672)",
+      "unit": "Pearson r",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-FIG3-4",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 3 and Figure 4"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PF-006",
+      "fact_key": "FACT-PF-LAMP1-REDUCTION",
+      "domain": "机制与标志物",
+      "definition": "Administration of mAb158 significantly reduced LAMP1 reactivity, and LAMP1 correlated with Aβ plaque.",
+      "definition_zh": "mAb158 可显著降低 LAMP1 反应性，且 LAMP1 与 Aβ 斑块相关。",
+      "value": "LAMP1 correlated with Aβ plaque at r=0.917, p<0.0001",
+      "unit": "Pearson r",
+      "fragment_ids": [
+        "V2-FRAG-PF-ADPD2026-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PF-ADPD2026-HIRAMATSU",
+        "asset_key": "AST-PF-FIG5",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 5"
+      }
+    }
+  ]
+}

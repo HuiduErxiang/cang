@@ -1,0 +1,72 @@
+{
+  "_metadata": {
+    "title": "仿写资产索引",
+    "version": "1.0",
+    "description": "仿写模块在藏经阁侧的资产映射，供侠客岛消费",
+    "last_updated": "2026-03-21"
+  },
+  "asset_map": {
+    "persona_profiles": {
+      "path": "staging/editorial/persona_profiles/",
+      "description": "作者风格画像 (已有: ajmd, chen_gongzi, kongzhike)",
+      "format": "JSON",
+      "status": "available"
+    },
+    "distilled_articles": {
+      "path": "staging/editorial/distilled_articles/",
+      "description": "已蒸馏样稿 (80+ 篇，按作者和类别分组)",
+      "format": "JSON",
+      "status": "available"
+    },
+    "style_features": {
+      "path": "l1/writing_craft/style_dna_schema.json",
+      "description": "风格DNA结构定义",
+      "format": "JSON",
+      "status": "available"
+    },
+    "narrative_arcs": {
+      "path": "l2/medical_playbook/narrative_arcs.json",
+      "description": "叙事弧线库 (含作者签名弧线)",
+      "format": "JSON",
+      "status": "available"
+    },
+    "expression_base": {
+      "path": "l1/writing_craft/expression_base.json",
+      "description": "通用表达库 (过渡短语 + 禁用表达)",
+      "format": "JSON",
+      "status": "available"
+    },
+    "imitation_rules": {
+      "path": "staging/editorial/imitation_rules/",
+      "description": "仿写规则与禁忌 (待补充)",
+      "format": "JSON",
+      "status": "planned"
+    },
+    "reusable_materials": {
+      "path": "staging/editorial/distilled_articles/",
+      "description": "可复用填充材料 (从蒸馏文章中提取)",
+      "format": "JSON",
+      "status": "available"
+    }
+  },
+  "author_index": {
+    "ajmd": {
+      "profile": "staging/editorial/persona_profiles/ajmd_profile.json",
+      "display_name": "阿基米德Biotech",
+      "signature_arcs": ["ARC_AJMD_001", "ARC_AJMD_002"],
+      "article_count_estimate": 20
+    },
+    "chen_gongzi": {
+      "profile": "staging/editorial/persona_profiles/chen_gongzi_profile.json",
+      "display_name": "辰公子",
+      "signature_arcs": ["ARC_CHEN_001", "ARC_CHEN_002"],
+      "article_count_estimate": 30
+    },
+    "kongzhike": {
+      "profile": "staging/editorial/persona_profiles/kongzhike_profile.json",
+      "display_name": "空之客",
+      "signature_arcs": ["ARC_KZK_001", "ARC_KZK_002"],
+      "article_count_estimate": 30
+    }
+  }
+}

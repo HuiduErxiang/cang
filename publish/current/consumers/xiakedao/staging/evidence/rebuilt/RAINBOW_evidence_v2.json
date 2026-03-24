@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\晚期二线\\RAINBOW-Asia.pdf",
+    "product_id": "RAINBOW",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-RAINBOW-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-RAINBOW-7502203D",
+      "title": "Efficacy and safety of weekly paclitaxel with or without ramucirumab as second-line therapy for the treatment of advanced gastric or gastroesophageal junction adenocarcinoma (RAINBOW-Asia): a randomised, multicentre, double-blind, phase 3 trial",
+      "citation": "Efficacy and safety of weekly paclitaxel with or without ramucirumab as second-line therapy for the treatment of advanced gastric or gastroesophageal junction adenocarcinoma (RAINBOW-Asia): a randomised, multicentre, double-blind, phase 3 trial. The Lancet Gastroenterology & Hepatology. 2021.",
+      "doc_id": "oncology_RAINBOW_Asia_7502203d",
+      "metadata": {
+        "year": 2021,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "晚期胃或胃食管结合部腺癌（胃腺癌或胃食管结合部腺癌）患者，一线化疗后疾病进展",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:06.861942"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-RAINBOW-001",
+      "fact_key": "FACT-RAINBOW-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median progression-free survival was 4.14 months (95% CI 3.71–4.30) in the ramucirumab plus paclitaxel group compared with 3.15 months (2.83–4.14) in the placebo plus paclitaxel group (HR",
+      "definition_zh": "{'content': 'Median progression-free survival was 4.14 months (95% CI 3.71–4.30) in the ramucirumab plus paclitaxel group compared with 3.15 months (2.83–4.14) in the placebo plus paclitaxel group (HR",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-002",
+      "fact_key": "FACT-RAINBOW-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median overall survival was 8.71 months (95% CI 7.98–9.49) in the ramucirumab plus paclitaxel group and 7.92 months (6.31–9.10) in the placebo plus paclitaxel group (HR 0.963, 95% CI 0.77",
+      "definition_zh": "{'content': 'Median overall survival was 8.71 months (95% CI 7.98–9.49) in the ramucirumab plus paclitaxel group and 7.92 months (6.31–9.10) in the placebo plus paclitaxel group (HR 0.963, 95% CI 0.77",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-003",
+      "fact_key": "FACT-RAINBOW-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate: 26.5% (95% CI 21.6–32.0) in ramucirumab plus paclitaxel group vs 21.9% (95% CI 15.5–29.5) in placebo plus paclitaxel group', 'page': 6}",
+      "definition_zh": "{'content': 'Objective response rate: 26.5% (95% CI 21.6–32.0) in ramucirumab plus paclitaxel group vs 21.9% (95% CI 15.5–29.5) in placebo plus paclitaxel group', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-004",
+      "fact_key": "FACT-RAINBOW-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Disease control rate: 76.9% (95% CI 71.6–81.6) in ramucirumab plus paclitaxel group vs 72.6% (95% CI 64.6–79.7) in placebo plus paclitaxel group', 'page': 6}",
+      "definition_zh": "{'content': 'Disease control rate: 76.9% (95% CI 71.6–81.6) in ramucirumab plus paclitaxel group vs 72.6% (95% CI 64.6–79.7) in placebo plus paclitaxel group', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-005",
+      "fact_key": "FACT-RAINBOW-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median duration of response was longer in ramucirumab plus paclitaxel group (4.34 months, 95% CI 3.12–5.22) than placebo plus paclitaxel group (2.83 months, 95% CI 2.56–4.14)', 'page': 6}",
+      "definition_zh": "{'content': 'Median duration of response was longer in ramucirumab plus paclitaxel group (4.34 months, 95% CI 3.12–5.22) than placebo plus paclitaxel group (2.83 months, 95% CI 2.56–4.14)', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-006",
+      "fact_key": "FACT-RAINBOW-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade 3 or worse treatment-emergent adverse events were observed in 224 (76%) patients in ramucirumab plus paclitaxel group vs 95 (66%) in placebo plus paclitaxel group', 'page': 7}",
+      "definition_zh": "{'content': 'Grade 3 or worse treatment-emergent adverse events were observed in 224 (76%) patients in ramucirumab plus paclitaxel group vs 95 (66%) in placebo plus paclitaxel group', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-007",
+      "fact_key": "FACT-RAINBOW-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Most common grade 3 or worse adverse events: decreased neutrophil count (54% vs 39%), decreased white blood cell count (43% vs 29%), anaemia (16% vs 17%)', 'page': 1}",
+      "definition_zh": "{'content': 'Most common grade 3 or worse adverse events: decreased neutrophil count (54% vs 39%), decreased white blood cell count (43% vs 29%), anaemia (16% vs 17%)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-008",
+      "fact_key": "FACT-RAINBOW-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Febrile neutropenia occurred in 18 (6%) patients in ramucirumab plus paclitaxel group vs 1 (<1%) patient in placebo plus paclitaxel group', 'page': 8}",
+      "definition_zh": "{'content': 'Febrile neutropenia occurred in 18 (6%) patients in ramucirumab plus paclitaxel group vs 1 (<1%) patient in placebo plus paclitaxel group', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RAINBOW-009",
+      "fact_key": "FACT-RAINBOW-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'The study met its predefined success criterion (stratified HR for OS <1 and nominal p<0.05 for PFS) as required by Chinese regulatory authority', 'page': 8}",
+      "definition_zh": "{'content': 'The study met its predefined success criterion (stratified HR for OS <1 and nominal p<0.05 for PFS) as required by Chinese regulatory authority', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RAINBOW-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RAINBOW-7502203D",
+        "doc_id": "oncology_RAINBOW_Asia_7502203d",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

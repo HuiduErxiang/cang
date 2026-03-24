@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\checkmate649（2021ESMO，含CTLA-4组）.pdf",
+    "product_id": "checkmate6492021ESMO含CTLA",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-CHECKMATE6492021ESMO含CTLA-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+      "title": "Nivolumab plus chemotherapy or ipilimumab vs chemotherapy as first-line treatment for advanced gastric cancer/gastroesophageal junction cancer/esophageal adenocarcinoma (GC/GEJC/EAC): CheckMate 649 study",
+      "citation": "Nivolumab plus chemotherapy or ipilimumab vs chemotherapy as first-line treatment for advanced gastric cancer/gastroesophageal junction cancer/esophageal adenocarcinoma (GC/GEJC/EAC): CheckMate 649 study. Annals of Oncology. 2021.",
+      "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+      "metadata": {
+        "year": 2021,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "晚期胃腺癌/胃食管结合部癌/食管腺癌(GC/GEJC/EAC)患者，既往未经治疗的一线治疗人群，包括PD-L1 CPS≥5人群和全随机人群",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.92,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:30.656413"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-001",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'NIVO+chemo continued to show improvement in OS vs chemo alone with an additional 12-month follow-up from the primary analysis', 'page': 1, 'details': {'pd_l1_cps_ge5': {'nivo_chemo_n': 47",
+      "definition_zh": "{'content': 'NIVO+chemo continued to show improvement in OS vs chemo alone with an additional 12-month follow-up from the primary analysis', 'page': 1, 'details': {'pd_l1_cps_ge5': {'nivo_chemo_n': 47",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-002",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Secondary endpoint of OS in patients with PD-L1 CPS >=5 for NIVO+IPI vs chemo was not met', 'page': 1, 'details': {'minimum_follow_up': '35.7 months', 'pd_l1_cps_ge5': {'nivo_ipi_n': 234,",
+      "definition_zh": "{'content': 'Secondary endpoint of OS in patients with PD-L1 CPS >=5 for NIVO+IPI vs chemo was not met', 'page': 1, 'details': {'minimum_follow_up': '35.7 months', 'pd_l1_cps_ge5': {'nivo_ipi_n': 234,",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-003",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate (ORR) was higher with NIVO+chemo vs chemo', 'page': 1, 'details': {'pd_l1_cps_ge5': '60% (95% CI 55-65) vs 45% (95% CI 40-50)', 'nivo_ipi_vs_chemo_pd_l1_cps_ge5': ",
+      "definition_zh": "{'content': 'Objective response rate (ORR) was higher with NIVO+chemo vs chemo', 'page': 1, 'details': {'pd_l1_cps_ge5': '60% (95% CI 55-65) vs 45% (95% CI 40-50)', 'nivo_ipi_vs_chemo_pd_l1_cps_ge5': ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-004",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'No new safety signals were identified with additional follow-up', 'page': 1}",
+      "definition_zh": "{'content': 'No new safety signals were identified with additional follow-up', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-005",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Treatment-related adverse events (TRAEs): NIVO+chemo vs chemo - Any grade 95% vs 89%; Grade 3-4 60% vs 45%; Led to discontinuation 38% vs 25%', 'page': 1}",
+      "definition_zh": "{'content': 'Treatment-related adverse events (TRAEs): NIVO+chemo vs chemo - Any grade 95% vs 89%; Grade 3-4 60% vs 45%; Led to discontinuation 38% vs 25%', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE6492021ESMO含CTLA-006",
+      "fact_key": "FACT-CHECKMATE6492021ESMO含CTLA-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'TRAEs for NIVO+IPI vs chemo: Any grade 80% vs 92%; Grade 3-4 38% vs 46%; Led to discontinuation 22% vs 26%', 'page': 1}",
+      "definition_zh": "{'content': 'TRAEs for NIVO+IPI vs chemo: Any grade 80% vs 92%; Grade 3-4 38% vs 46%; Led to discontinuation 22% vs 26%', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE6492021ESMO含CTLA-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE6492021ESMO含CTLA-D7366E06",
+        "doc_id": "oncology_checkmate6492021ESMO含CTLA_4组_d7366e06",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

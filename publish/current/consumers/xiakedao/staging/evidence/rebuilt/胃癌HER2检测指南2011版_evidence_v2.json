@@ -1,0 +1,227 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\专家共识\\胃癌HER2检测指南（2011版）.pdf",
+    "product_id": "胃癌HER2检测指南2011版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 8,
+      "tagged_facts": 8
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-胃癌HER2检测指南2011版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+      "title": "胃癌HER2检测指南",
+      "citation": "胃癌HER2检测指南. 中华病理学杂志 (Chin J Pathol). 2011.",
+      "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+      "metadata": {
+        "year": 2011,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "method_validation",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "胃癌患者（胃癌组织样本）",
+          "endpoint_nature": "biomarker",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:38.362722"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-001",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': 'HER2检测方法包括免疫组织化学染色(IHC)和原位杂交(in situ hybridization)技术，后者包括荧光原位杂交(FISH)和双色银染原位杂交(DSISH)', 'page': 553}",
+      "definition_zh": "{'content': 'HER2检测方法包括免疫组织化学染色(IHC)和原位杂交(in situ hybridization)技术，后者包括荧光原位杂交(FISH)和双色银染原位杂交(DSISH)', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-002",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': 'HER2状态检测首先选用IHC法', 'page': 553}",
+      "definition_zh": "{'content': 'HER2状态检测首先选用IHC法', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-003",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': 'IHC 3+的病例判断为HER2阳性，无需进一步做原位杂交检测', 'page': 553}",
+      "definition_zh": "{'content': 'IHC 3+的病例判断为HER2阳性，无需进一步做原位杂交检测', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-004",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': 'IHC 1+和IHC 0的病例，判断为HER2阴性，无需进一步做原位杂交检测', 'page': 553}",
+      "definition_zh": "{'content': 'IHC 1+和IHC 0的病例，判断为HER2阴性，无需进一步做原位杂交检测', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-005",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': 'IHC 2+的病例为不确定病例，需进一步行原位杂交检测', 'page': 553}",
+      "definition_zh": "{'content': 'IHC 2+的病例为不确定病例，需进一步行原位杂交检测', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-006",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '标本固定应在离体后20~30 min内进行标记、切开、固定等初步处理', 'page': 553}",
+      "definition_zh": "{'content': '标本固定应在离体后20~30 min内进行标记、切开、固定等初步处理', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-007",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '采用新鲜配制的4%中性缓冲甲醛液作为固定液', 'page': 553}",
+      "definition_zh": "{'content': '采用新鲜配制的4%中性缓冲甲醛液作为固定液', 'page': 553}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌HER2检测指南2011版-REC-008",
+      "fact_key": "FACT-胃癌HER2检测指南2011版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '胃癌HER2检测应在内、外部质量控制良好和有能力的病理实验室进行', 'page': 556}",
+      "definition_zh": "{'content': '胃癌HER2检测应在内、外部质量控制良好和有能力的病理实验室进行', 'page': 556}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌HER2检测指南2011版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌HER2检测指南2011版-4581F3DD",
+        "doc_id": "guidelines_胃癌HER2检测指南2011版_4581f3dd",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    }
+  ]
+}

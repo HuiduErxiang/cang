@@ -1,0 +1,434 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\CNS\\阿尔茨海默病疾病修饰治疗专家共识（2025版）.pdf",
+    "product_id": "阿尔茨海默病疾病修饰治疗专家共识2025版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 17,
+      "tagged_facts": 17
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+      "title": "阿尔茨海默病疾病修饰治疗专家共识（2025版）",
+      "citation": "阿尔茨海默病疾病修饰治疗专家共识（2025版）. 中华医学杂志. 2025.",
+      "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "阿尔茨海默病源性轻度认知障碍（MCI）和轻度AD痴呆患者",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:52.375271"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-001",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': '经PET或脑脊液标志物明确脑内存在Aβ沉积的AD源性轻度认知障碍（MCI）和轻度AD痴呆患者在评估安全性后推荐使用Aβ单抗药物', 'page': 5, 'strength': '1A'}",
+      "definition_zh": "{'content': '经PET或脑脊液标志物明确脑内存在Aβ沉积的AD源性轻度认知障碍（MCI）和轻度AD痴呆患者在评估安全性后推荐使用Aβ单抗药物', 'page': 5, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-002",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '启动Aβ单抗药物治疗之前，应明确患者的AD临床诊断、脑内Aβ沉积和认知障碍程度，确保患者符合治疗的适应证', 'page': 5, 'strength': '1A'}",
+      "definition_zh": "{'content': '启动Aβ单抗药物治疗之前，应明确患者的AD临床诊断、脑内Aβ沉积和认知障碍程度，确保患者符合治疗的适应证', 'page': 5, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-003",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': '认知障碍严重程度既可参考临床试验的入组标准，选择MMSE评估，也可选择CDR评估，CDR-GS得分为0.5或1分诊断为MCI或轻度痴呆的患者，为单抗药物的适用人群', 'page': 5, 'strength': '专家共识'}",
+      "definition_zh": "{'content': '认知障碍严重程度既可参考临床试验的入组标准，选择MMSE评估，也可选择CDR评估，CDR-GS得分为0.5或1分诊断为MCI或轻度痴呆的患者，为单抗药物的适用人群', 'page': 5, 'strength': '专家共识'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-004",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '血液生物标志物（如p-tau217、p-tau181、Aβ42/40等）不可作为AD患者使用Aβ单抗药物治疗的诊断标准，但可作为筛选手段', 'page': 5, 'strength': '专家共识'}",
+      "definition_zh": "{'content': '血液生物标志物（如p-tau217、p-tau181、Aβ42/40等）不可作为AD患者使用Aβ单抗药物治疗的诊断标准，但可作为筛选手段', 'page': 5, 'strength': '专家共识'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-005",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '接受胆碱酯酶抑制剂、NMDA受体拮抗剂以及精神心理类药物治疗的AD患者均可联合使用Aβ单抗药物治疗', 'page': 5, 'strength': '1A'}",
+      "definition_zh": "{'content': '接受胆碱酯酶抑制剂、NMDA受体拮抗剂以及精神心理类药物治疗的AD患者均可联合使用Aβ单抗药物治疗', 'page': 5, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-006",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '药物可控的高血压病、糖尿病、心脏病、高脂血症等常见慢性疾病患者允许使用Aβ单抗药物治疗', 'page': 5, 'strength': '1A'}",
+      "definition_zh": "{'content': '药物可控的高血压病、糖尿病、心脏病、高脂血症等常见慢性疾病患者允许使用Aβ单抗药物治疗', 'page': 5, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-007",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '对于已使用稳定剂量的抗血栓药物（单独抗血小板药物或抗凝药物）的患者，在和患者及家属充分沟通下可以考虑应用Aβ单抗药物治疗，对已应用Aβ单抗药物治疗的患者，不建议使用溶栓药物', 'page': 5, 'strength': '1B'}",
+      "definition_zh": "{'content': '对于已使用稳定剂量的抗血栓药物（单独抗血小板药物或抗凝药物）的患者，在和患者及家属充分沟通下可以考虑应用Aβ单抗药物治疗，对已应用Aβ单抗药物治疗的患者，不建议使用溶栓药物', 'page': 5, 'strength': '1B'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-008",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '对Aβ单抗药物或者任何辅料严重过敏的患者禁用Aβ单抗药物治疗', 'page': 6, 'strength': '1A'}",
+      "definition_zh": "{'content': '对Aβ单抗药物或者任何辅料严重过敏的患者禁用Aβ单抗药物治疗', 'page': 6, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-009",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '携带APOE ε4纯合子的患者应慎用Aβ单抗药物', 'page': 6, 'strength': '1A'}",
+      "definition_zh": "{'content': '携带APOE ε4纯合子的患者应慎用Aβ单抗药物', 'page': 6, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-010",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': '如果患者使用一种Aβ单抗药物治疗后出现严重或复发性ARIA，则慎用其他Aβ单抗药物治疗', 'page': 6, 'strength': '专家共识'}",
+      "definition_zh": "{'content': '如果患者使用一种Aβ单抗药物治疗后出现严重或复发性ARIA，则慎用其他Aβ单抗药物治疗', 'page': 6, 'strength': '专家共识'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-011",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-011",
+      "domain": "recommendation",
+      "definition": "{'content': 'Aβ单抗药物的使用需要经过严格的评估流程，包括适应证、禁忌证和风险因素的全面评估。需确定AD诊断并明确脑内Aβ沉积及认知功能损害的程度；详细询问患者的病史、过敏史、合并用药等情况，检测APOE基因型，完善含T2*梯度回波或SWI、FLAIR的MRI检查和凝血功能等检查。考虑治疗益处以及出现ARIA不良反应的风险，并与患者及其照料者充分沟通', 'page': 6, 'st",
+      "definition_zh": "{'content': 'Aβ单抗药物的使用需要经过严格的评估流程，包括适应证、禁忌证和风险因素的全面评估。需确定AD诊断并明确脑内Aβ沉积及认知功能损害的程度；详细询问患者的病史、过敏史、合并用药等情况，检测APOE基因型，完善含T2*梯度回波或SWI、FLAIR的MRI检查和凝血功能等检查。考虑治疗益处以及出现ARIA不良反应的风险，并与患者及其照料者充分沟通', 'page': 6, 'st",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-012",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-012",
+      "domain": "recommendation",
+      "definition": "{'content': '在Aβ单抗药物治疗期间，建议每6个月评估认知功能', 'page': 6, 'strength': '专家共识'}",
+      "definition_zh": "{'content': '在Aβ单抗药物治疗期间，建议每6个月评估认知功能', 'page': 6, 'strength': '专家共识'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-013",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-013",
+      "domain": "recommendation",
+      "definition": "{'content': '在多奈单抗使用期间，可以考虑在第24、52和76周评估Aβ PET明确是否可停药', 'page': 6, 'strength': '1A'}",
+      "definition_zh": "{'content': '在多奈单抗使用期间，可以考虑在第24、52和76周评估Aβ PET明确是否可停药', 'page': 6, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-014",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-014",
+      "domain": "recommendation",
+      "definition": "{'content': '临床医师可根据患者个体情况和医疗机构的实际情况，选择PET及脑脊液监测的合适手段及周期', 'page': 6, 'strength': '专家共识'}",
+      "definition_zh": "{'content': '临床医师可根据患者个体情况和医疗机构的实际情况，选择PET及脑脊液监测的合适手段及周期', 'page': 6, 'strength': '专家共识'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-014"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-015",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-015",
+      "domain": "recommendation",
+      "definition": "{'content': '应在Aβ单抗药物治疗期间提高对ARIA的临床警惕性，按照既定的时间复查MRI，MRI包括FLAIR、T2*梯度回波或SWI和DWI序列，建议同一患者随访复查采用相同的序列观察微出血', 'page': 8, 'strength': '1A'}",
+      "definition_zh": "{'content': '应在Aβ单抗药物治疗期间提高对ARIA的临床警惕性，按照既定的时间复查MRI，MRI包括FLAIR、T2*梯度回波或SWI和DWI序列，建议同一患者随访复查采用相同的序列观察微出血', 'page': 8, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-015"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-016",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-016",
+      "domain": "recommendation",
+      "definition": "{'content': '如出现ARIA，应根据患者的临床症状及影像学严重程度给予相应处理及调整后续治疗方案', 'page': 8, 'strength': '1A'}",
+      "definition_zh": "{'content': '如出现ARIA，应根据患者的临床症状及影像学严重程度给予相应处理及调整后续治疗方案', 'page': 8, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-016"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-017",
+      "fact_key": "FACT-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-017",
+      "domain": "recommendation",
+      "definition": "{'content': '在Aβ单抗药物输注期间应严密观察不良反应，若出现输液相关反应，根据临床需要给予对症治疗', 'page': 8, 'strength': '1A'}",
+      "definition_zh": "{'content': '在Aβ单抗药物输注期间应严密观察不良反应，若出现输液相关反应，根据临床需要给予对症治疗', 'page': 8, 'strength': '1A'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-阿尔茨海默病疾病修饰治疗专家共识2025版-REC-017"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-阿尔茨海默病疾病修饰治疗专家共识2025版-8066CE54",
+        "doc_id": "neurology_阿尔茨海默病疾病修饰治疗专家共识2025版_8066ce54",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

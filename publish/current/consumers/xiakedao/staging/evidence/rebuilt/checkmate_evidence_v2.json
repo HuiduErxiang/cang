@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\checkmate 649 （3年随访，2023ESMO）.pdf",
+    "product_id": "checkmate",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-CHECKMATE-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-CHECKMATE-A08472D4",
+      "title": "Health-related quality of life (HRQOL) in patients with advanced gastric, gastroesophageal junction, or esophageal adenocarcinoma cancer (GC/GEJC/EAC): 36-month results of CheckMate 649 nivolumab plus chemotherapy (N+C) versus chemo (C)",
+      "citation": "Health-related quality of life (HRQOL) in patients with advanced gastric, gastroesophageal junction, or esophageal adenocarcinoma cancer (GC/GEJC/EAC): 36-month results of CheckMate 649 nivolumab plus chemotherapy (N+C) versus chemo (C). Annals of Oncology (ESMO 2023). 2023.",
+      "doc_id": "oncology_checkmate_649_3年随访2023ESMO_a08472d4",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Advanced gastric, gastroesophageal junction, or esophageal adenocarcinoma cancer (GC/GEJC/EAC) patients",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.9,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:25.560231"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

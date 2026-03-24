@@ -1,0 +1,42 @@
+{
+  "document_type": "epidemiology",
+  "title": "Cancer statistics, 2024",
+  "source": "CA: A Cancer Journal for Clinicians (CA Cancer J Clin), American Cancer Society",
+  "year": 2024,
+  "language": "English",
+  "total_pages": 38,
+  "data_source": "SEER program, National Cancer Institute (NCI); National Program of Cancer Registries (NPCR), CDC; North American Association of Central Cancer Registries (NAACCR); National Center for Health Statistics (NCHS)",
+  "geography": "United States",
+  "cancer_types": [
+    "Prostate",
+    "Breast",
+    "Lung and bronchus",
+    "Colon and rectum",
+    "Melanoma of the skin",
+    "Non-Hodgkin lymphoma",
+    "Urinary bladder",
+    "Kidney and renal pelvis",
+    "Uterine corpus",
+    "Pancreas",
+    "Thyroid",
+    "Liver and intrahepatic bile duct",
+    "Leukemia",
+    "Oral cavity and pharynx",
+    "Myeloma",
+    "Uterine cervix",
+    "Brain and other nervous system",
+    "Ovary",
+    "Stomach",
+    "Esophagus"
+  ],
+  "key_conclusions": [
+    "In 2024, 2,001,140 new cancer cases and 611,720 cancer deaths are projected to occur in the United States",
+    "Cancer mortality continued to decline through 2021, averting over 4 million deaths since 1991 due to reductions in smoking, earlier detection, and improved treatment",
+    "Incidence rates increased for 6 of the top 10 cancers: breast (0.6% annually), pancreas (1% annually), uterine corpus (1% annually), prostate (3% annually), liver in females (2% annually), kidney (1.5% annually), and HPV-associated oral cancers",
+    "Colorectal cancer incidence increased by 1-2% annually in adults younger than 55 years since the mid-1990s, making it the first leading cause of cancer death in men under 50 and second in women under 50",
+    "The 5-year relative survival rate for all cancers combined increased from 49% in the mid-1970s to 69% during 2013-2019",
+    "Wide persistent cancer disparities exist: compared to White people, mortality rates are two-fold higher for prostate, stomach and uterine corpus cancers in Black people and for liver, stomach, and kidney cancers in Native American people",
+    "Lung cancer death rates declined by 59% from the 1990 peak in men and 36% from the 2002 peak in women due to reduced smoking and treatment advances",
+    "The cancer death rate dropped 33% from 1991 through 2021, translating to an estimated 4.1 million fewer cancer deaths"
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\2025 CSCO指南\\【枪版】2025CSCO胃癌指南.pdf",
+    "product_id": "枪版2025CSCO胃癌指南",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 21,
+      "tagged_facts": 21
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-枪版2025CSCO胃癌指南-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+      "title": "2025 CSCO胃癌指南",
+      "citation": "2025 CSCO胃癌指南. CSCO. 2025.",
+      "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "胃腺癌/胃癌患者（涵盖早期、局部进展期、晚期转移性及术后辅助治疗各阶段）",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.98,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:30.436817"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-001",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-001",
+      "domain": "recommendation",
+      "definition": "{'section': '分子诊断', 'content': '所有经病理诊断证实为胃腺癌的病例均有必要进行HER2检测[1A类]', 'page': 15}",
+      "definition_zh": "{'section': '分子诊断', 'content': '所有经病理诊断证实为胃腺癌的病例均有必要进行HER2检测[1A类]', 'page': 15}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-002",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-002",
+      "domain": "recommendation",
+      "definition": "{'section': '分子诊断', 'content': '所有新诊断胃癌都推荐评估MSI/MMR状态[1B类]', 'page': 15}",
+      "definition_zh": "{'section': '分子诊断', 'content': '所有新诊断胃癌都推荐评估MSI/MMR状态[1B类]', 'page': 15}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-003",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-003",
+      "domain": "recommendation",
+      "definition": "{'section': '分子诊断', 'content': '拟针对Claudin 18.2靶点治疗建议进行Claudin 18.2表达检测[1B类]', 'page': 15}",
+      "definition_zh": "{'section': '分子诊断', 'content': '拟针对Claudin 18.2靶点治疗建议进行Claudin 18.2表达检测[1B类]', 'page': 15}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-004",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-004",
+      "domain": "recommendation",
+      "definition": "{'section': '分子诊断', 'content': '对拟采用PD-1/PD-L1抑制剂治疗的胃癌患者，推荐胃癌组织中评估PD-L1表达状态[2A类]', 'page': 15}",
+      "definition_zh": "{'section': '分子诊断', 'content': '对拟采用PD-1/PD-L1抑制剂治疗的胃癌患者，推荐胃癌组织中评估PD-L1表达状态[2A类]', 'page': 15}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-005",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-005",
+      "domain": "recommendation",
+      "definition": "{'section': '早期胃癌内镜治疗', 'content': 'cT1aN0M0 I期适宜行EMR/ESD患者：EMR/ESD[1B类]', 'page': 29}",
+      "definition_zh": "{'section': '早期胃癌内镜治疗', 'content': 'cT1aN0M0 I期适宜行EMR/ESD患者：EMR/ESD[1B类]', 'page': 29}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-006",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-006",
+      "domain": "recommendation",
+      "definition": "{'section': '可手术切除胃癌治疗', 'content': 'I期cT1aN0M0不适宜EMR/ESD：胃切除术D1[1A类]', 'page': 30}",
+      "definition_zh": "{'section': '可手术切除胃癌治疗', 'content': 'I期cT1aN0M0不适宜EMR/ESD：胃切除术D1[1A类]', 'page': 30}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-007",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-007",
+      "domain": "recommendation",
+      "definition": "{'section': '可手术切除胃癌治疗', 'content': 'II期非食管胃结合部肿瘤：胃切除术D2+辅助化疗[1A类]', 'page': 30}",
+      "definition_zh": "{'section': '可手术切除胃癌治疗', 'content': 'II期非食管胃结合部肿瘤：胃切除术D2+辅助化疗[1A类]', 'page': 30}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-008",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-008",
+      "domain": "recommendation",
+      "definition": "{'section': '可手术切除胃癌治疗', 'content': 'III期非食管胃结合部肿瘤：胃切除术D2+辅助化疗[1A类]；腹腔镜探查[1B类]；新辅助化疗+胃切除术D2+辅助化疗[1A类]', 'page': 31}",
+      "definition_zh": "{'section': '可手术切除胃癌治疗', 'content': 'III期非食管胃结合部肿瘤：胃切除术D2+辅助化疗[1A类]；腹腔镜探查[1B类]；新辅助化疗+胃切除术D2+辅助化疗[1A类]', 'page': 31}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-009",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-009",
+      "domain": "recommendation",
+      "definition": "{'section': '术后辅助治疗', 'content': 'II期患者术后辅助化疗：SOX[1A类]、S-1单药[1A类]', 'page': 46}",
+      "definition_zh": "{'section': '术后辅助治疗', 'content': 'II期患者术后辅助化疗：SOX[1A类]、S-1单药[1A类]', 'page': 46}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-010",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-010",
+      "domain": "recommendation",
+      "definition": "{'section': '术后辅助治疗', 'content': 'III期患者术后辅助化疗：SOX[1A类]', 'page': 46}",
+      "definition_zh": "{'section': '术后辅助治疗', 'content': 'III期患者术后辅助化疗：SOX[1A类]', 'page': 46}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-011",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-011",
+      "domain": "recommendation",
+      "definition": "{'section': '新辅助治疗', 'content': '非食管胃结合部癌cT3-4aN+M0/cIII期：新辅助化疗SOX[1A类]、DOS[1B类]、FLOT4[1B类]', 'page': 48}",
+      "definition_zh": "{'section': '新辅助治疗', 'content': '非食管胃结合部癌cT3-4aN+M0/cIII期：新辅助化疗SOX[1A类]、DOS[1B类]、FLOT4[1B类]', 'page': 48}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-012",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-012",
+      "domain": "recommendation",
+      "definition": "{'section': '新辅助治疗', 'content': '对于dMMR/MSI-H型，新辅助PD-1单抗联合CTLA4单抗[2B类]', 'page': 48}",
+      "definition_zh": "{'section': '新辅助治疗', 'content': '对于dMMR/MSI-H型，新辅助PD-1单抗联合CTLA4单抗[2B类]', 'page': 48}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-013",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-013",
+      "domain": "recommendation",
+      "definition": "{'section': '不可手术局部进展期胃癌', 'content': 'HER2中/低/不表达且pMMR/MSS：系统治疗，MDT评估转化手术可行性，仍不可切除且无转移者接受放化疗', 'page': 64}",
+      "definition_zh": "{'section': '不可手术局部进展期胃癌', 'content': 'HER2中/低/不表达且pMMR/MSS：系统治疗，MDT评估转化手术可行性，仍不可切除且无转移者接受放化疗', 'page': 64}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-014",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-014",
+      "domain": "recommendation",
+      "definition": "{'section': '晚期转移性胃癌一线治疗', 'content': 'HER2高表达(IHC 3+或2+且FISH+)PD-L1 CPS≥1分：帕博利珠单抗+曲妥珠单抗+XELOX/FP[1A类]', 'page': 76}",
+      "definition_zh": "{'section': '晚期转移性胃癌一线治疗', 'content': 'HER2高表达(IHC 3+或2+且FISH+)PD-L1 CPS≥1分：帕博利珠单抗+曲妥珠单抗+XELOX/FP[1A类]', 'page': 76}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-014"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-015",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-015",
+      "domain": "recommendation",
+      "definition": "{'section': '晚期转移性胃癌一线治疗', 'content': 'HER2中低/不表达PD-L1 CPS≥5分：XELOX联合舒格利单抗[1A类]、FOLFOX/XELOX联合纳武利尤单抗[1A类]、XELOX联合信迪利单抗[1A类]', 'page': 76}",
+      "definition_zh": "{'section': '晚期转移性胃癌一线治疗', 'content': 'HER2中低/不表达PD-L1 CPS≥5分：XELOX联合舒格利单抗[1A类]、FOLFOX/XELOX联合纳武利尤单抗[1A类]、XELOX联合信迪利单抗[1A类]', 'page': 76}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-015"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-016",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-016",
+      "domain": "recommendation",
+      "definition": "{'section': '晚期转移性胃癌一线治疗', 'content': 'Claudin18.2表达(IHC:2-3+,≥75%)：FOLFOX/XELOX联合佐妥昔单抗[1A类]', 'page': 77}",
+      "definition_zh": "{'section': '晚期转移性胃癌一线治疗', 'content': 'Claudin18.2表达(IHC:2-3+,≥75%)：FOLFOX/XELOX联合佐妥昔单抗[1A类]', 'page': 77}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-016"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-017",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-017",
+      "domain": "recommendation",
+      "definition": "{'section': 'dMMR/MSI-H晚期胃癌一线治疗', 'content': '纳武利尤单抗联合伊匹木单抗[2B类]', 'page': 78}",
+      "definition_zh": "{'section': 'dMMR/MSI-H晚期胃癌一线治疗', 'content': '纳武利尤单抗联合伊匹木单抗[2B类]', 'page': 78}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-017"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-018",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-018",
+      "domain": "recommendation",
+      "definition": "{'section': '二线治疗', 'content': 'HER2高表达：既往接受过曲妥珠单抗，紫杉醇联合雷莫西尤单抗[1A类]', 'page': 80}",
+      "definition_zh": "{'section': '二线治疗', 'content': 'HER2高表达：既往接受过曲妥珠单抗，紫杉醇联合雷莫西尤单抗[1A类]', 'page': 80}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-018"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-019",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-019",
+      "domain": "recommendation",
+      "definition": "{'section': '二线治疗', 'content': 'dMMR/MSI-H：帕博利珠单抗[2A类]、恩沃利单抗[2A类]、替雷利珠单抗[2A类]、斯鲁利单抗[2A类]', 'page': 80}",
+      "definition_zh": "{'section': '二线治疗', 'content': 'dMMR/MSI-H：帕博利珠单抗[2A类]、恩沃利单抗[2A类]、替雷利珠单抗[2A类]、斯鲁利单抗[2A类]', 'page': 80}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-019"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-020",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-020",
+      "domain": "recommendation",
+      "definition": "{'section': '三线及三线以上治疗', 'content': 'HER2高表达：德曲妥珠单抗[1B类]、维迪西妥单抗[2A类]', 'page': 81}",
+      "definition_zh": "{'section': '三线及三线以上治疗', 'content': 'HER2高表达：德曲妥珠单抗[1B类]、维迪西妥单抗[2A类]', 'page': 81}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-020"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-枪版2025CSCO胃癌指南-REC-021",
+      "fact_key": "FACT-枪版2025CSCO胃癌指南-REC-021",
+      "domain": "recommendation",
+      "definition": "{'section': '三线及三线以上治疗', 'content': 'HER2低/不表达：阿帕替尼[1A类]、纳武利尤单抗单药[1A类]', 'page': 81}",
+      "definition_zh": "{'section': '三线及三线以上治疗', 'content': 'HER2低/不表达：阿帕替尼[1A类]、纳武利尤单抗单药[1A类]', 'page': 81}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-枪版2025CSCO胃癌指南-REC-021"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-枪版2025CSCO胃癌指南-CF80F8D3",
+        "doc_id": "guidelines_枪版2025CSCO胃癌指南_cf80f8d3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

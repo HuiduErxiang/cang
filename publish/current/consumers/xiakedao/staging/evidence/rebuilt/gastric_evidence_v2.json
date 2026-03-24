@@ -1,0 +1,204 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "raw\\pdf\\guidelines\\胃癌抗HER2治疗中国专家共识(2024年版).pdf",
+    "product_id": "gastric",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 7,
+      "tagged_facts": 7
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-GASTRIC-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-GASTRIC-AC884C31",
+      "title": "胃癌抗HER2治疗中国专家共识（2024年版）",
+      "citation": "胃癌抗HER2治疗中国专家共识（2024年版）. 中国肿瘤临床. 2024.",
+      "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "HER2阳性及HER2低表达胃癌患者（晚期、局部进展期、可切除及不可切除）",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto",
+          "tagged_at": "2026-03-23T22:59:20.339437"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-001",
+      "fact_key": "FACT-GASTRIC-REC-001",
+      "domain": "recommendation",
+      "definition": "晚期一线：PD-L1 CPS≥1分推荐帕博利珠单抗+曲妥珠单抗+化疗（强推荐）；PD-L1 CPS<1分推荐曲妥珠单抗+化疗（强推荐）",
+      "definition_zh": "晚期一线：PD-L1 CPS≥1分推荐帕博利珠单抗+曲妥珠单抗+化疗（强推荐）；PD-L1 CPS<1分推荐曲妥珠单抗+化疗（强推荐）",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-002",
+      "fact_key": "FACT-GASTRIC-REC-002",
+      "domain": "recommendation",
+      "definition": "晚期二线：不推荐曲妥珠单抗跨线治疗，建议重新活检明确HER2状态（弱推荐）",
+      "definition_zh": "晚期二线：不推荐曲妥珠单抗跨线治疗，建议重新活检明确HER2状态（弱推荐）",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-003",
+      "fact_key": "FACT-GASTRIC-REC-003",
+      "domain": "recommendation",
+      "definition": "晚期三线：推荐新型ADC药物（维迪西妥单抗、德曲妥珠单抗）（弱推荐）",
+      "definition_zh": "晚期三线：推荐新型ADC药物（维迪西妥单抗、德曲妥珠单抗）（弱推荐）",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-004",
+      "fact_key": "FACT-GASTRIC-REC-004",
+      "domain": "recommendation",
+      "definition": "围手术期：新辅助治疗可考虑曲妥珠单抗+化疗±免疫（弱推荐）；可考虑ADC联合免疫和化疗（弱推荐）",
+      "definition_zh": "围手术期：新辅助治疗可考虑曲妥珠单抗+化疗±免疫（弱推荐）；可考虑ADC联合免疫和化疗（弱推荐）",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-005",
+      "fact_key": "FACT-GASTRIC-REC-005",
+      "domain": "recommendation",
+      "definition": "转化治疗：方案可参考晚期一线抗HER2治疗方案（弱推荐）",
+      "definition_zh": "转化治疗：方案可参考晚期一线抗HER2治疗方案（弱推荐）",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-006",
+      "fact_key": "FACT-GASTRIC-REC-006",
+      "domain": "recommendation",
+      "definition": "不良事件管理：曲妥珠单抗需监测心脏毒性；维迪西妥单抗需关注周围神经毒性；德曲妥珠单抗需监测ILD/肺炎",
+      "definition_zh": "不良事件管理：曲妥珠单抗需监测心脏毒性；维迪西妥单抗需关注周围神经毒性；德曲妥珠单抗需监测ILD/肺炎",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GASTRIC-REC-007",
+      "fact_key": "FACT-GASTRIC-REC-007",
+      "domain": "recommendation",
+      "definition": "再检测建议：一线进展后建议再次活检确认HER2状态；ctDNA可作为补充检测手段",
+      "definition_zh": "再检测建议：一线进展后建议再次活检确认HER2状态；ctDNA可作为补充检测手段",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GASTRIC-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GASTRIC-AC884C31",
+        "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

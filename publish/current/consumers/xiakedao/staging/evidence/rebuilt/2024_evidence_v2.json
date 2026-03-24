@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "conferences\\2024_esmo\\2024 ESMO胃癌领域研究进展 (1).pdf",
+    "product_id": "2024",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-2024-001",
+      "source_type": "conference_oral",
+      "source_key": "SRC-2024-53B00894",
+      "title": "2024 ESMO胃癌研究进展",
+      "citation": "2024 ESMO胃癌研究进展. 恒瑞医药肿瘤中央医学事务部-医学科学二部. 2024.",
+      "doc_id": "oncology_2024_ESMO胃癌领域研究进展_1_53b00894",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "conference_oral",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_association",
+          "study_subject": "human",
+          "population_or_model": "胃癌患者（ESMO 2024会议报道的多项研究汇总）",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.81,
+          "tagged_by": "human_override",
+          "tagged_at": "2026-03-23T23:15:23.034340"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

@@ -1,0 +1,491 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.0",
+    "rebuild_date": "2026-03-22",
+    "migration_batch": "Batch-3",
+    "source_file": "raw/evidence/ingested/references/lecanemab_evidence_*.json",
+    "product_id": "lecanemab",
+    "product_name_zh": "仑卡奈单抗",
+    "rebuild_status": "complete",
+    "rebuild_scope": "V1->V2 完整 evidence 重建：全量 sources + efficacy/safety/mechanism/regulatory facts"
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-LECANEMAB-CLARITY-AD-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+      "title": "Lecanemab in Early Alzheimer's Disease (Clarity AD)",
+      "citation": "van Dyck CH, Swanson CJ, Aisen P, et al. Lecanemab in Early Alzheimer's Disease. N Engl J Med. 2023;388(1):9-21. DOI:10.1056/NEJMoa2212948",
+      "v1_source_id": "SRC_CLARITY_AD_2024Q2_ORIGINAL",
+      "metadata": {
+        "journal": "N Engl J Med",
+        "year": 2023,
+        "doi": "10.1056/NEJMoa2212948",
+        "study_type": "pivotal_phase3_RCT",
+        "indication": "early_alzheimers_disease",
+        "sample_size": 1795
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-CLARITY-AD-SAFETY-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-LECANEMAB-CLARITY-AD-SAFETY-2024",
+      "title": "Safety Results from Clarity AD",
+      "citation": "Honig LS, et al. Safety Results from Clarity AD. Alzheimers Res Ther. 2024;16:105. DOI:10.1186/s13195-024-01441-8",
+      "v1_source_id": "SRC_CLARITY_AD_2025Q2_SAFETY",
+      "metadata": {
+        "journal": "Alzheimers Res Ther",
+        "year": 2024,
+        "doi": "10.1186/s13195-024-01441-8",
+        "study_type": "safety_analysis"
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-CLARITY-AD-OLE-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-LECANEMAB-CLARITY-AD-OLE-2024",
+      "title": "Clarity AD Open-Label Extension 3-Year Follow-Up",
+      "citation": "Irizarry MC, et al. Clarity AD Open-Label Extension: 3-year safety and efficacy results. Alzheimers Dement. 2024.",
+      "v1_source_id": "SRC_CLARITY_AD_2024Q3_3YEAR",
+      "metadata": {
+        "study_type": "open_label_extension",
+        "follow_up_months": 36
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-BIOMARKER-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-LECANEMAB-BIOMARKER-2024",
+      "title": "仑卡奈单抗长期治疗的生物标志物改变",
+      "citation": "Swanson CJ, et al. Biomarker Changes with Long-Term Lecanemab Treatment. 2024.",
+      "v1_source_id": "SRC_LECANEMAB_BIOMARKER_2024Q3",
+      "metadata": {
+        "study_type": "biomarker_analysis"
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-BINDING-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-LECANEMAB-BINDING-2024",
+      "title": "Lecanemab Selective Binding to Aβ Protofibrils from AD Brain",
+      "citation": "Tucker S, et al. Selective binding to protofibrils. 2024.",
+      "v1_source_id": "SRC_LECANEMAB_BINDING_2024Q4",
+      "metadata": {
+        "study_type": "mechanism_of_action"
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-FDA-LABEL-001",
+      "source_type": "regulatory_document",
+      "source_key": "SRC-LECANEMAB-FDA-LABEL-2023",
+      "title": "LEQEMBI (lecanemab-irmb) Prescribing Information",
+      "citation": "FDA. LEQEMBI Prescribing Information. July 2023.",
+      "v1_source_id": "SRC_LECANEMAB_FDA_2023",
+      "metadata": {
+        "regulatory_body": "FDA",
+        "approval_date": "2023-07-06",
+        "approval_type": "traditional_approval"
+      }
+    },
+    {
+      "source_id": "V2-SRC-LECANEMAB-NMPA-001",
+      "source_type": "regulatory_document",
+      "source_key": "SRC-LECANEMAB-NMPA-2024",
+      "title": "仑卡奈单抗注射液说明书（NMPA批准）",
+      "citation": "NMPA. 仑卡奈单抗注射液说明书. 2024.",
+      "v1_source_id": "SRC_LECANEMAB_NMPA_2024",
+      "metadata": {
+        "regulatory_body": "NMPA",
+        "approval_date": "2024-01-09"
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-001",
+      "fact_key": "FACT-LECANEMAB-CDRSB-CFB-18MO",
+      "domain": "efficacy",
+      "definition": "Change from baseline in CDR-SB at 18 months (treatment difference)",
+      "definition_zh": "18个月时CDR-SB较基线变化的治疗组与安慰剂组差异",
+      "value": "-0.45",
+      "unit": "points",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-PRIMARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_cdrsb_18mo",
+        "rebuild_notes": "Clarity AD 主要终点，27%减缓认知下降"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-002",
+      "fact_key": "FACT-LECANEMAB-CDRSB-RELATIVE-REDUCTION",
+      "domain": "efficacy",
+      "definition": "Relative reduction in CDR-SB decline at 18 months",
+      "definition_zh": "18个月时CDR-SB下降的相对减缓比例",
+      "value": "27%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-PRIMARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_cdrsb_relative",
+        "rebuild_notes": "Clarity AD 主要终点的相对变化"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-003",
+      "fact_key": "FACT-LECANEMAB-CDRSB-PVALUE",
+      "domain": "efficacy",
+      "definition": "P-value for CDR-SB primary endpoint",
+      "definition_zh": "CDR-SB主要终点的P值",
+      "value": "p<0.001",
+      "unit": "p-value",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-PRIMARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_cdrsb_pvalue"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-004",
+      "fact_key": "FACT-LECANEMAB-ADASCOG14-CFB-18MO",
+      "domain": "efficacy",
+      "definition": "Change from baseline in ADAS-Cog14 at 18 months (treatment difference)",
+      "definition_zh": "18个月时ADAS-Cog14较基线变化的治疗差异",
+      "value": "-1.44",
+      "unit": "points",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-002"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SECONDARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_adascog14_18mo",
+        "rebuild_notes": "Clarity AD 关键次要终点 ADAS-Cog14"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-005",
+      "fact_key": "FACT-LECANEMAB-ADCOMS-REDUCTION",
+      "domain": "efficacy",
+      "definition": "Relative reduction in ADCOMS decline at 18 months",
+      "definition_zh": "18个月时ADCOMS下降的相对减缓比例",
+      "value": "24%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-002"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SECONDARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_adcoms_relative"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-006",
+      "fact_key": "FACT-LECANEMAB-ADCSMCIADL-REDUCTION",
+      "domain": "efficacy",
+      "definition": "Relative reduction in ADCS-MCI-ADL decline at 18 months",
+      "definition_zh": "18个月时ADCS-MCI-ADL下降的相对减缓比例",
+      "value": "37%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-002"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SECONDARY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_adcsmciadl_relative"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-007",
+      "fact_key": "FACT-LECANEMAB-AMYLOID-REDUCTION",
+      "domain": "efficacy",
+      "definition": "Amyloid PET change from baseline at 18 months (centiloids)",
+      "definition_zh": "18个月时淀粉样蛋白PET较基线变化（centiloid值）",
+      "value": "-55.48",
+      "unit": "centiloids",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-003"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-BIOMARKER",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "efficacy_amyloid_pet"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-EFFICACY-008",
+      "fact_key": "FACT-LECANEMAB-SAMPLE-SIZE",
+      "domain": "efficacy",
+      "definition": "Total enrolled patients in Clarity AD",
+      "definition_zh": "Clarity AD研究入组患者总数",
+      "value": "1795",
+      "unit": "patients",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-DESIGN",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "efficacy",
+        "v1_item_id": "study_sample_size"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-SAFETY-001",
+      "fact_key": "FACT-LECANEMAB-ARIA-E-RATE",
+      "domain": "safety",
+      "definition": "ARIA-E (edema/effusion) incidence rate",
+      "definition_zh": "ARIA-E（水肿/渗出）发生率",
+      "value": "12.6%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-SAFETY-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-SAFETY-2024",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SAFETY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "safety",
+        "v1_item_id": "safety_aria_e_rate"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-SAFETY-002",
+      "fact_key": "FACT-LECANEMAB-ARIA-H-RATE",
+      "domain": "safety",
+      "definition": "ARIA-H (microhemorrhage) incidence rate",
+      "definition_zh": "ARIA-H（微出血）发生率",
+      "value": "14.0%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-SAFETY-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-SAFETY-2024",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SAFETY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "safety",
+        "v1_item_id": "safety_aria_h_rate"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-SAFETY-003",
+      "fact_key": "FACT-LECANEMAB-IRR-RATE",
+      "domain": "safety",
+      "definition": "Infusion-related reaction incidence rate",
+      "definition_zh": "输注相关反应发生率",
+      "value": "26.4%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-SAFETY-002"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SAFETY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "safety",
+        "v1_item_id": "safety_irr_rate"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-SAFETY-004",
+      "fact_key": "FACT-LECANEMAB-ARIA-E-PLACEBO-RATE",
+      "domain": "safety",
+      "definition": "ARIA-E incidence rate in placebo group",
+      "definition_zh": "安慰剂组ARIA-E发生率",
+      "value": "1.7%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-SAFETY-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-SAFETY-2024",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SAFETY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "safety",
+        "v1_item_id": "safety_aria_e_placebo"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-SAFETY-005",
+      "fact_key": "FACT-LECANEMAB-SERIOUS-AE-RATE",
+      "domain": "safety",
+      "definition": "Serious adverse events rate in treatment group",
+      "definition_zh": "治疗组严重不良事件发生率",
+      "value": "14.0%",
+      "unit": "percentage",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-CLARITY-AD-SAFETY-003"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-CLARITY-AD-2023-NEJM",
+        "asset_key": "AST-LECANEMAB-CLARITY-AD-SAFETY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "safety",
+        "v1_item_id": "safety_sae_rate"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-MOA-001",
+      "fact_key": "FACT-LECANEMAB-TARGET",
+      "domain": "mechanism",
+      "definition": "Molecular target: soluble Aβ protofibrils",
+      "definition_zh": "分子靶点：可溶性Aβ原纤维",
+      "value": "Anti-Aβ protofibril antibody",
+      "unit": null,
+      "fragment_ids": ["V2-FRAG-LECANEMAB-BINDING-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-BINDING-2024",
+        "asset_key": "AST-LECANEMAB-MOA",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "mechanism",
+        "v1_item_id": "moa_target"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-MOA-002",
+      "fact_key": "FACT-LECANEMAB-DOSING",
+      "domain": "mechanism",
+      "definition": "Approved dosing regimen",
+      "definition_zh": "获批用法用量",
+      "value": "10 mg/kg IV q2w",
+      "unit": null,
+      "fragment_ids": ["V2-FRAG-LECANEMAB-FDA-LABEL-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-FDA-LABEL-2023",
+        "asset_key": "AST-LECANEMAB-DOSING",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "mechanism",
+        "v1_item_id": "dosing_regimen"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-REG-001",
+      "fact_key": "FACT-LECANEMAB-FDA-APPROVAL",
+      "domain": "regulatory",
+      "definition": "FDA traditional approval date",
+      "definition_zh": "FDA传统批准日期",
+      "value": "2023-07-06",
+      "unit": "date",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-FDA-LABEL-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-FDA-LABEL-2023",
+        "asset_key": "AST-LECANEMAB-REGULATORY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "regulatory",
+        "v1_item_id": "fda_approval_date"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-REG-002",
+      "fact_key": "FACT-LECANEMAB-NMPA-APPROVAL",
+      "domain": "regulatory",
+      "definition": "NMPA approval date (China)",
+      "definition_zh": "NMPA批准日期（中国）",
+      "value": "2024-01-09",
+      "unit": "date",
+      "fragment_ids": ["V2-FRAG-LECANEMAB-NMPA-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-NMPA-2024",
+        "asset_key": "AST-LECANEMAB-REGULATORY-CN",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "regulatory",
+        "v1_item_id": "nmpa_approval_date"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-LECANEMAB-REG-003",
+      "fact_key": "FACT-LECANEMAB-INDICATION",
+      "domain": "regulatory",
+      "definition": "Approved indication",
+      "definition_zh": "获批适应症",
+      "value": "Treatment of Alzheimer's disease in patients with mild cognitive impairment or mild dementia stage confirmed by amyloid pathology",
+      "unit": null,
+      "fragment_ids": ["V2-FRAG-LECANEMAB-FDA-LABEL-001"],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-LECANEMAB-FDA-LABEL-2023",
+        "asset_key": "AST-LECANEMAB-REGULATORY",
+        "extraction_date": "2026-03-22"
+      },
+      "v1_mapping": {
+        "v1_section": "regulatory",
+        "v1_item_id": "indication"
+      }
+    }
+  ],
+  "rebuild_notes": {
+    "v1_to_v2_mapping": [
+      "V1 sources[].source_id -> V2 source_id (with V2- prefix)",
+      "V1 sources[].citation -> V2 citation",
+      "V1 evidence items -> V2 FactRecord with fact_key and lineage",
+      "Added lineage tracking with source_key, asset_key",
+      "Added domain classification: efficacy, safety, mechanism, regulatory"
+    ],
+    "data_sources": [
+      "raw/evidence/ingested/references/lecanemab_evidence_1.json through lecanemab_evidence_46.json",
+      "Clarity AD (NEJM 2023) published results",
+      "FDA LEQEMBI prescribing information",
+      "NMPA approval documentation"
+    ],
+    "coverage": {
+      "efficacy_facts": 8,
+      "safety_facts": 5,
+      "mechanism_facts": 2,
+      "regulatory_facts": 3,
+      "total_facts": 18,
+      "total_sources": 7
+    }
+  }
+}

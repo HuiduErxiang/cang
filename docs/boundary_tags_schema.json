@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "boundary_tags_v1.0",
+  "title": "研究边界标签 Schema",
+  "description": "藏经阁文献研究边界标签，用于控制下游写作表述上限。版本 1.0，冻结于 2026-03-23。",
+  "type": "object",
+  "required": [
+    "document_type",
+    "study_subject",
+    "evidence_purpose",
+    "claim_ceiling"
+  ],
+  "properties": {
+    "document_type": {
+      "description": "文献类型",
+      "type": "string",
+      "enum": [
+        "clinical_trial",
+        "post_hoc",
+        "biomarker_method",
+        "preclinical_animal",
+        "preclinical_in_vitro",
+        "review",
+        "guideline_consensus",
+        "conference_poster",
+        "conference_oral"
+      ]
+    },
+    "study_subject": {
+      "description": "研究对象",
+      "type": "string",
+      "enum": [
+        "human",
+        "animal",
+        "cell",
+        "assay_system",
+        "mixed"
+      ]
+    },
+    "evidence_purpose": {
+      "description": "证据用途",
+      "type": "string",
+      "enum": [
+        "efficacy",
+        "safety",
+        "mechanism",
+        "method_validation",
+        "association",
+        "diagnostic_performance"
+      ]
+    },
+    "claim_ceiling": {
+      "description": "表述上限 — 决定下游最多能写到哪一步",
+      "type": "string",
+      "enum": [
+        "method_only",
+        "mechanistic_signal",
+        "clinical_association",
+        "clinical_outcome",
+        "guideline_recommendation"
+      ]
+    },
+    "population_or_model": {
+      "description": "人群或模型（自由文本）",
+      "type": "string",
+      "examples": [
+        "CN",
+        "ADD",
+        "MCI due to AD",
+        "APPNL-G-F/MAPT dKI mice",
+        "5xFAD mice",
+        "HER2+ gastric cancer",
+        "mCRPC"
+      ]
+    },
+    "endpoint_nature": {
+      "description": "终点性质",
+      "type": "string",
+      "enum": [
+        "biomarker",
+        "clinical_scale",
+        "pathology",
+        "pk_pd",
+        "assay_performance"
+      ]
+    },
+    "boundary_tags_version": {
+      "description": "标签 schema 版本号",
+      "type": "string",
+      "const": "1.0"
+    },
+    "tagging_confidence": {
+      "description": "打标置信度（0-1），由 LLM 或人工给出",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "tagged_by": {
+      "description": "打标方式",
+      "type": "string",
+      "enum": [
+        "llm_auto",
+        "human_review",
+        "human_override"
+      ]
+    },
+    "tagged_at": {
+      "description": "打标时间，ISO 8601 格式",
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

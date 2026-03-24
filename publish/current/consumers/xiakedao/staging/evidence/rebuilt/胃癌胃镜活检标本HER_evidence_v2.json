@@ -1,0 +1,319 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\专家共识\\胃癌胃镜活检标本HER-2检测中国专家共识（2023版）-梁寒.pdf",
+    "product_id": "胃癌胃镜活检标本HER",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 12,
+      "tagged_facts": 12
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-胃癌胃镜活检标本HER-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+      "title": "胃癌胃镜活检标本HER-2检测中国专家共识（2023版）",
+      "citation": "胃癌胃镜活检标本HER-2检测中国专家共识（2023版）. 中国肿瘤临床 (Chin J Clin Oncol). 2023.",
+      "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "diagnostic_performance",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "需要HER-2检测的胃癌或胃腺癌患者（胃镜活检标本）",
+          "endpoint_nature": "assay_performance",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.88,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:45.687406"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-001",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': '胃镜活检是胃癌诊断的金标准，活检标本与手术标本HER-2检测结果基本一致，均适用于HER-2检测', 'page': 2, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意100%'}",
+      "definition_zh": "{'content': '胃镜活检是胃癌诊断的金标准，活检标本与手术标本HER-2检测结果基本一致，均适用于HER-2检测', 'page': 2, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意100%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-002",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '胃癌胃镜活检标本HER-2检测对于筛选潜在抗HER-2靶向治疗获益的胃癌人群具有重要的临床意义', 'page': 2, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意96.6%，基本同意3.4%'}",
+      "definition_zh": "{'content': '胃癌胃镜活检标本HER-2检测对于筛选潜在抗HER-2靶向治疗获益的胃癌人群具有重要的临床意义', 'page': 2, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意96.6%，基本同意3.4%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-003",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': '所有经病理诊断证实为胃腺癌的病例，胃镜活检标本均有必要进行HER-2检测', 'page': 4, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意100.0%'}",
+      "definition_zh": "{'content': '所有经病理诊断证实为胃腺癌的病例，胃镜活检标本均有必要进行HER-2检测', 'page': 4, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意100.0%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-004",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '对于原发灶初次评估为HER-2阴性的复发或转移性胃癌，如患者有潜在治疗可能，建议对复发灶再次活检检测HER-2状态，且阳性者有可能从抗HER-2治疗获益', 'page': 4, 'evidence_quality': '中', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意89.7%，基本同意10.3",
+      "definition_zh": "{'content': '对于原发灶初次评估为HER-2阴性的复发或转移性胃癌，如患者有潜在治疗可能，建议对复发灶再次活检检测HER-2状态，且阳性者有可能从抗HER-2治疗获益', 'page': 4, 'evidence_quality': '中', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意89.7%，基本同意10.3",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-005",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '一线使用曲妥珠单抗治疗进展后建议再次进行胃镜活检病理学检查确认HER-2状态', 'page': 4, 'evidence_quality': '中', 'recommendation_strength': '弱推荐', 'consensus_level': '完全同意75.9%，基本同意20.7%'}",
+      "definition_zh": "{'content': '一线使用曲妥珠单抗治疗进展后建议再次进行胃镜活检病理学检查确认HER-2状态', 'page': 4, 'evidence_quality': '中', 'recommendation_strength': '弱推荐', 'consensus_level': '完全同意75.9%，基本同意20.7%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-006",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '胃镜检查和活检过程应严格按照相关操作规范进行', 'page': 4, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意96.6%，基本同意3.4%'}",
+      "definition_zh": "{'content': '胃镜检查和活检过程应严格按照相关操作规范进行', 'page': 4, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意96.6%，基本同意3.4%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-007",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '多点活检有助于减少肿瘤异质性的影响，提高检测准确性。应在病灶不同部位多点取材，取不少于6块组织，建议取6～8块', 'page': 5, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意89.7%，基本同意10.3%'}",
+      "definition_zh": "{'content': '多点活检有助于减少肿瘤异质性的影响，提高检测准确性。应在病灶不同部位多点取材，取不少于6块组织，建议取6～8块', 'page': 5, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意89.7%，基本同意10.3%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-008",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '活检取材应尽量避开变性坏死部位，不同类型病变取活检时应注意选取活检部位', 'page': 5, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意93.1%，基本同意6.9%'}",
+      "definition_zh": "{'content': '活检取材应尽量避开变性坏死部位，不同类型病变取活检时应注意选取活检部位', 'page': 5, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意93.1%，基本同意6.9%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-009",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '活检标本应在离体后立即固定于10%中性缓冲福尔马林溶液中，固定时间为6～48h（至少1h/mm组织）。充分脱水后，仔细辨认标本黏膜面，垂直定向包埋。按照规定的厚度切片，在染色前彻底脱蜡', 'page': 6, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全",
+      "definition_zh": "{'content': '活检标本应在离体后立即固定于10%中性缓冲福尔马林溶液中，固定时间为6～48h（至少1h/mm组织）。充分脱水后，仔细辨认标本黏膜面，垂直定向包埋。按照规定的厚度切片，在染色前彻底脱蜡', 'page': 6, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-010",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': '通过IHC/ISH检测活检标本HER-2状态，应严格参照《胃癌HER-2检测指南》进行检测和结果判读', 'page': 6, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意86.2%，基本同意13.8%'}",
+      "definition_zh": "{'content': '通过IHC/ISH检测活检标本HER-2状态，应严格参照《胃癌HER-2检测指南》进行检测和结果判读', 'page': 6, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意86.2%，基本同意13.8%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-011",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-011",
+      "domain": "recommendation",
+      "definition": "{'content': '为确保标准规范地进行胃镜活检标本HER-2检测，检测实验室应严格参照《胃癌HER-2检测指南》做好质量控制工作，包括实验室的内部质控和外部质控', 'page': 7, 'evidence_quality': '中', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意86.2%，基本同意13.8%'}",
+      "definition_zh": "{'content': '为确保标准规范地进行胃镜活检标本HER-2检测，检测实验室应严格参照《胃癌HER-2检测指南》做好质量控制工作，包括实验室的内部质控和外部质控', 'page': 7, 'evidence_quality': '中', 'recommendation_strength': '强推荐', 'consensus_level': '完全同意86.2%，基本同意13.8%'}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌胃镜活检标本HER-REC-012",
+      "fact_key": "FACT-胃癌胃镜活检标本HER-REC-012",
+      "domain": "recommendation",
+      "definition": "{'content': '及时、规范、准确的胃癌胃镜活检标本HER-2检测，需要临床科室、内镜科、病理科等多学科团队的紧密合作，加强临床与病理的沟通交流，有助于对HER-2检测结果的正确判断及对治疗疗效的客观评价', 'page': 7, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完",
+      "definition_zh": "{'content': '及时、规范、准确的胃癌胃镜活检标本HER-2检测，需要临床科室、内镜科、病理科等多学科团队的紧密合作，加强临床与病理的沟通交流，有助于对HER-2检测结果的正确判断及对治疗疗效的客观评价', 'page': 7, 'evidence_quality': '高', 'recommendation_strength': '强推荐', 'consensus_level': '完",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌胃镜活检标本HER-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌胃镜活检标本HER-ED68ECD9",
+        "doc_id": "guidelines_胃癌胃镜活检标本HER_2检测中国专家共识2023版_梁寒_ed68ecd9",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "assay_performance"
+      }
+    }
+  ]
+}

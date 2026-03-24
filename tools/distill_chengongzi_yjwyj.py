@@ -13,7 +13,7 @@ from pathlib import Path
 from typing import Any
 
 # Paths
-BASE_DIR = Path(r"D:\汇度编辑部1\藏经阁")
+BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_DIR = BASE_DIR / "staging" / "editorial" / "source_articles" / "chengongzi" / "yjwyj" / "articles"
 OUTPUT_DIR = BASE_DIR / "staging" / "editorial" / "distilled_articles" / "chengongzi" / "yjwyj"
 INDEX_FILE = SOURCE_DIR / "index.json"

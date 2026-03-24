@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\checkmate649 中国亚组.pdf",
+    "product_id": "checkmate649",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-CHECKMATE649-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-CHECKMATE649-69F6E5A3",
+      "title": "First-line nivolumab (NIVO) plus chemotherapy (chemo) vs chemo in patients with advanced gastric cancer/gastroesophageal junction cancer/esophageal adenocarcinoma (GC/GEJC/EAC): CheckMate 649 Chinese subgroup analysis 2-year follow-up",
+      "citation": "First-line nivolumab (NIVO) plus chemotherapy (chemo) vs chemo in patients with advanced gastric cancer/gastroesophageal junction cancer/esophageal adenocarcinoma (GC/GEJC/EAC): CheckMate 649 Chinese subgroup analysis 2-year follow-up. Annals of Oncology. 2022.",
+      "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+      "metadata": {
+        "year": 2022,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Chinese patients with advanced gastric cancer (88%), gastroesophageal junction cancer (12%), or esophageal adenocarcinoma; 75% had PD-L1 CPS ≥ 5",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:33.901772"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-001",
+      "fact_key": "FACT-CHECKMATE649-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'In patients with PD-L1 CPS ≥ 5, median OS was 15.5 months (95% CI: 11.9-21.1) for NIVO + chemo vs 9.6 months (95% CI: 8.0-12.1) for chemo (HR 0.56, 95% CI 0.38-0.81)', 'page': 1}",
+      "definition_zh": "{'content': 'In patients with PD-L1 CPS ≥ 5, median OS was 15.5 months (95% CI: 11.9-21.1) for NIVO + chemo vs 9.6 months (95% CI: 8.0-12.1) for chemo (HR 0.56, 95% CI 0.38-0.81)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-002",
+      "fact_key": "FACT-CHECKMATE649-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'In all randomized patients, median OS was 14.3 months (95% CI: 11.5-16.5) for NIVO + chemo vs 10.3 months (95% CI: 8.1-12.1) for chemo (HR 0.63, 95% CI 0.46-0.86)', 'page': 1}",
+      "definition_zh": "{'content': 'In all randomized patients, median OS was 14.3 months (95% CI: 11.5-16.5) for NIVO + chemo vs 10.3 months (95% CI: 8.1-12.1) for chemo (HR 0.63, 95% CI 0.46-0.86)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-003",
+      "fact_key": "FACT-CHECKMATE649-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'In patients with PD-L1 CPS ≥ 5, median PFS was 8.5 months (95% CI: 6.0-14.0) for NIVO + chemo vs 4.3 months (95% CI: 4.1-6.5) for chemo (HR 0.51, 95% CI 0.34-0.76)', 'page': 1}",
+      "definition_zh": "{'content': 'In patients with PD-L1 CPS ≥ 5, median PFS was 8.5 months (95% CI: 6.0-14.0) for NIVO + chemo vs 4.3 months (95% CI: 4.1-6.5) for chemo (HR 0.51, 95% CI 0.34-0.76)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-004",
+      "fact_key": "FACT-CHECKMATE649-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'In all randomized patients, median PFS was 8.3 months (95% CI: 6.2-12.4) for NIVO + chemo vs 5.6 months (95% CI: 4.2-6.8) for chemo (HR 0.57, 95% CI 0.41-0.80)', 'page': 1}",
+      "definition_zh": "{'content': 'In all randomized patients, median PFS was 8.3 months (95% CI: 6.2-12.4) for NIVO + chemo vs 5.6 months (95% CI: 4.2-6.8) for chemo (HR 0.57, 95% CI 0.41-0.80)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-005",
+      "fact_key": "FACT-CHECKMATE649-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate (ORR) in patients with PD-L1 CPS ≥ 5 was 68% vs 48% and median duration of response (DOR) was 12.5 months vs 6.9 months for NIVO + chemo vs chemo', 'page': 1}",
+      "definition_zh": "{'content': 'Objective response rate (ORR) in patients with PD-L1 CPS ≥ 5 was 68% vs 48% and median duration of response (DOR) was 12.5 months vs 6.9 months for NIVO + chemo vs chemo', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-006",
+      "fact_key": "FACT-CHECKMATE649-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'ORR in all randomized patients was 66% vs 45% and median DOR was 12.5 months vs 5.6 months for NIVO + chemo vs chemo', 'page': 1}",
+      "definition_zh": "{'content': 'ORR in all randomized patients was 66% vs 45% and median DOR was 12.5 months vs 5.6 months for NIVO + chemo vs chemo', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-007",
+      "fact_key": "FACT-CHECKMATE649-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade 3/4 treatment-related adverse events (TRAEs) occurred in 66% and 50% of patients with NIVO + chemo vs chemo', 'page': 1}",
+      "definition_zh": "{'content': 'Grade 3/4 treatment-related adverse events (TRAEs) occurred in 66% and 50% of patients with NIVO + chemo vs chemo', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-008",
+      "fact_key": "FACT-CHECKMATE649-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Any-grade TRAEs leading to discontinuation were observed in 49% and 26% of patients for NIVO + chemo vs chemo', 'page': 1}",
+      "definition_zh": "{'content': 'Any-grade TRAEs leading to discontinuation were observed in 49% and 26% of patients for NIVO + chemo vs chemo', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-CHECKMATE649-009",
+      "fact_key": "FACT-CHECKMATE649-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'Patient population: 88% had gastric cancer, 12% had GEJC, no patients had EAC; 75% had PD-L1 CPS ≥ 5', 'page': 1}",
+      "definition_zh": "{'content': 'Patient population: 88% had gastric cancer, 12% had GEJC, no patients had EAC; 75% had PD-L1 CPS ≥ 5', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-CHECKMATE649-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-CHECKMATE649-69F6E5A3",
+        "doc_id": "oncology_checkmate649_中国亚组_69f6e5a3",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

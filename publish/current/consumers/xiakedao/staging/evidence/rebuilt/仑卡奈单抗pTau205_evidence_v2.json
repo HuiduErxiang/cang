@@ -1,0 +1,155 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.0",
+    "rebuild_date": "2026-03-23",
+    "migration_batch": "manual-adpd-2026",
+    "source_file": "D:\\汇度编辑部1\\项目文章\\2026项目表\\卫材\\仑卡奈单抗\\2026 ADPD\\ADPD2026_Sysmex_ptau205_poster_final.pdf",
+    "product_id": "仑卡奈单抗pTau205",
+    "product_name_zh": "仑卡奈单抗 p-tau205 检测",
+    "rebuild_status": "complete",
+    "rebuild_scope": "ADPD 2026 Sysmex p-tau205 海报最小证据包"
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-PTAU205-ADPD2026-001",
+      "source_type": "journal_article",
+      "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+      "title": "Development of a Fully Automated Plasma p-tau205 Immunoassay Demonstrating High Concordance with an Immunoprecipitation Mass Spectrometry Assay",
+      "citation": "Ishiki K, Morimitsu Y, Tanaka A, et al. ADPD 2026 poster.",
+      "metadata": {
+        "conference": "ADPD 2026",
+        "study_type": "conference_poster",
+        "sample_size_plasma_correlation": 28,
+        "platform": "HISCL"
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-PTAU205-001",
+      "fact_key": "FACT-PTAU205-HISCL-IPMS-CONCORDANCE",
+      "domain": "方法学与分层",
+      "definition": "Plasma p-tau205 measured by HISCL showed strong correlation with IP-MS in commercially available samples.",
+      "definition_zh": "商业化血浆样本中，HISCL 与 IP-MS 测得的 p-tau205 呈强相关。",
+      "value": "Strong correlation in N=28 plasma samples including CN, MCI and ADD",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-FIG4",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Figure 4 and section 4"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PTAU205-002",
+      "fact_key": "FACT-PTAU205-DYNAMIC-RANGE",
+      "domain": "方法学与分层",
+      "definition": "Dynamic range of improved HISCL p-tau205 assay.",
+      "definition_zh": "改进后 HISCL p-tau205 检测的动态范围。",
+      "value": "0.50-500",
+      "unit": "pg/mL",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-TABLE2",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Analytical performance table"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PTAU205-003",
+      "fact_key": "FACT-PTAU205-PRECISION-LINEARITY-RECOVERY",
+      "domain": "方法学与分层",
+      "definition": "Repeatability, dilution linearity and spike recovery of the improved assay.",
+      "definition_zh": "改进后检测的重复性、稀释线性和加标回收率。",
+      "value": "Repeatability<=3.8%; dilution linearity 99-110%; spike recovery 93-99%",
+      "unit": "summary",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-TABLE2",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Table 2"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PTAU205-004",
+      "fact_key": "FACT-PTAU205-CSF-PLASMA-SINGLE-ASSAY",
+      "domain": "方法学与分层",
+      "definition": "The assay originally developed for CSF was refined to enable reliable measurement of both CSF and plasma p-tau205.",
+      "definition_zh": "原本用于 CSF 的 p-tau205 免疫检测经改进后，可稳定测量血浆和 CSF。",
+      "value": "Single assay for both plasma and CSF",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-CONCLUSION",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Conclusion and method section"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PTAU205-005",
+      "fact_key": "FACT-PTAU205-CN-ADD-SEPARATION",
+      "domain": "方法学与分层",
+      "definition": "Plasma and CSF p-tau205 levels showed clear separation between clinically diagnosed CN and ADD.",
+      "definition_zh": "血浆和 CSF 中，临床诊断为 CN 与 ADD 的 p-tau205 水平均有清晰分离。",
+      "value": "ADD > CN in both plasma and CSF",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-FIG5",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Sample measurement section"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-PTAU205-006",
+      "fact_key": "FACT-PTAU205-OUTLIER-INTERPRETATION",
+      "domain": "方法学与分层",
+      "definition": "One outlier was not supported as nonspecific HISCL reactivity; p-tau181 and t-tau were elevated while NfL remained within typical range.",
+      "definition_zh": "1 例离群样本未见非特异性反应证据；其 p-tau181 和 t-tau 升高，而 NfL 仍在典型范围内。",
+      "value": "1/28 outlier favored biologically elevated tau profile rather than assay interference",
+      "unit": "qualitative",
+      "fragment_ids": [
+        "V2-FRAG-PTAU205-ADPD2026-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-PTAU205-ADPD2026-SYSMEX",
+        "asset_key": "AST-PTAU205-OUTLIER",
+        "extraction_date": "2026-03-23"
+      },
+      "v1_mapping": {
+        "rebuild_notes": "Section 4, table 3 and table 4"
+      }
+    }
+  ]
+}

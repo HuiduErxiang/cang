@@ -1,0 +1,342 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\专家共识\\胃癌Claudin18.2临床检测专家共识（2025版）.pdf",
+    "product_id": "胃癌Claudin182临床检测专家共识2025版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 13,
+      "tagged_facts": 13
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-胃癌CLAUDIN182临床检测专家共识2025版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+      "title": "胃癌Claudin18.2临床检测专家共识（2025版）",
+      "citation": "胃癌Claudin18.2临床检测专家共识（2025版）. 中华病理学杂志. 2025.",
+      "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "diagnostic_performance",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "局部晚期、复发或转移性胃癌患者及根治术后胃癌患者",
+          "endpoint_nature": "biomarker",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:38.813316"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-001",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'content': 'CLDN18.2表达检测在局部晚期、复发或转移性胃癌患者治疗方案中起着重要作用，强烈推荐在治疗前进行CLDN18.2蛋白表达检测', 'strength': '强推荐', 'page': 3}",
+      "definition_zh": "{'content': 'CLDN18.2表达检测在局部晚期、复发或转移性胃癌患者治疗方案中起着重要作用，强烈推荐在治疗前进行CLDN18.2蛋白表达检测', 'strength': '强推荐', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-002",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'content': '对于根治术后标本，推荐进行CLDN18.2蛋白表达检测', 'strength': '推荐', 'page': 3}",
+      "definition_zh": "{'content': '对于根治术后标本，推荐进行CLDN18.2蛋白表达检测', 'strength': '推荐', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-003",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'content': '手术标本或活检标本均可用于CLDN18.2检测，进展期胃癌原发灶活检标本推荐取材6~8块组织', 'strength': '强推荐', 'page': 3}",
+      "definition_zh": "{'content': '手术标本或活检标本均可用于CLDN18.2检测，进展期胃癌原发灶活检标本推荐取材6~8块组织', 'strength': '强推荐', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-004",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'content': '原发灶与转移灶均可用于CLDN18.2检测', 'strength': '推荐', 'page': 3}",
+      "definition_zh": "{'content': '原发灶与转移灶均可用于CLDN18.2检测', 'strength': '推荐', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-005",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'content': '送检标本应确保有足够的肿瘤细胞（至少50个）进行评估', 'strength': '推荐', 'page': 3}",
+      "definition_zh": "{'content': '送检标本应确保有足够的肿瘤细胞（至少50个）进行评估', 'strength': '推荐', 'page': 3}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-006",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'content': '因胃癌组织中CLDN18.2蛋白的表达常存在明显的异质性，推荐挑选兼顾不同组织学亚型的蜡块', 'strength': '强推荐', 'page': 4}",
+      "definition_zh": "{'content': '因胃癌组织中CLDN18.2蛋白的表达常存在明显的异质性，推荐挑选兼顾不同组织学亚型的蜡块', 'strength': '强推荐', 'page': 4}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-007",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'content': '进行CLDN18.2 IHC检测时，每次检测均需设立阳性对照、阴性对照和空白对照，对于原发灶手术根治标本建议尽量选取带正常胃黏膜的蜡块作为内部阳性对照，活检或者转移灶标本，需要设置外部阳性对照组织', 'strength': '强推荐', 'page': 4}",
+      "definition_zh": "{'content': '进行CLDN18.2 IHC检测时，每次检测均需设立阳性对照、阴性对照和空白对照，对于原发灶手术根治标本建议尽量选取带正常胃黏膜的蜡块作为内部阳性对照，活检或者转移灶标本，需要设置外部阳性对照组织', 'strength': '强推荐', 'page': 4}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-008",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'content': '不同克隆号抗体检测胃癌中CLDN18.2表达一致性的研究结果尚缺乏大样本的前瞻性研究，建议使用循证医学证据充足的IHC检测平台、抗CLDN18/CLDN18.2抗体和二抗检测试剂，确保其临床有效性', 'strength': '推荐', 'page': 5}",
+      "definition_zh": "{'content': '不同克隆号抗体检测胃癌中CLDN18.2表达一致性的研究结果尚缺乏大样本的前瞻性研究，建议使用循证医学证据充足的IHC检测平台、抗CLDN18/CLDN18.2抗体和二抗检测试剂，确保其临床有效性', 'strength': '推荐', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-009",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-009",
+      "domain": "recommendation",
+      "definition": "{'content': '建议结合肿瘤细胞膜染色强度以及不同染色强度肿瘤细胞百分比进行综合判读', 'strength': '强推荐', 'page': 5}",
+      "definition_zh": "{'content': '建议结合肿瘤细胞膜染色强度以及不同染色强度肿瘤细胞百分比进行综合判读', 'strength': '强推荐', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-010",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-010",
+      "domain": "recommendation",
+      "definition": "{'content': \"染色强弱可以借鉴HER2'放大规则'进行半定量的评分\", 'strength': '推荐', 'page': 5}",
+      "definition_zh": "{'content': \"染色强弱可以借鉴HER2'放大规则'进行半定量的评分\", 'strength': '推荐', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-011",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-011",
+      "domain": "recommendation",
+      "definition": "{'content': '推荐的规范的CLDN18.2 IHC检测报告应至少包含以下信息：（1）标本类型（活检/手术）和取样部位；（2）样本充分性；（3）用于IHC检测的抗体克隆号、检测平台等；（4）检测报告需明确细胞膜中等-强着色，即2+/3+肿瘤细胞的比例是≥75%还是<75%', 'strength': '推荐', 'page': 6}",
+      "definition_zh": "{'content': '推荐的规范的CLDN18.2 IHC检测报告应至少包含以下信息：（1）标本类型（活检/手术）和取样部位；（2）样本充分性；（3）用于IHC检测的抗体克隆号、检测平台等；（4）检测报告需明确细胞膜中等-强着色，即2+/3+肿瘤细胞的比例是≥75%还是<75%', 'strength': '推荐', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-012",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-012",
+      "domain": "recommendation",
+      "definition": "{'content': '实验室应做好CLDN18.2 IHC检测质量控制工作，包括内部质控和外部质控，应定期参加室间质评活动', 'strength': '推荐', 'page': 7}",
+      "definition_zh": "{'content': '实验室应做好CLDN18.2 IHC检测质量控制工作，包括内部质控和外部质控，应定期参加室间质评活动', 'strength': '推荐', 'page': 7}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-013",
+      "fact_key": "FACT-胃癌CLAUDIN182临床检测专家共识2025版-REC-013",
+      "domain": "recommendation",
+      "definition": "{'content': '推荐从事检测的实验室技术人员和病理医师应通过必要的培训和资格考核', 'strength': '推荐', 'page': 7}",
+      "definition_zh": "{'content': '推荐从事检测的实验室技术人员和病理医师应通过必要的培训和资格考核', 'strength': '推荐', 'page': 7}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌CLAUDIN182临床检测专家共识2025版-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌CLAUDIN182临床检测专家共识2025版-879439D0",
+        "doc_id": "guidelines_胃癌Claudin182临床检测专家共识2025版_879439d0",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    }
+  ]
+}

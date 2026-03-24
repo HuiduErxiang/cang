@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\晚期二线\\Rainbow补充资料.pdf",
+    "product_id": "Rainbow补充资料",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-RAINBOW补充资料-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-RAINBOW补充资料-CAE57437",
+      "title": "Ramucirumab plus paclitaxel versus placebo plus paclitaxel in patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (RAINBOW): a double-blind, randomised phase 3 trial - Supplementary appendix",
+      "citation": "Ramucirumab plus paclitaxel versus placebo plus paclitaxel in patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (RAINBOW): a double-blind, randomised phase 3 trial - Supplementary appendix. Lancet Oncology. 2014.",
+      "doc_id": "oncology_Rainbow补充资料_cae57437",
+      "metadata": {
+        "year": 2014,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:11.887071"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

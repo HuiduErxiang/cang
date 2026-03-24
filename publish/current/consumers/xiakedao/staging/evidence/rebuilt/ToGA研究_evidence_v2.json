@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\HER2+胃癌\\ToGA研究.pdf",
+    "product_id": "ToGA研究",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-TOGA研究-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-TOGA研究-CFE4F5A5",
+      "title": "Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial",
+      "citation": "Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial. The Lancet. 2010.",
+      "doc_id": "oncology_ToGA研究_cfe4f5a5",
+      "metadata": {
+        "year": 2010,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with HER2-positive advanced gastric or gastro-oesophageal junction cancer",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:22.942096"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-TOGA研究-001",
+      "fact_key": "FACT-TOGA研究-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median overall survival was significantly improved with trastuzumab plus chemotherapy (13.8 months, 95% CI 12-16) compared to chemotherapy alone (11.1 months, 95% CI 10-13); HR 0.74 (95% ",
+      "definition_zh": "{'content': 'Median overall survival was significantly improved with trastuzumab plus chemotherapy (13.8 months, 95% CI 12-16) compared to chemotherapy alone (11.1 months, 95% CI 10-13); HR 0.74 (95% ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TOGA研究-002",
+      "fact_key": "FACT-TOGA研究-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'In patients with high HER2 expression (IHC 2+/FISH+ or IHC 3+), median overall survival was 16.0 months (95% CI 15-19) with trastuzumab plus chemotherapy vs 11.8 months (95% CI 10-13) wit",
+      "definition_zh": "{'content': 'In patients with high HER2 expression (IHC 2+/FISH+ or IHC 3+), median overall survival was 16.0 months (95% CI 15-19) with trastuzumab plus chemotherapy vs 11.8 months (95% CI 10-13) wit",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TOGA研究-003",
+      "fact_key": "FACT-TOGA研究-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Progression-free survival was improved: median 6.7 months (trastuzumab + chemo) vs 5.5 months (chemo alone); HR 0.71 (95% CI 0.59-0.85), p=0.0002', 'page': 7}",
+      "definition_zh": "{'content': 'Progression-free survival was improved: median 6.7 months (trastuzumab + chemo) vs 5.5 months (chemo alone); HR 0.71 (95% CI 0.59-0.85), p=0.0002', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TOGA研究-004",
+      "fact_key": "FACT-TOGA研究-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Overall tumour response rate was 47% (trastuzumab + chemo) vs 35% (chemo alone), p=0.0017', 'page': 7}",
+      "definition_zh": "{'content': 'Overall tumour response rate was 47% (trastuzumab + chemo) vs 35% (chemo alone), p=0.0017', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TOGA研究-005",
+      "fact_key": "FACT-TOGA研究-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Adverse event profile was similar between groups; no significant increase in overall toxicity with trastuzumab. Cardiac adverse events were rare and similar between groups (6% each). Grad",
+      "definition_zh": "{'content': 'Adverse event profile was similar between groups; no significant increase in overall toxicity with trastuzumab. Cardiac adverse events were rare and similar between groups (6% each). Grad",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TOGA研究-006",
+      "fact_key": "FACT-TOGA研究-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Interaction test showed significant difference in treatment effect between high vs low HER2 expression subgroups (p=0.036), suggesting greater benefit in high HER2 expression patients', '",
+      "definition_zh": "{'content': 'Interaction test showed significant difference in treatment effect between high vs low HER2 expression subgroups (p=0.036), suggesting greater benefit in high HER2 expression patients', '",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TOGA研究-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TOGA研究-CFE4F5A5",
+        "doc_id": "oncology_ToGA研究_cfe4f5a5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

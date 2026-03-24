@@ -1,0 +1,56 @@
+{
+  "neurology_clarity_ad_270e7367": {
+    "doc_id": "neurology_clarity_ad_270e7367",
+    "category": "neurology",
+    "short_name": "clarity_ad",
+    "hash8": "270e7367",
+    "source_pdf": "raw\\pdf\\neurology\\alzheimers_disease\\Clarity AD原文.pdf",
+    "title": "Lecanemab in Early Alzheimer's Disease",
+    "created_at": "2026-03-23",
+    "distillation_versions": [
+      "v1.0"
+    ],
+    "boundary_tags_summary": {
+      "document_type": "clinical_trial",
+      "claim_ceiling": "clinical_outcome",
+      "study_subject": "human",
+      "tagging_confidence": 0.95
+    }
+  },
+  "guidelines_gastric_her2_consensus_2024_ac884c31": {
+    "doc_id": "guidelines_gastric_her2_consensus_2024_ac884c31",
+    "category": "guidelines",
+    "short_name": "gastric_her2_consensus_2024",
+    "hash8": "ac884c31",
+    "source_pdf": "raw\\pdf\\guidelines\\胃癌抗HER2治疗中国专家共识(2024年版).pdf",
+    "title": "胃癌抗HER2治疗中国专家共识（2024年版）",
+    "created_at": "2026-03-23",
+    "distillation_versions": [
+      "v1.0"
+    ],
+    "boundary_tags_summary": {
+      "document_type": "guideline_consensus",
+      "claim_ceiling": "guideline_recommendation",
+      "study_subject": "human",
+      "tagging_confidence": 0.95
+    }
+  },
+  "methodology_adpd2026_sysmex_ptau205_536dd473": {
+    "doc_id": "methodology_adpd2026_sysmex_ptau205_536dd473",
+    "category": "methodology",
+    "short_name": "adpd2026_sysmex_ptau205",
+    "hash8": "536dd473",
+    "source_pdf": "D:\\汇度编辑部1\\项目文章\\2026项目表\\卫材\\仑卡奈单抗\\2026 ADPD\\ADPD2026_Sysmex_ptau205_poster_final.pdf",
+    "title": "DEVELOPMENT OF A FULLY AUTOMATED PLASMA P-TAU205 IMMUNOASSAY DEMONSTRATING HIGH CONCORDANCE WITH AN IMMUNOPRECIPITATION MASS SPECTROMETRY ASSAY",
+    "created_at": "2026-03-24",
+    "distillation_versions": [
+      "v1.0"
+    ],
+    "boundary_tags_summary": {
+      "document_type": "method_validation",
+      "claim_ceiling": "method_only",
+      "study_subject": "assay_system",
+      "tagging_confidence": 0.9
+    }
+  }
+}

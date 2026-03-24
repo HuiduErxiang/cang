@@ -1,0 +1,273 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\免疫一线\\AVAGAST研究（贝伐珠单抗+化疗一线）.pdf",
+    "product_id": "AVAGAST研究贝伐珠单抗化疗一线",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 10,
+      "tagged_facts": 10
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-AVAGAST研究贝伐珠单抗化疗一线-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+      "title": "Evaluation of Angiopoietin-2 as a biomarker in gastric cancer: results from the randomised phase III AVAGAST trial",
+      "citation": "Evaluation of Angiopoietin-2 as a biomarker in gastric cancer: results from the randomised phase III AVAGAST trial. British Journal of Cancer. 2016.",
+      "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+      "metadata": {
+        "year": 2016,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "association",
+          "claim_ceiling": "clinical_association",
+          "study_subject": "human",
+          "population_or_model": "晚期胃癌患者（来自AVAGAST III期随机对照临床试验）",
+          "endpoint_nature": "biomarker",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.88,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:24.481822"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-001",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-001",
+      "domain": "association",
+      "definition": "{'content': '贝伐珠单抗联合化疗显著延长无进展生存期(PFS)：中位PFS 6.7个月 vs 5.3个月；HR 0.80；P=0.0037。客观缓解率提高(46.0% vs 37.4%; P=0.0315)', 'page': 2}",
+      "definition_zh": "{'content': '贝伐珠单抗联合化疗显著延长无进展生存期(PFS)：中位PFS 6.7个月 vs 5.3个月；HR 0.80；P=0.0037。客观缓解率提高(46.0% vs 37.4%; P=0.0315)', 'page': 2}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-002",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-002",
+      "domain": "association",
+      "definition": "{'content': '总生存期(OS)未达到统计学显著差异：中位OS 12.1个月 vs 10.1个月；HR 0.87；P=0.1002', 'page': 2}",
+      "definition_zh": "{'content': '总生存期(OS)未达到统计学显著差异：中位OS 12.1个月 vs 10.1个月；HR 0.87；P=0.1002', 'page': 2}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-003",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-003",
+      "domain": "association",
+      "definition": "{'content': '亚组分析显示地区差异：北美和拉丁美洲患者显示生存获益(HR 0.63; 95% CI 0.43-0.94)，亚洲患者无获益(HR 0.97; 95% CI 0.75-1.25)，欧洲患者显示中等风险降低(HR 0.85; 95% CI 0.63-1.14)', 'page': 2}",
+      "definition_zh": "{'content': '亚组分析显示地区差异：北美和拉丁美洲患者显示生存获益(HR 0.63; 95% CI 0.43-0.94)，亚洲患者无获益(HR 0.97; 95% CI 0.75-1.25)，欧洲患者显示中等风险降低(HR 0.85; 95% CI 0.63-1.14)', 'page': 2}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-004",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-004",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2水平存在显著种族差异：非亚洲患者基线Ang-2中位水平显著高于亚洲患者(3193 vs 2143 pg/ml; P<0.0001)', 'page': 3}",
+      "definition_zh": "{'content': 'Ang-2水平存在显著种族差异：非亚洲患者基线Ang-2中位水平显著高于亚洲患者(3193 vs 2143 pg/ml; P<0.0001)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-005",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-005",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2是独立的预后生物标志物：低Ang-2水平患者OS更长(13.7 vs 10.0个月; HR 0.77; 95% CI 0.64-0.93; P=0.0055)，多变量分析确认Ang-2保留独立预后价值(HR 1.23; 95% CI 1.01-1.49; P=0.0385)', 'page': 3}",
+      "definition_zh": "{'content': 'Ang-2是独立的预后生物标志物：低Ang-2水平患者OS更长(13.7 vs 10.0个月; HR 0.77; 95% CI 0.64-0.93; P=0.0055)，多变量分析确认Ang-2保留独立预后价值(HR 1.23; 95% CI 1.01-1.49; P=0.0385)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-006",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-006",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2不能预测贝伐珠单抗疗效：无论高或低Ang-2组，贝伐珠单抗治疗均未显示显著交互作用(OS交互P=0.74)', 'page': 3}",
+      "definition_zh": "{'content': 'Ang-2不能预测贝伐珠单抗疗效：无论高或低Ang-2组，贝伐珠单抗治疗均未显示显著交互作用(OS交互P=0.74)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-007",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-007",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2水平与肝转移密切相关：基线Ang-2高的患者肝转移发生率更高(42% vs 24%; P<0.0001)。每增加1000 pg/ml Ang-2，肝转移风险的比值比为非亚洲患者1.19(95% CI 1.10-1.29; P<0.0001)，亚洲患者1.37(95% CI 1.13-1.64; P=0.0010)', 'page': [3, 4]}",
+      "definition_zh": "{'content': 'Ang-2水平与肝转移密切相关：基线Ang-2高的患者肝转移发生率更高(42% vs 24%; P<0.0001)。每增加1000 pg/ml Ang-2，肝转移风险的比值比为非亚洲患者1.19(95% CI 1.10-1.29; P<0.0001)，亚洲患者1.37(95% CI 1.13-1.64; P=0.0010)', 'page': [3, 4]}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-008",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-008",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2与骨转移相关：高Ang-2组骨转移发生率更高(7% vs 2%; P=0.0016)，转移灶数量≥2个的比例更高(69% vs 60%; P=0.02)', 'page': 3}",
+      "definition_zh": "{'content': 'Ang-2与骨转移相关：高Ang-2组骨转移发生率更高(7% vs 2%; P=0.0016)，转移灶数量≥2个的比例更高(69% vs 60%; P=0.02)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-009",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-009",
+      "domain": "association",
+      "definition": "{'content': 'Ang-2与BMI相关：BMI≥25 kg/m²患者Ang-2水平高于BMI 18.5-25患者(2913.0 vs 2393.0 pg/ml)', 'page': 3}",
+      "definition_zh": "{'content': 'Ang-2与BMI相关：BMI≥25 kg/m²患者Ang-2水平高于BMI 18.5-25患者(2913.0 vs 2393.0 pg/ml)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-AVAGAST研究贝伐珠单抗化疗一线-010",
+      "fact_key": "FACT-AVAGAST研究贝伐珠单抗化疗一线-FINDING-010",
+      "domain": "association",
+      "definition": "{'content': '疾病进展时Ang-2水平变化：整个队列中Ang-2水平无显著变化。但贝伐珠单抗治疗组进展时Ang-2水平降低(2217.0 vs 2891.0 pg/ml)，尤其是基线有肝转移的患者', 'page': [3, 7]}",
+      "definition_zh": "{'content': '疾病进展时Ang-2水平变化：整个队列中Ang-2水平无显著变化。但贝伐珠单抗治疗组进展时Ang-2水平降低(2217.0 vs 2891.0 pg/ml)，尤其是基线有肝转移的患者', 'page': [3, 7]}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-AVAGAST研究贝伐珠单抗化疗一线-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-AVAGAST研究贝伐珠单抗化疗一线-4A252BA5",
+        "doc_id": "oncology_AVAGAST研究贝伐珠单抗化疗一线_4a252ba5",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_association",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    }
+  ]
+}

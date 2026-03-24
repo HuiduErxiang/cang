@@ -1,0 +1,227 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\HER2+胃癌\\KEYNOTE-811.pdf",
+    "product_id": "KEYNOTE",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 8,
+      "tagged_facts": 8
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-KEYNOTE-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-KEYNOTE-0015101E",
+      "title": "Pembrolizumab plus trastuzumab and chemotherapy for HER2-positive gastric or gastro-oesophageal junction adenocarcinoma: interim analyses from the phase 3 KEYNOTE-811 randomised placebo-controlled trial",
+      "citation": "Pembrolizumab plus trastuzumab and chemotherapy for HER2-positive gastric or gastro-oesophageal junction adenocarcinoma: interim analyses from the phase 3 KEYNOTE-811 randomised placebo-controlled trial. The Lancet. 2023.",
+      "doc_id": "oncology_KEYNOTE_811_0015101e",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "HER2-positive gastric or gastro-oesophageal junction adenocarcinoma patients",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.98,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:00.673014"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-KEYNOTE-001",
+      "fact_key": "FACT-KEYNOTE-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'The study met the prespecified criteria for superiority of pembrolizumab versus placebo for progression-free survival at the second interim analysis.', 'page': 6}",
+      "definition_zh": "{'content': 'The study met the prespecified criteria for superiority of pembrolizumab versus placebo for progression-free survival at the second interim analysis.', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-002",
+      "fact_key": "FACT-KEYNOTE-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'At third interim analysis, median progression-free survival was 10.0 months (95% CI 8.6-11.7) in pembrolizumab group versus 8.1 months (7.0-8.5) in placebo group (HR 0.73 [0.61-0.87]).', ",
+      "definition_zh": "{'content': 'At third interim analysis, median progression-free survival was 10.0 months (95% CI 8.6-11.7) in pembrolizumab group versus 8.1 months (7.0-8.5) in placebo group (HR 0.73 [0.61-0.87]).', ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-003",
+      "fact_key": "FACT-KEYNOTE-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Progression-free survival benefit was greater in patients with PD-L1 CPS >= 1 (median 10.9 months vs 7.3 months; HR 0.71 [0.59-0.86]), but did not differ in PD-L1 CPS < 1 (median 9.5 mont",
+      "definition_zh": "{'content': 'Progression-free survival benefit was greater in patients with PD-L1 CPS >= 1 (median 10.9 months vs 7.3 months; HR 0.71 [0.59-0.86]), but did not differ in PD-L1 CPS < 1 (median 9.5 mont",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-004",
+      "fact_key": "FACT-KEYNOTE-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'At second interim analysis, median overall survival was 20.0 months in pembrolizumab group versus 16.9 months in placebo group (HR 0.87 [0.72-1.06]; p=0.084), but significance boundary wa",
+      "definition_zh": "{'content': 'At second interim analysis, median overall survival was 20.0 months in pembrolizumab group versus 16.9 months in placebo group (HR 0.87 [0.72-1.06]; p=0.084), but significance boundary wa",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-005",
+      "fact_key": "FACT-KEYNOTE-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'At third interim analysis, median overall survival was 20.0 months in pembrolizumab group versus 16.8 months in placebo group (HR 0.84 [0.70-1.01]), and 20.0 months versus 15.7 months in ",
+      "definition_zh": "{'content': 'At third interim analysis, median overall survival was 20.0 months in pembrolizumab group versus 16.8 months in placebo group (HR 0.84 [0.70-1.01]), and 20.0 months versus 15.7 months in ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-006",
+      "fact_key": "FACT-KEYNOTE-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate was 72.6% (95% CI 67.6-77.2; 254 of 350) in pembrolizumab group versus 59.8% (54.4-65.0; 208 of 348) in placebo group, with complete responses in 14% vs 11% respec",
+      "definition_zh": "{'content': 'Objective response rate was 72.6% (95% CI 67.6-77.2; 254 of 350) in pembrolizumab group versus 59.8% (54.4-65.0; 208 of 348) in placebo group, with complete responses in 14% vs 11% respec",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-007",
+      "fact_key": "FACT-KEYNOTE-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median duration of response was 11.2 months in pembrolizumab group versus 9.0 months in placebo group.', 'page': 8}",
+      "definition_zh": "{'content': 'Median duration of response was 11.2 months in pembrolizumab group versus 9.0 months in placebo group.', 'page': 8}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-KEYNOTE-008",
+      "fact_key": "FACT-KEYNOTE-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade 3 or worse adverse events occurred in 71% of pembrolizumab group versus 65% of placebo group. Treatment-related adverse events leading to death occurred in 1% of each group.', 'page",
+      "definition_zh": "{'content': 'Grade 3 or worse adverse events occurred in 71% of pembrolizumab group versus 65% of placebo group. Treatment-related adverse events leading to death occurred in 1% of each group.', 'page",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-KEYNOTE-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-KEYNOTE-0015101E",
+        "doc_id": "oncology_KEYNOTE_811_0015101e",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

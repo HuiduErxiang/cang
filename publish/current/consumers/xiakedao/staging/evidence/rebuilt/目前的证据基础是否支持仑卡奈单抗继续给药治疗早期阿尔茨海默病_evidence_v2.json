@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "neurology\\alzheimers_disease\\目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病.pdf",
+    "product_id": "目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+      "title": "Does the Current Evidence Base Support Lecanemab Continued Dosing for Early Alzheimer's Disease?",
+      "citation": "Does the Current Evidence Base Support Lecanemab Continued Dosing for Early Alzheimer's Disease?. Alzheimer's Association International Conference (AAIC) 2024. 2024.",
+      "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with early Alzheimer's disease (mild cognitive impairment or mild dementia due to AD)",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.88,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:36.549492"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-001",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab-treated patients continued to accrue clinical benefit through 36 months; delayed start group did not catch up to early start group', 'page': 49}",
+      "definition_zh": "{'content': 'Lecanemab-treated patients continued to accrue clinical benefit through 36 months; delayed start group did not catch up to early start group', 'page': 49}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-002",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab meaningfully delayed progression to next AD stage by 30% through 36 months (HR=0.704, 95%CI: 0.59-0.84)', 'page': 51}",
+      "definition_zh": "{'content': 'Lecanemab meaningfully delayed progression to next AD stage by 30% through 36 months (HR=0.704, 95%CI: 0.59-0.84)', 'page': 51}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-003",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'In no/low tau subgroup (40% of population), 59% had no decline and 51% had improvement in CDR-SB at 36 months', 'page': 56}",
+      "definition_zh": "{'content': 'In no/low tau subgroup (40% of population), 59% had no decline and 51% had improvement in CDR-SB at 36 months', 'page': 56}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-004",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab slowed tau spread especially in temporal lobe (early Braak regions) as shown in Tau PET substudy', 'page': 52}",
+      "definition_zh": "{'content': 'Lecanemab slowed tau spread especially in temporal lobe (early Braak regions) as shown in Tau PET substudy', 'page': 52}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-005",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Continuous treatment resulted in minimal change in amyloid plaque but sustained improvement in plasma Aβ42/40 ratio', 'page': 60}",
+      "definition_zh": "{'content': 'Continuous treatment resulted in minimal change in amyloid plaque but sustained improvement in plasma Aβ42/40 ratio', 'page': 60}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-006",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab reduced and slowed rate of tau pathology: plasma pTau217 slowed by 44% at 18 months', 'page': 61}",
+      "definition_zh": "{'content': 'Lecanemab reduced and slowed rate of tau pathology: plasma pTau217 slowed by 44% at 18 months', 'page': 61}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-007",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'No new safety signals with long-term treatment; ARIA-E risk period primarily first 6 months, rates low thereafter', 'page': 64}",
+      "definition_zh": "{'content': 'No new safety signals with long-term treatment; ARIA-E risk period primarily first 6 months, rates low thereafter', 'page': 64}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-008",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'ARIA was not associated with accelerated long-term cognitive progression', 'page': 65}",
+      "definition_zh": "{'content': 'ARIA was not associated with accelerated long-term cognitive progression', 'page': 65}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-009",
+      "fact_key": "FACT-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'Modeling supported transition to monthly maintenance dosing after 18-24 months of biweekly dosing to sustain efficacy', 'page': 32}",
+      "definition_zh": "{'content': 'Modeling supported transition to monthly maintenance dosing after 18-24 months of biweekly dosing to sustain efficacy', 'page': 32}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病-C55165E7",
+        "doc_id": "neurology_目前的证据基础是否支持仑卡奈单抗继续给药治疗早期阿尔茨海默病_c55165e7",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

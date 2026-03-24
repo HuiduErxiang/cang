@@ -1,0 +1,434 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "neurology\\insomnia\\莱博雷生临床应用中国专家共识（2025版）.pdf",
+    "product_id": "莱博雷生临床应用中国专家共识2025版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 17,
+      "tagged_facts": 17
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-莱博雷生临床应用中国专家共识2025版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+      "title": "莱博雷生临床应用中国专家共识（2025版）",
+      "citation": "莱博雷生临床应用中国专家共识（2025版）. 中国全科医学. 2025.",
+      "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "成人失眠症患者，涵盖入睡困难和/或睡眠维持困难， 包括焦虑/抑郁相关失眠、精神障碍相关失眠、阿尔茨海默病相关失眠、阻塞性睡眠呼吸暂停相关失眠、COPD相关失眠、夜尿症相关失眠及谵妄相关失眠等多种共病失眠人群",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:51.201504"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-001",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-001",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 1, 'content': '莱博雷生适用于短期（≤4周）和长期（≤12个月）治疗入睡困难和/或睡眠维持困难的失眠症。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 4}",
+      "definition_zh": "{'recommendation_id': 1, 'content': '莱博雷生适用于短期（≤4周）和长期（≤12个月）治疗入睡困难和/或睡眠维持困难的失眠症。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 4}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-002",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-002",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 2, 'content': '莱博雷生可用于治疗焦虑、抑郁相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 4}",
+      "definition_zh": "{'recommendation_id': 2, 'content': '莱博雷生可用于治疗焦虑、抑郁相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 4}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-003",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-003",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 3, 'content': '莱博雷生可用于治疗精神障碍（如双相情感障碍、精神分裂症）相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 5}",
+      "definition_zh": "{'recommendation_id': 3, 'content': '莱博雷生可用于治疗精神障碍（如双相情感障碍、精神分裂症）相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-004",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-004",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 4, 'content': '莱博雷生适用于治疗阿尔茨海默病相关昼夜节律性睡眠-觉醒障碍和失眠。', 'strength': 'B级推荐', 'evidence_level': 'Ⅱ级证据', 'page': 5}",
+      "definition_zh": "{'recommendation_id': 4, 'content': '莱博雷生适用于治疗阿尔茨海默病相关昼夜节律性睡眠-觉醒障碍和失眠。', 'strength': 'B级推荐', 'evidence_level': 'Ⅱ级证据', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-005",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-005",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 5, 'content': '莱博雷生可用于治疗谵妄相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 5}",
+      "definition_zh": "{'recommendation_id': 5, 'content': '莱博雷生可用于治疗谵妄相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-006",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-006",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 6, 'content': '莱博雷生适用于治疗不同程度OSA相关失眠。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 5}",
+      "definition_zh": "{'recommendation_id': 6, 'content': '莱博雷生适用于治疗不同程度OSA相关失眠。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 5}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-007",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-007",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 7, 'content': '莱博雷生适用于治疗COPD相关失眠。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "definition_zh": "{'recommendation_id': 7, 'content': '莱博雷生适用于治疗COPD相关失眠。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-008",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-008",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 8, 'content': '莱博雷生可用于治疗夜尿症相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 6}",
+      "definition_zh": "{'recommendation_id': 8, 'content': '莱博雷生可用于治疗夜尿症相关失眠。', 'strength': 'C级推荐', 'evidence_level': 'Ⅲ级证据', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-009",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-009",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 9, 'content': '建议患者空腹服用莱博雷生，以获得最佳效果。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "definition_zh": "{'recommendation_id': 9, 'content': '建议患者空腹服用莱博雷生，以获得最佳效果。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-010",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-010",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 10, 'content': '莱博雷生治疗成人失眠的治疗剂量为2.5~10 mg/d，初始剂量不应超过5 mg/d，根据患者反应和耐受性进行个体化剂量调整，最大推荐剂量为10 mg/d。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "definition_zh": "{'recommendation_id': 10, 'content': '莱博雷生治疗成人失眠的治疗剂量为2.5~10 mg/d，初始剂量不应超过5 mg/d，根据患者反应和耐受性进行个体化剂量调整，最大推荐剂量为10 mg/d。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-011",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-011",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 11, 'content': '莱博雷生应睡前立即服用，每晚不超过1次。服用莱博雷生需保证至少7 h的在床时间，以减少嗜睡等不良反应及对日间功能损伤的风险。', 'strength': 'B级推荐', 'evidence_level': 'Ⅱ级证据', 'page': 6}",
+      "definition_zh": "{'recommendation_id': 11, 'content': '莱博雷生应睡前立即服用，每晚不超过1次。服用莱博雷生需保证至少7 h的在床时间，以减少嗜睡等不良反应及对日间功能损伤的风险。', 'strength': 'B级推荐', 'evidence_level': 'Ⅱ级证据', 'page': 6}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-011"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-012",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-012",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 12, 'content': '莱博雷生使用期间应避免饮酒。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 7}",
+      "definition_zh": "{'recommendation_id': 12, 'content': '莱博雷生使用期间应避免饮酒。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 7}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-012"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-013",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-013",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 13, 'content': '莱博雷生应避免与中到强效CYP3A4诱导剂或抑制剂（包括西柚汁）合用。与CYP3A4弱抑制剂合用时，莱博雷生最大剂量不能超过5 mg/d，每晚不超过1次。需注意莱博雷生对CYP2B6底物（如安非他酮）的可能影响。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page':",
+      "definition_zh": "{'recommendation_id': 13, 'content': '莱博雷生应避免与中到强效CYP3A4诱导剂或抑制剂（包括西柚汁）合用。与CYP3A4弱抑制剂合用时，莱博雷生最大剂量不能超过5 mg/d，每晚不超过1次。需注意莱博雷生对CYP2B6底物（如安非他酮）的可能影响。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page':",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-013"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-014",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-014",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 14, 'content': '莱博雷生适合作为替代药物用于减少或停用BZDs类受体激动剂镇静催眠药，转换可选用直接替换或交叉递减法。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 7}",
+      "definition_zh": "{'recommendation_id': 14, 'content': '莱博雷生适合作为替代药物用于减少或停用BZDs类受体激动剂镇静催眠药，转换可选用直接替换或交叉递减法。', 'strength': 'A级推荐', 'evidence_level': 'I级证据', 'page': 7}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-014"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-015",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-015",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 15, 'content': '莱博雷生在停药或转换时相对安全，不需要特别的减量措施。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 8}",
+      "definition_zh": "{'recommendation_id': 15, 'content': '莱博雷生在停药或转换时相对安全，不需要特别的减量措施。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 8}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-015"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-016",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-016",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 16, 'content': '轻度肝功能不全患者（Child-Pugh A级）莱博雷生无需调整剂量；中度肝功能不全患者（Child-Pugh B级）最大推荐剂量为5 mg/d，每晚不超1次；严重肝功能不全患者（Child-Pugh C级）不推荐使用莱博雷生。', 'strength': 'B级推荐', 'evidence_level': 'I级证据',",
+      "definition_zh": "{'recommendation_id': 16, 'content': '轻度肝功能不全患者（Child-Pugh A级）莱博雷生无需调整剂量；中度肝功能不全患者（Child-Pugh B级）最大推荐剂量为5 mg/d，每晚不超1次；严重肝功能不全患者（Child-Pugh C级）不推荐使用莱博雷生。', 'strength': 'B级推荐', 'evidence_level': 'I级证据',",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-016"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-莱博雷生临床应用中国专家共识2025版-REC-017",
+      "fact_key": "FACT-莱博雷生临床应用中国专家共识2025版-REC-017",
+      "domain": "recommendation",
+      "definition": "{'recommendation_id': 17, 'content': '肾功能不全患者使用莱博雷生无需调整剂量。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 9}",
+      "definition_zh": "{'recommendation_id': 17, 'content': '肾功能不全患者使用莱博雷生无需调整剂量。', 'strength': 'B级推荐', 'evidence_level': 'I级证据', 'page': 9}",
+      "value": "guideline_recommendation",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-莱博雷生临床应用中国专家共识2025版-REC-017"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-莱博雷生临床应用中国专家共识2025版-942D3962",
+        "doc_id": "neurology_莱博雷生临床应用中国专家共识2025版_942d3962",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

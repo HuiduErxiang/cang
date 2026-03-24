@@ -1,0 +1,360 @@
+{
+  "document_type": "guideline_consensus",
+  "title": "中国临床肿瘤学会（CSCO）胃癌诊疗指南2024 / Guidelines of Chinese Society of Clinical Oncology (CSCO) Gastric Cancer 2024",
+  "issuing_body": "中国临床肿瘤学会（CSCO）/ Chinese Society of Clinical Oncology",
+  "year": 2024,
+  "language": "Chinese",
+  "total_pages": 193,
+  "disease_area": "Gastric Cancer (胃癌)",
+  "guideline_version": "2024 Edition (第1版)",
+  "evidence_levels": [
+    {
+      "level": "1A",
+      "description": "高证据水平：严谨的meta分析、大型随机对照研究",
+      "consensus": "一致共识（支持意见≥80%）"
+    },
+    {
+      "level": "1B",
+      "description": "高证据水平：严谨的meta分析、大型随机对照研究",
+      "consensus": "基本一致共识（支持意见60%~<80%）"
+    },
+    {
+      "level": "2A",
+      "description": "稍低证据水平：一般质量的meta分析、小型随机对照研究、设计良好的大型回顾性研究、病例-对照研究",
+      "consensus": "一致共识（支持意见≥80%）"
+    },
+    {
+      "level": "2B",
+      "description": "稍低证据水平：一般质量的meta分析、小型随机对照研究、设计良好的大型回顾性研究、病例-对照研究",
+      "consensus": "基本一致共识（支持意见60%~<80%）"
+    },
+    {
+      "level": "3",
+      "description": "低证据水平：非对照的单臂临床研究、病例报告、专家观点",
+      "consensus": "无共识，且争议大（支持意见<60%）"
+    }
+  ],
+  "recommendation_grades": [
+    {
+      "grade": "Ⅰ级推荐",
+      "criteria": "1A类证据和部分2A类证据；适应证明确、可及性好、肿瘤治疗价值稳定，纳入医保目录的诊治措施"
+    },
+    {
+      "grade": "Ⅱ级推荐",
+      "criteria": "1B类证据和部分2A类证据；国内外随机对照研究提供高级别证据但可及性差或效价比不高；临床获益明显但价格较贵的措施"
+    },
+    {
+      "grade": "Ⅲ级推荐",
+      "criteria": "2B类证据和3类证据；临床上习惯使用或有探索价值的诊治措施，循证医学证据相对不足但专家组认为可以接受"
+    }
+  ],
+  "key_recommendations": [
+    {
+      "topic": "胃癌诊断-定性诊断",
+      "recommendation": "胃镜+活检作为Ⅰ级推荐（1A类证据）；细胞学作为Ⅱ级推荐（2A类证据）",
+      "evidence_level": "1A",
+      "page": 5
+    },
+    {
+      "topic": "胃癌诊断-分期诊断",
+      "recommendation": "腹部和盆腔增强CT（1B类）；胸部CT（1B类）；内镜超声（1A类）；诊断性腹腔镜探查和腹腔灌洗液评价（1B类）",
+      "evidence_level": "1A/1B",
+      "page": 5
+    },
+    {
+      "topic": "分子诊断-HER2检测",
+      "recommendation": "所有经病理诊断证实为胃腺癌的病例均有必要进行HER2检测（1A类）",
+      "evidence_level": "1A",
+      "page": 15
+    },
+    {
+      "topic": "分子诊断-MSI/MMR状态",
+      "recommendation": "所有新诊断胃癌都推荐评估MSI/MMR状态（1B类）",
+      "evidence_level": "1B",
+      "page": 15
+    },
+    {
+      "topic": "早期胃癌内镜治疗",
+      "recommendation": "cT1aN0M0适宜行EMR/ESD患者推荐内镜治疗（1B类）；非根治性切除者需要行补救手术（1B类）",
+      "evidence_level": "1B",
+      "page": 21
+    },
+    {
+      "topic": "可切除胃癌手术-D2淋巴结清扫",
+      "recommendation": "cT2~4或cT1N+潜在可切除胃癌，D2淋巴结清扫作为标准推荐（1A类）",
+      "evidence_level": "1A",
+      "page": 27
+    },
+    {
+      "topic": "腹腔镜手术",
+      "recommendation": "对于cT1N0及cT1N1期胃癌的远端胃切除术，腹腔镜可作为常规治疗选择（1A类）",
+      "evidence_level": "1A",
+      "page": 34
+    },
+    {
+      "topic": "术后辅助治疗-Ⅱ期",
+      "recommendation": "D2、R0切除术后辅助化疗：XELOX（1A类）或S-1单药（1A类）",
+      "evidence_level": "1A",
+      "page": 44
+    },
+    {
+      "topic": "术后辅助治疗-Ⅲ期",
+      "recommendation": "D2、R0切除术后辅助化疗：XELOX（1A类）、SOX（1A类）、S-1×1-DS×7-S1至1年（1A类）",
+      "evidence_level": "1A",
+      "page": 44
+    },
+    {
+      "topic": "新辅助治疗-SOX方案",
+      "recommendation": "cT3~4aN+M0，cⅢ期非食管胃结合部癌推荐新辅助化疗SOX（1A类）",
+      "evidence_level": "1A",
+      "page": 46
+    },
+    {
+      "topic": "新辅助治疗-食管胃结合部癌",
+      "recommendation": "cT3~4aN+M0，cⅢ期食管胃结合部癌推荐新辅助放化疗（1B类）或新辅助化疗SOX（1A类）",
+      "evidence_level": "1A/1B",
+      "page": 46
+    },
+    {
+      "topic": "晚期HER2阳性一线治疗",
+      "recommendation": "PD-L1 CPS≥1分：帕博利珠单抗+曲妥珠单抗+XELOX/PF（1B类）；PD-L1 CPS<1分：曲妥珠单抗联合化疗（1A类）",
+      "evidence_level": "1A/1B",
+      "page": 69
+    },
+    {
+      "topic": "晚期HER2阴性一线治疗-PD-L1 CPS≥5分",
+      "recommendation": "XELOX联合舒格利单抗（1A类）；FOLFOX/XELOX联合纳武利尤单抗（1A类）；XELOX联合信迪利单抗（1A类）",
+      "evidence_level": "1A",
+      "page": 69
+    },
+    {
+      "topic": "晚期HER2阴性一线治疗-PD-L1 TAP≥5%",
+      "recommendation": "XELOX或FP联合替雷利珠单抗（1A类）",
+      "evidence_level": "1A",
+      "page": 70
+    },
+    {
+      "topic": "二线治疗",
+      "recommendation": "紫杉醇联合雷莫西尤单抗（1A类）；单药化疗（紫杉类/伊立替康）（1A类）",
+      "evidence_level": "1A",
+      "page": 71
+    },
+    {
+      "topic": "三线治疗-HER2阴性",
+      "recommendation": "阿帕替尼（1A类）；纳武利尤单抗单药（1A类，既往未用过PD-1/PD-L1单抗）",
+      "evidence_level": "1A",
+      "page": 72
+    },
+    {
+      "topic": "三线治疗-HER2阳性",
+      "recommendation": "维迪西妥单抗（2A类）；德曲妥珠单抗（IHC 3+或2+且ISH+）（2A类）",
+      "evidence_level": "2A",
+      "page": 72
+    },
+    {
+      "topic": "dMMR/MSI-H一线治疗",
+      "recommendation": "纳武利尤单抗联合伊匹木单抗（2B类）；帕博利珠单抗（2B类）",
+      "evidence_level": "2B",
+      "page": 71
+    },
+    {
+      "topic": "营养治疗",
+      "recommendation": "一经确诊应立即进行营养风险筛查和营养不良评估，分别于入院后24h和48h完成",
+      "evidence_level": "专家共识",
+      "page": 108
+    },
+    {
+      "topic": "术后随访",
+      "recommendation": "前2年每3~6个月1次，然后每6~12个月1次至5年，5年后每年1次",
+      "evidence_level": "专家共识",
+      "page": 118
+    }
+  ],
+  "flowcharts": [
+    {
+      "id": "内镜治疗流程",
+      "page": 25,
+      "description": "早期胃癌内镜治疗流程图，包括EMR/ESD适应证评估、根治度评估及后续处理策略"
+    },
+    {
+      "id": "HER2检测流程",
+      "page": 169,
+      "description": "胃癌组织HER2检测流程图，包含IHC和ISH检测路径及判读标准"
+    }
+  ],
+  "tables": [
+    {
+      "id": "Table_1",
+      "page": 4,
+      "description": "CSCO诊疗指南证据类别表"
+    },
+    {
+      "id": "Table_2",
+      "page": 5,
+      "description": "影像内镜诊断推荐表（定性/定位/分期/疗效评价）"
+    },
+    {
+      "id": "Table_3",
+      "page": 9,
+      "description": "病理组织学诊断推荐表（活检/EMR/ESD/手术标本）"
+    },
+    {
+      "id": "Table_4",
+      "page": 15,
+      "description": "分子诊断推荐表（HER2/MSI/MMR/PD-L1/Claudin18.2）"
+    },
+    {
+      "id": "Table_5",
+      "page": 21,
+      "description": "早期胃癌内镜治疗推荐表"
+    },
+    {
+      "id": "Table_6",
+      "page": 27,
+      "description": "可手术切除胃癌整体治疗策略表（按临床分期分层）"
+    },
+    {
+      "id": "Table_7",
+      "page": 30,
+      "description": "手术规范推荐表（淋巴结清扫方式/消化道重建）"
+    },
+    {
+      "id": "Table_8",
+      "page": 44,
+      "description": "术后辅助治疗推荐表（按病理分期分层）"
+    },
+    {
+      "id": "Table_9",
+      "page": 46,
+      "description": "新辅助治疗推荐表"
+    },
+    {
+      "id": "Table_10",
+      "page": 61,
+      "description": "不可手术切除局部进展期胃癌综合治疗推荐表"
+    },
+    {
+      "id": "Table_11",
+      "page": 69,
+      "description": "晚期转移性胃癌一线治疗推荐表（HER2阳性）"
+    },
+    {
+      "id": "Table_12",
+      "page": 69,
+      "description": "晚期转移性胃癌一线治疗推荐表（HER2阴性）"
+    },
+    {
+      "id": "Table_13",
+      "page": 71,
+      "description": "晚期转移性胃癌二线治疗推荐表"
+    },
+    {
+      "id": "Table_14",
+      "page": 72,
+      "description": "三线及三线以上治疗推荐表"
+    },
+    {
+      "id": "Table_15",
+      "page": 90,
+      "description": "胃癌腹膜转移综合治疗推荐表"
+    },
+    {
+      "id": "Table_16",
+      "page": 96,
+      "description": "术后局部复发胃癌治疗推荐表"
+    },
+    {
+      "id": "Table_17",
+      "page": 98,
+      "description": "不伴腹膜转移的单一远处转移胃癌治疗推荐表"
+    },
+    {
+      "id": "Table_18",
+      "page": 108,
+      "description": "胃癌营养治疗推荐表"
+    },
+    {
+      "id": "Table_19",
+      "page": 112,
+      "description": "胃癌并发症处理推荐表"
+    },
+    {
+      "id": "Table_20",
+      "page": 118,
+      "description": "胃癌随访推荐表"
+    },
+    {
+      "id": "Table_21",
+      "page": 126,
+      "description": "胃癌相关遗传综合征风险防控表"
+    },
+    {
+      "id": "Table_22",
+      "page": 132,
+      "description": "胃癌AJCC/UICC第8版TNM分期表"
+    },
+    {
+      "id": "Table_23",
+      "page": 140,
+      "description": "食管癌和食管胃交界处癌AJCC/UICC第8版TNM分期表"
+    },
+    {
+      "id": "Table_24",
+      "page": 151,
+      "description": "胃癌CT分期征象及报告参考表"
+    },
+    {
+      "id": "Table_25",
+      "page": 157,
+      "description": "胃周淋巴结分组标准表"
+    },
+    {
+      "id": "Table_26",
+      "page": 166,
+      "description": "肿瘤术前辅助治疗效果评估（TRG）表"
+    },
+    {
+      "id": "Table_27",
+      "page": 169,
+      "description": "HER2免疫组化检测结果判读和评分标准表"
+    },
+    {
+      "id": "Table_28",
+      "page": 172,
+      "description": "术后辅助化疗常用方案表"
+    },
+    {
+      "id": "Table_29",
+      "page": 174,
+      "description": "新辅助化疗常用方案表"
+    },
+    {
+      "id": "Table_30",
+      "page": 175,
+      "description": "一线治疗常用方案表"
+    },
+    {
+      "id": "Table_31",
+      "page": 179,
+      "description": "二线及后线治疗常用方案表"
+    }
+  ],
+  "key_conclusions": [
+    "基于循证医学证据、兼顾诊疗产品的可及性、吸收精准医学新进展制定本指南",
+    "CSCO指南的制定要求每一个临床问题的诊疗意见根据循证医学证据和专家共识度形成证据类别，同时结合产品的可及性和效价比形成推荐等级",
+    "证据类别高、可及性好的方案作为Ⅰ级推荐；证据类别较高、专家共识度稍低或可及性较差的方案作为Ⅱ级推荐；临床实用但证据类别不高的作为Ⅲ级推荐",
+    "早期胃癌（cT1aN0M0）适宜患者首选内镜治疗（EMR/ESD）",
+    "可手术切除胃癌应依据临床分期进行治疗选择，D2手术切除是进展期胃癌的标准",
+    "对于分期较晚（临床分期Ⅲ期或以上）的非食管胃结合部癌，可选择围手术期化疗模式（SOX方案1A类推荐）",
+    "对于进展期食管胃结合部癌，可选择新辅助放化疗或术前化疗",
+    "PD-1单抗联合化疗已成为不可切除局部晚期或转移性食管胃结合部/胃癌患者的一线治疗新标准",
+    "HER2阳性晚期胃癌推荐曲妥珠单抗联合化疗；HER2阴性且PD-L1 CPS≥5分推荐免疫联合化疗",
+    "dMMR/MSI-H胃癌患者预后好、化疗不敏感、免疫治疗获益明显，推荐免疫治疗",
+    "Claudin 18.2阳性（≥75%肿瘤细胞中到强膜染色）患者推荐zolbetuximab联合化疗（2A类）",
+    "晚期胃癌二线治疗推荐紫杉醇联合雷莫西尤单抗（1A类）",
+    "晚期胃癌三线治疗HER2阳性推荐维迪西妥单抗或德曲妥珠单抗；HER2阴性推荐阿帕替尼或纳武利尤单抗",
+    "营养治疗和支持治疗应贯穿胃癌治疗全程",
+    "推荐具有遗传风险因素的胃癌患者或家族史个人进行遗传风险筛查（CDH1、CTNNA1等基因检测）",
+    "随访目的是发现潜在可根治的转移复发和第二原发胃癌，前2年每3-6个月随访1次"
+  ]
+}

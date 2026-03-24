@@ -1,0 +1,42 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-24",
+    "source_file": "D:\\汇度编辑部1\\项目文章\\2026项目表\\卫材\\仑卡奈单抗\\2026 ADPD\\ADPD2026_Sysmex_ptau205_poster_final.pdf",
+    "product_id": "adpd2026_sysmex_ptau205_realflow",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 0,
+      "tagged_facts": 0
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-ADPD2026_SYSMEX_PTAU205_REALFLOW-001",
+      "source_type": "method_validation",
+      "source_key": "SRC-ADPD2026_SYSMEX_PTAU205_REALFLOW-536DD473",
+      "title": "DEVELOPMENT OF A FULLY AUTOMATED PLASMA P-TAU205 IMMUNOASSAY DEMONSTRATING HIGH CONCORDANCE WITH AN IMMUNOPRECIPITATION MASS SPECTROMETRY ASSAY",
+      "citation": "DEVELOPMENT OF A FULLY AUTOMATED PLASMA P-TAU205 IMMUNOASSAY DEMONSTRATING HIGH CONCORDANCE WITH AN IMMUNOPRECIPITATION MASS SPECTROMETRY ASSAY. ADPD Conference (Alzheimer's Disease & Parkinson's Disease Conference). 2026.",
+      "doc_id": "methodology_adpd2026_sysmex_ptau205_536dd473",
+      "metadata": {
+        "year": 2026,
+        "boundary_tags": {
+          "document_type": "method_validation",
+          "evidence_purpose": "method_validation",
+          "claim_ceiling": "method_only",
+          "study_subject": "assay_system",
+          "population_or_model": "In vitro diagnostic assay development using plasma and CSF samples from human subjects",
+          "endpoint_nature": "assay_performance",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.9,
+          "tagged_by": "llm_auto",
+          "tagged_at": "2026-03-24T00:02:21.543743"
+        }
+      }
+    }
+  ],
+  "v2_facts": []
+}

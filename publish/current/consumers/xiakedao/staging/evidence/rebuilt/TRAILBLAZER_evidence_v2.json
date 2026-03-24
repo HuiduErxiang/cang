@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "neurology\\alzheimers_disease\\TRAILBLAZER-ALZ 6.pdf",
+    "product_id": "TRAILBLAZER",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-TRAILBLAZER-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+      "title": "Modified titration of donanemab reduces ARIA risk and maintains amyloid reduction",
+      "citation": "Modified titration of donanemab reduces ARIA risk and maintains amyloid reduction. Alzheimer's & Dementia. 2025.",
+      "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+      "metadata": {
+        "year": 2025,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Early symptomatic Alzheimer's disease patients receiving donanemab treatment",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.87,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:28.923670"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-001",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'ARIA-E frequencies at 24 weeks: standard arm 23.7%, modified titration 13.7%, dose skipping 18.6%, Cmax arm 18.3%', 'page': 1}",
+      "definition_zh": "{'content': 'ARIA-E frequencies at 24 weeks: standard arm 23.7%, modified titration 13.7%, dose skipping 18.6%, Cmax arm 18.3%', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-002",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'ARIA-E frequencies at 52 weeks were similar to week 24: standard arm 24.2%, modified titration 15.6%, dose skipping 18.6%, Cmax arm 18.8%', 'page': 1}",
+      "definition_zh": "{'content': 'ARIA-E frequencies at 52 weeks were similar to week 24: standard arm 24.2%, modified titration 15.6%, dose skipping 18.6%, Cmax arm 18.8%', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-003",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Modified titration met the primary endpoint with posterior RRR of 40.5% (SD 0.123), 95% CrI: 0.135-0.616, posterior probability of RRR ≥20% was 94.1%', 'page': 6}",
+      "definition_zh": "{'content': 'Modified titration met the primary endpoint with posterior RRR of 40.5% (SD 0.123), 95% CrI: 0.135-0.616, posterior probability of RRR ≥20% was 94.1%', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-004",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Modified titration versus standard arm at week 24 had comparable non-ARIA-E related safety profile, amyloid reduction, plasma phosphorylated tau217 reduction, cumulative exposure, and pha",
+      "definition_zh": "{'content': 'Modified titration versus standard arm at week 24 had comparable non-ARIA-E related safety profile, amyloid reduction, plasma phosphorylated tau217 reduction, cumulative exposure, and pha",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-005",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Amyloid reduction from baseline to 24 weeks: adjusted mean change of 58.8 CL (SE 1.8) in standard arm and 56.3 CL (SE 1.7) in modified titration arm', 'page': 7}",
+      "definition_zh": "{'content': 'Amyloid reduction from baseline to 24 weeks: adjusted mean change of 58.8 CL (SE 1.8) in standard arm and 56.3 CL (SE 1.7) in modified titration arm', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-TRAILBLAZER-006",
+      "fact_key": "FACT-TRAILBLAZER-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Approximately 56.7% and 50.7% of participants in standard and modified titration arms respectively achieved amyloid negativity (<24 CL) at 24 weeks', 'page': 7}",
+      "definition_zh": "{'content': 'Approximately 56.7% and 50.7% of participants in standard and modified titration arms respectively achieved amyloid negativity (<24 CL) at 24 weeks', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-TRAILBLAZER-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-TRAILBLAZER-1CCABAB2",
+        "doc_id": "neurology_TRAILBLAZER_ALZ_6_1ccabab2",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

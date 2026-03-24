@@ -1,0 +1,181 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "guidelines\\胃癌抗HER2治疗中国专家共识(2024年版).pdf",
+    "product_id": "胃癌抗HER2治疗中国专家共识2024年版",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 6,
+      "tagged_facts": 6
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-胃癌抗HER2治疗中国专家共识2024年版-001",
+      "source_type": "guideline_consensus",
+      "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+      "title": "胃癌抗HER2治疗中国专家共识(2024年版)",
+      "citation": "胃癌抗HER2治疗中国专家共识(2024年版). 中国肿瘤临床2024年第51卷第23期 Chin J Clin Oncol 2024, Vol. 51, No. 23. 2024.",
+      "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "guideline_consensus",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "guideline_recommendation",
+          "study_subject": "human",
+          "population_or_model": "HER2阳性胃癌/胃食管结合部腺癌患者（涵盖晚期一线至三线、局部进展期新辅助/辅助及转化治疗）",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:43.843649"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-001",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'KEYNOTE-811研究显示：对于PD-L1 CPS≥1分的HER2阳性晚期胃癌患者，帕博利珠单抗联合曲妥珠单抗和化疗可显著延长中位OS(20.1个月vs.15.7个月)和中位PFS(10.9个月vs.7.3个月)', 'page': 3}",
+      "definition_zh": "{'content': 'KEYNOTE-811研究显示：对于PD-L1 CPS≥1分的HER2阳性晚期胃癌患者，帕博利珠单抗联合曲妥珠单抗和化疗可显著延长中位OS(20.1个月vs.15.7个月)和中位PFS(10.9个月vs.7.3个月)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-002",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'ToGA研究确立了曲妥珠单抗联合化疗作为HER2阳性晚期胃癌一线标准治疗，中位OS为13.8个月vs.11.1个月(HR=0.74)', 'page': 3}",
+      "definition_zh": "{'content': 'ToGA研究确立了曲妥珠单抗联合化疗作为HER2阳性晚期胃癌一线标准治疗，中位OS为13.8个月vs.11.1个月(HR=0.74)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-003",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'DESTINY-Gastric01研究显示德曲妥珠单抗三线治疗HER2阳性胃癌的中位OS为12.5个月vs.8.9个月，ORR为42.0%vs.12.5%', 'page': 7}",
+      "definition_zh": "{'content': 'DESTINY-Gastric01研究显示德曲妥珠单抗三线治疗HER2阳性胃癌的中位OS为12.5个月vs.8.9个月，ORR为42.0%vs.12.5%', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-004",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'C008研究显示维迪西妥单抗三线治疗HER2过表达胃癌的中位OS为7.9个月，中位PFS为4.1个月，ORR为24.8%', 'page': 7}",
+      "definition_zh": "{'content': 'C008研究显示维迪西妥单抗三线治疗HER2过表达胃癌的中位OS为7.9个月，中位PFS为4.1个月，ORR为24.8%', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-005",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': '维迪西妥单抗拓展了抗HER2治疗获益人群，由传统HER2阳性(IHC3+或IHC2+/ISH+)人群拓展为包含IHC2+/ISH-人群', 'page': 2}",
+      "definition_zh": "{'content': '维迪西妥单抗拓展了抗HER2治疗获益人群，由传统HER2阳性(IHC3+或IHC2+/ISH+)人群拓展为包含IHC2+/ISH-人群', 'page': 2}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-胃癌抗HER2治疗中国专家共识2024年版-006",
+      "fact_key": "FACT-胃癌抗HER2治疗中国专家共识2024年版-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': '胃癌HER2表达存在高度时空异质性，一线曲妥珠单抗治疗后HER2表达丢失率约为16%-29.1%', 'page': 12}",
+      "definition_zh": "{'content': '胃癌HER2表达存在高度时空异质性，一线曲妥珠单抗治疗后HER2表达丢失率约为16%-29.1%', 'page': 12}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-胃癌抗HER2治疗中国专家共识2024年版-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-胃癌抗HER2治疗中国专家共识2024年版-2B1D51DB",
+        "doc_id": "guidelines_胃癌抗HER2治疗中国专家共识2024年版_2b1d51db",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "guideline_recommendation",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

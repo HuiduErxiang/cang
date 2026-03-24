@@ -1,0 +1,273 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "neurology\\alzheimers_disease\\仑卡奈单抗长期治疗的生物标志物改变.pdf",
+    "product_id": "仑卡奈单抗长期治疗的生物标志物改变",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 10,
+      "tagged_facts": 10
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-仑卡奈单抗长期治疗的生物标志物改变-001",
+      "source_type": "post_hoc",
+      "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+      "title": "Beyond Amyloid Removal with Lecanemab Treatment: Update on Long-Term Imaging and Fluid Biomarkers",
+      "citation": "Beyond Amyloid Removal with Lecanemab Treatment: Update on Long-Term Imaging and Fluid Biomarkers. Alzheimer's Association International Conference (AAIC) 2024 - Featured Research Session. 2024.",
+      "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "post_hoc",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with early Alzheimer's disease (MCI due to AD and mild AD dementia) receiving lecanemab treatment in open-label extension study",
+          "endpoint_nature": "biomarker",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.82,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:34.479532"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-001",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab treatment resulted in 93% reduction in amyloid PET at 48 months with continued separation from placebo group in CDR-SB outcomes', 'page': 11}",
+      "definition_zh": "{'content': 'Lecanemab treatment resulted in 93% reduction in amyloid PET at 48 months with continued separation from placebo group in CDR-SB outcomes', 'page': 11}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-002",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Simulation outcomes show lecanemab has greater impact on cognitive outcome earlier in the disease (MCI stage vs Mild AD stage)', 'page': 13}",
+      "definition_zh": "{'content': 'Simulation outcomes show lecanemab has greater impact on cognitive outcome earlier in the disease (MCI stage vs Mild AD stage)', 'page': 13}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-003",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Monthly maintenance dosing provides similar outcomes as continuous biweekly treatment after initial 18-month biweekly treatment', 'page': 14}",
+      "definition_zh": "{'content': 'Monthly maintenance dosing provides similar outcomes as continuous biweekly treatment after initial 18-month biweekly treatment', 'page': 14}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-004",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab disrupts tau accumulation across brain regions, with impact seen in earliest medial temporal regions in no/low tau group and broader impact in intermediate/high tau group', 'pag",
+      "definition_zh": "{'content': 'Lecanemab disrupts tau accumulation across brain regions, with impact seen in earliest medial temporal regions in no/low tau group and broader impact in intermediate/high tau group', 'pag",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-005",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Lecanemab slows cognitive decline independent of baseline tau levels across brain regions', 'page': 28}",
+      "definition_zh": "{'content': 'Lecanemab slows cognitive decline independent of baseline tau levels across brain regions', 'page': 28}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-006",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Increased brain volume reduction (4.1mL, 0.4% of baseline) and cortical thickness reduction seen with lecanemab, but hippocampal volume was preserved relative to placebo (P=0.0039)', 'pag",
+      "definition_zh": "{'content': 'Increased brain volume reduction (4.1mL, 0.4% of baseline) and cortical thickness reduction seen with lecanemab, but hippocampal volume was preserved relative to placebo (P=0.0039)', 'pag",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-007",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Excess brain volume loss is compatible with volume occupied by amyloid plaques (6-8% of cortex), not associated with worse clinical outcomes or neurodegeneration markers', 'page': 40}",
+      "definition_zh": "{'content': 'Excess brain volume loss is compatible with volume occupied by amyloid plaques (6-8% of cortex), not associated with worse clinical outcomes or neurodegeneration markers', 'page': 40}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-008",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Plasma biomarkers showed rapid improvement within 3 months and continued benefit through 24-month OLE', 'page': 61}",
+      "definition_zh": "{'content': 'Plasma biomarkers showed rapid improvement within 3 months and continued benefit through 24-month OLE', 'page': 61}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-009",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'Interrupting treatment is associated with reaccumulation of AD pathology: Aβ42/40 13% reaccumulation, pTau 30% reaccumulation, GFAP 47% worsening during gap period', 'page': 66}",
+      "definition_zh": "{'content': 'Interrupting treatment is associated with reaccumulation of AD pathology: Aβ42/40 13% reaccumulation, pTau 30% reaccumulation, GFAP 47% worsening during gap period', 'page': 66}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-仑卡奈单抗长期治疗的生物标志物改变-010",
+      "fact_key": "FACT-仑卡奈单抗长期治疗的生物标志物改变-FINDING-010",
+      "domain": "efficacy",
+      "definition": "{'content': 'Fluid biomarkers reaccumulate faster than amyloid PET when treatment discontinued (Aβ42/40 t1/2=0.5 year, pTau181 t1/2=1.6 year, amyloid PET t1/2=12.1 years)', 'page': 67}",
+      "definition_zh": "{'content': 'Fluid biomarkers reaccumulate faster than amyloid PET when treatment discontinued (Aβ42/40 t1/2=0.5 year, pTau181 t1/2=1.6 year, amyloid PET t1/2=12.1 years)', 'page': 67}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-仑卡奈单抗长期治疗的生物标志物改变-010"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-仑卡奈单抗长期治疗的生物标志物改变-26373CEC",
+        "doc_id": "neurology_仑卡奈单抗长期治疗的生物标志物改变_26373cec",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "biomarker"
+      }
+    }
+  ]
+}

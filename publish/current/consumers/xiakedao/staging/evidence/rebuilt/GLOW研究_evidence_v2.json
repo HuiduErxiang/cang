@@ -1,0 +1,250 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\gastric_cancer\\Claudin18.2阳性\\GLOW研究.pdf",
+    "product_id": "GLOW研究",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 9,
+      "tagged_facts": 9
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-GLOW研究-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-GLOW研究-A9056B76",
+      "title": "Zolbetuximab plus CAPOX in CLDN18.2-positive gastric or gastroesophageal junction adenocarcinoma: the randomized, phase 3 GLOW trial",
+      "citation": "Zolbetuximab plus CAPOX in CLDN18.2-positive gastric or gastroesophageal junction adenocarcinoma: the randomized, phase 3 GLOW trial. Nature Medicine. 2023.",
+      "doc_id": "oncology_GLOW研究_a9056b76",
+      "metadata": {
+        "year": 2023,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "CLDN18.2-positive gastric or gastroesophageal junction adenocarcinoma patients",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:15:51.492023"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-GLOW研究-001",
+      "fact_key": "FACT-GLOW研究-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Primary endpoint PFS was met: median 8.21 months (zolbetuximab) versus 6.80 months (placebo); HR=0.687; 95% CI, 0.544–0.866; P=0.0007', 'page': 1}",
+      "definition_zh": "{'content': 'Primary endpoint PFS was met: median 8.21 months (zolbetuximab) versus 6.80 months (placebo); HR=0.687; 95% CI, 0.544–0.866; P=0.0007', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-002",
+      "fact_key": "FACT-GLOW研究-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Key secondary endpoint OS was met: median 14.39 months (zolbetuximab) versus 12.16 months (placebo); HR=0.771; 95% CI, 0.615–0.965; P=0.0118', 'page': 1}",
+      "definition_zh": "{'content': 'Key secondary endpoint OS was met: median 14.39 months (zolbetuximab) versus 12.16 months (placebo); HR=0.771; 95% CI, 0.615–0.965; P=0.0118', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-003",
+      "fact_key": "FACT-GLOW研究-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': '12-month OS rate: 58% vs 51%; 24-month OS rate: 29% vs 17%', 'page': 6}",
+      "definition_zh": "{'content': '12-month OS rate: 58% vs 51%; 24-month OS rate: 29% vs 17%', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-004",
+      "fact_key": "FACT-GLOW研究-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Objective response rate (ORR): 42.5% (zolbetuximab) versus 40.3% (placebo) in ITT population', 'page': 3}",
+      "definition_zh": "{'content': 'Objective response rate (ORR): 42.5% (zolbetuximab) versus 40.3% (placebo) in ITT population', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-005",
+      "fact_key": "FACT-GLOW研究-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median duration of response (DOR): 6.14 months (zolbetuximab) versus 6.08 months (placebo)', 'page': 3}",
+      "definition_zh": "{'content': 'Median duration of response (DOR): 6.14 months (zolbetuximab) versus 6.08 months (placebo)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-006",
+      "fact_key": "FACT-GLOW研究-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade ≥3 treatment-emergent adverse events (TEAEs): 72.8% (zolbetuximab) versus 69.9% (placebo)', 'page': 1}",
+      "definition_zh": "{'content': 'Grade ≥3 treatment-emergent adverse events (TEAEs): 72.8% (zolbetuximab) versus 69.9% (placebo)', 'page': 1}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-007",
+      "fact_key": "FACT-GLOW研究-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Most common TEAEs with zolbetuximab were nausea (68.5% vs 50.2%) and vomiting (66.1% vs 30.6%), mostly observed during first treatment cycle', 'page': 7}",
+      "definition_zh": "{'content': 'Most common TEAEs with zolbetuximab were nausea (68.5% vs 50.2%) and vomiting (66.1% vs 30.6%), mostly observed during first treatment cycle', 'page': 7}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-008",
+      "fact_key": "FACT-GLOW研究-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'In patients with measurable lesions, ORR was 53.8% (zolbetuximab) versus 48.8% (placebo)', 'page': 3}",
+      "definition_zh": "{'content': 'In patients with measurable lesions, ORR was 53.8% (zolbetuximab) versus 48.8% (placebo)', 'page': 3}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-GLOW研究-009",
+      "fact_key": "FACT-GLOW研究-FINDING-009",
+      "domain": "efficacy",
+      "definition": "{'content': 'OS benefit was consistent across most pre-specified subgroups including age, sex, region, prior gastrectomy status, and primary tumor site', 'page': 6}",
+      "definition_zh": "{'content': 'OS benefit was consistent across most pre-specified subgroups including age, sex, region, prior gastrectomy status, and primary tumor site', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-GLOW研究-009"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-GLOW研究-A9056B76",
+        "doc_id": "oncology_GLOW研究_a9056b76",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}

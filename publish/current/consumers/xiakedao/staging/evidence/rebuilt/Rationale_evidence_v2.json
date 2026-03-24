@@ -1,0 +1,227 @@
+{
+  "rebuild_manifest": {
+    "manifest_version": "1.1",
+    "rebuild_date": "2026-03-23",
+    "source_file": "oncology\\lung_cancer\\SCLC\\RATIONALE-312.pdf",
+    "product_id": "RATIONALE",
+    "rebuild_status": "complete",
+    "boundary_tags_schema_version": "1.0",
+    "boundary_tags_coverage": {
+      "total_sources": 1,
+      "tagged_sources": 1,
+      "total_facts": 8,
+      "tagged_facts": 8
+    }
+  },
+  "v2_sources": [
+    {
+      "source_id": "V2-SRC-RATIONALE-001",
+      "source_type": "clinical_trial",
+      "source_key": "SRC-RATIONALE-D0D22910",
+      "title": "Tislelizumab Plus Platinum and Etoposide Versus Placebo Plus Platinum and Etoposide as First-Line Treatment for Extensive-Stage SCLC (RATIONALE-312): A Multicenter, Double-Blind, Placebo-Controlled, Randomized, Phase 3 Clinical Trial",
+      "citation": "Tislelizumab Plus Platinum and Etoposide Versus Placebo Plus Platinum and Etoposide as First-Line Treatment for Extensive-Stage SCLC (RATIONALE-312): A Multicenter, Double-Blind, Placebo-Controlled, Randomized, Phase 3 Clinical Trial. Journal of Thoracic Oncology. 2024.",
+      "doc_id": "oncology_RATIONALE_312_d0d22910",
+      "metadata": {
+        "year": 2024,
+        "boundary_tags": {
+          "document_type": "clinical_trial",
+          "evidence_purpose": "efficacy",
+          "claim_ceiling": "clinical_outcome",
+          "study_subject": "human",
+          "population_or_model": "Patients with extensive-stage small cell lung cancer (ES-SCLC) receiving first-line treatment",
+          "endpoint_nature": "clinical_scale",
+          "boundary_tags_version": "1.0",
+          "tagging_confidence": 0.95,
+          "tagged_by": "llm_auto_batch",
+          "tagged_at": "2026-03-23T23:16:20.136342"
+        }
+      }
+    }
+  ],
+  "v2_facts": [
+    {
+      "fact_id": "V2-FACT-RATIONALE-001",
+      "fact_key": "FACT-RATIONALE-FINDING-001",
+      "domain": "efficacy",
+      "definition": "{'content': 'Tislelizumab plus chemotherapy exhibited a statistically significant OS benefit versus placebo plus chemotherapy (stratified hazard ratio = 0.75 [95% CI: 0.61-0.93]; one-sided p = 0.0040)",
+      "definition_zh": "{'content': 'Tislelizumab plus chemotherapy exhibited a statistically significant OS benefit versus placebo plus chemotherapy (stratified hazard ratio = 0.75 [95% CI: 0.61-0.93]; one-sided p = 0.0040)",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-001"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-002",
+      "fact_key": "FACT-RATIONALE-FINDING-002",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median overall survival was 15.5 months (95% CI: 13.5-17.1) in the tislelizumab arm versus 13.5 months (95% CI: 12.1-14.9) in the placebo arm', 'page': 5}",
+      "definition_zh": "{'content': 'Median overall survival was 15.5 months (95% CI: 13.5-17.1) in the tislelizumab arm versus 13.5 months (95% CI: 12.1-14.9) in the placebo arm', 'page': 5}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-002"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-003",
+      "fact_key": "FACT-RATIONALE-FINDING-003",
+      "domain": "efficacy",
+      "definition": "{'content': 'Estimated 1-, 2-, and 3-year OS rates in the tislelizumab versus placebo arms were 63% versus 58%, 33% versus 22%, and 25% versus 9%, respectively', 'page': 5}",
+      "definition_zh": "{'content': 'Estimated 1-, 2-, and 3-year OS rates in the tislelizumab versus placebo arms were 63% versus 58%, 33% versus 22%, and 25% versus 9%, respectively', 'page': 5}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-003"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-004",
+      "fact_key": "FACT-RATIONALE-FINDING-004",
+      "domain": "efficacy",
+      "definition": "{'content': 'Progression-free survival was significantly improved in the tislelizumab versus placebo arm (stratified hazard ratio = 0.64 [95% CI: 0.52-0.78]; p < 0.0001)', 'page': 2}",
+      "definition_zh": "{'content': 'Progression-free survival was significantly improved in the tislelizumab versus placebo arm (stratified hazard ratio = 0.64 [95% CI: 0.52-0.78]; p < 0.0001)', 'page': 2}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-004"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-005",
+      "fact_key": "FACT-RATIONALE-FINDING-005",
+      "domain": "efficacy",
+      "definition": "{'content': 'Median PFS was 4.7 months (95% CI: 4.3-5.5) in the tislelizumab arm and 4.3 months (95% CI: 4.2-4.4) in the placebo arm', 'page': 6}",
+      "definition_zh": "{'content': 'Median PFS was 4.7 months (95% CI: 4.3-5.5) in the tislelizumab arm and 4.3 months (95% CI: 4.2-4.4) in the placebo arm', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-005"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-006",
+      "fact_key": "FACT-RATIONALE-FINDING-006",
+      "domain": "efficacy",
+      "definition": "{'content': 'Confirmed objective response rate was 68% (95% CI: 62-74) in the tislelizumab arm versus 62% (95% CI: 55-68) in the placebo arm', 'page': 6}",
+      "definition_zh": "{'content': 'Confirmed objective response rate was 68% (95% CI: 62-74) in the tislelizumab arm versus 62% (95% CI: 55-68) in the placebo arm', 'page': 6}",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-006"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-007",
+      "fact_key": "FACT-RATIONALE-FINDING-007",
+      "domain": "efficacy",
+      "definition": "{'content': 'Grade ≥3 treatment-related adverse events were reported in 86% of patients in each treatment arm and were mostly hematologic events including neutropenia (56% vs 55%) and decreased white ",
+      "definition_zh": "{'content': 'Grade ≥3 treatment-related adverse events were reported in 86% of patients in each treatment arm and were mostly hematologic events including neutropenia (56% vs 55%) and decreased white ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-007"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    },
+    {
+      "fact_id": "V2-FACT-RATIONALE-008",
+      "fact_key": "FACT-RATIONALE-FINDING-008",
+      "domain": "efficacy",
+      "definition": "{'content': 'Immune-mediated adverse events of any grade were reported in 38% of patients in the tislelizumab arm versus 18% in the placebo arm, with hypothyroidism (14% vs 4%), rash (13% vs 8%), and ",
+      "definition_zh": "{'content': 'Immune-mediated adverse events of any grade were reported in 38% of patients in the tislelizumab arm versus 18% in the placebo arm, with hypothyroidism (14% vs 4%), rash (13% vs 8%), and ",
+      "value": "see_definition",
+      "unit": null,
+      "fragment_ids": [
+        "V2-FRAG-RATIONALE-008"
+      ],
+      "status": "active",
+      "lineage": {
+        "source_key": "SRC-RATIONALE-D0D22910",
+        "doc_id": "oncology_RATIONALE_312_d0d22910",
+        "extraction_date": "2026-03-23"
+      },
+      "boundary_tags": {
+        "claim_ceiling": "clinical_outcome",
+        "study_subject": "human",
+        "endpoint_nature": "clinical_scale"
+      }
+    }
+  ]
+}
