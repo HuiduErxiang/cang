@@ -1,0 +1,62 @@
+{
+  "title": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Trial",
+  "authors": [
+    "Mark A. Mintun",
+    "Eric M. Reiman",
+    "Kathleen A. Ryan",
+    "et al."
+  ],
+  "year": 2023,
+  "journal": "JAMA",
+  "doi": "10.1001/jama.2023.13239",
+  "document_type": "research_paper",
+  "abstract": "Importance: Donanemab, an antibody that targets deposited amyloid-β, has demonstrated clearance of amyloid plaques and slowing of cognitive decline... Objective: To evaluate the efficacy and safety of donanemab in early symptomatic Alzheimer's disease... Design: Randomized, double-blind, placebo-controlled phase 3 trial... Results: Among 1736 participants, donanemab significantly slowed clinical decline...",
+  "conclusions": [
+    "Donanemab significantly slowed clinical decline by 35% on the primary endpoint (iADRS)",
+    "47% of participants had complete amyloid clearance at 1 year",
+    "Serious adverse events occurred in 24% of participants, including 3 treatment-related deaths",
+    "Benefit was greater in participants with tau levels indicating early disease"
+  ],
+  "key_findings": [
+    {
+      "finding": "Primary endpoint: 35% slowing of clinical decline (P < .001)",
+      "evidence_level": "Level I - RCT Primary Endpoint",
+      "page": 10
+    },
+    {
+      "finding": "Complete amyloid clearance in 47% at 1 year",
+      "evidence_level": "Level I - Biomarker",
+      "page": 9
+    },
+    {
+      "finding": "ARIA-E rate: 24% donanemab vs 2.1% placebo",
+      "evidence_level": "Level I - Safety Data",
+      "page": 12
+    }
+  ],
+  "anchors": {
+    "figure_1": {
+      "type": "figure",
+      "label": "Figure 1",
+      "caption": "Study design and patient flow",
+      "page": 4
+    },
+    "figure_2": {
+      "type": "figure",
+      "label": "Figure 2",
+      "caption": "Change from baseline in iADRS score over 76 weeks",
+      "page": 11
+    },
+    "table_2": {
+      "type": "table",
+      "label": "Table 2",
+      "caption": "Adverse events summary",
+      "page": 13
+    }
+  },
+  "total_pages": 15,
+  "language": "en",
+  "extracted_at": "2026-04-07T12:00:00Z",
+  "extractor_version": "pdf-distiller@1.0.0",
+  "source_pdf_path": "cang/raw/pdf/neurology/alzheimers_disease/TRAILBLAZER-ALZ 2.pdf"
+}

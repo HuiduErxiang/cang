@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "content": {
+    "title": "Lecanemab in Early Alzheimer’s Disease: Clarity AD Study",
+    "authors": [
+      "Christopher H. van Dyck",
+      "Chad J. Swanson",
+      "Lisa Aisen",
+      "et al."
+    ],
+    "year": 2023,
+    "journal": "New England Journal of Medicine",
+    "doi": "10.1056/NEJMoa2212948",
+    "document_type": "research_paper",
+    "abstract": "Background: Alzheimer's disease is characterized by amyloid-beta deposition... Methods: In this phase 3, double-blind trial, we randomly assigned patients with early Alzheimer's disease... Results: At 18 months, lecanemab reduced brain amyloid levels by 93%...",
+    "conclusions": [
+      "Lecanemab reduced markers of amyloid in early Alzheimer's disease",
+      "Cognitive decline was 27% slower in the treatment group compared to placebo",
+      "Adverse events included infusion reactions and ARIA",
+      "Benefit-risk profile supports use in patients with early Alzheimer's disease"
+    ],
+    "key_findings": [
+      {
+        "finding": "Primary endpoint CDR-SB score difference of -0.45 (p<0.001)",
+        "evidence_level": "Level I - RCT",
+        "page": 8
+      },
+      {
+        "finding": "Amyloid reduction by 93% at 18 months measured by PET",
+        "evidence_level": "Level I - Biomarker",
+        "page": 7
+      },
+      {
+        "finding": "ARIA-E occurred in 12.6% of treatment group vs 1.7% placebo",
+        "evidence_level": "Level I - Safety",
+        "page": 10
+      }
+    ],
+    "anchors": {
+      "figure_1": {
+        "type": "figure",
+        "label": "Figure 1",
+        "caption": "Study design and patient disposition",
+        "page": 3
+      },
+      "figure_2": {
+        "type": "figure", 
+        "label": "Figure 2",
+        "caption": "Change from baseline in CDR-SB score",
+        "page": 8
+      },
+      "table_1": {
+        "type": "table",
+        "label": "Table 1",
+        "caption": "Baseline demographics",
+        "page": 5
+      }
+    },
+    "total_pages": 12,
+    "language": "en",
+    "extracted_at": "2026-04-07T11:30:00Z",
+    "extractor_version": "pdf-distiller@1.0.0",
+    "source_pdf_path": "cang/raw/pdf/neurology/alzheimers_disease/Clarity AD原文.pdf"
+  },
+  "metadata": {
+    "pdf_path": "cang/raw/pdf/neurology/alzheimers_disease/Clarity AD原文.pdf",
+    "output_path": "cang/staging/extracted/lit_test_001_v1.json",
+    "duration_ms": 45000,
+    "pages_processed": 12,
+    "extractor_version": "1.0.0"
+  }
+}

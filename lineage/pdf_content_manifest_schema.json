@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "pdf_content_manifest_schema.json",
+  "title": "PDF Content Manifest Schema",
+  "description": "Schema for PDF-content relationship manifest",
+  "type": "object",
+  "required": ["version", "generated_at", "pdfs"],
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Manifest schema version",
+      "default": "1.0"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when manifest was generated"
+    },
+    "pdfs": {
+      "type": "object",
+      "description": "Map of PDF entries keyed by pdf_id",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["relative_path", "file_hash", "file_size", "total_pages", "status", "versions"],
+        "properties": {
+          "relative_path": {
+            "type": "string",
+            "description": "PDF file path relative to cang root"
+          },
+          "file_hash": {
+            "type": "string",
+            "description": "SHA256 hash of the PDF file"
+          },
+          "file_size": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "File size in bytes"
+          },
+          "total_pages": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Total number of pages"
+          },
+          "status": {
+            "type": "string",
+            "enum": ["pending", "extracting", "extracted", "failed"],
+            "description": "Current extraction status"
+          },
+          "disease_area": {
+            "type": "string",
+            "description": "Disease area classification"
+          },
+          "category_path": {
+            "type": "string",
+            "description": "Hierarchical category path"
+          },
+          "versions": {
+            "type": "array",
+            "description": "Extraction version history (max 3)",
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "required": ["version", "extracted_at", "extractor_version", "content_path", "status"],
+              "properties": {
+                "version": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "description": "Version number"
+                },
+                "extracted_at": {
+                  "type": "string",
+                  "format": "date-time",
+                  "description": "ISO 8601 extraction timestamp"
+                },
+                "extractor_version": {
+                  "type": "string",
+                  "description": "Version of extractor used"
+                },
+                "content_path": {
+                  "type": "string",
+                  "description": "Path to extracted content JSON"
+                },
+                "status": {
+                  "type": "string",
+                  "enum": ["success", "failed"],
+                  "description": "Extraction status for this version"
+                },
+                "error_message": {
+                  "type": "string",
+                  "description": "Error message if extraction failed"
+                }
+              }
+            }
+          },
+          "latest_version": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Latest version number (0 if no versions)"
+          },
+          "latest_content_path": {
+            "type": "string",
+            "description": "Path to latest extracted content"
+          }
+        }
+      }
+    }
+  }
+}
